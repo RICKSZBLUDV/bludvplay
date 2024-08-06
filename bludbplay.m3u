@@ -4,66 +4,84 @@
  🔰  CANAIS ABERTOS 🔰
  
 
-#EXTINF:-1 tvg-logo="https://static.guiadetv.com/channel/xHC0ALHp6Liuce9CXm5qaAdTpBEVKpRmL9diquGM.png" group-title="Canais | GLOBO",CANAL ABERTO Globo RJ HD
+#EXTINF:-1 tvg-logo="https://static.guiadetv.com/channel/xHC0ALHp6Liuce9CXm5qaAdTpBEVKpRmL9diquGM.png" group-title="Canais | GLOBO",CANAL ABERTO Globo RJ FHD 🟢
 https://abc.embedmax.site/globoRJ/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.guiadetv.com/channel/xHC0ALHp6Liuce9CXm5qaAdTpBEVKpRmL9diquGM.png" group-title="Canais | GLOBO",CANAL ABERTO Globo RJ FHD
+#EXTINF:-1 tvg-logo="https://static.guiadetv.com/channel/xHC0ALHp6Liuce9CXm5qaAdTpBEVKpRmL9diquGM.png" group-title="Canais | GLOBO",CANAL ABERTO Globo RJ FHD 2 🟢
 http://hzcdn.vood.top:80/hls/2374_.m3u8
 
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i0.wp.com/garrone.com.br/wp-content/uploads/2017/01/TVMirantelogo.jpg" group-title="Canais | GLOBO",CANAL ABERTO TV Mirante HD
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i0.wp.com/garrone.com.br/wp-content/uploads/2017/01/TVMirantelogo.jpg" group-title="Canais | GLOBO",CANAL ABERTO TV Mirante HD 🟢
 http://15.235.15.230:14499/MANOTV
 
-#EXTINF:-1 tvg-logo="https://static.guiadetv.com/channel/H4naH9diPMzwKJ89f1OolK3lhvaQngOQlkqlhHdn.png" group-title="Canais | NOTICIAS",CANAL ABERTO TV Senado 
+#EXTINF:-1 tvg-logo="https://static.guiadetv.com/channel/H4naH9diPMzwKJ89f1OolK3lhvaQngOQlkqlhHdn.png" group-title="Canais | NOTICIAS",CANAL ABERTO TV Senado 🟤
 https://cdn-3.nxplay.com.br/TV_SENADO/index.m3u8
 
-#EXTINF:-1 tvg-name="RECORDSP" tvg-id="RECORDSP" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/Fu29jsvxR56M6LbqVJiogZsKmENyo9shulnIPwqe.jpg",CANAL ABERTO Record Tv
+#EXTINF:-1 tvg-name="RECORDSP" tvg-id="RECORDSP" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/Fu29jsvxR56M6LbqVJiogZsKmENyo9shulnIPwqe.jpg",CANAL ABERTO Record Tv 🟢
 https://abc.embedmax.site/recordSP/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/DTO0AQqFh9EsUSPjPUuvdm2JnvbI7WLy0800AvoH.jpg",CANAL ABERTO SBT
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/DTO0AQqFh9EsUSPjPUuvdm2JnvbI7WLy0800AvoH.jpg",CANAL ABERTO SBT 🟢
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
-#EXTINF:-1 tvg-id="BAND" tvg-name="BAND" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/Dhd2ASSA3ha9MwOE9cZzmsk0NQuhFjv4MErKP6LC.gif",CANAL ABERTO Band
+#EXTINF:-1 tvg-id="BAND" tvg-name="BAND" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/Dhd2ASSA3ha9MwOE9cZzmsk0NQuhFjv4MErKP6LC.gif",CANAL ABERTO Band 🟢
 https://abc.embedmax.site/band/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="GAZETA" tvg-name="GAZETA" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/WMaqcEWnSG531S6cXAb4N9VU52kvn3aA16vhlRs5.png",CANAL ABERTO TV Gazeta
+#EXTINF:-1 tvg-id="GAZETA" tvg-name="GAZETA" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/WMaqcEWnSG531S6cXAb4N9VU52kvn3aA16vhlRs5.png",CANAL ABERTO TV Gazeta 🟢
 https://video08.logicahost.com.br/tvc21/tvc21/chunklist_w1241834151.m3u8
-#EXTINF:-1 tvg-id="REDETV" tvg-name="REDETV" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/sUyLBwfomYbm9MLwc7eIAznjkRSBuxOoHwdOm5ea.gif",CANAL ABERTO RedeTV
+#EXTINF:-1 tvg-id="REDETV" tvg-name="REDETV" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/sUyLBwfomYbm9MLwc7eIAznjkRSBuxOoHwdOm5ea.gif",CANAL ABERTO RedeTV 🟢
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4555
-#EXTINF:-1 tvg-id="TVBRASIL" tvg-name="TVBRASIL" group-title="Brazil" tvg-logo="https://cdn.bs9.com.br/upload/dn_arquivo/2024/06/whatsapp-image-2024-06-25-at-160017.jpeg",CANAL ABERTO TV Brasil
+#EXTINF:-1 tvg-id="TVBRASIL" tvg-name="TVBRASIL" group-title="Brazil" tvg-logo="https://cdn.bs9.com.br/upload/dn_arquivo/2024/06/whatsapp-image-2024-06-25-at-160017.jpeg",CANAL ABERTO TV Brasil 🟢
 rtmp://wowza.softhost.com.br/ufg/tvufgweb
-#EXTINF:-1 tvg-name="CULTURA" tvg-id="CULTURA" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/O3ZfDTZag7EgZHmklnGStrYyxc4WlgE3NvDmGuxW.gif",CANAL ABERTO TV Cultura
+#EXTINF:-1 tvg-name="CULTURA" tvg-id="CULTURA" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/O3ZfDTZag7EgZHmklnGStrYyxc4WlgE3NvDmGuxW.gif",CANAL ABERTO TV Cultura 🟢
 https://video02.logicahost.com.br/tvguara23/tvguara23/chunklist_w1014630644.m3u8
-#EXTINF:-1 tvg-id="REDEFAMÍLIA" tvg-name="REDEFAMÍLIA" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/m9qPdp8hy63ZXfIsbPicLdlCeTkmlkShAJDfWV6H.png",CANAL ABERTO Rede Família
+#EXTINF:-1 tvg-id="REDEFAMÍLIA" tvg-name="REDEFAMÍLIA" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/m9qPdp8hy63ZXfIsbPicLdlCeTkmlkShAJDfWV6H.png",CANAL ABERTO Rede Família 🟢
 https://tv01.zas.media:1936/rftv/rftv/chunklist_w307092379.m3u8
-#EXTINF:-1 tvg-id="REDEBRASIL" tvg-name="REDEBRASIL" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/FckwNZIeOh4xLda5G2wKHu4SPN1E3JdKfSJKFGKt.png",CANAL ABERTO Rede Brasil
+#EXTINF:-1 tvg-id="REDEBRASIL" tvg-name="REDEBRASIL" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/FckwNZIeOh4xLda5G2wKHu4SPN1E3JdKfSJKFGKt.png",CANAL ABERTO Rede Brasil 🟢
 https://video07.logicahost.com.br/redebrasil/redebrasil/chunklist_w7624697.m3u8
-#EXTINF:-1 tvg-id="REDEGOSPEL" tvg-name="REDEGOSPEL" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/iiiLlwQr7gMKT9sBLQ3fzIO1tmIwveR9RArDAQyC.png",CANAL ABERTO Rede Gospel
+#EXTINF:-1 tvg-id="REDEGOSPEL" tvg-name="REDEGOSPEL" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/iiiLlwQr7gMKT9sBLQ3fzIO1tmIwveR9RArDAQyC.png",CANAL ABERTO Rede Gospel 🟢
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
-#EXTINF:-1 tvg-id="TVCAMERA" tvg-name="TVCAMERA" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/a41CQSK0ykAH6hZK0AJyBmfQaY7xtoBJ37idr9u7.png",CANAL ABERTO TV Câmara
+#EXTINF:-1 tvg-id="TVCAMERA" tvg-name="TVCAMERA" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/a41CQSK0ykAH6hZK0AJyBmfQaY7xtoBJ37idr9u7.png",CANAL ABERTO TV Câmara 🟢
 https://stream3.camara.gov.br/tv1/manifest.m3u8
-#EXTINF:-1 tvg-id="FUTURA" tvg-name="FUTURA" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/nUAaqJAEnnfuZi8PlToGqzrl228SE5b7Ht6vxp88.png",CANAL ABERTO Futura
+#EXTINF:-1 tvg-id="FUTURA" tvg-name="FUTURA" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/nUAaqJAEnnfuZi8PlToGqzrl228SE5b7Ht6vxp88.png",CANAL ABERTO Futura 🟢
 https://5a57bda70564a.streamlock.net/opovo/opovo.sdp/chunklist_w157550291.m3u8
-#EXTINF:-1 tvg-id="REDEVIDA" tvg-name="REDEVIDA" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/fWx398FZCOcj7C2YpuOb2KRWgfdpa4h1yFPSXrAv.gif",CANAL ABERTO Rede Vida
+#EXTINF:-1 tvg-id="REDEVIDA" tvg-name="REDEVIDA" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/fWx398FZCOcj7C2YpuOb2KRWgfdpa4h1yFPSXrAv.gif",CANAL ABERTO Rede Vida 🟢
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/live-redevida/720p/chunks.m3u8
-#EXTINF:-1 tvg-id="TVAPARECIDA" tvg-name="TVAPARECIDA" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/AHxSamEHuHH1ub6rMgzx1WtwgK7CjZcDgHq7xHNm.png",CANAL ABERTO TV Aparecida
+#EXTINF:-1 tvg-id="TVAPARECIDA" tvg-name="TVAPARECIDA" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/AHxSamEHuHH1ub6rMgzx1WtwgK7CjZcDgHq7xHNm.png",CANAL ABERTO TV Aparecida 🟢
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8?ManoTV
-#EXTINF:-1 tvg-id="TERRAVIVA" tvg-name="TERRAVIVA" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/l6zoKfkppjFVEOK7oFMAKUAGrcHbYmDBZMtcgLAN.png",CANAL ABERTO Terra Viva
+#EXTINF:-1 tvg-id="TERRAVIVA" tvg-name="TERRAVIVA" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/l6zoKfkppjFVEOK7oFMAKUAGrcHbYmDBZMtcgLAN.png",CANAL ABERTO Terra Viva 🟢
 https://live-c.cf.dmcdn.net/sec2(zqgiYOW86vKP_fSSWTP2hcIjQXgeULnqlf7Rl1mUvNg1zPfZyHyGdqmoQnMXJNI-8zTOfJXyTWg6hL1XIAFNWIffunUhizTZsV-LkdtMguQ)/dm/3/x8qceqq/s/live-720.m3u8
-#EXTINF:-1 tvg-id="CANCAONOVA" tvg-name="CANCAONOVA" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/69wN9OzRr3yuxkhbZfqMPWOtmiiLof2tDeSU3D1P.png",CANAL ABERTO Canção Nova
+#EXTINF:-1 tvg-id="CANCAONOVA" tvg-name="CANCAONOVA" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/69wN9OzRr3yuxkhbZfqMPWOtmiiLof2tDeSU3D1P.png",CANAL ABERTO Canção Nova 🟢
 https://cdn-3.nxplay.com.br/CANCAO_NOVA_TK/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="REDESECULO21" tvg-name="REDESECULO21" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/tuedRBvPQry0gAIJEZCuejW8Vnpy5Qyke6IbLAzr.png",CANAL ABERTO Rede Século 21
+#EXTINF:-1 tvg-id="REDESECULO21" tvg-name="REDESECULO21" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/tuedRBvPQry0gAIJEZCuejW8Vnpy5Qyke6IbLAzr.png",CANAL ABERTO Rede Século 21 🟢
 https://cdn.live.br1.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/chunklist_b5795840.m3u8
 
 
 🔰  NOTICIAS  🔰
  
 
-#EXTINF:-1 tvg-name="CNNBRASIL" tvg-id="CNNBRASIL" group-title="Noticias" tvg-logo="https://static.guiadetv.com/channel/yvn5yE3HZJJsx3vxT5g4eGlvo9ofpLuOu9o9cFmF.png",NOTICIARIO CNN Brasil
+#EXTINF:-1 tvg-logo="https://live.staticflickr.com/2053/2308291877_4e9d0bd251_c.jpg" group-title="Canais | NOTÍCIAS",NOTÍCIASAVANÇA BRASIL
+https://video01.soultv.com.br/avancabrasil/avancabrasil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B1KhZs2.png" group-title="Canais | NOTÍCIAS",NOTÍCIAS4 POR 4 
+https://video01.soultv.com.br/programa4por4/programa4por4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yVux2yk.png" group-title="Canais | NOTÍCIAS",NOTÍCIASResumo da Ópera
+https://011news.akamaized.net/011news/011news/chunklist_480p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MGNoiZW.png" group-title="Canais | NOTÍCIAS",NOTÍCIAS 011 News HD
+https://011news.akamaized.net/011news/011news/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/MZ91OiM.png" group-title="Canais | NOTÍCIAS",NOTÍCIASGazeta do Povo
+https://ythls.armelin.one/channel/UCWdGgeyOnCOGnvhNdbVl1dQ.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/MPLvLOs.png" group-title="Canais | NOTÍCIAS",NOTÍCIASOeste Sem Filtro- N é 24h YouTube 
+https://ythls.armelin.one/channel/UCBQAI1ZhurW3nbtJR-gBBZg.m3u8
+
+#EXTINF:-1 tvg-name="CNNBRASIL" tvg-id="CNNBRASIL" group-title="Noticias" tvg-logo="https://static.guiadetv.com/channel/yvn5yE3HZJJsx3vxT5g4eGlvo9ofpLuOu9o9cFmF.png",NOTÍCIAS CNN Brasil
 https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
-#EXTINF:-1 tvg-name="RECORDNEWS" tvg-id="RECORDNEWS" group-title="Noticias" tvg-logo="https://static.guiadetv.com/channel/fWKQ5LEAdazLVIDIQdLokT6IBRoPxF2GehQonaNI.png",NOTICIARIO Record News
+#EXTINF:-1 tvg-name="RECORDNEWS" tvg-id="RECORDNEWS" group-title="Noticias" tvg-logo="https://static.guiadetv.com/channel/fWKQ5LEAdazLVIDIQdLokT6IBRoPxF2GehQonaNI.png",NOTÍCIAS Record News
 https://cdn-1.nxplay.com.br/BAND_NEWS_TK/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="GLOBONEWS" tvg-name="GLOBONEWS" group-title="Noticias" tvg-logo="https://gkpb.com.br/wp-content/uploads/2022/08/novo-logo-globonews-2022jpg.jpg",NOTICIARIO Globo News
+#EXTINF:-1 tvg-id="GLOBONEWS" tvg-name="GLOBONEWS" group-title="Noticias" tvg-logo="https://gkpb.com.br/wp-content/uploads/2022/08/novo-logo-globonews-2022jpg.jpg",NOTÍCIAS Globo News
 https://abc.embedmax.site/globonews/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="JOVEMPANNEWS" tvg-name="JOVEMPANNEWS" group-title="Noticias" tvg-logo="https://static.guiadetv.com/channel/mUg3QjceZ1q2vtKIQlh6j0y8Pqs9udn4F0qGfqAs.png",NOTICIARIO Jobem Pan News
+#EXTINF:-1 tvg-id="JOVEMPANNEWS" tvg-name="JOVEMPANNEWS" group-title="Noticias" tvg-logo="https://static.guiadetv.com/channel/mUg3QjceZ1q2vtKIQlh6j0y8Pqs9udn4F0qGfqAs.png",NOTÍCIAS Jobem Pan News
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8
-#EXTINF:-1 tvg-id="BANDNEWS" tvg-name="BANDNEWS" group-title="Noticias" tvg-logo="https://static.guiadetv.com/channel/LTyY9kIRCaLD7WsNzFzjz4mCEBgIbOwsrlN0L0WW.png",NOTICIARIO Band News
+#EXTINF:-1 tvg-id="BANDNEWS" tvg-name="BANDNEWS" group-title="Noticias" tvg-logo="https://static.guiadetv.com/channel/LTyY9kIRCaLD7WsNzFzjz4mCEBgIbOwsrlN0L0WW.png",NOTÍCIAS Band News
 https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/276/276-3-main.m3u8
 
 
@@ -130,6 +148,9 @@ https://abc.embedmax.site/discoveryid/tracks-v1a1/mono.m3u8
 🔰  VARIEDADES  🔰
  
 
+#EXTINF:-1 tvg-name="Woohoo" tvg-id="Woohoo" group-title="Variedade" tvg-logo="https://static.guiadetv.com/channel/nJoKtLF12MTdDuuGUOn1lGBADQfThnDcrWoduMnG.png",VARIERADADE Woohoo Surf
+https://cdn-1.nxplay.com.br/WOOHOO_FAST/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="TVZYN" tvg-name="TVZYN" group-title="Variedade" tvg-logo="https://static.sbt.com.br/noticias/images/175757.jpg",VARIERADADE TV Zyn
 https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5w3mfvzg9saoi/playlist.m3u8
 #EXTINF:-1 tvg-name="TVZOOM" tvg-id="TVZOOM" group-title="Variedade" tvg-logo="https://yt3.googleusercontent.com/QAsNFT9W4PEh_R4c2RTmWjcd9C0DvCh9HUvhZUBvA4tfNHRRRJ4zlC9IaQbdoUXCUPmagIl4Rg=s900-c-k-c0x00ffffff-no-rj",VARIERADADE TV Zoom
@@ -174,24 +195,13 @@ https://abc.embedmax.site/tlc/tracks-v1a1/mono.m3u8
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/291
 #EXTINF:-1 tvg-name="FOODNET" tvg-id="FOODNET" group-title="Variedade" tvg-logo="https://static.guiadetv.com/channel/Y5HBVprcGipBH83U4qhV1thOSJ9IxbqP52Ag7iu2.png",VARIERADADE Food Network 
 https://cdn-3.nxplay.com.br/FOOD_NETWORK_NX/index.m3u8
-#EXTINF:-1 tvg-name="Woohoo" tvg-id="Woohoo" group-title="Variedade" tvg-logo="https://static.guiadetv.com/channel/nJoKtLF12MTdDuuGUOn1lGBADQfThnDcrWoduMnG.png",VARIERADADE Woohoo
-https://cdn-1.nxplay.com.br/WOOHOO_FAST/tracks-v1a1/mono.m3u8
 
 
  🔰  FILMES e SERIES  🔰
 
 
-#EXTINF:-1 tvg-logo="https://static.guiadetv.com/channel/DNY6eszG7Vh4Bw6wgaCXFpwM9QM10YLtlYGLmgYU.png" group-title="Canais | FILMES E SERIES",FILMESERIES TCM SD
-http://148.113.160.49:14670/
-
-#EXTINF:-1 tvg-logo="https://static.guiadetv.com/channel/DNY6eszG7Vh4Bw6wgaCXFpwM9QM10YLtlYGLmgYU.png" group-title="Canais | FILMES E SERIES",FILMESERIES TCM SD Fonte 2
-http://cdnexpress.homelinux.net/live/70.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.guiadetv.com/channel/DNY6eszG7Vh4Bw6wgaCXFpwM9QM10YLtlYGLmgYU.png" group-title="Canais | FILMES E SERIES",FILMESERIES TCM HD
-http://148.113.160.49:14671/
-
-#EXTINF:-1 tvg-logo="https://static.guiadetv.com/channel/DNY6eszG7Vh4Bw6wgaCXFpwM9QM10YLtlYGLmgYU.png" group-title="Canais | FILMES E SERIES",FILMESERIES TCM HD
-http://148.113.160.49:14672/
+#EXTINF:-1 tvg-logo="https://static.guiadetv.com/channel/fiUIa3E6ZmxBMqxMjafkkZKkqzoZX83NOgeEZ9BR.png" group-title="Canais | VARIEDADES",Film & Arts HD
+https://cdn-3.nxplay.com.br/Film_Arts_Brasil_TK/index.m3u8
 
 #EXTINF:-1 tvg-name="TNTSERIES" tvg-id="TNT Séries.br" group-title="FilmesSeries" tvg-logo="https://static.guiadetv.com/channel/Yoz5IOXmqF6iQhBqfD1SzIJ8s7jGHnMu3I1FgYkO.png",FILMESERIES TNT 
 https://cdn-4.nxplay.com.br/TNT_TK/tracks-v2a1/mono.m3u8
@@ -211,9 +221,9 @@ https://abc.embedmax.site/hboxtreme/tracks-v1a1/mono.m3u8
 https://abc.embedmax.site/hbofamily/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="FilmesSeries" tvg-logo="https://static.guiadetv.com/channel/WfHCiJwLA4UpaHdcG2GVlAKZ8PB69rrJqqJExN58.png",FILMESERIES HBO Pus
 https://abc.embedmax.site/hboplus/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="FilmesSeries" tvg-logo="https://static.guiadetv.com/channel/UKgwxQEaBQkLAOn3ooCfqGQ78v3FUejB1do2zJU2.png",FILMESERIES HBO Mundi
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FilmesSeries" tvg-logo="https://static.guiadetv.com/channel/UKgwxQEaBQkLAOn3ooCfqGQ78v3FUejB1do2zJU2.png",FILMESERIES HBO Mundi 4k 🟢
 http://cdnexpress.homelinux.net/live/38.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="FilmesSeries" tvg-logo="https://static.guiadetv.com/channel/SwWGDZRsqIiDM7CLJun8hLG0tYchmthkb9TzRvJ6.png",FILMESERIES HBO Pop
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FilmesSeries" tvg-logo="https://static.guiadetv.com/channel/SwWGDZRsqIiDM7CLJun8hLG0tYchmthkb9TzRvJ6.png",FILMESERIES HBO Pop FHD 🟢
 http://cdnexpress.homelinux.net/live/73.m3u8
 #EXTINF:-1 tvg-name="" vg-id="TELECINECULT" tvg-name="TELECINE CULT" group-title="FilmesSeries" tvg-logo="https://static.guiadetv.com/channel/aaEDkMCWERioLFpezoMwpzdEXw0iRt7pnHkxTpe2.png",FILMESERIES Telecine Cult
 https://abc.embedmax.site/tccult/tracks-v1a1/mono.m3u8
@@ -270,7 +280,7 @@ https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/
  🔰   INFANTIL   🔰 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/TRu90uI.png" group-title="Canais | INFANTIL",INFANTIL Tooncast HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/TRu90uI.png" group-title="Canais | INFANTIL",INFANTIL Tooncast HD 🟡
 https://cdn-3.nxplay.com.br/TOONCAST_TK/index.m3u8
 
 #EXTINF:-1 tvg-id="ADULTSWIM" tvg-name="" group-title="Infantil" tvg-logo="https://ih1.redbubble.net/image.333612268.2321/st,small,507x507-pad,600x600,f8f8f8.u4.jpg",INFANTIL Adult Swim
@@ -467,4 +477,5 @@ https://cdn-1.nxplay.com.br/HALLOANIME/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.otakupt.com/wp-content/uploads/2020/03/Animax-vai-exibir-anime-gratuitamente-no-Jap%C3%A3o-devido-ao-Coronav%C3%ADrus-COVID-19.jpg" group-title="Canais | ANIMES & GEEK",CANAL ANIMES Animax
 https://stream.ichibantv.com:3547/hybrid/play.m3u8
 
-BLUDV ғʀᴇᴇ ᴛv © 2024 All rights reserved
+ 🟤 (off) 🟡 (erro) 🟢 (on)
+ BLUDVPLAY © 2024 All rights reserved
