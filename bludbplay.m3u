@@ -6,17 +6,14 @@
 
 #EXTINF:-1 tvg-logo="https://static.guiadetv.com/channel/xHC0ALHp6Liuce9CXm5qaAdTpBEVKpRmL9diquGM.png" group-title="Canais | GLOBO",CANAL ABERTO Globo RJ 🟢
 https://abc.embedmax.site/globoRJ/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.guiadetv.com/channel/xHC0ALHp6Liuce9CXm5qaAdTpBEVKpRmL9diquGM.png" group-title="Canais | GLOBO",CANAL ABERTO Globo RJ 2 🟢
 http://hzcdn.vood.top:80/hls/2374_.m3u8
-
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i0.wp.com/garrone.com.br/wp-content/uploads/2017/01/TVMirantelogo.jpg" group-title="Canais | GLOBO",CANAL ABERTO TV Mirante 🟢
 http://15.235.15.230:14499/MANOTV
-
 #EXTINF:-1 tvg-logo="https://static.guiadetv.com/channel/H4naH9diPMzwKJ89f1OolK3lhvaQngOQlkqlhHdn.png" group-title="Canais | NOTICIAS",CANAL ABERTO TV Senado 🟤
 https://cdn-3.nxplay.com.br/TV_SENADO/index.m3u8
 
-#EXTINF:-1 tvg-id="BR - TV SENADO" tvg-name="TV SENADO [SD]" tvg-logo="http://p6.vc/AHP" group-title="Canais | Abertos",TV SENADO [SD]
+#EXTINF:-1 tvg-logo="http://p6.vc/AHP" group-title="Canais | Abertos",TV SENADO [SD]
 http://pfsv.io:80/pu1411/HP5729/72.m3u8
 
 #EXTINF:-1 tvg-name="RECORDSP" tvg-id="RECORDSP" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/Fu29jsvxR56M6LbqVJiogZsKmENyo9shulnIPwqe.jpg",CANAL ABERTO Record Tv 🟢
@@ -60,13 +57,10 @@ https://cdn.live.br1.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/chun
 
 #EXTINF:-1 tvg-logo="https://live.staticflickr.com/2053/2308291877_4e9d0bd251_c.jpg" group-title="Canais | NOTÍCIAS",NOTÍCIAS AVANÇA BRASIL 🟢
 https://video01.soultv.com.br/avancabrasil/avancabrasil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B1KhZs2.png" group-title="Canais | NOTÍCIAS",NOTÍCIAS 4 POR 4  🟢
 https://video01.soultv.com.br/programa4por4/programa4por4/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MGNoiZW.png" group-title="Canais | NOTÍCIAS",NOTÍCIAS 011 News HD 🟢
 https://011news.akamaized.net/011news/011news/playlist.m3u8
-
 #EXTINF:-1 tvg-name="CNNBRASIL" tvg-id="CNNBRASIL" group-title="Noticias" tvg-logo="https://static.guiadetv.com/channel/yvn5yE3HZJJsx3vxT5g4eGlvo9ofpLuOu9o9cFmF.png",NOTÍCIAS CNN Brasil 🟢
 https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-name="RECORDNEWS" tvg-id="RECORDNEWS" group-title="Noticias" tvg-logo="https://static.guiadetv.com/channel/fWKQ5LEAdazLVIDIQdLokT6IBRoPxF2GehQonaNI.png",NOTÍCIAS Record News 🟢
@@ -142,15 +136,15 @@ https://abc.embedmax.site/discoveryid/tracks-v1a1/mono.m3u8
 🔰  VARIEDADES  🔰
  
 
-#EXTINF:-1 tvg-id="BR - WooHoo" tvg-name="WOOHOO [FHD]" tvg-logo="http://p6.vc/AJW" group-title="Canais | Art & Music",WOOHOO [FHD]
+#EXTINF:-1 tvg-logo="http://p6.vc/AJW" group-title="Canais | Art & Music",WOOHOO [FHD]
 http://pfsv.io:80/pu1411/HP5729/133.m3u8
-#EXTINF:-1 tvg-id="BR - WooHoo" tvg-name="WOOHOO [FHD][H265]" tvg-logo="http://p6.vc/VAN" group-title="Canais | Art & Music",WOOHOO [FHD][H265]
+#EXTINF:-1 tvg-logo="http://p6.vc/VAN" group-title="Canais | Art & Music",WOOHOO [FHD][H265]
 http://pfsv.io:80/pu1411/HP5729/30174.m3u8
-#EXTINF:-1 tvg-id="BR - WooHoo" tvg-name="WOOHOO [HD]" tvg-logo="http://p6.vc/AFN" group-title="Canais | Art & Music",WOOHOO [HD]
+#EXTINF:-1 tvg-logo="http://p6.vc/AFN" group-title="Canais | Art & Music",WOOHOO [HD]
 http://pfsv.io:80/pu1411/HP5729/14.m3u8
-#EXTINF:-1 tvg-id="BR - WooHoo" tvg-name="WOOHOO [SD]" tvg-logo="http://p6.vc/AFG" group-title="Canais | Art & Music",WOOHOO [SD]
+#EXTINF:-1 tvg-logo="http://p6.vc/AFG" group-title="Canais | Art & Music",WOOHOO [SD]
 http://pfsv.io:80/pu1411/HP5729/7.m3u8
-#EXTINF:-1 tvg-id="BR - WooHoo" tvg-name="WOOHOO [FHD][HDR]" tvg-logo="http://p6.vc/VAN" group-title="Canais | Art & Music",WOOHOO [FHD][HDR]
+#EXTINF:-1 tvg-logo="http://p6.vc/VAN" group-title="Canais | Art & Music",WOOHOO [FHD][HDR]
 http://pfsv.io:80/pu1411/HP5729/130227.m3u8
 
 #EXTINF:-1 tvg-name="Woohoo" tvg-id="Woohoo" group-title="Variedade" tvg-logo="https://static.guiadetv.com/channel/nJoKtLF12MTdDuuGUOn1lGBADQfThnDcrWoduMnG.png",VARIERADADE Woohoo Surf
@@ -205,23 +199,22 @@ https://cdn-3.nxplay.com.br/FOOD_NETWORK_NX/index.m3u8
  🔰  FILMES e SERIES  🔰
 
 
-#EXTINF:-1 tvg-id="BR - TCM" tvg-name="TCM [SD]" tvg-logo="http://p6.vc/ARF" group-title="Canais | Filmes e Séries",TCM [SD]
+#EXTINF:-1 tvg-logo="http://p6.vc/ARF" group-title="Canais | Filmes e Séries",TCM [SD]
 http://pfsv.io:80/pu1411/HP5729/339.m3u8
 
-#EXTINF:-1 tvg-id="BR - Syfy" tvg-name="SYFY [FHD][HDR]" tvg-logo="http://p6.vc/WHE" group-title="Canais | Filmes e Séries",SYFY [FHD][HDR]
+#EXTINF:-1 tvg-logo="http://p6.vc/WHE" group-title="Canais | Filmes e Séries",SYFY [FHD][HDR]
 http://pfsv.io:80/pu1411/HP5729/130197.m3u8
-#EXTINF:-1 tvg-id="BR - Syfy" tvg-name="SYFY [FHD]" tvg-logo="http://p6.vc/APH" group-title="Canais | Filmes e Séries",SYFY [FHD]
+#EXTINF:-1 tvg-logo="http://p6.vc/APH" group-title="Canais | Filmes e Séries",SYFY [FHD]
 http://pfsv.io:80/pu1411/HP5729/284.m3u8
-#EXTINF:-1 tvg-id="BR - Syfy" tvg-name="SYFY [FHD][H265]" tvg-logo="http://p6.vc/WHE" group-title="Canais | Filmes e Séries",SYFY [FHD][H265]
+#EXTINF:-1 tvg-logo="http://p6.vc/WHE" group-title="Canais | Filmes e Séries",SYFY [FHD][H265]
 http://pfsv.io:80/pu1411/HP5729/30222.m3u8
-#EXTINF:-1 tvg-id="BR - Syfy" tvg-name="SYFY [HD]" tvg-logo="http://p6.vc/AQH" group-title="Canais | Filmes e Séries",SYFY [HD]
+#EXTINF:-1 tvg-logo="http://p6.vc/AQH" group-title="Canais | Filmes e Séries",SYFY [HD]
 http://pfsv.io:80/pu1411/HP5729/312.m3u8
-#EXTINF:-1 tvg-id="BR - Syfy" tvg-name="SYFY [SD]" tvg-logo="http://p6.vc/ARE" group-title="Canais | Filmes e Séries",SYFY [SD]
+#EXTINF:-1 tvg-logo="http://p6.vc/ARE" group-title="Canais | Filmes e Séries",SYFY [SD]
 http://pfsv.io:80/pu1411/HP5729/337.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.guiadetv.com/channel/fiUIa3E6ZmxBMqxMjafkkZKkqzoZX83NOgeEZ9BR.png" group-title="Canais | FILMES E SERIES",Film & Arts SD 🟢
 https://cdn-3.nxplay.com.br/Film_Arts_Brasil_TK/index.m3u8
-
 #EXTINF:-1 tvg-name="TNTSERIES" tvg-id="TNT Séries.br" group-title="FilmesSeries" tvg-logo="https://static.guiadetv.com/channel/Yoz5IOXmqF6iQhBqfD1SzIJ8s7jGHnMu3I1FgYkO.png",FILMESERIES TNT 
 https://cdn-4.nxplay.com.br/TNT_TK/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-name="TNTSERIES" tvg-id="TNT Séries.br" group-title="FilmesSeries" tvg-logo="https://static.guiadetv.com/channel/daYbztWnSmemgmYOIB9v2iXxY4QJVbtSgDgF7d3P.png",FILMESERIES TNT Series
@@ -299,11 +292,11 @@ https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/
  🔰   INFANTIL   🔰 
 
 
-#EXTINF:-1 tvg-id="BR - Tooncast" tvg-name="TOONCAST [FHD]" tvg-logo="http://p6.vc/WJF" group-title="Canais | Infantis",TOONCAST [FHD]
+#EXTINF:-1 tvg-id="" tvg-logo="http://p6.vc/WJF" group-title="Canais | Infantis",TOONCAST [FHD]
 http://pfsv.io:80/pu1411/HP5729/48756.m3u8
-#EXTINF:-1 tvg-id="BR - Tooncast" tvg-name="TOONCAST [HD]" tvg-logo="http://p6.vc/WJE" group-title="Canais | Infantis",TOONCAST [HD]
+#EXTINF:-1 tvg-id="" tvg-logo="http://p6.vc/WJE" group-title="Canais | Infantis",TOONCAST [HD]
 http://pfsv.io:80/pu1411/HP5729/48755.m3u8
-#EXTINF:-1 tvg-id="BR - Tooncast" tvg-name="TOONCAST [SD]" tvg-logo="http://p6.vc/WJE" group-title="Canais | Infantis",TOONCAST [SD]
+#EXTINF:-1 tvg-id="" tvg-logo="http://p6.vc/WJE" group-title="Canais | Infantis",TOONCAST [SD]
 http://pfsv.io:80/pu1411/HP5729/160.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/TRu90uI.png" group-title="Canais | INFANTIL",INFANTIL Tooncast HD 🟡
