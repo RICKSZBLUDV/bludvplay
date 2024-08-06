@@ -401,67 +401,10 @@ https://cdn-3.nxplay.com.br/dcpc/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/b4cd2b4135c03b25ffe91155d90de53f.webp" group-title="Canais | INFANTIL",CANAL INFANTIL Ministério Infantil TV 🟢
 https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | INFANTIL",CANAL INFANTIL Peppa Pig 24h
-http://24hrs.homelinux.com:80/24H-Peppa.Pig.S01.S02.S03.S04/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | INFANTIL",CANAL INFANTIL Chaves 24h
-http://24hrs.homelinux.com:80/24H-chaves-a-serie/video.m3u8?token=a4A2wbotS3
-
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | INFANTIL",CANAL INFANTIL Chapolin Colorado 24h
-http://24hrs.homelinux.com:80/24H-chapolin1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | INFANTIL",CANAL INFANTIL Masha e o Urso 24h
-http://24hrs.homelinux.com:80/24H-Masha.e.o.Urso.S01eS02eS03/video.m3u8?token=a4A2wbotS3
-
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | INFANTIL",CANAL INFANTIL Ben 10 2005 24h
-http://24hrs.homelinux.com:80/24H-Ben.10.2005.S01.S02.S03.S04/video.m3u8?token=a4A2wbotS3
-
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | INFANTIL",CANAL INFANTIL Poderoso Chefinho 24h
-http://24hrs.homelinux.com:80/24H-O.Poderoso.Chefinho.S01-S02/video.m3u8?token=a4A2wbotS3
-
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | INFANTIL",CANAL INFANTIL Mickey e Donald 24h
-http://24hrs.homelinux.com:80/24H-Mickey.e.Donald.S01/video.m3u8?token=a4A2wbotS3
-
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | INFANTIL",CANAL INFANTIL Hantaro 24h
-http://24hrs.homelinux.com:80/24H-hantaro/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | INFANTIL",CANAL INFANTIL Luluzinha 24h
-http://24hrs.homelinux.com:80/24H-luluzinha/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | INFANTIL",CANAL INFANTIL Jaspion 24h
-http://24hrs.homelinux.com:80/24H-jaspion/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | INFANTIL",CANAL INFANTIL Thundercats 24h
-http://24hrs.homelinux.com:80/24H-thundercats/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | INFANTIL",CANAL INFANTIL Mundo De Boby 24h
-http://24hrs.homelinux.com:80/24H-ofantasticomundodeboby/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | INFANTIL",CANAL INFANTIL Power Rangers YT 24h
-https://ythls.armelin.one/channel/UCE3_4WG166NcyQPcRtgGWkQ.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | INFANTIL",CANAL INFANTIL Tom & Jerry 24h
-http://24hrs.homelinux.com:80/24H-tom-e-jerry/video.m3u8?token=a4A2wbotS3
-
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | INFANTIL",CANAL INFANTIL Scoobdoo 24h
-http://24hrs.homelinux.com:80/24H-scoobdoo/video.m3u8?token=a4A2wbotS3
-
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | INFANTIL",CANAL INFANTIL Popeye 24h
-http://24hrs.homelinux.com:80/24H-Popeye.S01/video.m3u8?token=a4A2wbotS3
-
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | INFANTIL",CANAL INFANTIL Os Simpsons 24h
-http://24hrs.homelinux.com:80/24H-ossimpsons/video.m3u8?token=a4A2wbotS3
-
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | INFANTIL",CANAL INFANTIL PicaPau 24h
-http://24hrs.homelinux.com:80/24H-picapau/video.m3u8?token=a4A2wbotS3
-
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | INFANTIL",CANAL INFANTIL Cavaleiros Zodiaco 24h
-http://24hrs.homelinux.com:80/24H-cavaleiros/video.m3u8?token=a4A2wbotS3
-
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | INFANTIL",CANAL INFANTIL Os Flistony 24h
-http://24hrs.homelinux.com:80/24H-osflistony/video.m3u8?token=a4A2wbotS3
-
 ############################################################################ Canais | ANIMES
+
+#EXTINF:-1 tvg-logo="https://imgur.com/K4IrU99.png" group-title="Canais | INFANTIL",CANAL ANIMES Animes TV
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8?ManoTV
 
 #EXTINF:-1 tvg-id="Pluto TV Anime ação" tvg-logo="https://images.pluto.tv/channels/604b79c558393100078faeef/solidLogoPNG.png" group-title="Canais | ANIMES & GEEK",CANAL ANIMES Pluto TV Anime Ação
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12136385bccc00070142ed/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=eabb34b1-5995-4c43-8147-d3f8d09696f2&clientModelNumber=na&deviceDNT=false&deviceId=eabb34b1-5995-4c43-8147-d3f8d09696f2&deviceLat=-10.0000&deviceLon=-55.0000&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=87.0.4280.88&marketingRegion=BR&serverSideAds=true&sessionID=30971196-4529-11eb-b866-0242ac110002&sid=30971196-4529-11eb-b866-0242ac110002&userId=
