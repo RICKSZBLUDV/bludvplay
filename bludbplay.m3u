@@ -4,9 +4,6 @@
  🔰  CANAIS ABERTOS 🔰
  
 
-#EXTINF:-1 tvg-id="RedeGospel.br" tvg-name="TV Rede Gospel" tvg-logo="http://p6.vc/VPX" group-title="Canais | Religiosos",TV Rede Gospel
-http://pfsv.io:80/pu1411/HP5729/53333.m3u8
-
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i0.wp.com/garrone.com.br/wp-content/uploads/2017/01/TVMirantelogo.jpg" group-title="Canais | GLOBO",CANAL ABERTO TV Mirante [HD][GLOBO] 🟢
 http://15.235.15.230:14499/MANOTV
 #EXTINF:-1 tvg-id="CIDADEH" tvg-name="RECORDTV CIDADE [FHD]" tvg-logo="http://p6.vc/AHF" group-title="Canais | Abertos",CANAL ABERTO RECORDTV CIDADE [FHD]
@@ -143,15 +140,13 @@ https://abc.embedmax.site/discoveryid/tracks-v1a1/mono.m3u8
 
 🔰  VARIEDADES  🔰
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/47oBUBM.png" group-title="Canais | MÚSICA",Gospel Music TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/47oBUBM.png" group-title="Canais | MÚSICA",Gospel Music TV [SD] 🟢
 https://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] [Musicas] Top 100 Gospel 2021" tvg-logo="http://p6.vc/CWR6" group-title="Canais | 24 Horas",[24H] [Musicas] Top 100 Gospel 2021
+#EXTINF:-1 tvg-id="" tvg-name="[24H] [Musicas] Top 100 Gospel 2021" tvg-logo="http://p6.vc/CWR6" group-title="Canais | 24 Horas",[24H] [Musicas] Top 100 Gospel 2021 [HD] 🟢
 http://pfsv.io:80/pu1411/HP5729/228494.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] [Musicas] Top 100 Gospel 2022 [HD]" tvg-logo="http://p6.vc/CUN1" group-title="Canais | Musicas [24H]",[24H] [Musicas] Top 100 Gospel 2022 [HD]
+#EXTINF:-1 tvg-id="" tvg-name="[24H] [Musicas] Top 100 Gospel 2022 [HD]" tvg-logo="http://p6.vc/CUN1" group-title="Canais | Musicas [24H]",[24H] [Musicas] Top 100 Gospel 2022 [HD] 🟢
 http://pfsv.io:80/pu1411/HP5729/227612.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] [Musicas] Top 100 Gospel 2023 [HD]" tvg-logo="http://p6.vc/CUN2" group-title="Canais | Musicas [24H]",[24H] [Musicas] Top 100 Gospel 2023 [HD]
-http://pfsv.io:80/pu1411/HP5729/227614.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] [Musicas] Top 100 Gospel 2024 [SD]" tvg-logo="http://p6.vc/CUN4" group-title="Canais | Musicas [24H]",[24H] [Musicas] Top 100 Gospel 2024 [SD]
+#EXTINF:-1 tvg-id="" tvg-name="[24H] [Musicas] Top 100 Gospel 2024 [SD]" tvg-logo="http://p6.vc/CUN4" group-title="Canais | Musicas [24H]",[24H] [Musicas] Top 100 Gospel 2024 [HD] 🟢
 http://pfsv.io:80/pu1411/HP5729/227616.m3u8
 
 #EXTINF:-1 tvg-id="BR - FishTV" tvg-name="FISH TV [FHD]" tvg-logo="http://p6.vc/AIR" group-title="Canais | Variedades",VARIERADADE FISH TV [FHD] 🟢
@@ -330,9 +325,6 @@ https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-id="TOONCAST" tvg-name="" group-title="Infantil" tvg-logo="https://static.guiadetv.com/channel/R51ScLaG4Ou2vCXyuBOQoeDUWD5l83pNshs3UVux.png",INFANTIL Tooncast [HD][ES]
 http://pfsv.io:80/pu1411/HP5729/48756.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TV GOSPEL CARTOON [HD]" tvg-logo="http://p6.vc/WJG" group-title="Canais | Infantis",TV GOSPEL CARTOON [HD]
-http://pfsv.io:80/pu1411/HP5729/69084.m3u8
 
 #EXTINF:-1 tvg-id="ADULTSWIM" tvg-name="" group-title="Infantil" tvg-logo="https://ih1.redbubble.net/image.333612268.2321/st,small,507x507-pad,600x600,f8f8f8.u4.jpg",INFANTIL Adult Swim
 https://anonmedia.eu/adultswim/tracks-v1a1/mono.m3u8
