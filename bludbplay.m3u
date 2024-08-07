@@ -18,15 +18,15 @@ http://pfsv.io:80/pu1411/HP5729/186199.m3u8
 #EXTINF:-1 tvg-id="CIDADEH" tvg-name="RECORDTV CIDADE [SD]" tvg-logo="http://p6.vc/AKE8" group-title="Canais | Abertos",CANAL ABERTO RECORDTV CIDADE [SD]
 http://pfsv.io:80/pu1411/HP5729/186198.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="CANAL ABERTO",CANAL ABERTO SBT MA
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="CANAL ABERTO",CANAL ABERTO SBT MA 1
 http://srv3.zoeweb.tv:1935/z437-live/stream/livestream.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="CANAL ABERTO",CANAL ABERTO SBT MA
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="CANAL ABERTO",CANAL ABERTO SBT MA 2
 http://difusorama.zoeweb.tv:1935/z437-live/stream/chunklist_w1260675550.m3u8
-#EXTINF:-1 tvg-logo="http://s32.postimg.org/5fmicyl3p/SBT1.png" group-title="TV Aberta" ,CANAL ABERTO SBT MA
+#EXTINF:-1 tvg-logo="http://s32.postimg.org/5fmicyl3p/SBT1.png" group-title="TV Aberta",CANAL ABERTO SBT MA 3
 http://difusorama.zoeweb.tv:1935/z437-live/stream/playlist.m3u8?
-#EXTINF:-1 tvg-logo="https://lut.im/W5QVUt0DYq/mzQRmVqTys8b7oXU.png" group-title="CANAL ABERTO" ,CANAL ABERTO SBT MaranhÃ£o - TV Difusora
+#EXTINF:-1 tvg-logo="https://lut.im/W5QVUt0DYq/mzQRmVqTys8b7oXU.png" group-title="CANAL ABERTO",CANAL ABERTO SBT - TV Difusora
 http://difusorama.zoeweb.tv:1935/z437-live/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="SBT" tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="CANAL ABERTO",CANAL ABERTO SBT MA
+#EXTINF:-1 tvg-id="SBT" tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="CANAL ABERTO",CANAL ABERTO SBT MA 4
 http://difusorama.zoeweb.tv:1935/z437-live/stream/chunklist_w1260675550.m3u8?EDSONSOUSALIST
 
 #EXTINF:-1 tvg-name="RECORDSP" tvg-id="RECORDSP" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/Fu29jsvxR56M6LbqVJiogZsKmENyo9shulnIPwqe.jpg",CANAL ABERTO Record Tv 🟢
@@ -153,17 +153,16 @@ https://abc.embedmax.site/discoveryid/tracks-v1a1/mono.m3u8
 🔰  VARIEDADES  🔰
  
 
-#EXTINF:-1 tvg-id="BR - FishTV" tvg-name="FISH TV [FHD]" tvg-logo="http://p6.vc/AIR" group-title="Canais | Variedades",FISH TV [FHD]
+#EXTINF:-1 tvg-id="BR - FishTV" tvg-name="FISH TV [FHD]" tvg-logo="http://p6.vc/AIR" group-title="Canais | Variedades",VARIERADADE FISH TV [FHD] 🟢
 http://pfsv.io:80/pu1411/HP5729/100.m3u8
-#EXTINF:-1 tvg-id="BR - FishTV" tvg-name="FISH TV [FHD][H265]" tvg-logo="http://p6.vc/VMW" group-title="Canais | Variedades",FISH TV [FHD][H265]
+#EXTINF:-1 tvg-id="BR - FishTV" tvg-name="FISH TV [FHD][H265]" tvg-logo="http://p6.vc/VMW" group-title="Canais | Variedades",VARIERADADE FISH TV [FHD][H265] 🟢
 http://pfsv.io:80/pu1411/HP5729/30185.m3u8
-#EXTINF:-1 tvg-id="BR - FishTV" tvg-name="FISH TV [HD]" tvg-logo="http://p6.vc/AIY" group-title="Canais | Variedades",FISH TV [HD]
+#EXTINF:-1 tvg-id="BR - FishTV" tvg-name="FISH TV [HD]" tvg-logo="http://p6.vc/AIY" group-title="Canais | Variedades",VARIERADADE FISH TV [HD] 🟢
 http://pfsv.io:80/pu1411/HP5729/109.m3u8
-#EXTINF:-1 tvg-id="BR - FishTV" tvg-name="FISH TV [SD]" tvg-logo="http://p6.vc/AJH" group-title="Canais | Variedades",FISH TV [SD]
+#EXTINF:-1 tvg-id="BR - FishTV" tvg-name="FISH TV [SD]" tvg-logo="http://p6.vc/AJH" group-title="Canais | Variedades",VARIERADADE FISH TV [SD] 🟢
 http://pfsv.io:80/pu1411/HP5729/118.m3u8
-#EXTINF:-1 tvg-id="BR - FishTV" tvg-name="FISH TV [FHD][HDR]" tvg-logo="http://p6.vc/AIR" group-title="Canais | Variedades",FISH TV [FHD][HDR]
+#EXTINF:-1 tvg-id="BR - FishTV" tvg-name="FISH TV [FHD][HDR]" tvg-logo="http://p6.vc/AIR" group-title="Canais | Variedades",VARIERADADE FISH TV [FHD][HDR] 🟢
 http://pfsv.io:80/pu1411/HP5729/130258.m3u8
-
 #EXTINF:-1 tvg-id="BR - DOGTV" tvg-name="DOG TV [FHD][HDR]" tvg-logo="http://p6.vc/VRD" group-title="Canais | Variedades",VARIERADADE DOG TV [FHD][HDR] 🟢
 http://pfsv.io:80/pu1411/HP5729/130256.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CANAL DO BOI [FHD]" tvg-logo="http://p6.vc/AIA" group-title="Canais | Abertos",VARIERADADE CANAL DO BOI [FHD] 🟢
