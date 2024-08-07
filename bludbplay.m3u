@@ -8,8 +8,12 @@
 https://abc.embedmax.site/globoRJ/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.guiadetv.com/channel/xHC0ALHp6Liuce9CXm5qaAdTpBEVKpRmL9diquGM.png" group-title="Canais | GLOBO",CANAL ABERTO Globo RJ 2 [FHD] 🟢
 http://hzcdn.vood.top:80/hls/2374_.m3u8
+
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i0.wp.com/garrone.com.br/wp-content/uploads/2017/01/TVMirantelogo.jpg" group-title="Canais | GLOBO",CANAL ABERTO TV Mirante [HD] 🟢
 http://15.235.15.230:14499/MANOTV
+#EXTINF:-1 tvg-id="CIDADEH" tvg-name="RECORDTV CIDADE [FHD]" tvg-logo="http://p6.vc/AHF" group-title="Canais | Abertos",CANAL ABERTO RECORDTV CIDADE [FHD]
+http://pfsv.io:80/pu1411/HP5729/186197.m3u8
+
 #EXTINF:-1 tvg-name="RECORDSP" tvg-id="RECORDSP" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/Fu29jsvxR56M6LbqVJiogZsKmENyo9shulnIPwqe.jpg",CANAL ABERTO Record Tv 🟢
 https://abc.embedmax.site/recordSP/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/DTO0AQqFh9EsUSPjPUuvdm2JnvbI7WLy0800AvoH.jpg",CANAL ABERTO SBT 🟢
@@ -96,6 +100,10 @@ http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/156
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/158
 #EXTINF:-1 tvg-id="PREMIERE7" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/IIxu6NiXwlVLL7Fs1cxm7VFLOeAu4TXu86wefVrG.png",ESPORTIVO Premiere 7
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/160
+
+#EXTINF:-1 tvg-id="BR - Premiere 8" tvg-name="PREMIERE 8 [FHD][HDR]" tvg-logo="http://p6.vc/VTD" group-title="Canais | Premiere",ESPORTIVO Premiere 8 [FHD][HDR]
+http://pfsv.io:80/pu1411/HP5729/130240.m3u8
+
 #EXTINF:-1 tvg-id="ESPN" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/TjGpU2fe85zIbjNbJU92iR7Uup7BnpXtKVvuAALV.png",ESPORTIVO ESPN
 https://abc.embedmax.site/espn1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ESPN2" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/55279R9yfRKnzN4XUeuZ9hdd0WM61fD8rKAPD4oI.png",ESPORTIVO ESPN 2
@@ -131,6 +139,18 @@ https://abc.embedmax.site/discoveryid/tracks-v1a1/mono.m3u8
 
 🔰  VARIEDADES  🔰
  
+
+#EXTINF:-1 tvg-id="BR - DOGTV" tvg-name="DOG TV [FHD][HDR]" tvg-logo="http://p6.vc/VRD" group-title="Canais | Variedades",VARIERADADE DOG TV [FHD][HDR]
+http://pfsv.io:80/pu1411/HP5729/130256.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CANAL DO BOI [FHD]" tvg-logo="http://p6.vc/AIA" group-title="Canais | Abertos",VARIERADADE CANAL DO BOI [FHD]
+http://pfsv.io:80/pu1411/HP5729/199614.m3u8
+
+#EXTINF:-1 tvg-id="BR - Music Box Brasil" tvg-name="MUSIC BOX BRASIL [FHD][HDR]" tvg-logo="http://p6.vc/VAP" group-title="Canais | Art & Music",VARIERADADE MUSIC BOX BRASIL [FHD][HDR]
+http://pfsv.io:80/pu1411/HP5729/130225.m3u8
+
+#EXTINF:-1 tvg-id="BR - Travel Box Brazil" tvg-name="TRAVEL BOX BRAZIL [FHD][HDR]" tvg-logo="https://static.guiadetv.com/channel/GB1G3QsUrnE6wCXirIUhDug4S9LTKV2QXi6Xsjpm.png" group-title="Canais | Variedades",VARIERADADE TRAVEL BOX BRAZIL [FHD][HDR]
+http://pfsv.io:80/pu1411/HP5729/130262.m3u8
 
 #EXTINF:-1 group-title="Variedade" tvg-logo="https://www.campsoft.com.br/wp-content/uploads/2023/09/Woohoo_300x300.png",VARIERADADE WOOHOO [FHD] 🟢
 http://pfsv.io:80/pu1411/HP5729/133.m3u8
@@ -202,10 +222,8 @@ http://pfsv.io:80/pu1411/HP5729/30222.m3u8
 http://pfsv.io:80/pu1411/HP5729/312.m3u8
 #EXTINF:-1 group-title="FilmesSeries" tvg-logo="https://static.guiadetv.com/channel/WEf9IEYZNSmEynYxDW9YzSfYMJbYEjFzShcfsQxa.png",FILMESERIES SYFY [SD] 🟢
 http://pfsv.io:80/pu1411/HP5729/337.m3u8
-
 #EXTINF:-1 group-title="FilmesSeries" tvg-logo="https://static.guiadetv.com/channel/DNY6eszG7Vh4Bw6wgaCXFpwM9QM10YLtlYGLmgYU.png",FILMESERIES TCM [HD] 🟢
 http://pfsv.io:80/pu1411/HP5729/339.m3u8
-
 #EXTINF:-1 tvg-name="FILM&ARTS [HD]" tvg-id="" group-title="FilmesSeries" tvg-logo="https://static.guiadetv.com/channel/fiUIa3E6ZmxBMqxMjafkkZKkqzoZX83NOgeEZ9BR.png",FILMESERIES Film & Arts [HD] 🟢
 http://pfsv.io:80/pu1411/HP5729/92668.m3u8
 #EXTINF:-1 tvg-name="FILM&ARTS [SD]" tvg-id="" group-title="FilmesSeries" tvg-logo="https://static.guiadetv.com/channel/fiUIa3E6ZmxBMqxMjafkkZKkqzoZX83NOgeEZ9BR.png",FILMESERIES Film & Arts [SD] 🟢
@@ -214,7 +232,6 @@ http://pfsv.io:80/pu1411/HP5729/348.m3u8
 http://pfsv.io:80/pu1411/HP5729/134867.m3u8
 #EXTINF:-1 tvg-name="FILM&ARTS [FHD][HDR]" tvg-id="" group-title="FilmesSeries" tvg-logo="https://static.guiadetv.com/channel/fiUIa3E6ZmxBMqxMjafkkZKkqzoZX83NOgeEZ9BR.png",FILMESERIES Film & Arts [FHD][HDR] 🟢
 http://pfsv.io:80/pu1411/HP5729/130189.m3u8
-
 #EXTINF:-1 tvg-name="TNTSERIES" tvg-id="TNT Séries.br" group-title="FilmesSeries" tvg-logo="https://static.guiadetv.com/channel/Yoz5IOXmqF6iQhBqfD1SzIJ8s7jGHnMu3I1FgYkO.png",FILMESERIES TNT 
 https://cdn-4.nxplay.com.br/TNT_TK/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-name="TNTSERIES" tvg-id="TNT Séries.br" group-title="FilmesSeries" tvg-logo="https://static.guiadetv.com/channel/daYbztWnSmemgmYOIB9v2iXxY4QJVbtSgDgF7d3P.png",FILMESERIES TNT Series
