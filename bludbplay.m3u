@@ -328,9 +328,6 @@ https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/
  🔰   INFANTIL   🔰 
 
 
-#EXTINF:-1 tvg-id="TOONCAST" tvg-name="" group-title="Infantil" tvg-logo="https://static.guiadetv.com/channel/R51ScLaG4Ou2vCXyuBOQoeDUWD5l83pNshs3UVux.png",INFANTIL Tooncast [HD][ES]
-http://pfsv.io:80/pu1411/HP5729/48756.m3u8
-
 #EXTINF:-1 tvg-id="ADULTSWIM" tvg-name="" group-title="Infantil" tvg-logo="https://ih1.redbubble.net/image.333612268.2321/st,small,507x507-pad,600x600,f8f8f8.u4.jpg",INFANTIL Adult Swim 🟢
 https://anonmedia.eu/adultswim/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="CARTOONITO" tvg-name="" group-title="Infantil" tvg-logo="https://static.guiadetv.com/channel/FsH0Wf1zAeziNfzXFWZK4BqTjjOEhaT6R0k5CHT4.png",INFANTIL Cartoonito [HD] 🟢
