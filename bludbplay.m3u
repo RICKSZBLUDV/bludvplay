@@ -8,11 +8,32 @@
 https://abc.embedmax.site/globoRJ/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.guiadetv.com/channel/xHC0ALHp6Liuce9CXm5qaAdTpBEVKpRmL9diquGM.png" group-title="Canais | GLOBO",CANAL ABERTO Globo RJ 2 [FHD] 🟢
 http://hzcdn.vood.top:80/hls/2374_.m3u8
-
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i0.wp.com/garrone.com.br/wp-content/uploads/2017/01/TVMirantelogo.jpg" group-title="Canais | GLOBO",CANAL ABERTO TV Mirante [HD] 🟢
 http://15.235.15.230:14499/MANOTV
 #EXTINF:-1 tvg-id="CIDADEH" tvg-name="RECORDTV CIDADE [FHD]" tvg-logo="http://p6.vc/AHF" group-title="Canais | Abertos",CANAL ABERTO RECORDTV CIDADE [FHD]
 http://pfsv.io:80/pu1411/HP5729/186197.m3u8
+
+#EXTINF:-1 tvg-id="CIDADEH" tvg-name="RECORDTV CIDADE [FHD]" tvg-logo="http://p6.vc/AHF" group-title="Canais | Abertos",CANAL ABERTO RECORDTV CIDADE [FHD]
+http://pfsv.io:80/pu1411/HP5729/186197.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RECORDTV CIDADE [FHD][H265]" tvg-logo="http://p6.vc/AHF" group-title="Canais | Abertos",CANAL ABERTO RECORDTV CIDADE [FHD][H265]
+http://pfsv.io:80/pu1411/HP5729/186200.m3u8
+#EXTINF:-1 tvg-id="CIDADEH" tvg-name="RECORDTV CIDADE [FHD][HDR]" tvg-logo="http://p6.vc/AKF0" group-title="Canais | Abertos",CANAL ABERTO RECORDTV CIDADE [FHD][HDR]
+http://pfsv.io:80/pu1411/HP5729/186201.m3u8#
+EXTINF:-1 tvg-id="CIDADEH" tvg-name="RECORDTV CIDADE [HD]" tvg-logo="http://p6.vc/AKE9" group-title="Canais | Abertos",CANAL ABERTO RECORDTV CIDADE [HD]
+http://pfsv.io:80/pu1411/HP5729/186199.m3u8
+#EXTINF:-1 tvg-id="CIDADEH" tvg-name="RECORDTV CIDADE [SD]" tvg-logo="http://p6.vc/AKE8" group-title="Canais | Abertos",CANAL ABERTO RECORDTV CIDADE [SD]
+http://pfsv.io:80/pu1411/HP5729/186198.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="CANAL ABERTO",CANAL ABERTO SBT MA
+http://srv3.zoeweb.tv:1935/z437-live/stream/livestream.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="CANAL ABERTO",CANAL ABERTO SBT MA
+http://difusorama.zoeweb.tv:1935/z437-live/stream/chunklist_w1260675550.m3u8
+#EXTINF:-1 tvg-logo="http://s32.postimg.org/5fmicyl3p/SBT1.png" group-title="TV Aberta" ,CANAL ABERTO SBT MA
+http://difusorama.zoeweb.tv:1935/z437-live/stream/playlist.m3u8?
+#EXTINF:-1 tvg-logo="https://lut.im/W5QVUt0DYq/mzQRmVqTys8b7oXU.png" group-title="CANAL ABERTO" ,CANAL ABERTO SBT MaranhÃ£o - TV Difusora
+http://difusorama.zoeweb.tv:1935/z437-live/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="SBT" tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="CANAL ABERTO",CANAL ABERTO SBT MA
+http://difusorama.zoeweb.tv:1935/z437-live/stream/chunklist_w1260675550.m3u8?EDSONSOUSALIST
 
 #EXTINF:-1 tvg-name="RECORDSP" tvg-id="RECORDSP" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/Fu29jsvxR56M6LbqVJiogZsKmENyo9shulnIPwqe.jpg",CANAL ABERTO Record Tv 🟢
 https://abc.embedmax.site/recordSP/tracks-v1a1/mono.m3u8
@@ -86,24 +107,22 @@ http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/178
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/172
 #EXTINF:-1 tvg-id="SporTV3" group-title="MultiSports" tvg-logo="https://tv-online.vercel.app/sportv3.png",ESPORTIVO SporTV 3
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/175
-#EXTINF:-1 tvg-id="PREMIEREFC" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/MEO9lxSgmC5CAwsKhTHPzZCZX9ZFE7lRFqA48ElS.png",ESPORTIVO Premiere Clubes
+#EXTINF:-1 tvg-id="PREMIEREFC" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/MEO9lxSgmC5CAwsKhTHPzZCZX9ZFE7lRFqA48ElS.png",ESPORTIVO Premiere Clubes 🟢
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/164
-#EXTINF:-1 tvg-id="PREMIERE2" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/ZaLxlvm4ijaSAtTwfhJTrvYjmiaFi8SciyiHwh9l.png",ESPORTIVO Premiere 2
+#EXTINF:-1 tvg-id="PREMIERE2" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/ZaLxlvm4ijaSAtTwfhJTrvYjmiaFi8SciyiHwh9l.png",ESPORTIVO Premiere 2 🟢
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/150
-#EXTINF:-1 tvg-id="PREMIERE3" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/FDXXZa0cRf9ZkXwruyrL8YJCwiJW8k2wEwMmiEeI.png",ESPORTIVO Premiere 3
+#EXTINF:-1 tvg-id="PREMIERE3" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/FDXXZa0cRf9ZkXwruyrL8YJCwiJW8k2wEwMmiEeI.png",ESPORTIVO Premiere 3 🟢
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/152
-#EXTINF:-1 tvg-id="PREMIERE4" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/76M6sIBSXfOQ1gs8huZq9blVihxjUYBk38SH5G1S.png",ESPORTIVO Premiere 4
+#EXTINF:-1 tvg-id="PREMIERE4" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/76M6sIBSXfOQ1gs8huZq9blVihxjUYBk38SH5G1S.png",ESPORTIVO Premiere 4 🟢
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/154
-#EXTINF:-1 tvg-id="PREMIERE5" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/RR5YcaXv67v9AKcLHXOyY9YuRBmNOPgC028PU8vV.png",ESPORTIVO Premiere 5
+#EXTINF:-1 tvg-id="PREMIERE5" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/RR5YcaXv67v9AKcLHXOyY9YuRBmNOPgC028PU8vV.png",ESPORTIVO Premiere 5 🟢
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/156
-#EXTINF:-1 tvg-id="PREMIERE6" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/mHFMJM5sGQnKorD0HnFXLO2JcUlHvEObjSZiHknP.png",ESPORTIVO Premiere 6
+#EXTINF:-1 tvg-id="PREMIERE6" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/mHFMJM5sGQnKorD0HnFXLO2JcUlHvEObjSZiHknP.png",ESPORTIVO Premiere 6 🟢
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/158
-#EXTINF:-1 tvg-id="PREMIERE7" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/IIxu6NiXwlVLL7Fs1cxm7VFLOeAu4TXu86wefVrG.png",ESPORTIVO Premiere 7
+#EXTINF:-1 tvg-id="PREMIERE7" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/IIxu6NiXwlVLL7Fs1cxm7VFLOeAu4TXu86wefVrG.png",ESPORTIVO Premiere 7 🟢
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/160
-
-#EXTINF:-1 tvg-id="BR - Premiere 8" tvg-name="PREMIERE 8 [FHD][HDR]" tvg-logo="http://p6.vc/VTD" group-title="Canais | Premiere",ESPORTIVO Premiere 8 [FHD][HDR]
+#EXTINF:-1 tvg-id="BR - Premiere 8" tvg-name="PREMIERE 8 [FHD][HDR]" tvg-logo="http://p6.vc/VTD" group-title="Canais | Premiere",ESPORTIVO Premiere 8 [FHD][HDR] 🟢
 http://pfsv.io:80/pu1411/HP5729/130240.m3u8
-
 #EXTINF:-1 tvg-id="ESPN" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/TjGpU2fe85zIbjNbJU92iR7Uup7BnpXtKVvuAALV.png",ESPORTIVO ESPN
 https://abc.embedmax.site/espn1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ESPN2" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/55279R9yfRKnzN4XUeuZ9hdd0WM61fD8rKAPD4oI.png",ESPORTIVO ESPN 2
@@ -140,18 +159,25 @@ https://abc.embedmax.site/discoveryid/tracks-v1a1/mono.m3u8
 🔰  VARIEDADES  🔰
  
 
-#EXTINF:-1 tvg-id="BR - DOGTV" tvg-name="DOG TV [FHD][HDR]" tvg-logo="http://p6.vc/VRD" group-title="Canais | Variedades",VARIERADADE DOG TV [FHD][HDR]
+#EXTINF:-1 tvg-id="BR - FishTV" tvg-name="FISH TV [FHD]" tvg-logo="http://p6.vc/AIR" group-title="Canais | Variedades",FISH TV [FHD]
+http://pfsv.io:80/pu1411/HP5729/100.m3u8
+#EXTINF:-1 tvg-id="BR - FishTV" tvg-name="FISH TV [FHD][H265]" tvg-logo="http://p6.vc/VMW" group-title="Canais | Variedades",FISH TV [FHD][H265]
+http://pfsv.io:80/pu1411/HP5729/30185.m3u8
+#EXTINF:-1 tvg-id="BR - FishTV" tvg-name="FISH TV [HD]" tvg-logo="http://p6.vc/AIY" group-title="Canais | Variedades",FISH TV [HD]
+http://pfsv.io:80/pu1411/HP5729/109.m3u8
+#EXTINF:-1 tvg-id="BR - FishTV" tvg-name="FISH TV [SD]" tvg-logo="http://p6.vc/AJH" group-title="Canais | Variedades",FISH TV [SD]
+http://pfsv.io:80/pu1411/HP5729/118.m3u8
+#EXTINF:-1 tvg-id="BR - FishTV" tvg-name="FISH TV [FHD][HDR]" tvg-logo="http://p6.vc/AIR" group-title="Canais | Variedades",FISH TV [FHD][HDR]
+http://pfsv.io:80/pu1411/HP5729/130258.m3u8
+
+#EXTINF:-1 tvg-id="BR - DOGTV" tvg-name="DOG TV [FHD][HDR]" tvg-logo="http://p6.vc/VRD" group-title="Canais | Variedades",VARIERADADE DOG TV [FHD][HDR] 🟢
 http://pfsv.io:80/pu1411/HP5729/130256.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="CANAL DO BOI [FHD]" tvg-logo="http://p6.vc/AIA" group-title="Canais | Abertos",VARIERADADE CANAL DO BOI [FHD]
+#EXTINF:-1 tvg-id="" tvg-name="CANAL DO BOI [FHD]" tvg-logo="http://p6.vc/AIA" group-title="Canais | Abertos",VARIERADADE CANAL DO BOI [FHD] 🟢
 http://pfsv.io:80/pu1411/HP5729/199614.m3u8
-
-#EXTINF:-1 tvg-id="BR - Music Box Brasil" tvg-name="MUSIC BOX BRASIL [FHD][HDR]" tvg-logo="http://p6.vc/VAP" group-title="Canais | Art & Music",VARIERADADE MUSIC BOX BRASIL [FHD][HDR]
+#EXTINF:-1 tvg-id="BR - Music Box Brasil" tvg-name="MUSIC BOX BRASIL [FHD][HDR]" tvg-logo="http://p6.vc/VAP" group-title="Canais | Art & Music",VARIERADADE MUSIC BOX BRASIL [FHD][HDR] 🟢
 http://pfsv.io:80/pu1411/HP5729/130225.m3u8
-
-#EXTINF:-1 tvg-id="BR - Travel Box Brazil" tvg-name="TRAVEL BOX BRAZIL [FHD][HDR]" tvg-logo="https://static.guiadetv.com/channel/GB1G3QsUrnE6wCXirIUhDug4S9LTKV2QXi6Xsjpm.png" group-title="Canais | Variedades",VARIERADADE TRAVEL BOX BRAZIL [FHD][HDR]
+#EXTINF:-1 tvg-id="BR - Travel Box Brazil" tvg-name="TRAVEL BOX BRAZIL [FHD][HDR]" tvg-logo="https://static.guiadetv.com/channel/GB1G3QsUrnE6wCXirIUhDug4S9LTKV2QXi6Xsjpm.png" group-title="Canais | Variedades",VARIERADADE TRAVEL BOX BRAZIL [FHD][HDR] 🟢
 http://pfsv.io:80/pu1411/HP5729/130262.m3u8
-
 #EXTINF:-1 group-title="Variedade" tvg-logo="https://www.campsoft.com.br/wp-content/uploads/2023/09/Woohoo_300x300.png",VARIERADADE WOOHOO [FHD] 🟢
 http://pfsv.io:80/pu1411/HP5729/133.m3u8
 #EXTINF:-1 group-title="Variedade" tvg-logo="https://www.campsoft.com.br/wp-content/uploads/2023/09/Woohoo_300x300.png",VARIERADADE WOOHOO [FHD][H265] 🟢
@@ -162,7 +188,6 @@ http://pfsv.io:80/pu1411/HP5729/14.m3u8
 http://pfsv.io:80/pu1411/HP5729/7.m3u8
 #EXTINF:-1 group-title="Variedade" tvg-logo="https://www.campsoft.com.br/wp-content/uploads/2023/09/Woohoo_300x300.png",VARIERADADE WOOHOO [FHD][HDR] 🟢
 http://pfsv.io:80/pu1411/HP5729/130227.m3u8
-
 #EXTINF:-1 tvg-id="TVZYN" tvg-name="TVZYN" group-title="Variedade" tvg-logo="https://static.sbt.com.br/noticias/images/175757.jpg",VARIERADADE TV Zyn
 https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5w3mfvzg9saoi/playlist.m3u8
 #EXTINF:-1 tvg-name="TVZOOM" tvg-id="TVZOOM" group-title="Variedade" tvg-logo="https://yt3.googleusercontent.com/QAsNFT9W4PEh_R4c2RTmWjcd9C0DvCh9HUvhZUBvA4tfNHRRRJ4zlC9IaQbdoUXCUPmagIl4Rg=s900-c-k-c0x00ffffff-no-rj",VARIERADADE TV Zoom
