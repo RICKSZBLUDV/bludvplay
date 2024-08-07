@@ -449,7 +449,7 @@ https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
 
 ############################################################################ Canais | ANIMES
 
-#EXTINF:-1 tvg-logo="https://imgur.com/K4IrU99.png" group-title="Canais | INFANTIL",CANAL ANIMES Animes TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/EPCg7HOyu0j7pnW6qhuBRYrlTFZsT94LEEShCBcqmQQl0HiQPZNI4__EySuIVPwG1A=w526-h296-rw" group-title="Canais | INFANTIL",CANAL ANIMES Anime TV
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8?ManoTV
 
 #EXTINF:-1 tvg-id="Pluto TV Anime ação" tvg-logo="https://images.pluto.tv/channels/604b79c558393100078faeef/solidLogoPNG.png" group-title="Canais | ANIMES & GEEK",CANAL ANIMES Pluto TV Anime Ação
@@ -506,7 +506,7 @@ https://stmv1.srvif.com/animetv/animetv/playlist.m3u8?ManoTV
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2HaiovZ.png" group-title="Canais | ANIMES & GEEK",CANAL ANIMES Hallo Anime HD
 https://cdn-1.nxplay.com.br/HALLOANIME/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.otakupt.com/wp-content/uploads/2020/03/Animax-vai-exibir-anime-gratuitamente-no-Jap%C3%A3o-devido-ao-Coronav%C3%ADrus-COVID-19.jpg" group-title="Canais | ANIMES & GEEK",CANAL ANIMES Animax
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/px/285466/svg/animax-logo-logo-icon-png-svg.png" group-title="Canais | ANIMES & GEEK",CANAL ANIMES Animax
 https://stream.ichibantv.com:3547/hybrid/play.m3u8
 
  🟤 (off) 🟡 (erro) 🟢 (on)
