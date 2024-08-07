@@ -13,7 +13,7 @@ http://pfsv.io:80/pu1411/HP5729/403.m3u8
 #EXTINF:-1 tvg-id="MIRSLHD" tvg-name="GLOBO TV MIRANTE SAO LUIS [SD]" tvg-logo="http://p6.vc/AUL" group-title="Canais | Globo",GLOBO TV MIRANTE SAO LUIS [FHD2]
 http://pfsv.io:80/pu1411/HP5729/440.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/lm4HhaL.png" group-title="Canais | ABERTO",TV A Critica HD
+#EXTINF:-1 tvg-logo="https://imgur.com/lm4HhaL.png" group-title="Canais | ABERTO",CANAL ABERTO TV A Critica HD
 https://ythls.armelin.one/channel/UCnLSKfHkgZ6ujEYCO9jq7Sw.m3u8
 
 #EXTINF:-1 tvg-id="CIDADEH" tvg-name="RECORDTV CIDADE [FHD]" tvg-logo="http://p6.vc/AHF" group-title="Canais | Abertos",CANAL ABERTO RECORDTV CIDADE [FHD]
@@ -158,13 +158,6 @@ http://pfsv.io:80/pu1411/HP5729/228494.m3u8
 http://pfsv.io:80/pu1411/HP5729/227612.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[24H] [Musicas] Top 100 Gospel 2024 [SD]" tvg-logo="http://p6.vc/CUN4" group-title="Canais | Musicas [24H]",[24H] [Musicas] Top 100 Gospel 2024 [HD] 🟢
 http://pfsv.io:80/pu1411/HP5729/227616.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="BR: Dazn 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/M1SD.png" group-title="Brazil",BR: Dazn 1 HD
-http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/56597.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR: Dazn 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/M2SD.png" group-title="Brazil",BR: Dazn 2 HD
-http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/57161.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR: Dazn 3 HD" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2021/03/dazn3.png" group-title="Brazil",BR: Dazn 3 HD
-http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/71178.ts
 
 #EXTINF:-1 tvg-id="BR - FishTV" tvg-name="FISH TV [FHD]" tvg-logo="http://p6.vc/AIR" group-title="Canais | Variedades",VARIERADADE FISH TV [FHD] 🟢
 http://pfsv.io:80/pu1411/HP5729/100.m3u8
