@@ -8,26 +8,16 @@
 https://abc.embedmax.site/globoRJ/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.guiadetv.com/channel/xHC0ALHp6Liuce9CXm5qaAdTpBEVKpRmL9diquGM.png" group-title="Canais | GLOBO",CANAL ABERTO Globo RJ 2 [FHD] 🟢
 http://hzcdn.vood.top:80/hls/2374_.m3u8
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i0.wp.com/garrone.com.br/wp-content/uploads/2017/01/TVMirantelogo.jpg" group-title="Canais | GLOBO",CANAL ABERTO TV Mirante [HD] 🟢
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i0.wp.com/garrone.com.br/wp-content/uploads/2017/01/TVMirantelogo.jpg" group-title="Canais | GLOBO",CANAL ABERTO TV Mirante [HD][GLOBO] 🟢
 http://15.235.15.230:14499/MANOTV
+
 #EXTINF:-1 tvg-id="CIDADEH" tvg-name="RECORDTV CIDADE [FHD]" tvg-logo="http://p6.vc/AHF" group-title="Canais | Abertos",CANAL ABERTO RECORDTV CIDADE [FHD]
 http://pfsv.io:80/pu1411/HP5729/186197.m3u8
-
-EXTINF:-1 tvg-id="CIDADEH" tvg-name="RECORDTV CIDADE [HD]" tvg-logo="http://p6.vc/AKE9" group-title="Canais | Abertos",CANAL ABERTO RECORDTV CIDADE [HD]
-http://pfsv.io:80/pu1411/HP5729/186199.m3u8
 #EXTINF:-1 tvg-id="CIDADEH" tvg-name="RECORDTV CIDADE [SD]" tvg-logo="http://p6.vc/AKE8" group-title="Canais | Abertos",CANAL ABERTO RECORDTV CIDADE [SD]
 http://pfsv.io:80/pu1411/HP5729/186198.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="CANAL ABERTO",CANAL ABERTO SBT MA 1
-http://srv3.zoeweb.tv:1935/z437-live/stream/livestream.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="CANAL ABERTO",CANAL ABERTO SBT MA 2
-http://difusorama.zoeweb.tv:1935/z437-live/stream/chunklist_w1260675550.m3u8
-#EXTINF:-1 tvg-logo="http://s32.postimg.org/5fmicyl3p/SBT1.png" group-title="TV Aberta",CANAL ABERTO SBT MA 3
-http://difusorama.zoeweb.tv:1935/z437-live/stream/playlist.m3u8?
-#EXTINF:-1 tvg-logo="https://lut.im/W5QVUt0DYq/mzQRmVqTys8b7oXU.png" group-title="CANAL ABERTO",CANAL ABERTO SBT - TV Difusora
-http://difusorama.zoeweb.tv:1935/z437-live/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="SBT" tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="CANAL ABERTO",CANAL ABERTO SBT MA 4
-http://difusorama.zoeweb.tv:1935/z437-live/stream/chunklist_w1260675550.m3u8?EDSONSOUSALIST
+#EXTINF:-1 tvg-logo="https://lut.im/W5QVUt0DYq/mzQRmVqTys8b7oXU.png" group-title="CANAL ABERTO",CANAL ABERTO TV Difusora [SBT]
+https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8
 
 #EXTINF:-1 tvg-name="RECORDSP" tvg-id="RECORDSP" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/Fu29jsvxR56M6LbqVJiogZsKmENyo9shulnIPwqe.jpg",CANAL ABERTO Record Tv 🟢
 https://abc.embedmax.site/recordSP/tracks-v1a1/mono.m3u8
