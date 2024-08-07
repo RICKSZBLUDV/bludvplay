@@ -206,15 +206,13 @@ http://pfsv.io:80/pu1411/HP5729/337.m3u8
 #EXTINF:-1 group-title="FilmesSeries" tvg-logo="https://static.guiadetv.com/channel/DNY6eszG7Vh4Bw6wgaCXFpwM9QM10YLtlYGLmgYU.png",FILMESERIES TCM [HD] 🟢
 http://pfsv.io:80/pu1411/HP5729/339.m3u8
 
-#EXTINF:-1 group-title="FilmesSeries" tvg-logo="https://static.guiadetv.com/channel/fiUIa3E6ZmxBMqxMjafkkZKkqzoZX83NOgeEZ9BR.png",FILMESERIES Film & Arts [SD] 🟢
-https://cdn-3.nxplay.com.br/Film_Arts_Brasil_TK/index.m3u8
-#EXTINF:-1 tvg-name="FILM&ARTS [HD]" tvg-id="" group-title="FilmesSeries" tvg-logo="https://static.guiadetv.com/channel/fiUIa3E6ZmxBMqxMjafkkZKkqzoZX83NOgeEZ9BR.png",FILMESERIES Film & Arts [HD]
+#EXTINF:-1 tvg-name="FILM&ARTS [HD]" tvg-id="" group-title="FilmesSeries" tvg-logo="https://static.guiadetv.com/channel/fiUIa3E6ZmxBMqxMjafkkZKkqzoZX83NOgeEZ9BR.png",FILMESERIES Film & Arts [HD] 🟢
 http://pfsv.io:80/pu1411/HP5729/92668.m3u8
-#EXTINF:-1 tvg-name="FILM&ARTS [SD]" tvg-id="" group-title="FilmesSeries" tvg-logo="https://static.guiadetv.com/channel/fiUIa3E6ZmxBMqxMjafkkZKkqzoZX83NOgeEZ9BR.png",FILMESERIES Film & Arts [SD]
+#EXTINF:-1 tvg-name="FILM&ARTS [SD]" tvg-id="" group-title="FilmesSeries" tvg-logo="https://static.guiadetv.com/channel/fiUIa3E6ZmxBMqxMjafkkZKkqzoZX83NOgeEZ9BR.png",FILMESERIES Film & Arts [SD] 🟢
 http://pfsv.io:80/pu1411/HP5729/348.m3u8
-#EXTINF:-1 tvg-name="FILM&ARTS [FHD]" tvg-id="" group-title="FilmesSeries" tvg-logo="https://static.guiadetv.com/channel/fiUIa3E6ZmxBMqxMjafkkZKkqzoZX83NOgeEZ9BR.png",FILMESERIES Film & Arts [FHD]
+#EXTINF:-1 tvg-name="FILM&ARTS [FHD]" tvg-id="" group-title="FilmesSeries" tvg-logo="https://static.guiadetv.com/channel/fiUIa3E6ZmxBMqxMjafkkZKkqzoZX83NOgeEZ9BR.png",FILMESERIES Film & Arts [FHD] 🟢
 http://pfsv.io:80/pu1411/HP5729/134867.m3u8
-#EXTINF:-1 tvg-name="FILM&ARTS [FHD][HDR]" tvg-id="" group-title="FilmesSeries" tvg-logo="https://static.guiadetv.com/channel/fiUIa3E6ZmxBMqxMjafkkZKkqzoZX83NOgeEZ9BR.png",FILMESERIES Film & Arts [FHD][HDR]
+#EXTINF:-1 tvg-name="FILM&ARTS [FHD][HDR]" tvg-id="" group-title="FilmesSeries" tvg-logo="https://static.guiadetv.com/channel/fiUIa3E6ZmxBMqxMjafkkZKkqzoZX83NOgeEZ9BR.png",FILMESERIES Film & Arts [FHD][HDR] 🟢
 http://pfsv.io:80/pu1411/HP5729/130189.m3u8
 
 #EXTINF:-1 tvg-name="TNTSERIES" tvg-id="TNT Séries.br" group-title="FilmesSeries" tvg-logo="https://static.guiadetv.com/channel/Yoz5IOXmqF6iQhBqfD1SzIJ8s7jGHnMu3I1FgYkO.png",FILMESERIES TNT 
