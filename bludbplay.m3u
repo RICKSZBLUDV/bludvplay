@@ -4,9 +4,9 @@
  🔰  CANAIS ABERTOS 🔰
  
 
-#EXTINF:-1 tvg-logo="https://static.guiadetv.com/channel/xHC0ALHp6Liuce9CXm5qaAdTpBEVKpRmL9diquGM.png" group-title="Canais | GLOBO",CANAL ABERTO Globo RJ [FHD] 🟢
+#EXTINF:-1 tvg-logo="https://telaviva.com.br/wp-content/uploads/2015/05/Globo-Internacional-HD-2015_lettering_vertical_azul.jpg" group-title="Canais | GLOBO",CANAL ABERTO Globo RJ [FHD] 🟢
 https://abc.embedmax.site/globoRJ/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://static.guiadetv.com/channel/xHC0ALHp6Liuce9CXm5qaAdTpBEVKpRmL9diquGM.png" group-title="Canais | GLOBO",CANAL ABERTO Globo RJ 2 [FHD] 🟢
+#EXTINF:-1 tvg-logo="https://telaviva.com.br/wp-content/uploads/2015/05/Globo-Internacional-HD-2015_lettering_vertical_azul.jpg" group-title="Canais | GLOBO",CANAL ABERTO Globo RJ 2 [FHD] 🟢
 http://hzcdn.vood.top:80/hls/2374_.m3u8
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i0.wp.com/garrone.com.br/wp-content/uploads/2017/01/TVMirantelogo.jpg" group-title="Canais | GLOBO",CANAL ABERTO TV Mirante [HD][GLOBO] 🟢
 http://15.235.15.230:14499/MANOTV
@@ -16,18 +16,18 @@ http://pfsv.io:80/pu1411/HP5729/186197.m3u8
 #EXTINF:-1 tvg-id="CIDADEH" tvg-name="RECORDTV CIDADE [SD]" tvg-logo="http://p6.vc/AKE8" group-title="Canais | Abertos",CANAL ABERTO RECORDTV CIDADE [SD]
 http://pfsv.io:80/pu1411/HP5729/186198.m3u8
 
-#EXTINF:-1 tvg-logo="https://lut.im/W5QVUt0DYq/mzQRmVqTys8b7oXU.png" group-title="CANAL ABERTO",CANAL ABERTO TV Difusora [SBT]
+#EXTINF:-1 tvg-id="TVDifusoraSaoLuis.br" tvg-logo="https://lut.im/W5QVUt0DYq/mzQRmVqTys8b7oXU.png" group-title="CANAL ABERTO",CANAL ABERTO TV Difusora [SD][SBT]
 https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8
 
 #EXTINF:-1 tvg-name="RECORDSP" tvg-id="RECORDSP" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/Fu29jsvxR56M6LbqVJiogZsKmENyo9shulnIPwqe.jpg",CANAL ABERTO Record Tv 🟢
 https://abc.embedmax.site/recordSP/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/DTO0AQqFh9EsUSPjPUuvdm2JnvbI7WLy0800AvoH.jpg",CANAL ABERTO SBT 🟢
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" group-title="Brazil" tvg-logo="https://www.bastidoresdatv.com.br/wp-content/uploads/2015/12/Logotipo_do_SBT_SC.png",CANAL ABERTO SBT 🟢
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
-#EXTINF:-1 tvg-id="BAND" tvg-name="BAND" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/Dhd2ASSA3ha9MwOE9cZzmsk0NQuhFjv4MErKP6LC.gif",CANAL ABERTO Band 🟢
+#EXTINF:-1 tvg-id="BAND" tvg-name="BAND" group-title="Brazil" tvg-logo="https://olhonaband.wordpress.com/wp-content/uploads/2014/05/b25ce-e5yc.png",CANAL ABERTO Band 🟢
 https://abc.embedmax.site/band/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="GAZETA" tvg-name="GAZETA" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/WMaqcEWnSG531S6cXAb4N9VU52kvn3aA16vhlRs5.png",CANAL ABERTO TV Gazeta 🟢
 https://video08.logicahost.com.br/tvc21/tvc21/chunklist_w1241834151.m3u8
-#EXTINF:-1 tvg-id="REDETV" tvg-name="REDETV" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/sUyLBwfomYbm9MLwc7eIAznjkRSBuxOoHwdOm5ea.gif",CANAL ABERTO RedeTV 🟢
+#EXTINF:-1 tvg-id="REDETV" tvg-name="REDETV" group-title="Brazil" tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2017/09/redetv-logo.png",CANAL ABERTO RedeTV 🟢
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4555
 #EXTINF:-1 tvg-id="TVBRASIL" tvg-name="TVBRASIL" group-title="Brazil" tvg-logo="https://cdn.bs9.com.br/upload/dn_arquivo/2024/06/whatsapp-image-2024-06-25-at-160017.jpeg",CANAL ABERTO TV Brasil 🟢
 rtmp://wowza.softhost.com.br/ufg/tvufgweb
