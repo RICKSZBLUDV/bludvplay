@@ -132,15 +132,15 @@ https://abc.embedmax.site/discoveryid/tracks-v1a1/mono.m3u8
 🔰  VARIEDADES  🔰
  
 
-#EXTINF:-1 group-title="Variedade" tvg-logo="https://static.guiadetv.com/channel/nJoKtLF12MTdDuuGUOn1lGBADQfThnDcrWoduMnG.png",VARIERADADE WOOHOO [FHD] 🟢
+#EXTINF:-1 group-title="Variedade" tvg-logo="https://www.campsoft.com.br/wp-content/uploads/2023/09/Woohoo_300x300.png",VARIERADADE WOOHOO [FHD] 🟢
 http://pfsv.io:80/pu1411/HP5729/133.m3u8
-#EXTINF:-1 group-title="Variedade" tvg-logo="https://static.guiadetv.com/channel/nJoKtLF12MTdDuuGUOn1lGBADQfThnDcrWoduMnG.png",VARIERADADE WOOHOO [FHD][H265] 🟢
+#EXTINF:-1 group-title="Variedade" tvg-logo="https://www.campsoft.com.br/wp-content/uploads/2023/09/Woohoo_300x300.png",VARIERADADE WOOHOO [FHD][H265] 🟢
 http://pfsv.io:80/pu1411/HP5729/30174.m3u8
-#EXTINF:-1 group-title="Variedade" tvg-logo="https://static.guiadetv.com/channel/nJoKtLF12MTdDuuGUOn1lGBADQfThnDcrWoduMnG.png",VARIERADADE WOOHOO [HD] 🟢
+#EXTINF:-1 group-title="Variedade" tvg-logo="https://www.campsoft.com.br/wp-content/uploads/2023/09/Woohoo_300x300.png",VARIERADADE WOOHOO [HD] 🟢
 http://pfsv.io:80/pu1411/HP5729/14.m3u8
-#EXTINF:-1 group-title="Variedade" tvg-logo="https://static.guiadetv.com/channel/nJoKtLF12MTdDuuGUOn1lGBADQfThnDcrWoduMnG.png",VARIERADADE WOOHOO [SD] 🟢
+#EXTINF:-1 group-title="Variedade" tvg-logo="https://www.campsoft.com.br/wp-content/uploads/2023/09/Woohoo_300x300.png",VARIERADADE WOOHOO [SD] 🟢
 http://pfsv.io:80/pu1411/HP5729/7.m3u8
-#EXTINF:-1 group-title="Variedade" tvg-logo="https://static.guiadetv.com/channel/nJoKtLF12MTdDuuGUOn1lGBADQfThnDcrWoduMnG.png",VARIERADADE WOOHOO [FHD][HDR] 🟢
+#EXTINF:-1 group-title="Variedade" tvg-logo="https://www.campsoft.com.br/wp-content/uploads/2023/09/Woohoo_300x300.png",VARIERADADE WOOHOO [FHD][HDR] 🟢
 http://pfsv.io:80/pu1411/HP5729/130227.m3u8
 
 #EXTINF:-1 tvg-id="TVZYN" tvg-name="TVZYN" group-title="Variedade" tvg-logo="https://static.sbt.com.br/noticias/images/175757.jpg",VARIERADADE TV Zyn
