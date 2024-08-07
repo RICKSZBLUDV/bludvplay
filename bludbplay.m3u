@@ -32,8 +32,6 @@ https://video07.logicahost.com.br/redebrasil/redebrasil/chunklist_w7624697.m3u8
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCAMERA" tvg-name="TVCAMERA" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/a41CQSK0ykAH6hZK0AJyBmfQaY7xtoBJ37idr9u7.png",CANAL ABERTO TV Câmara 🟢
 https://stream3.camara.gov.br/tv1/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://static.guiadetv.com/channel/H4naH9diPMzwKJ89f1OolK3lhvaQngOQlkqlhHdn.png" group-title="Canais | NOTICIAS",CANAL ABERTO TV Senado [SD] 🟢
-http://pfsv.io:80/pu1411/HP5729/72.m3u8
 #EXTINF:-1 tvg-id="FUTURA" tvg-name="FUTURA" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/nUAaqJAEnnfuZi8PlToGqzrl228SE5b7Ht6vxp88.png",CANAL ABERTO Futura 🟢
 https://5a57bda70564a.streamlock.net/opovo/opovo.sdp/chunklist_w157550291.m3u8
 #EXTINF:-1 tvg-id="REDEVIDA" tvg-name="REDEVIDA" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/fWx398FZCOcj7C2YpuOb2KRWgfdpa4h1yFPSXrAv.gif",CANAL ABERTO Rede Vida 🟢
@@ -46,6 +44,8 @@ https://live-c.cf.dmcdn.net/sec2(zqgiYOW86vKP_fSSWTP2hcIjQXgeULnqlf7Rl1mUvNg1zPf
 https://cdn-3.nxplay.com.br/CANCAO_NOVA_TK/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="REDESECULO21" tvg-name="REDESECULO21" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/tuedRBvPQry0gAIJEZCuejW8Vnpy5Qyke6IbLAzr.png",CANAL ABERTO Rede Século 21 🟢
 https://cdn.live.br1.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/chunklist_b5795840.m3u8
+#EXTINF:-1 tvg-id="TVSENADO" tvg-name="TVSENADO" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/H4naH9diPMzwKJ89f1OolK3lhvaQngOQlkqlhHdn.png",CANAL ABERTO TV Senado [SD] 🟢
+http://pfsv.io:80/pu1411/HP5729/72.m3u8
 
 
 🔰  NOTICIAS  🔰
@@ -132,15 +132,15 @@ https://abc.embedmax.site/discoveryid/tracks-v1a1/mono.m3u8
 🔰  VARIEDADES  🔰
  
 
-#EXTINF:-1 tvg-logo="https://static.guiadetv.com/channel/nJoKtLF12MTdDuuGUOn1lGBADQfThnDcrWoduMnG.png" group-title="Canais | Art & Music",VARIERADADE WOOHOO [FHD] 🟢
+#EXTINF:-1 group-title="Variedade" tvg-logo="https://static.guiadetv.com/channel/nJoKtLF12MTdDuuGUOn1lGBADQfThnDcrWoduMnG.png",VARIERADADE WOOHOO [FHD] 🟢
 http://pfsv.io:80/pu1411/HP5729/133.m3u8
-#EXTINF:-1 tvg-logo="https://static.guiadetv.com/channel/nJoKtLF12MTdDuuGUOn1lGBADQfThnDcrWoduMnG.png" group-title="Canais | Art & Music",VARIERADADE WOOHOO [FHD][H265] 🟢
+#EXTINF:-1 group-title="Variedade" tvg-logo="https://static.guiadetv.com/channel/nJoKtLF12MTdDuuGUOn1lGBADQfThnDcrWoduMnG.png",VARIERADADE WOOHOO [FHD][H265] 🟢
 http://pfsv.io:80/pu1411/HP5729/30174.m3u8
-#EXTINF:-1 tvg-logo="https://static.guiadetv.com/channel/nJoKtLF12MTdDuuGUOn1lGBADQfThnDcrWoduMnG.png" group-title="Canais | Art & Music",VARIERADADE WOOHOO [HD] 🟢
+#EXTINF:-1 group-title="Variedade" tvg-logo="https://static.guiadetv.com/channel/nJoKtLF12MTdDuuGUOn1lGBADQfThnDcrWoduMnG.png",VARIERADADE WOOHOO [HD] 🟢
 http://pfsv.io:80/pu1411/HP5729/14.m3u8
-#EXTINF:-1 tvg-logo="https://static.guiadetv.com/channel/nJoKtLF12MTdDuuGUOn1lGBADQfThnDcrWoduMnG.png" group-title="Canais | Art & Music",VARIERADADE WOOHOO [SD] 🟢
+#EXTINF:-1 group-title="Variedade" tvg-logo="https://static.guiadetv.com/channel/nJoKtLF12MTdDuuGUOn1lGBADQfThnDcrWoduMnG.png",VARIERADADE WOOHOO [SD] 🟢
 http://pfsv.io:80/pu1411/HP5729/7.m3u8
-#EXTINF:-1 tvg-logo="https://static.guiadetv.com/channel/nJoKtLF12MTdDuuGUOn1lGBADQfThnDcrWoduMnG.png" group-title="Canais | Art & Music",VARIERADADE WOOHOO [FHD][HDR] 🟢
+#EXTINF:-1 group-title="Variedade" tvg-logo="https://static.guiadetv.com/channel/nJoKtLF12MTdDuuGUOn1lGBADQfThnDcrWoduMnG.png",VARIERADADE WOOHOO [FHD][HDR] 🟢
 http://pfsv.io:80/pu1411/HP5729/130227.m3u8
 
 #EXTINF:-1 tvg-id="TVZYN" tvg-name="TVZYN" group-title="Variedade" tvg-logo="https://static.sbt.com.br/noticias/images/175757.jpg",VARIERADADE TV Zyn
@@ -192,22 +192,31 @@ https://cdn-3.nxplay.com.br/FOOD_NETWORK_NX/index.m3u8
  🔰  FILMES e SERIES  🔰
 
 
-#EXTINF:-1 tvg-logo="https://static.guiadetv.com/channel/WEf9IEYZNSmEynYxDW9YzSfYMJbYEjFzShcfsQxa.png" group-title="Canais | Filmes e Séries",FILMESERIES SYFY [FHD][HDR] 🟢
+#EXTINF:-1 group-title="FilmesSeries" tvg-logo="https://static.guiadetv.com/channel/WEf9IEYZNSmEynYxDW9YzSfYMJbYEjFzShcfsQxa.png",FILMESERIES SYFY [FHD][HDR] 🟢
 http://pfsv.io:80/pu1411/HP5729/130197.m3u8
-#EXTINF:-1 tvg-logo="https://static.guiadetv.com/channel/WEf9IEYZNSmEynYxDW9YzSfYMJbYEjFzShcfsQxa.png" group-title="Canais | Filmes e Séries",FILMESERIES SYFY [FHD] 🟢
+#EXTINF:-1 group-title="FilmesSeries" tvg-logo="https://static.guiadetv.com/channel/WEf9IEYZNSmEynYxDW9YzSfYMJbYEjFzShcfsQxa.png",FILMESERIES SYFY [FHD] 🟢
 http://pfsv.io:80/pu1411/HP5729/284.m3u8
-#EXTINF:-1 tvg-logo="https://static.guiadetv.com/channel/WEf9IEYZNSmEynYxDW9YzSfYMJbYEjFzShcfsQxa.png" group-title="Canais | Filmes e Séries",FILMESERIES SYFY [FHD][H265] 🟢
+#EXTINF:-1 group-title="FilmesSeries" tvg-logo="https://static.guiadetv.com/channel/WEf9IEYZNSmEynYxDW9YzSfYMJbYEjFzShcfsQxa.png",FILMESERIES SYFY [FHD][H265] 🟢
 http://pfsv.io:80/pu1411/HP5729/30222.m3u8
-#EXTINF:-1 tvg-logo="https://static.guiadetv.com/channel/WEf9IEYZNSmEynYxDW9YzSfYMJbYEjFzShcfsQxa.png" group-title="Canais | Filmes e Séries",FILMESERIES SYFY [HD] 🟢
+#EXTINF:-1 group-title="FilmesSeries" tvg-logo="https://static.guiadetv.com/channel/WEf9IEYZNSmEynYxDW9YzSfYMJbYEjFzShcfsQxa.png",FILMESERIES SYFY [HD] 🟢
 http://pfsv.io:80/pu1411/HP5729/312.m3u8
-#EXTINF:-1 tvg-logo="https://static.guiadetv.com/channel/WEf9IEYZNSmEynYxDW9YzSfYMJbYEjFzShcfsQxa.png" group-title="Canais | Filmes e Séries",FILMESERIES SYFY [SD] 🟢
+#EXTINF:-1 group-title="FilmesSeries" tvg-logo="https://static.guiadetv.com/channel/WEf9IEYZNSmEynYxDW9YzSfYMJbYEjFzShcfsQxa.png",FILMESERIES SYFY [SD] 🟢
 http://pfsv.io:80/pu1411/HP5729/337.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.guiadetv.com/channel/DNY6eszG7Vh4Bw6wgaCXFpwM9QM10YLtlYGLmgYU.png" group-title="Canais | Filmes e Séries",FILMESERIES TCM [HD] 🟢
+#EXTINF:-1 group-title="FilmesSeries" tvg-logo="https://static.guiadetv.com/channel/DNY6eszG7Vh4Bw6wgaCXFpwM9QM10YLtlYGLmgYU.png",FILMESERIES TCM [HD] 🟢
 http://pfsv.io:80/pu1411/HP5729/339.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.guiadetv.com/channel/fiUIa3E6ZmxBMqxMjafkkZKkqzoZX83NOgeEZ9BR.png" group-title="Canais | FILMES E SERIES",FILMESERIES Film & Arts [SD] 🟢
+#EXTINF:-1 group-title="FilmesSeries" tvg-logo="https://static.guiadetv.com/channel/fiUIa3E6ZmxBMqxMjafkkZKkqzoZX83NOgeEZ9BR.png",FILMESERIES Film & Arts [SD] 🟢
 https://cdn-3.nxplay.com.br/Film_Arts_Brasil_TK/index.m3u8
+#EXTINF:-1 tvg-name="FILM&ARTS [HD]" tvg-id="BR - Film & Arts" group-title="FilmesSeries" tvg-logo="http://p6.vc/WKJ",FILM&ARTS [HD]
+http://pfsv.io:80/pu1411/HP5729/92668.m3u8
+#EXTINF:-1 tvg-name="FILM&ARTS [SD]" tvg-id="BR - Film & Arts" group-title="FilmesSeries" tvg-logo="http://p6.vc/ARO",FILM&ARTS [SD]
+http://pfsv.io:80/pu1411/HP5729/348.m3u8
+#EXTINF:-1 tvg-name="FILM&ARTS [FHD]" tvg-id="BR - Film & Arts" group-title="FilmesSeries" tvg-logo="http://p6.vc/WKJ",FILM&ARTS [FHD]
+http://pfsv.io:80/pu1411/HP5729/134867.m3u8
+#EXTINF:-1 tvg-name="FILM&ARTS [FHD][HDR]" tvg-id="BR - Film & Arts" group-title="FilmesSeries" tvg-logo="http://p6.vc/WKJ",FILM&ARTS [FHD][HDR]
+http://pfsv.io:80/pu1411/HP5729/130189.m3u8
+
 #EXTINF:-1 tvg-name="TNTSERIES" tvg-id="TNT Séries.br" group-title="FilmesSeries" tvg-logo="https://static.guiadetv.com/channel/Yoz5IOXmqF6iQhBqfD1SzIJ8s7jGHnMu3I1FgYkO.png",FILMESERIES TNT 
 https://cdn-4.nxplay.com.br/TNT_TK/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-name="TNTSERIES" tvg-id="TNT Séries.br" group-title="FilmesSeries" tvg-logo="https://static.guiadetv.com/channel/daYbztWnSmemgmYOIB9v2iXxY4QJVbtSgDgF7d3P.png",FILMESERIES TNT Series
@@ -285,7 +294,7 @@ https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/
  🔰   INFANTIL   🔰 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.guiadetv.com/channel/R51ScLaG4Ou2vCXyuBOQoeDUWD5l83pNshs3UVux.png" group-title="Canais | INFANTIL",INFANTIL Tooncast [HD][ES]
+#EXTINF:-1 tvg-id="TOONCAST" tvg-name="" group-title="Infantil" tvg-logo="https://static.guiadetv.com/channel/R51ScLaG4Ou2vCXyuBOQoeDUWD5l83pNshs3UVux.png",INFANTIL Tooncast [HD][ES]
 http://pfsv.io:80/pu1411/HP5729/48756.m3u8
 
 #EXTINF:-1 tvg-id="ADULTSWIM" tvg-name="" group-title="Infantil" tvg-logo="https://ih1.redbubble.net/image.333612268.2321/st,small,507x507-pad,600x600,f8f8f8.u4.jpg",INFANTIL Adult Swim
