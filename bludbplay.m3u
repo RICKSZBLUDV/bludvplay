@@ -6,6 +6,13 @@
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i0.wp.com/garrone.com.br/wp-content/uploads/2017/01/TVMirantelogo.jpg" group-title="Canais | GLOBO",CANAL ABERTO TV Mirante [HD][GLOBO] 🟢
 http://15.235.15.230:14499/MANOTV
+#EXTINF:-1 tvg-id="MIRSLHD" tvg-name="GLOBO TV MIRANTE SAO LUIS [FHD]" tvg-logo="http://p6.vc/ASF" group-title="Canais | Globo",GLOBO TV MIRANTE SAO LUIS [FHD]
+http://pfsv.io:80/pu1411/HP5729/368.m3u8
+#EXTINF:-1 tvg-id="MIRSLHD" tvg-name="GLOBO TV MIRANTE SAO LUIS [HD]" tvg-logo="http://p6.vc/ATJ" group-title="Canais | Globo",GLOBO TV MIRANTE SAO LUIS [HD]
+http://pfsv.io:80/pu1411/HP5729/403.m3u8
+#EXTINF:-1 tvg-id="MIRSLHD" tvg-name="GLOBO TV MIRANTE SAO LUIS [SD]" tvg-logo="http://p6.vc/AUL" group-title="Canais | Globo",GLOBO TV MIRANTE SAO LUIS [SD]
+http://pfsv.io:80/pu1411/HP5729/440.m3u8
+
 #EXTINF:-1 tvg-id="CIDADEH" tvg-name="RECORDTV CIDADE [FHD]" tvg-logo="http://p6.vc/AHF" group-title="Canais | Abertos",CANAL ABERTO RECORDTV CIDADE [FHD]
 http://pfsv.io:80/pu1411/HP5729/186197.m3u8
 #EXTINF:-1 tvg-id="CIDADEH" tvg-name="RECORDTV CIDADE [SD]" tvg-logo="http://p6.vc/AKE8" group-title="Canais | Abertos",CANAL ABERTO RECORDTV CIDADE [SD]
@@ -322,6 +329,15 @@ https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/
 
  🔰   INFANTIL   🔰 
 
+
+#EXTINF:-1 tvg-id="BOOMB" tvg-name="BR: Boomerang" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/boomerang_global.png" group-title="Brazil",BR: Boomerang
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/16960.ts
+#EXTINF:-1 tvg-id="TOONCB" tvg-name="BR: Tooncast FHD" tvg-logo="http://109.238.11.8:25461/logo/tv/tt/tooncast.png" group-title="Brazil",BR: Tooncast FHD
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/57088.ts
+#EXTINF:-1 tvg-id="TOONCB" tvg-name="BR: Tooncast HD" tvg-logo="http://109.238.11.8:25461/logo/tv/tt/tooncast.png" group-title="Brazil",BR: Tooncast HD
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/57089.ts
+#EXTINF:-1 tvg-id="TOONCB" tvg-name="BR: Tooncast" tvg-logo="http://109.238.11.8:25461/logo/tv/tt/tooncast.png" group-title="Brazil",BR: Tooncast
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/17985.ts
 
 #EXTINF:-1 tvg-id="TOONCAST" tvg-name="" group-title="Infantil" tvg-logo="https://static.guiadetv.com/channel/R51ScLaG4Ou2vCXyuBOQoeDUWD5l83pNshs3UVux.png",INFANTIL Tooncast [HD][ES]
 http://pfsv.io:80/pu1411/HP5729/48756.m3u8
