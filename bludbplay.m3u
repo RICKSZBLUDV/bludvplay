@@ -4,22 +4,12 @@
  🔰  CANAIS ABERTOS 🔰
  
 
-#EXTINF:-1 tvg-logo="http://z4.vc/AME" group-title="Canais | Abertos",TV Escola SD
-http://psrv.io:80/9089247/coreurl.me/18527
-
 #EXTINF:-1 tvg-id="MIRSLHD" tvg-name="GLOBO TV MIRANTE SAO LUIS [FHD]" tvg-logo="https://i0.wp.com/garrone.com.br/wp-content/uploads/2017/01/TVMirantelogo.jpg" group-title="Canais | Globo",GLOBO TV MIRANTE SAO LUIS [FHD] 🟢
 http://pfsv.io:80/pu1411/HP5729/368.m3u8
 #EXTINF:-1 tvg-id="MIRSLHD" tvg-name="GLOBO TV MIRANTE SAO LUIS [HD]" tvg-logo="https://i0.wp.com/garrone.com.br/wp-content/uploads/2017/01/TVMirantelogo.jpg" group-title="Canais | Globo",GLOBO TV MIRANTE SAO LUIS [HD] 🟢
 http://pfsv.io:80/pu1411/HP5729/403.m3u8
 #EXTINF:-1 tvg-id="MIRSLHD" tvg-name="GLOBO TV MIRANTE SAO LUIS [SD]" tvg-logo="https://i0.wp.com/garrone.com.br/wp-content/uploads/2017/01/TVMirantelogo.jpg" group-title="Canais | Globo",GLOBO TV MIRANTE SAO LUIS [FHD2] 🟢
 http://pfsv.io:80/pu1411/HP5729/440.m3u8
-
-#EXTINF:-1 tvg-logo="http://z4.vc/iWH" group-title="Canais | Globo",Globo TV Mirante Sao Luis FHD
-http://psrv.io:80/9089247/coreurl.me/18371
-#EXTINF:-1 tvg-logo="http://z4.vc/XMT" group-title="Canais | Globo",Globo TV Mirante Sao Luis HD
-http://psrv.io:80/9089247/coreurl.me/18370
-#EXTINF:-1 tvg-logo="http://z4.vc/k9T" group-title="Canais | Globo",Globo TV Mirante Sao Luis SD
-http://psrv.io:80/9089247/coreurl.me/18369
 
 #EXTINF:-1 tvg-id="TVDifusoraSaoLuis.br" tvg-logo="https://lut.im/W5QVUt0DYq/mzQRmVqTys8b7oXU.png" group-title="CANAL ABERTO",CANAL ABERTO TV Difusora [SD][SBT] 🟢
 https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8
@@ -338,8 +328,6 @@ https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Infantil" tvg-logo="https://static.guiadetv.com/channel/R51ScLaG4Ou2vCXyuBOQoeDUWD5l83pNshs3UVux.png",INFANTIL Tooncast 🟡
 https://cdn-3.nxplay.com.br/TOONCAST_TK/index.m3u8
-#EXTINF:-1 tvg-logo="http://z4.vc/7YA" group-title="Canais | Infantis",Tooncast SD
-http://psrv.io:80/9089247/coreurl.me/18533
 
 #EXTINF:-1 tvg-id="ADULTSWIM" tvg-name="" group-title="Infantil" tvg-logo="https://ih1.redbubble.net/image.333612268.2321/st,small,507x507-pad,600x600,f8f8f8.u4.jpg",INFANTIL Adult Swim 🟢
 https://anonmedia.eu/adultswim/tracks-v1a1/mono.m3u8
