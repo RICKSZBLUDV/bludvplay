@@ -13,13 +13,6 @@ http://canaishd.servidor.tv:8080/Davi01/Davi01/2705
  🔰  CANAIS ABERTOS 🔰
  
 
-#EXTINF:-1 tvg-id="MIRSLHD" tvg-name="GLOBO TV MIRANTE SAO LUIS [FHD]" tvg-logo="https://i0.wp.com/garrone.com.br/wp-content/uploads/2017/01/TVMirantelogo.jpg" group-title="Canais | Globo",GLOBO TV MIRANTE SAO LUIS [FHD] 🟢
-http://pfsv.io:80/pu1411/HP5729/368.m3u8
-#EXTINF:-1 tvg-id="MIRSLHD" tvg-name="GLOBO TV MIRANTE SAO LUIS [HD]" tvg-logo="https://i0.wp.com/garrone.com.br/wp-content/uploads/2017/01/TVMirantelogo.jpg" group-title="Canais | Globo",GLOBO TV MIRANTE SAO LUIS [HD] 🟢
-http://pfsv.io:80/pu1411/HP5729/403.m3u8
-#EXTINF:-1 tvg-id="MIRSLHD" tvg-name="GLOBO TV MIRANTE SAO LUIS [SD]" tvg-logo="https://i0.wp.com/garrone.com.br/wp-content/uploads/2017/01/TVMirantelogo.jpg" group-title="Canais | Globo",GLOBO TV MIRANTE SAO LUIS [FHD2] 🟢
-http://pfsv.io:80/pu1411/HP5729/440.m3u8
-
 #EXTINF:-1 tvg-id="TVDifusoraSaoLuis.br" tvg-logo="https://lut.im/W5QVUt0DYq/mzQRmVqTys8b7oXU.png" group-title="CANAL ABERTO",CANAL ABERTO TV Difusora [SD][SBT] 🟢
 https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lm4HhaL.png" group-title="Canais | ABERTO",CANAL ABERTO TV A Critica [HD] 🟢
