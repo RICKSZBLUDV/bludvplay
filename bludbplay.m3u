@@ -4,9 +4,6 @@
  🔰  CANAIS ABERTOS 🔰
  
 
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i0.wp.com/garrone.com.br/wp-content/uploads/2017/01/TVMirantelogo.jpg" group-title="Canais | Globo",CANAL ABERTO TV Mirante [HD][GLOBO] 🟢
-http://15.235.15.230:14499/MANOTV
-
 #EXTINF:-1 tvg-id="MIRSLHD" tvg-name="GLOBO TV MIRANTE SAO LUIS [FHD]" tvg-logo="https://i0.wp.com/garrone.com.br/wp-content/uploads/2017/01/TVMirantelogo.jpg" group-title="Canais | Globo",GLOBO TV MIRANTE SAO LUIS [FHD] 🟢
 http://pfsv.io:80/pu1411/HP5729/368.m3u8
 #EXTINF:-1 tvg-id="MIRSLHD" tvg-name="GLOBO TV MIRANTE SAO LUIS [HD]" tvg-logo="https://i0.wp.com/garrone.com.br/wp-content/uploads/2017/01/TVMirantelogo.jpg" group-title="Canais | Globo",GLOBO TV MIRANTE SAO LUIS [HD] 🟢
@@ -15,7 +12,6 @@ http://pfsv.io:80/pu1411/HP5729/403.m3u8
 http://pfsv.io:80/pu1411/HP5729/440.m3u8
 #EXTINF:-1 tvg-id="TVDifusoraSaoLuis.br" tvg-logo="https://lut.im/W5QVUt0DYq/mzQRmVqTys8b7oXU.png" group-title="CANAL ABERTO",CANAL ABERTO TV Difusora [SD][SBT] 🟢
 https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://imgur.com/lm4HhaL.png" group-title="Canais | ABERTO",CANAL ABERTO TV A Critica [HD] 🟢
 https://ythls.armelin.one/channel/UCnLSKfHkgZ6ujEYCO9jq7Sw.m3u8
 
@@ -183,7 +179,7 @@ http://pfsv.io:80/pu1411/HP5729/14.m3u8
 http://pfsv.io:80/pu1411/HP5729/7.m3u8
 #EXTINF:-1 group-title="Variedade" tvg-logo="https://www.campsoft.com.br/wp-content/uploads/2023/09/Woohoo_300x300.png",VARIERADADE WOOHOO [FHD][HDR] 🟢
 http://pfsv.io:80/pu1411/HP5729/130227.m3u8
-#EXTINF:-1 tvg-id="TVZYN" tvg-name="TVZYN" group-title="Variedade" tvg-logo="https://static.sbt.com.br/noticias/images/175757.jpg",VARIERADADE TV Zyn
+#EXTINF:-1 tvg-id="TVZYN" tvg-name="TVZYN" group-title="Variedade" tvg-logo="https://static.sbt.com.br/noticias/images/175757.jpg",VARIERADADE TV Zyn 🟢
 https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5w3mfvzg9saoi/playlist.m3u8
 #EXTINF:-1 tvg-name="TVZOOM" tvg-id="TVZOOM" group-title="Variedade" tvg-logo="https://yt3.googleusercontent.com/QAsNFT9W4PEh_R4c2RTmWjcd9C0DvCh9HUvhZUBvA4tfNHRRRJ4zlC9IaQbdoUXCUPmagIl4Rg=s900-c-k-c0x00ffffff-no-rj",VARIERADADE TV Zoom 🟢
 https://cdn.live.br1.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/chunklist.m3u8
@@ -329,7 +325,7 @@ https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/
  🔰   INFANTIL   🔰 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Infantil" tvg-logo="https://static.guiadetv.com/channel/R51ScLaG4Ou2vCXyuBOQoeDUWD5l83pNshs3UVux.png",INFANTIL Tooncast
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Infantil" tvg-logo="https://static.guiadetv.com/channel/R51ScLaG4Ou2vCXyuBOQoeDUWD5l83pNshs3UVux.png",INFANTIL Tooncast 🟡
 https://cdn-3.nxplay.com.br/TOONCAST_TK/index.m3u8
 
 #EXTINF:-1 tvg-id="ADULTSWIM" tvg-name="" group-title="Infantil" tvg-logo="https://ih1.redbubble.net/image.333612268.2321/st,small,507x507-pad,600x600,f8f8f8.u4.jpg",INFANTIL Adult Swim 🟢
