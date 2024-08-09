@@ -308,8 +308,12 @@ https://abc.embedmax.site/studiouniversal/tracks-v1a1/mono.m3u8
 https://abc.embedmax.site/universaltv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="STARCHANNEL" tvg-name="" group-title="FilmesSeries" tvg-logo="https://static.guiadetv.com/channel/0nYcX8Hb8tr7TEjuKY13mhI1tGQFUPcFfJmDOFS7.png",FILMESERIES Star Channel 🟢
 https://abc.embedmax.site/starchannel/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="CINECANAL" tvg-name="" group-title="FilmesSeries" tvg-logo="https://static.guiadetv.com/channel/53bideDJsyYmZCbagDWCumIRbmHTNxxezyPwgJ2a.png",FILMESERIES Cinecanal 🟢
-https://anonmedia.eu/cinecanal/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Cinecanal.br" tvg-name="CINECANAL [HD]" tvg-logo="https://static.guiadetv.com/channel/53bideDJsyYmZCbagDWCumIRbmHTNxxezyPwgJ2a.png" group-title="Canais | Filmes e Séries",CINECANAL [HD]
+http://pfsv.io:80/pu1411/HP5729/132946.m3u8
+#EXTINF:-1 tvg-id="Cinecanal.br" tvg-name="CINECANAL [SD]" tvg-logo="https://static.guiadetv.com/channel/53bideDJsyYmZCbagDWCumIRbmHTNxxezyPwgJ2a.png" group-title="Canais | Filmes e Séries",CINECANAL [SD]
+http://pfsv.io:80/pu1411/HP5729/132948.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CL: Cinecanal [SD]" tvg-logo="" group-title="Canais | Chile",CL: Cinecanal [SD]
+http://pfsv.io:80/pu1411/HP5729/228978.m3u8
 #EXTINF:-1 tvg-id="PARAMOUNT" tvg-name="" group-title="FilmesSeries" tvg-logo="https://static.guiadetv.com/channel/Cuc7QYzI4WnetlVk6lG4pdWHBJtklypGGgwfRFKD.png",FILMESERIES Paramount Network 🟢
 https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/289/289-3-main.m3u8
 #EXTINF:-1 tvg-id="SONYONEEMOCOES" tvg-name="" group-title="FilmesSeries" tvg-logo="https://imgur.com/CsC9aG5.png",FILMESERIES SONY One Emoções 🟢
