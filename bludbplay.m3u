@@ -18,6 +18,10 @@ http://pfsv.io:80/pu1411/HP5729/547.m3u8
 http://pfsv.io:80/pu1411/HP5729/551.m3u8
 #EXTINF:-1 tvg-id="TERRAVIVA" tvg-name="TERRAVIVA" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/l6zoKfkppjFVEOK7oFMAKUAGrcHbYmDBZMtcgLAN.png",ABERTO Terra Viva 🟤
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/6vBfgpS.png" group-title="TV ABERTA",ABERTO Terra Viva
+http://evpp.mm.uol.com.br:1935/band/terraviva/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://z4.vc/poc" group-title="Canais | Abertos",ABERTO Terra Viva [SD]
+http://psrv.io:80/9089247/coreurl.me/18540
 #EXTINF:-1 tvg-id="REDEBRASIL" tvg-name="REDEBRASIL" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/FckwNZIeOh4xLda5G2wKHu4SPN1E3JdKfSJKFGKt.png",ABERTO Rede Brasil
 http://pfsv.io:80/pu1411/HP5729/87.m3u8
 #EXTINF:-1 tvg-id="TVDifusoraSaoLuis.br" tvg-logo="https://lut.im/W5QVUt0DYq/mzQRmVqTys8b7oXU.png" group-title="CANAL ABERTO",ABERTO TV Difusora [SD][SBT] 🟢
