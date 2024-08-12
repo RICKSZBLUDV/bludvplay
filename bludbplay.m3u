@@ -86,40 +86,28 @@ https://abc.embedmax.site/espn2/tracks-v1a1/mono.m3u8
 https://cdn-4.nxplay.com.br/ESPN_3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ESPN4" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/NbCozvwgOONEXubbDHqcoBPkbBTrFcg5gA1aMA3o.png",ESPORTE ESPN 4 🟢
 https://abc.embedmax.site/espn4/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="ESPN5" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/a0k3Ik9vT9eMBoIc5ufsHvbHAdqilE3qmk3rOuvS.png",ESPORTE ESPN 5 🟢
-https://sportscdn.net/live/espn5.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="Canais | ESPN",ESPN 5 HD
+#EXTINF:-1 tvg-logo="https://static.guiadetv.com/channel/a0k3Ik9vT9eMBoIc5ufsHvbHAdqilE3qmk3rOuvS.png" group-title="Canais | ESPN",ESPORTE ESPN 5 [HD] 🟢
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/139
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="Canais | ESPN",ESPN 5 FHD
+#EXTINF:-1 tvg-logo="https://static.guiadetv.com/channel/a0k3Ik9vT9eMBoIc5ufsHvbHAdqilE3qmk3rOuvS.png" group-title="Canais | ESPN",ESPORTE ESPN 5 [FHD] 🟢
 http://cdnexpress.homelinux.net/live/27.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="Canais | ESPN",ESPN 5 HD
-http://xciptv.aplicativos.top:80/gabi4834/Bfh92928beb/118751
-
-#EXTINF:-1 tvg-id="ESPN6" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/nquFTL8kN4zEvZvNrn0frqh8KjAwN2jw4qb64Hzm.png",ESPORTE ESPN 6 🟢
-https://sportscdn.net/live/espn6.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="Canais | ESPN",ESPN 6
+#EXTINF:-1 tvg-logo="https://static.guiadetv.com/channel/nquFTL8kN4zEvZvNrn0frqh8KjAwN2jw4qb64Hzm.png" group-title="Canais | ESPN",ESPORTE ESPN 6 [HD] 🟢
 http://main.xplus2-main.xyz:2082/Tourobox1-HnVFocKipK/43bP6W1SNg/1005
-
 #EXTINF:-1 tvg-id="OFF" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/dVZbqIzcwz04Kd1lUc8Npm9MPPM2a7xa5RCS79fq.png",ESPORTE Off 🟢
 https://abc.embedmax.site/canaloff/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="BandSports" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/b5rLv8XUFPm6zzun6rmU8hSsqtsx18xueBIqQLaT.png",ESPORTE Band Sports 🟢
-https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/290/290.m3u8
-#EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS" tvg-logo="https://imgur.com/HyeeIkG.png" group-title="Canais | ESPORTES",Band Sports
+#EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS" tvg-logo="https://static.guiadetv.com/channel/b5rLv8XUFPm6zzun6rmU8hSsqtsx18xueBIqQLaT.png" group-title="Canais | ESPORTES",ESPORTE Band Sports [FHD] 🟢
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/121
-#EXTINF:-1 tvg-id="BANDSP" tvg-name="BR: BAND SPORTS FHD" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/band_sports.png" group-title="Brazil",BR: BAND SPORTS FHD
-http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/17024.ts
-#EXTINF:-1 tvg-id="BANDSP" tvg-name="BR: BAND SPORTS" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/band_sports.png" group-title="Brazil",BR: BAND SPORTS
-http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/71177.ts
-#EXTINF:-1 tvg-id="Bandsports HD" tvg-name="BAND SPORTS [FHD][H265]" tvg-logo="http://p6.vc/VSW" group-title="Canais | Esportes",BAND SPORTS [FHD][H265]
-http://pfsv.io:80/pu1411/HP5729/30275.m3u8
-#EXTINF:-1 tvg-id="São Paulo/SP  Canal do Boi" tvg-name="BAND SPORTS [HD]" tvg-logo="http://p6.vc/AOG" group-title="Canais | Esportes",BAND SPORTS [HD]
+#EXTINF:-1 tvg-id="São Paulo/SP  Canal do Boi" tvg-name="BAND SPORTS [HD]" tvg-logo="https://static.guiadetv.com/channel/b5rLv8XUFPm6zzun6rmU8hSsqtsx18xueBIqQLaT.png" group-title="Canais | Esportes",BAND SPORTS [HD] 🟢
 http://pfsv.io:80/pu1411/HP5729/256.m3u8
-#EXTINF:-1 tvg-id="São Paulo/SP  Canal do Boi" tvg-name="BAND SPORTS [SD]" tvg-logo="http://p6.vc/AOO" group-title="Canais | Esportes",BAND SPORTS [SD]
+#EXTINF:-1 tvg-id="São Paulo/SP  Canal do Boi" tvg-name="BAND SPORTS [SD]" tvg-logo="https://static.guiadetv.com/channel/b5rLv8XUFPm6zzun6rmU8hSsqtsx18xueBIqQLaT.png" group-title="Canais | Esportes",BAND SPORTS [SD] 🟢
 http://pfsv.io:80/pu1411/HP5729/265.m3u8
-#EXTINF:-1 tvg-id="Bandsports HD" tvg-name="BAND SPORTS [FHD][HDR]" tvg-logo="http://p6.vc/VSW" group-title="Canais | Esportes",BAND SPORTS [FHD][HDR]
+#EXTINF:-1 tvg-id="Bandsports HD" tvg-name="BAND SPORTS [FHD][HDR]" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/band_sports.png" group-title="Canais | Esportes",BAND SPORTS [FHD][HDR] 🟢
 http://pfsv.io:80/pu1411/HP5729/130175.m3u8
-
+#EXTINF:-1 tvg-id="BANDSP" tvg-name="BR: BAND SPORTS FHD" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/band_sports.png" group-title="Brazil",BR: BAND SPORTS [HD] 🟢
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/17024.ts
+#EXTINF:-1 tvg-id="Bandsports HD" tvg-name="BAND SPORTS [FHD][H265]" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/band_sports.png" group-title="Canais | Esportes",BAND SPORTS [FHD][H265] 🟢
+http://pfsv.io:80/pu1411/HP5729/30275.m3u8
+#EXTINF:-1 tvg-id="BANDSP" tvg-name="BR: BAND SPORTS" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/band_sports.png" group-title="Brazil",BR: BAND SPORTS [SD] 🟢
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/71177.ts
 #EXTINF:-1 tvg-id="SporTV" tvg-name="" group-title="MultiSports" tvg-logo="https://tv-online.vercel.app/logo-sportv.png",ESPORTE SporTV 🟢
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/178
 #EXTINF:-1 tvg-id="SporTV2" tvg-name="" group-title="MultiSports" tvg-logo="https://tv-online.vercel.app/logo-sportv2.png",ESPORTE SporTV 2 🟢
