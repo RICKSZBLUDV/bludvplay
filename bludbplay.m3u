@@ -22,14 +22,15 @@
  🔰  CANAIS ABERTOS 🔰
  
 
+#EXTINF:-1 tvg-id="TERRAVIVA" tvg-name="TERRAVIVA" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/l6zoKfkppjFVEOK7oFMAKUAGrcHbYmDBZMtcgLAN.png",CA Terra Viva 🟤
+http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
+
 #EXTINF:-1 tvg-id="BR - Rede Vida" tvg-name="REDE VIDA [FHD]" tvg-logo="https://static.guiadetv.com/channel/fWx398FZCOcj7C2YpuOb2KRWgfdpa4h1yFPSXrAv.gif" group-title="Canais | Religiosos",CA REDE VIDA [FHD] 🟢
 http://pfsv.io:80/pu1411/HP5729/545.m3u8
 #EXTINF:-1 tvg-id="BR - Rede Vida" tvg-name="REDE VIDA [HD]" tvg-logo="https://static.guiadetv.com/channel/fWx398FZCOcj7C2YpuOb2KRWgfdpa4h1yFPSXrAv.gif" group-title="Canais | Religiosos",CA REDE VIDA [HD] 🟢
 http://pfsv.io:80/pu1411/HP5729/547.m3u8
 #EXTINF:-1 tvg-id="BR - Rede Vida" tvg-name="REDE VIDA [SD]" tvg-logo="https://static.guiadetv.com/channel/fWx398FZCOcj7C2YpuOb2KRWgfdpa4h1yFPSXrAv.gif" group-title="Canais | Religiosos",CA REDE VIDA [SD] 🟢
 http://pfsv.io:80/pu1411/HP5729/551.m3u8
-#EXTINF:-1 tvg-id="TERRAVIVA" tvg-name="TERRAVIVA" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/l6zoKfkppjFVEOK7oFMAKUAGrcHbYmDBZMtcgLAN.png",CA Terra Viva 🟤
-http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
 #EXTINF:-1 tvg-id="REDEBRASIL" tvg-name="REDEBRASIL" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/FckwNZIeOh4xLda5G2wKHu4SPN1E3JdKfSJKFGKt.png",CA Rede Brasil🟢
 http://pfsv.io:80/pu1411/HP5729/87.m3u8
 #EXTINF:-1 tvg-id="TVDifusoraSaoLuis.br" tvg-logo="https://lut.im/W5QVUt0DYq/mzQRmVqTys8b7oXU.png" group-title="CANAL ABERTO",CA TV Difusora [SD][SBT] 🟢
