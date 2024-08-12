@@ -27,11 +27,13 @@ http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVDifusoraSaoLuis.br" tvg-logo="https://lut.im/W5QVUt0DYq/mzQRmVqTys8b7oXU.png" group-title="CANAL ABERTO",CA TV Difusora [SD][SBT][SAO LUIS] 🟢
 https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="TVDifusoraSaoLuis.br" tvg-logo="https://lut.im/W5QVUt0DYq/mzQRmVqTys8b7oXU.png" group-title="CANAL ABERTO",CA TV Difusora 2 [SD][SBT][SAO LUIS] 🟢
+https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8
 #EXTINF:-1 tvg-id="MIRSLHD" tvg-name="GLOBO TV MIRANTE SAO LUIS [FHD]" tvg-logo="http://p6.vc/ASF" group-title="Canais | Globo",CA TV Mirante [FHD][GLOBO][SAO LUIS] 🟢
 http://pfsv.io:80/pu1411/HP5729/368.m3u8
 #EXTINF:-1 tvg-id="MIRSLHD" tvg-name="GLOBO TV MIRANTE SAO LUIS [HD]" tvg-logo="http://p6.vc/ATJ" group-title="Canais | Globo",CA TV Mirante [HD][GLOBO][SAO LUIS] 🟢
 http://pfsv.io:80/pu1411/HP5729/403.m3u8
-#EXTINF:-1 tvg-id="MIRSLHD" tvg-name="GLOBO TV MIRANTE SAO LUIS [SD]" tvg-logo="http://p6.vc/AUL" group-title="Canais | Globo",CA TV Mirante [FHD2][GLOBO][SAO LUIS] 🟢
+#EXTINF:-1 tvg-id="MIRSLHD" tvg-name="GLOBO TV MIRANTE SAO LUIS [SD]" tvg-logo="http://p6.vc/AUL" group-title="Canais | Globo",CA TV Mirante 2 [FHD][GLOBO][SAO LUIS] 🟢
 http://pfsv.io:80/pu1411/HP5729/440.m3u8
 
 #EXTINF:-1 tvg-logo="https://telaviva.com.br/wp-content/uploads/2015/05/Globo-Internacional-HD-2015_lettering_vertical_azul.jpg" group-title="Canais | GLOBO",CA Globo RJ [FHD] 🟢
