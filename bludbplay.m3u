@@ -215,11 +215,11 @@ https://abc.embedmax.site/studiouniversal/tracks-v1a1/mono.m3u8
 https://abc.embedmax.site/universaltv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="STARCHANNEL" tvg-name="" group-title="FilmesSeries" tvg-logo="https://static.guiadetv.com/channel/0nYcX8Hb8tr7TEjuKY13mhI1tGQFUPcFfJmDOFS7.png",FILMESERIES Star Channel 🟢
 https://abc.embedmax.site/starchannel/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Cinecanal.br" tvg-name="CINECANAL [FHD]" tvg-logo="https://static.guiadetv.com/channel/53bideDJsyYmZCbagDWCumIRbmHTNxxezyPwgJ2a.png" group-title="Canais | Filmes e Séries",CINECANAL [FHD]
+#EXTINF:-1 tvg-id="Cinecanal.br" tvg-name="CINECANAL [FHD]" tvg-logo="https://static.guiadetv.com/channel/53bideDJsyYmZCbagDWCumIRbmHTNxxezyPwgJ2a.png" group-title="Canais | Filmes e Séries",FILMESERIES CINECANAL [FHD]
 http://pfsv.io:80/pu1411/HP5729/132944.m3u8
-#EXTINF:-1 tvg-id="Cinecanal.br" tvg-name="CINECANAL [FHD][H265]" tvg-logo="https://static.guiadetv.com/channel/53bideDJsyYmZCbagDWCumIRbmHTNxxezyPwgJ2a.png" group-title="Canais | Filmes e Séries",CINECANAL [FHD][H265]
+#EXTINF:-1 tvg-id="Cinecanal.br" tvg-name="CINECANAL [FHD][H265]" tvg-logo="https://static.guiadetv.com/channel/53bideDJsyYmZCbagDWCumIRbmHTNxxezyPwgJ2a.png" group-title="Canais | Filmes e Séries",FILMESERIES CINECANAL [FHD][H265]
 http://pfsv.io:80/pu1411/HP5729/132947.m3u8
-#EXTINF:-1 tvg-id="Cinecanal.br" tvg-name="CINECANAL [FHD][HDR]" tvg-logo="https://static.guiadetv.com/channel/53bideDJsyYmZCbagDWCumIRbmHTNxxezyPwgJ2a.png" group-title="Canais | Filmes e Séries",CINECANAL [FHD][HDR]
+#EXTINF:-1 tvg-id="Cinecanal.br" tvg-name="CINECANAL [FHD][HDR]" tvg-logo="https://static.guiadetv.com/channel/53bideDJsyYmZCbagDWCumIRbmHTNxxezyPwgJ2a.png" group-title="Canais | Filmes e Séries",FILMESERIES CINECANAL [FHD][HDR]
 http://pfsv.io:80/pu1411/HP5729/132945.m3u8
 #EXTINF:-1 tvg-id="PARAMOUNT" tvg-name="" group-title="FilmesSeries" tvg-logo="https://static.guiadetv.com/channel/Cuc7QYzI4WnetlVk6lG4pdWHBJtklypGGgwfRFKD.png",FILMESERIES Paramount Network 🟢
 https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/289/289-3-main.m3u8
