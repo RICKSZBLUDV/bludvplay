@@ -10,15 +10,11 @@
  🔰  CANAIS ABERTOS 🔰
  
 
-#EXTINF:-1 tvg-id="REDEVIDA" tvg-name="REDEVIDA" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/fWx398FZCOcj7C2YpuOb2KRWgfdpa4h1yFPSXrAv.gif",ABERTO Rede Vida
-https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="REDEVIDA" tvg-name="REDEVIDA" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/fWx398FZCOcj7C2YpuOb2KRWgfdpa4h1yFPSXrAv.gif",ABERTO Rede Vida
-http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/57007.ts
-#EXTINF:-1 tvg-id="BR - Rede Vida" tvg-name="REDE VIDA [FHD]" tvg-logo="http://p6.vc/VPR" group-title="Canais | Religiosos",REDE VIDA [FHD]
+#EXTINF:-1 tvg-id="BR - Rede Vida" tvg-name="REDE VIDA [FHD]" tvg-logo="https://static.guiadetv.com/channel/fWx398FZCOcj7C2YpuOb2KRWgfdpa4h1yFPSXrAv.gif" group-title="Canais | Religiosos",REDE VIDA [FHD] 🟢
 http://pfsv.io:80/pu1411/HP5729/545.m3u8
-#EXTINF:-1 tvg-id="BR - Rede Vida" tvg-name="REDE VIDA [HD]" tvg-logo="http://p6.vc/AYC" group-title="Canais | Religiosos",REDE VIDA [HD]
+#EXTINF:-1 tvg-id="BR - Rede Vida" tvg-name="REDE VIDA [HD]" tvg-logo="https://static.guiadetv.com/channel/fWx398FZCOcj7C2YpuOb2KRWgfdpa4h1yFPSXrAv.gif" group-title="Canais | Religiosos",REDE VIDA [HD] 🟢
 http://pfsv.io:80/pu1411/HP5729/547.m3u8
-#EXTINF:-1 tvg-id="BR - Rede Vida" tvg-name="REDE VIDA [SD]" tvg-logo="http://p6.vc/AYF" group-title="Canais | Religiosos",REDE VIDA [SD]
+#EXTINF:-1 tvg-id="BR - Rede Vida" tvg-name="REDE VIDA [SD]" tvg-logo="https://static.guiadetv.com/channel/fWx398FZCOcj7C2YpuOb2KRWgfdpa4h1yFPSXrAv.gif" group-title="Canais | Religiosos",REDE VIDA [SD] 🟢
 http://pfsv.io:80/pu1411/HP5729/551.m3u8
 #EXTINF:-1 tvg-id="TERRAVIVA" tvg-name="TERRAVIVA" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/l6zoKfkppjFVEOK7oFMAKUAGrcHbYmDBZMtcgLAN.png",ABERTO Terra Viva 🟤
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
