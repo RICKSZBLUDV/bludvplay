@@ -435,7 +435,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61f2c6969
 #EXTINF:-1 tvg-id="" tvg-logo="http://images.pluto.tv/channels/63221e41af69b500076f84e7/colorLogoPNG.png" group-title="Canais | INFANTIL",CIV Pluto Os Padrinhos Mágicos 🟢
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63221e41af69b500076f84e7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://images.pluto.tv/channels/6202a7fcfb1b100008811f54/colorLogoPNG.png" group-title="Canais | INFANTIL",CIV Pluto Nickelodeon Rocket Power
+#EXTINF:-1 tvg-id="" tvg-logo="http://images.pluto.tv/channels/6202a7fcfb1b100008811f54/colorLogoPNG.png" group-title="Canais | INFANTIL",CIV Pluto Nickelodeon Rocket Power 🟢
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6202a7fcfb1b100008811f54/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f99aad4e82db50007fac4b2/colorLogoPNG.png" group-title="Canais | INFANTIL",CIV Pluto As Pistas de Blue 🟢
@@ -468,7 +468,7 @@ https://video03.logicahost.com.br/novafamilia01/novafamilia01/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://channels.roku.com/images/5bcf223b79ce4f959d76497b531088d4-hd.png" group-title="Canais | INFANTIL",CIV Toon Googles | Brasil 🟢
 https://stream.ads.ottera.tv/cl/240806cqp8pian0ie2sv0abcc0/1280x720_3071200_0_f.m3u8?i=728_5442
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/00875b131914451.Y3JvcCwxMTUyLDkwMSwzODQsNTk.png" group-title="Canais | INFANTIL"CIV Os Jetsons | Brasil 🟢
+#EXTINF:-1 tvg-id="" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/00875b131914451.Y3JvcCwxMTUyLDkwMSwzODQsNTk.png" group-title="Canais | INFANTIL",CIV Os Jetsons | Brasil 🟢
 https://stmv1.srvif.com/jetsontv/jetsontv/chunklist.m3u8?ManoTV
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/uBjpsWE.png" group-title="Canais | INFANTIL",CIV Rakuten Família 🟢
