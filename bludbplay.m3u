@@ -26,7 +26,7 @@
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVDifusoraSaoLuis.br" tvg-logo="https://lut.im/W5QVUt0DYq/mzQRmVqTys8b7oXU.png" group-title="CANAL ABERTO",CA TV Difusora [SD][SBT][SAO LUIS] 🟢
-https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8
+https://scl.edge.grupoz.cl/transmision/live/chunklist_w2071423487.m3u8
 #EXTINF:-1 tvg-id="MIRSLHD" tvg-name="GLOBO TV MIRANTE SAO LUIS [FHD]" tvg-logo="http://p6.vc/ASF" group-title="Canais | Globo",CA TV Mirante [FHD][GLOBO][SAO LUIS] 🟢
 http://pfsv.io:80/pu1411/HP5729/368.m3u8
 #EXTINF:-1 tvg-id="MIRSLHD" tvg-name="GLOBO TV MIRANTE SAO LUIS [HD]" tvg-logo="http://p6.vc/ATJ" group-title="Canais | Globo",CA TV Mirante [HD][GLOBO][SAO LUIS] 🟢
@@ -54,6 +54,8 @@ rtmp://wowza.softhost.com.br/ufg/tvufgweb
 https://video02.logicahost.com.br/tvguara23/tvguara23/chunklist_w1014630644.m3u8
 #EXTINF:-1 tvg-id="FUTURA" tvg-name="FUTURA" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/nUAaqJAEnnfuZi8PlToGqzrl228SE5b7Ht6vxp88.png",CA Futura 🟢
 https://5a57bda70564a.streamlock.net/opovo/opovo.sdp/chunklist_w157550291.m3u8
+#EXTINF:-1 tvg-logo="https://lut.im/ywPwtyRjKD/3gCocou245KVB3nH.png" group-title="CANAL ABERTO",CA TV ESCOLA HD 
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream1/chunklist.m3u8
 #EXTINF:-1 tvg-id="TVCAMERA" tvg-name="TVCAMERA" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/a41CQSK0ykAH6hZK0AJyBmfQaY7xtoBJ37idr9u7.png",CA TV Câmara 🟢
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:-1 tvg-id="TVSENADO" tvg-name="TVSENADO" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/H4naH9diPMzwKJ89f1OolK3lhvaQngOQlkqlhHdn.png",CA TV Senado [SD] 🟢
@@ -198,9 +200,9 @@ https://abc.embedmax.site/hboxtreme/tracks-v1a1/mono.m3u8
 https://abc.embedmax.site/hbofamily/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="FilmesSeries" tvg-logo="https://static.guiadetv.com/channel/WfHCiJwLA4UpaHdcG2GVlAKZ8PB69rrJqqJExN58.png",CFS HBO Pus 🟢
 https://abc.embedmax.site/hboplus/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="FilmesSeries" tvg-logo="https://static.guiadetv.com/channel/UKgwxQEaBQkLAOn3ooCfqGQ78v3FUejB1do2zJU2.png",CFS HBO Mundi 4k 🟢
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FilmesSeries" tvg-logo="https://static.guiadetv.com/channel/UKgwxQEaBQkLAOn3ooCfqGQ78v3FUejB1do2zJU2.png",CFS HBO Mundi [4K] 🟢
 http://cdnexpress.homelinux.net/live/38.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="FilmesSeries" tvg-logo="https://static.guiadetv.com/channel/SwWGDZRsqIiDM7CLJun8hLG0tYchmthkb9TzRvJ6.png",CFS HBO Pop FHD 🟢
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FilmesSeries" tvg-logo="https://static.guiadetv.com/channel/SwWGDZRsqIiDM7CLJun8hLG0tYchmthkb9TzRvJ6.png",CFS HBO Pop [FHD] 🟢
 http://cdnexpress.homelinux.net/live/73.m3u8
 #EXTINF:-1 tvg-name="" vg-id="TELECINECULT" tvg-name="TELECINE CULT" group-title="FilmesSeries" tvg-logo="https://static.guiadetv.com/channel/aaEDkMCWERioLFpezoMwpzdEXw0iRt7pnHkxTpe2.png",CFS Telecine Cult 🟢
 https://abc.embedmax.site/tccult/tracks-v1a1/mono.m3u8
@@ -561,7 +563,7 @@ https://stream.ichibantv.com:3764/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/K4IrU99.png" group-title="Canais | ANIMES & GEEK",CAV Animes TV
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8?ManoTV
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2HaiovZ.png" group-title="Canais | ANIMES & GEEK",CAV Hallo Anime HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2HaiovZ.png" group-title="Canais | ANIMES & GEEK",CAV Hallo Anime [HD]
 https://cdn-1.nxplay.com.br/HALLOANIME/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/px/285466/svg/animax-logo-logo-icon-png-svg.png" group-title="Canais | ANIMES & GEEK",CAV Animax
