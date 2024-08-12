@@ -348,6 +348,19 @@ https://cdn-3.nxplay.com.br/TOONCAST_TK/index.m3u8
 
 #EXTINF:-1 tvg-id="ADULTSWIM" tvg-name="" group-title="Infantil" tvg-logo="https://ih1.redbubble.net/image.333612268.2321/st,small,507x507-pad,600x600,f8f8f8.u4.jpg",INFANTIL Adult Swim 🟢
 https://anonmedia.eu/adultswim/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ADSM" tvg-name="ADULT SWIM [FHD]" tvg-logo="http://p6.vc/ARX4" group-title="Canais | Filmes e Séries",INFANTIL ADULT SWIM [FHD]
+http://pfsv.io:80/pu1411/HP5729/199851.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT SWIM [FHD][H265]" tvg-logo="http://p6.vc/ARX0" group-title="Canais | Filmes e Séries",INFANTIL ADULT SWIM [FHD][H265]
+http://pfsv.io:80/pu1411/HP5729/199847.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT SWIM [FHD][HDR]" tvg-logo="http://p6.vc/ARX1" group-title="Canais | Filmes e Séries",INFANTIL ADULT SWIM [FHD][HDR]
+http://pfsv.io:80/pu1411/HP5729/199848.m3u8
+#EXTINF:-1 tvg-id="ADSM" tvg-name="ADULT SWIM [HD]" tvg-logo="http://p6.vc/ARX3" group-title="Canais | Filmes e Séries",INFANTIL ADULT SWIM [HD]
+http://pfsv.io:80/pu1411/HP5729/199850.m3u8
+#EXTINF:-1 tvg-id="ADSM" tvg-name="ADULT SWIM [SD]" tvg-logo="http://p6.vc/ARX2" group-title="Canais | Filmes e Séries",INFANTIL ADULT SWIM [SD]
+http://pfsv.io:80/pu1411/HP5729/199849.m3u8
+#EXTINF:-1 tvg-logo="https://imgurUAguc.jpg" group-title="Canais | INFANTIL",INFANTIL ADULT SWIM
+http://45.235.0.78/ADULTSWIM-HD/index.m3u8
+
 #EXTINF:-1 tvg-id="CARTOONITO" tvg-name="" group-title="Infantil" tvg-logo="https://static.guiadetv.com/channel/FsH0Wf1zAeziNfzXFWZK4BqTjjOEhaT6R0k5CHT4.png",INFANTIL Cartoonito [HD] 🟢
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/345
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.guiadetv.com/channel/FsH0Wf1zAeziNfzXFWZK4BqTjjOEhaT6R0k5CHT4.png" group-title="Brazil",INFANTIL Cartoonito [SD] 🟢
