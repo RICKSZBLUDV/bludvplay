@@ -23,6 +23,12 @@
 
 #EXTINF:-1 tvg-id="TERRAVIVA" tvg-name="TERRAVIVA" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/l6zoKfkppjFVEOK7oFMAKUAGrcHbYmDBZMtcgLAN.png",CA Terra Viva 🟤
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
+#EXTINF:-1 tvg-id="VIVA" tvg-name="TERRA VIVA" tvg-logo="https://sv2.casaplay5g.win:443/images/363cdc531af145d9ee981cc786bb42f4.jpg" group-title="ABERTOS",TERRA VIVA
+https://casaplay5g.win:443/marcelo/102030/1361405
+#EXTINF:-1 tvg-id="terra.viva.br" tvg-name="TERRA VIVA HD" tvg-logo="https://sv2.casaplay5g.win:443/images/363cdc531af145d9ee981cc786bb42f4.jpg" group-title="ABERTOS",TERRA VIVA HD
+https://casaplay5g.win:443/marcelo/102030/1361406
+#EXTINF:-1 tvg-id="terra.viva.br" tvg-name="TERRA VIVA HD ( ALTERNATIVO )" tvg-logo="https://sv2.casaplay5g.win:443/images/363cdc531af145d9ee981cc786bb42f4.jpg" group-title="ABERTOS",TERRA VIVA HD ( ALTERNATIVO )
+https://casaplay5g.win:443/marcelo/102030/1536106
 
 #EXTINF:-1 tvg-id="TVDifusoraSaoLuis.br" tvg-logo="https://stream.amsolution.net.br/videos/userPhoto/Live/user_6_bg_0.jpg?1671998268" group-title="CANAL ABERTO",CA TV Difusora [SD][SBT][SAO LUIS] 🟢
 https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8?PlaylistM3UCL
@@ -101,7 +107,7 @@ https://abc.embedmax.site/discoveryid/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass [BR] [FHD]" tvg-logo="http://p6.vc/XNA" group-title="Canais | Esportes",CE UFC Fight Pass [FHD] 🟡
 http://pfsv.io:80/pu1411/HP5729/131818.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass [BR] [FHD]" tvg-logo="http://p6.vc/XNA" group-title="Canais | Esportes",CE UFC Fight Pass
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass [BR] [FHD]" tvg-logo="http://p6.vc/XNA" group-title="Canais | Esportes",CE UFC Fight Pass 🟡
 https://abc.embedmax.site/ufcfightpass/index.m3u8
 
 #EXTINF:-1 tvg-id="COMBATE" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/LCW2HM2AF9Uahx8poBHbRKEyHKjg9hxu885aLTNx.png",CE Combate 🟢
@@ -387,7 +393,7 @@ http://pfsv.io:80/pu1411/HP5729/199849.m3u8
 #EXTINF:-1 tvg-id="CARTOONITO" tvg-name="" group-title="Infantil" tvg-logo="https://static.guiadetv.com/channel/FsH0Wf1zAeziNfzXFWZK4BqTjjOEhaT6R0k5CHT4.png",CI Cartoonito [HD] 🟢
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/345
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.guiadetv.com/channel/FsH0Wf1zAeziNfzXFWZK4BqTjjOEhaT6R0k5CHT4.png" group-title="Brazil",CI Cartoonito [SD] 🟢
-http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/16960.ts
+https://casaplay5g.win:443/marcelo/102030/1361055
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Infantil" tvg-logo="https://static.guiadetv.com/channel/5VuVTewKuYSntAm4HPYwzHmxTLXjTXE3uCH3o4qi.png",CI Gloobinho 🟢
 https://abc.embedmax.site/gloobinho/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Infantil" tvg-logo="https://static.guiadetv.com/channel/ylKX0PaiVCulcY5Bduc6LSgWdFFL1uobbnsvNhz8.png",CI Gloob 🟢
