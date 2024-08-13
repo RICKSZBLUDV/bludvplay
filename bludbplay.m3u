@@ -21,15 +21,6 @@
  🔰  CANAIS ABERTOS 🔰
  
 
-#EXTINF:-1 tvg-id="TERRAVIVA" tvg-name="TERRAVIVA" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/l6zoKfkppjFVEOK7oFMAKUAGrcHbYmDBZMtcgLAN.png",CA Terra Viva 🟤
-http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
-#EXTINF:-1 tvg-id="VIVA" tvg-name="TERRA VIVA" tvg-logo="https://sv2.casaplay5g.win:443/images/363cdc531af145d9ee981cc786bb42f4.jpg" group-title="ABERTOS",TERRA VIVA
-https://casaplay5g.win:443/marcelo/102030/1361405
-#EXTINF:-1 tvg-id="terra.viva.br" tvg-name="TERRA VIVA HD" tvg-logo="https://sv2.casaplay5g.win:443/images/363cdc531af145d9ee981cc786bb42f4.jpg" group-title="ABERTOS",TERRA VIVA HD
-https://casaplay5g.win:443/marcelo/102030/1361406
-#EXTINF:-1 tvg-id="terra.viva.br" tvg-name="TERRA VIVA HD ( ALTERNATIVO )" tvg-logo="https://sv2.casaplay5g.win:443/images/363cdc531af145d9ee981cc786bb42f4.jpg" group-title="ABERTOS",TERRA VIVA HD ( ALTERNATIVO )
-https://casaplay5g.win:443/marcelo/102030/1536106
-
 #EXTINF:-1 tvg-id="TVDifusoraSaoLuis.br" tvg-logo="https://stream.amsolution.net.br/videos/userPhoto/Live/user_6_bg_0.jpg?1671998268" group-title="CANAL ABERTO",CA TV Difusora [SD][SBT][SAO LUIS] 🟢
 https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="TVDifusoraSaoLuis.br" tvg-logo="https://stream.amsolution.net.br/videos/userPhoto/Live/user_6_bg_0.jpg?1671998268" group-title="CANAL ABERTO",CA TV Difusora 2 [SD][SBT][SAO LUIS] 🟢
@@ -83,6 +74,12 @@ http://pfsv.io:80/pu1411/HP5729/547.m3u8
 http://pfsv.io:80/pu1411/HP5729/551.m3u8
 #EXTINF:-1 tvg-id="REDEBRASIL" tvg-name="REDEBRASIL" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/FckwNZIeOh4xLda5G2wKHu4SPN1E3JdKfSJKFGKt.png",CA REDE BRASIL 🟢
 http://pfsv.io:80/pu1411/HP5729/87.m3u8
+#EXTINF:-1 tvg-id="VIVA" tvg-name="TERRA VIVA HD" tvg-logo="https://static.guiadetv.com/channel/l6zoKfkppjFVEOK7oFMAKUAGrcHbYmDBZMtcgLAN.png" group-title="ABERTOS",CA TERRA VIVA [HD] 🟢
+https://casaplay5g.win:443/marcelo/102030/1361405
+#EXTINF:-1 tvg-id="terra.viva.br" tvg-name="TERRA VIVA 4K" tvg-logo="https://static.guiadetv.com/channel/l6zoKfkppjFVEOK7oFMAKUAGrcHbYmDBZMtcgLAN.png" group-title="ABERTOS",CA TERRA VIVA [4K] 🟢
+https://casaplay5g.win:443/marcelo/102030/1361406
+#EXTINF:-1 tvg-id="terra.viva.br" tvg-name="TERRA VIVA 2 HD" tvg-logo="https://static.guiadetv.com/channel/l6zoKfkppjFVEOK7oFMAKUAGrcHbYmDBZMtcgLAN.png" group-title="ABERTOS",CA TERRA VIVA 2 [HD] 🟢
+https://casaplay5g.win:443/marcelo/102030/1536106
 
 
 🔰  DOCUMENTARIOS  🔰
@@ -377,18 +374,27 @@ http://pfsv.io:80/pu1411/HP5729/227616.m3u8
  🔰   INFANTIL   🔰 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Infantil" tvg-logo="https://static.guiadetv.com/channel/R51ScLaG4Ou2vCXyuBOQoeDUWD5l83pNshs3UVux.png",CI Tooncast 🟡
-https://cdn-3.nxplay.com.br/TOONCAST_TK/index.m3u8
-#EXTINF:-1 tvg-id="TOONCB" tvg-name="TOONCAST 4K" tvg-logo="https://sv2.casaplay5g.win:443/images/ce1a93d41ff456ef949e5cfd66135fbd.png" group-title="INFANTIL",TOONCAST 4K
+#EXTINF:-1 tvg-id="TOONCB" tvg-name="TOONCAST 4K" tvg-logo="https://static.guiadetv.com/channel/R51ScLaG4Ou2vCXyuBOQoeDUWD5l83pNshs3UVux.png" group-title="INFANTIL",TOONCAST [4K] 🟢
 https://casaplay5g.win:443/marcelo/102030/1361072
-#EXTINF:-1 tvg-id="" tvg-name="TOONCAST FHD ( ALTERNATIVO )" tvg-logo="" group-title="INFANTIL",TOONCAST FHD ( ALTERNATIVO )
-https://casaplay5g.win:443/marcelo/102030/1536121
-#EXTINF:-1 tvg-id="" tvg-name="TOONCAST HD ( ALTERNATIVO )" tvg-logo="" group-title="INFANTIL",TOONCAST HD ( ALTERNATIVO )
-https://casaplay5g.win:443/marcelo/102030/1536122
-#EXTINF:-1 tvg-id="TOONCB" tvg-name="TOONCAST SD" tvg-logo="https://sv2.casaplay5g.win:443/images/ce1a93d41ff456ef949e5cfd66135fbd.png" group-title="INFANTIL",TOONCAST SD
+#EXTINF:-1 tvg-id="TOONCB" tvg-name="TOONCAST SD" tvg-logo="https://static.guiadetv.com/channel/R51ScLaG4Ou2vCXyuBOQoeDUWD5l83pNshs3UVux.png" group-title="INFANTIL",TOONCAST [SD] 🟢
 https://casaplay5g.win:443/marcelo/102030/1528079
-#EXTINF:-1 tvg-id="" tvg-name="TOONCAST SD ( ALTERNATIVO )" tvg-logo="" group-title="INFANTIL",TOONCAST SD ( ALTERNATIVO )
+#EXTINF:-1 tvg-id="" tvg-name="TOONCAST SD ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/R51ScLaG4Ou2vCXyuBOQoeDUWD5l83pNshs3UVux.png" group-title="INFANTIL",TOONCAST 2 [SD] 🟢
 https://casaplay5g.win:443/marcelo/102030/1536123
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.guiadetv.com/channel/FsH0Wf1zAeziNfzXFWZK4BqTjjOEhaT6R0k5CHT4.png" group-title="Brazil",CI Cartoonito [SD] 🟢
+https://casaplay5g.win:443/marcelo/102030/1361055
+#EXTINF:-1 tvg-id="" tvg-name="Cartoonito SD ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/FsH0Wf1zAeziNfzXFWZK4BqTjjOEhaT6R0k5CHT4.png" group-title="INFANTIL",Cartoonito 2 [SD]
+https://casaplay5g.win:443/marcelo/102030/1535448
+#EXTINF:-1 tvg-id="" tvg-name="Cartoonito (H265) ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/FsH0Wf1zAeziNfzXFWZK4BqTjjOEhaT6R0k5CHT4.png" group-title="INFANTIL",Cartoonito [H265]
+https://casaplay5g.win:443/marcelo/102030/1535445
+#EXTINF:-1 tvg-id="" tvg-name="CARTOONITO 4K" tvg-logo="https://static.guiadetv.com/channel/FsH0Wf1zAeziNfzXFWZK4BqTjjOEhaT6R0k5CHT4.png" group-title="INFANTIL",CARTOONITO [4K]
+https://casaplay5g.win:443/marcelo/102030/1361052
+#EXTINF:-1 tvg-id="" tvg-name="Cartoonito FHD ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/FsH0Wf1zAeziNfzXFWZK4BqTjjOEhaT6R0k5CHT4.png" group-title="INFANTIL",Cartoonito [FHD]
+https://casaplay5g.win:443/marcelo/102030/1535446
+#EXTINF:-1 tvg-id="" tvg-name="CARTOONITO HD" tvg-logo="https://static.guiadetv.com/channel/FsH0Wf1zAeziNfzXFWZK4BqTjjOEhaT6R0k5CHT4.png" group-title="INFANTIL",CARTOONITO [HD]
+https://casaplay5g.win:443/marcelo/102030/1361054
+#EXTINF:-1 tvg-id="" tvg-name="Cartoonito HD ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/FsH0Wf1zAeziNfzXFWZK4BqTjjOEhaT6R0k5CHT4.png" group-title="INFANTIL",Cartoonito 2 [HD]
+https://casaplay5g.win:443/marcelo/102030/1535447
 
 #EXTINF:-1 tvg-id="" tvg-name="ADULT SWIM [FHD][H265]" tvg-logo="https://ih1.redbubble.net/image.333612268.2321/st,small,507x507-pad,600x600,f8f8f8.u4.jpg" group-title="Canais | Filmes e Séries",CI ADULT SWIM [FHD][H265] 🟢
 http://pfsv.io:80/pu1411/HP5729/199847.m3u8
@@ -400,10 +406,6 @@ http://pfsv.io:80/pu1411/HP5729/199851.m3u8
 http://pfsv.io:80/pu1411/HP5729/199850.m3u8
 #EXTINF:-1 tvg-id="ADSM" tvg-name="ADULT SWIM [SD]" tvg-logo=https://ih1.redbubble.net/image.333612268.2321/st,small,507x507-pad,600x600,f8f8f8.u4.jpg" group-title="Canais | Filmes e Séries",CI ADULT SWIM [SD] 🟢
 http://pfsv.io:80/pu1411/HP5729/199849.m3u8
-#EXTINF:-1 tvg-id="CARTOONITO" tvg-name="" group-title="Infantil" tvg-logo="https://static.guiadetv.com/channel/FsH0Wf1zAeziNfzXFWZK4BqTjjOEhaT6R0k5CHT4.png",CI Cartoonito [HD] 🟢
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/345
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.guiadetv.com/channel/FsH0Wf1zAeziNfzXFWZK4BqTjjOEhaT6R0k5CHT4.png" group-title="Brazil",CI Cartoonito [SD] 🟢
-https://casaplay5g.win:443/marcelo/102030/1361055
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Infantil" tvg-logo="https://static.guiadetv.com/channel/5VuVTewKuYSntAm4HPYwzHmxTLXjTXE3uCH3o4qi.png",CI Gloobinho 🟢
 https://abc.embedmax.site/gloobinho/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Infantil" tvg-logo="https://static.guiadetv.com/channel/ylKX0PaiVCulcY5Bduc6LSgWdFFL1uobbnsvNhz8.png",CI Gloob 🟢
