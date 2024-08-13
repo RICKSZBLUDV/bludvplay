@@ -102,15 +102,15 @@ https://abc.embedmax.site/discoveryid/tracks-v1a1/mono.m3u8
  🔰  ESPORTES  🔰
  
 
-#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass [BR] [FHD]" tvg-logo="http://p6.vc/XNA" group-title="Canais | Esportes",CE UFC Fight Pass [FHD] 🟡
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass [BR] [FHD]" tvg-logo="https://i.ytimg.com/vi/cLCsLTjnFuA/hqdefault.jpg" group-title="Canais | Esportes",CE UFC Fight Pass [FHD] 🟡
 http://pfsv.io:80/pu1411/HP5729/131818.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass [BR] [FHD]" tvg-logo="http://p6.vc/XNA" group-title="Canais | Esportes",CE UFC Fight Pass 🟡
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass [BR] [FHD]" tvg-logo="https://i.ytimg.com/vi/cLCsLTjnFuA/hqdefault.jpg" group-title="Canais | Esportes",CE UFC Fight Pass 🟡
 https://abc.embedmax.site/ufcfightpass/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass 1 (reprises)" tvg-logo="http://p6.vc/XNA" group-title="ESPORTES ESPECIAIS & PPV",UFC Fight Pass 1 (reprises) 🟡
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass 1 (reprises)" tvg-logo="https://i.ytimg.com/vi/cLCsLTjnFuA/hqdefault.jpg" group-title="ESPORTES ESPECIAIS & PPV",CE UFC Fight Pass 1 (reprises) 🟡
 https://casaplay5g.win:443/marcelo/102030/1535343
-#EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT PASS HD ( ALTERNATIVO )" tvg-logo="hhttp://p6.vc/XNA" group-title="ESPORTES",UFC FIGHT PASS HD ( ALTERNATIVO ) 🟡
+#EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT PASS HD ( ALTERNATIVO )" tvg-logo="https://i.ytimg.com/vi/cLCsLTjnFuA/hqdefault.jpg" group-title="ESPORTES",CE UFC FIGHT PASS HD ( ALTERNATIVO ) 🟡
 https://casaplay5g.win:443/marcelo/102030/1536150
-#EXTINF:-1 tvg-id="" tvg-name="UFC PASS FIGHT 02 HD" tvg-logo="http://p6.vc/XNA" group-title="ESPORTES ESPECIAIS & PPV",UFC PASS FIGHT 02 HD 🟡
+#EXTINF:-1 tvg-id="" tvg-name="UFC PASS FIGHT 02 HD" tvg-logo="https://i.ytimg.com/vi/cLCsLTjnFuA/hqdefault.jpg" group-title="ESPORTES ESPECIAIS & PPV",CE UFC PASS FIGHT 02 HD 🟡
 https://casaplay5g.win:443/marcelo/102030/1361563
 
 #EXTINF:-1 tvg-id="COMBATE" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/LCW2HM2AF9Uahx8poBHbRKEyHKjg9hxu885aLTNx.png",CE Combate 🟢
