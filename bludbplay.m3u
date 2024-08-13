@@ -101,6 +101,8 @@ https://abc.embedmax.site/discoveryid/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass [BR] [FHD]" tvg-logo="http://p6.vc/XNA" group-title="Canais | Esportes",CE UFC Fight Pass [FHD] 🟡
 http://pfsv.io:80/pu1411/HP5729/131818.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass [BR] [FHD]" tvg-logo="http://p6.vc/XNA" group-title="Canais | Esportes",CE UFC Fight Pass
+https://abc.embedmax.site/ufcfightpass/index.m3u8
 
 #EXTINF:-1 tvg-id="COMBATE" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/LCW2HM2AF9Uahx8poBHbRKEyHKjg9hxu885aLTNx.png",CE Combate 🟢
 https://abc.embedmax.site/combate/tracks-v1a1/mono.m3u8
@@ -571,5 +573,13 @@ https://stream.ichibantv.com:3547/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/EPCg7HOyu0j7pnW6qhuBRYrlTFZsT94LEEShCBcqmQQl0HiQPZNI4__EySuIVPwG1A=w526-h296-rw" group-title="Canais | INFANTIL",CAV Anime TV
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8?ManoTV
 
+
+############################################################################ Canais | 24H
+
+
+#EXTINF:-1 tvg-id="" tvg-name="24H Chapolin Colorado" tvg-logo="https://sv2.casaplay5g.win:443/images/mg9e4VnU5MiobcDarwnBsZ0wrOUD7Tyw9yy6MS3hj8A.png" group-title="CANAIS 24H",24H Chapolin Colorado
+https://casaplay5g.win:443/marcelo/102030/1361626
+#EXTINF:-1 tvg-id="" tvg-name="24H Chaves" tvg-logo="https://sv2.casaplay5g.win:443/images/mg9e4VnU5MiobcDarwnBsZ0wrOUD7Tyw9yy6MS3hj8A.png" group-title="CANAIS 24H",24H Chaves
+https://casaplay5g.win:443/marcelo/102030/1361625
 
  BLUDVPLAY © 2024 All rights reserved
