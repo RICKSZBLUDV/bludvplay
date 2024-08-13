@@ -379,6 +379,16 @@ http://pfsv.io:80/pu1411/HP5729/227616.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Infantil" tvg-logo="https://static.guiadetv.com/channel/R51ScLaG4Ou2vCXyuBOQoeDUWD5l83pNshs3UVux.png",CI Tooncast 🟡
 https://cdn-3.nxplay.com.br/TOONCAST_TK/index.m3u8
+#EXTINF:-1 tvg-id="TOONCB" tvg-name="TOONCAST 4K" tvg-logo="https://sv2.casaplay5g.win:443/images/ce1a93d41ff456ef949e5cfd66135fbd.png" group-title="INFANTIL",TOONCAST 4K
+https://casaplay5g.win:443/marcelo/102030/1361072
+#EXTINF:-1 tvg-id="" tvg-name="TOONCAST FHD ( ALTERNATIVO )" tvg-logo="" group-title="INFANTIL",TOONCAST FHD ( ALTERNATIVO )
+https://casaplay5g.win:443/marcelo/102030/1536121
+#EXTINF:-1 tvg-id="" tvg-name="TOONCAST HD ( ALTERNATIVO )" tvg-logo="" group-title="INFANTIL",TOONCAST HD ( ALTERNATIVO )
+https://casaplay5g.win:443/marcelo/102030/1536122
+#EXTINF:-1 tvg-id="TOONCB" tvg-name="TOONCAST SD" tvg-logo="https://sv2.casaplay5g.win:443/images/ce1a93d41ff456ef949e5cfd66135fbd.png" group-title="INFANTIL",TOONCAST SD
+https://casaplay5g.win:443/marcelo/102030/1528079
+#EXTINF:-1 tvg-id="" tvg-name="TOONCAST SD ( ALTERNATIVO )" tvg-logo="" group-title="INFANTIL",TOONCAST SD ( ALTERNATIVO )
+https://casaplay5g.win:443/marcelo/102030/1536123
 
 #EXTINF:-1 tvg-id="" tvg-name="ADULT SWIM [FHD][H265]" tvg-logo="https://ih1.redbubble.net/image.333612268.2321/st,small,507x507-pad,600x600,f8f8f8.u4.jpg" group-title="Canais | Filmes e Séries",CI ADULT SWIM [FHD][H265] 🟢
 http://pfsv.io:80/pu1411/HP5729/199847.m3u8
