@@ -106,6 +106,14 @@ https://abc.embedmax.site/discoveryid/tracks-v1a1/mono.m3u8
 http://pfsv.io:80/pu1411/HP5729/131818.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass [BR] [FHD]" tvg-logo="http://p6.vc/XNA" group-title="Canais | Esportes",CE UFC Fight Pass 🟡
 https://abc.embedmax.site/ufcfightpass/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass 1 (reprises)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhpkHjz8Y2Mes0_ffpiNxZ6zz8yxinYYP-_nOrjGh4mH6eND50LWaMD2QfPp6i3OjZAtreh-UDVesBFfngZWvxkppaesWX1KaKi8PcTYsrBfp_cNxbHLmX8LKOU8rLQ_nHgP5p2x8LsqMMBV3-HViiv-oHoGG6b9DscQVszGcfIH8DClh6e74gHmb2-" group-title="ESPORTES ESPECIAIS & PPV",UFC Fight Pass 1 (reprises)
+https://casaplay5g.win:443/marcelo/102030/1535343
+#EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT PASS HD ( ALTERNATIVO )" tvg-logo="https://sv2.casaplay5g.win:443/images/5ef84a007346811888dc497484e2e938.png" group-title="ESPORTES",UFC FIGHT PASS HD ( ALTERNATIVO )
+https://casaplay5g.win:443/marcelo/102030/1536150
+#EXTINF:-1 tvg-id="" tvg-name="UFC PASS FIGHT 01 FHD" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhpkHjz8Y2Mes0_ffpiNxZ6zz8yxinYYP-_nOrjGh4mH6eND50LWaMD2QfPp6i3OjZAtreh-UDVesBFfngZWvxkppaesWX1KaKi8PcTYsrBfp_cNxbHLmX8LKOU8rLQ_nHgP5p2x8LsqMMBV3-HViiv-oHoGG6b9DscQVszGcfIH8DClh6e74gHmb2-" group-title="ESPORTES ESPECIAIS & PPV",UFC PASS FIGHT 01 FHD
+https://casaplay5g.win:443/marcelo/102030/1361562
+#EXTINF:-1 tvg-id="" tvg-name="UFC PASS FIGHT 02 HD" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhpkHjz8Y2Mes0_ffpiNxZ6zz8yxinYYP-_nOrjGh4mH6eND50LWaMD2QfPp6i3OjZAtreh-UDVesBFfngZWvxkppaesWX1KaKi8PcTYsrBfp_cNxbHLmX8LKOU8rLQ_nHgP5p2x8LsqMMBV3-HViiv-oHoGG6b9DscQVszGcfIH8DClh6e74gHmb2-" group-title="ESPORTES ESPECIAIS & PPV",UFC PASS FIGHT 02 HD
+https://casaplay5g.win:443/marcelo/102030/1361563
 
 #EXTINF:-1 tvg-id="COMBATE" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/LCW2HM2AF9Uahx8poBHbRKEyHKjg9hxu885aLTNx.png",CE Combate 🟢
 https://abc.embedmax.site/combate/tracks-v1a1/mono.m3u8
@@ -374,28 +382,22 @@ http://pfsv.io:80/pu1411/HP5729/227616.m3u8
  🔰   INFANTIL   🔰 
 
 
-#EXTINF:-1 tvg-id="TOONCB" tvg-name="TOONCAST 4K" tvg-logo="https://static.guiadetv.com/channel/R51ScLaG4Ou2vCXyuBOQoeDUWD5l83pNshs3UVux.png" group-title="INFANTIL",TOONCAST [4K] 🟢
+#EXTINF:-1 tvg-id="TOONCB" tvg-name="TOONCAST 4K" tvg-logo="https://static.guiadetv.com/channel/R51ScLaG4Ou2vCXyuBOQoeDUWD5l83pNshs3UVux.png" group-title="INFANTIL",CI TOONCAST [4K] 🟢
 https://casaplay5g.win:443/marcelo/102030/1361072
-#EXTINF:-1 tvg-id="TOONCB" tvg-name="TOONCAST SD" tvg-logo="https://static.guiadetv.com/channel/R51ScLaG4Ou2vCXyuBOQoeDUWD5l83pNshs3UVux.png" group-title="INFANTIL",TOONCAST [SD] 🟢
+#EXTINF:-1 tvg-id="TOONCB" tvg-name="TOONCAST SD" tvg-logo="https://static.guiadetv.com/channel/R51ScLaG4Ou2vCXyuBOQoeDUWD5l83pNshs3UVux.png" group-title="INFANTIL",CI TOONCAST [SD] 🟢
 https://casaplay5g.win:443/marcelo/102030/1528079
-#EXTINF:-1 tvg-id="" tvg-name="TOONCAST SD ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/R51ScLaG4Ou2vCXyuBOQoeDUWD5l83pNshs3UVux.png" group-title="INFANTIL",TOONCAST 2 [SD] 🟢
+#EXTINF:-1 tvg-id="" tvg-name="TOONCAST SD ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/R51ScLaG4Ou2vCXyuBOQoeDUWD5l83pNshs3UVux.png" group-title="INFANTIL",CI TOONCAST 2 [SD] 🟢
 https://casaplay5g.win:443/marcelo/102030/1536123
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.guiadetv.com/channel/FsH0Wf1zAeziNfzXFWZK4BqTjjOEhaT6R0k5CHT4.png" group-title="Brazil",CI Cartoonito [SD] 🟢
-https://casaplay5g.win:443/marcelo/102030/1361055
-#EXTINF:-1 tvg-id="" tvg-name="Cartoonito SD ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/FsH0Wf1zAeziNfzXFWZK4BqTjjOEhaT6R0k5CHT4.png" group-title="INFANTIL",Cartoonito 2 [SD]
+#EXTINF:-1 tvg-id="" tvg-name="Cartoonito SD ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/FsH0Wf1zAeziNfzXFWZK4BqTjjOEhaT6R0k5CHT4.png" group-title="INFANTIL",CI Cartoonito 2 [HD] 🟢
 https://casaplay5g.win:443/marcelo/102030/1535448
-#EXTINF:-1 tvg-id="" tvg-name="Cartoonito (H265) ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/FsH0Wf1zAeziNfzXFWZK4BqTjjOEhaT6R0k5CHT4.png" group-title="INFANTIL",Cartoonito [H265]
+#EXTINF:-1 tvg-id="" tvg-name="Cartoonito (H265) ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/FsH0Wf1zAeziNfzXFWZK4BqTjjOEhaT6R0k5CHT4.png" group-title="INFANTIL",CI Cartoonito [FHD][H265] 🟢
 https://casaplay5g.win:443/marcelo/102030/1535445
-#EXTINF:-1 tvg-id="" tvg-name="CARTOONITO 4K" tvg-logo="https://static.guiadetv.com/channel/FsH0Wf1zAeziNfzXFWZK4BqTjjOEhaT6R0k5CHT4.png" group-title="INFANTIL",CARTOONITO [4K]
+#EXTINF:-1 tvg-id="" tvg-name="CARTOONITO 4K" tvg-logo="https://static.guiadetv.com/channel/FsH0Wf1zAeziNfzXFWZK4BqTjjOEhaT6R0k5CHT4.png" group-title="INFANTIL",CI Cartoonito 3 [HD] 🟢
 https://casaplay5g.win:443/marcelo/102030/1361052
-#EXTINF:-1 tvg-id="" tvg-name="Cartoonito FHD ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/FsH0Wf1zAeziNfzXFWZK4BqTjjOEhaT6R0k5CHT4.png" group-title="INFANTIL",Cartoonito [FHD]
+#EXTINF:-1 tvg-id="" tvg-name="Cartoonito FHD ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/FsH0Wf1zAeziNfzXFWZK4BqTjjOEhaT6R0k5CHT4.png" group-title="INFANTIL",CI Cartoonito [HD] 🟢
 https://casaplay5g.win:443/marcelo/102030/1535446
-#EXTINF:-1 tvg-id="" tvg-name="CARTOONITO HD" tvg-logo="https://static.guiadetv.com/channel/FsH0Wf1zAeziNfzXFWZK4BqTjjOEhaT6R0k5CHT4.png" group-title="INFANTIL",CARTOONITO [HD]
+#EXTINF:-1 tvg-id="" tvg-name="CARTOONITO HD" tvg-logo="https://static.guiadetv.com/channel/FsH0Wf1zAeziNfzXFWZK4BqTjjOEhaT6R0k5CHT4.png" group-title="INFANTIL",CI Cartoonito [SD] 🟢
 https://casaplay5g.win:443/marcelo/102030/1361054
-#EXTINF:-1 tvg-id="" tvg-name="Cartoonito HD ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/FsH0Wf1zAeziNfzXFWZK4BqTjjOEhaT6R0k5CHT4.png" group-title="INFANTIL",Cartoonito 2 [HD]
-https://casaplay5g.win:443/marcelo/102030/1535447
-
 #EXTINF:-1 tvg-id="" tvg-name="ADULT SWIM [FHD][H265]" tvg-logo="https://ih1.redbubble.net/image.333612268.2321/st,small,507x507-pad,600x600,f8f8f8.u4.jpg" group-title="Canais | Filmes e Séries",CI ADULT SWIM [FHD][H265] 🟢
 http://pfsv.io:80/pu1411/HP5729/199847.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ADULT SWIM [FHD][HDR]" tvg-logo="https://ih1.redbubble.net/image.333612268.2321/st,small,507x507-pad,600x600,f8f8f8.u4.jpg" group-title="Canais | Filmes e Séries",CI ADULT SWIM [FHD][HDR] 🟢
