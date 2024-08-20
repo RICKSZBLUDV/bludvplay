@@ -34,7 +34,7 @@ http://pfsv.io:80/pu1411/HP5729/440.m3u8
 
 #EXTINF:-1 tvg-logo="https://telaviva.com.br/wp-content/uploads/2015/05/Globo-Internacional-HD-2015_lettering_vertical_azul.jpg" group-title="Canais | GLOBO",CA Globo RJ [FHD] 🟢
 https://abc.embedmax.site/globoRJ/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",CA Globo SP [FHD] 🟢
+#EXTINF:-1 tvg-logo="https://telaviva.com.br/wp-content/uploads/2015/05/Globo-Internacional-HD-2015_lettering_vertical_azul.jpg" group-title="Canais | GLOBO",CA Globo SP [FHD] 🟢
 https://abc.embedmax.site/globoSP/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="RECORDSP" tvg-id="RECORDSP" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/Fu29jsvxR56M6LbqVJiogZsKmENyo9shulnIPwqe.jpg",CA Record Tv 🟢
 https://abc.embedmax.site/recordSP/tracks-v1a1/mono.m3u8
@@ -95,7 +95,7 @@ https://cdn-4.nxplay.com.br/HISTORY_TK/tracks-v2a1/mono.m3u8
 https://cdn-4.nxplay.com.br/HISTORY_2_TK/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="NATGEO" tvg-name="NATGEO" group-title="Documentario" tvg-logo="https://static.guiadetv.com/channel/pG68jPTCJ8tcHpdUNo3186FX6sbwM9moxsTH8SH2.png",CD National Geo 🟢
 https://abc.embedmax.site/nationalgeographic/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ID" tvg-name="ID" group-title="Documentario" tvg-logo="https://imgur.com/OJWv4Ij.png",CD Investigação Discovery 🟢
+#EXTINF:-1 tvg-id="ID" tvg-name="ID" group-title="Documentario" tvg-logo="https://cdn.mitvstatic.com/channels/br_investigac-o-discovery_m.png",CD Investigação Discovery 🟢
 https://abc.embedmax.site/discoveryid/tracks-v1a1/mono.m3u8
 
 
@@ -260,13 +260,13 @@ http://pfsv.io:80/pu1411/HP5729/132947.m3u8
 http://pfsv.io:80/pu1411/HP5729/132945.m3u8
 #EXTINF:-1 tvg-id="PARAMOUNT" tvg-name="" group-title="FilmesSeries" tvg-logo="https://static.guiadetv.com/channel/Cuc7QYzI4WnetlVk6lG4pdWHBJtklypGGgwfRFKD.png",CFS Paramount Network 🟢
 https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/289/289-3-main.m3u8
-#EXTINF:-1 tvg-id="SONYONEEMOCOES" tvg-name="" group-title="FilmesSeries" tvg-logo="https://imgur.com/CsC9aG5.png",CFS SONY One Emoções 🟢
+#EXTINF:-1 tvg-id="SONYONEEMOCOES" tvg-name="" group-title="FilmesSeries" tvg-logo="https://images.samsung.com/is/image/samsung/assets/br/tvs/smart-tv/channel-list/SONYEMOCOESType-B_-1x1-Circles-476x476AngelaSuarez.png?$ORIGIN_PNG$",CFS SONY One Emoções 🟢
 https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SonyOneEmocoes/playlist.m3u8?ManoTV
 #EXTINF:-1 tvg-id="SONYONECLASSICS" tvg-name="" group-title="FilmesSeries" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/77d108724ea49c113b434b912bc66da1.webp",CFS SONY One Classics 🟢
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="PRIME" tvg-name="" group-title="FilmesSeries" tvg-logo="https://static.guiadetv.com/channel/fkVN5in7FYyvo2shIxmTLTieJLseha7QFAvIo83n.png",CFS Prime Box Brasil 🟢
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/277
-#EXTINF:-1 tvg-logo="https://imgur.com/2qWdToI.png" group-title="Canais | REALITY",CFS SONY One SHARK TANK 🟢
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/d1ccb100fb163791ff314b91c0c3678f.webp" group-title="Canais | REALITY",CFS SONY One SHARK TANK 🟢
 https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SharkTank/playlist.m3u8
 
 
@@ -490,10 +490,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6495c7ad115d060008bf6d
 #EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/63221bafdc6e110007b50270/colorLogoPNG.png" group-title="Canais | INFANTIL",CIV Pluto Oggy e as Baratas Tontas 🟢
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63221bafdc6e110007b50270/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTINF:-1 tvg-logo="https://imgur.com/y9bZ4rD.png" group-title="Canais | INFANTIL",CIV Clubinho 🟢 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlRxZTCk-tPwDe4Y_CpLS8szRxXjtbmeetEQ&s" group-title="Canais | INFANTIL",CIV Clubinho 🟢 
 http://cdn.connectbr.com.br:80/Clubinho/tracks-v1a1/mono.m3u8?ManoTV
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MKO1InI.png" group-title="Canais | INFANTIL",CIV Kid Mais 🟢
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/aaSBg_WDS12b6hqqgoxE9F_5ao7lYIFo32gooFlu3HlAw-NW1-nYKOQk6MuBwjh47AXdsgff3PI=s900-c-k-c0x00ffffff-no-rj" group-title="Canais | INFANTIL",CIV Kid Mais 🟢
 https://video03.logicahost.com.br/novafamilia01/novafamilia01/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://channels.roku.com/images/5bcf223b79ce4f959d76497b531088d4-hd.png" group-title="Canais | INFANTIL",CIV Toon Googles | Brasil 🟢
@@ -505,13 +505,13 @@ https://stmv1.srvif.com/jetsontv/jetsontv/chunklist.m3u8?ManoTV
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/uBjpsWE.png" group-title="Canais | INFANTIL",CIV Rakuten Família 🟢
 https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8?ManoTV
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/YX13GV0.png" group-title="Canais | INFANTIL",CIV Baby TV 🟢
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/ca/Baby_TV.png" group-title="Canais | INFANTIL",CIV Baby TV 🟢
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/342
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsYADgBM9LokcqTa95ILEDOwgdllY5FTJPRg&s" group-title="Canais | INFANTIL",CIV Fox Kids 🟢
 https://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/WHmHmUH.png" group-title="Canais | INFANTIL",CIV Zoomoo Kids 🟢
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.zoomookids.com.br/wp-content/uploads/2022/10/cropped-zoomoo-kids-logo.png" group-title="Canais | INFANTIL",CIV Zoomoo Kids 🟢
 https://cdn-3.nxplay.com.br/ZOOMOO_HD_NX_TK/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.programacao.tv/imagens/retro-cartoon.png" group-title="Canais | INFANTIL",CIV Retro Cartoon 🟢
@@ -558,7 +558,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/646663b01593940008990a
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/633dc392e0282400071b0d39/colorLogoPNG.png" group-title="Canais | ANIMES & GEEK",CAV Pluto Beyblade
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/633dc392e0282400071b0d39/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://imgur.com/Athwean.png" group-title="Canais | ANIMES & GEEK",CAV Pluto Tokusato
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ff609de50ab210008025c1b/featuredImage.jpg?auto=&q=70&fit=fill&fill=blur&ixlib=react-9.1.5" group-title="Canais | ANIMES & GEEK",CAV Pluto Tokusatsu
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff609de50ab210008025c1b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=967d46f0-96bd-11eb-b493-ab25b5b88dc0&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e8619d5a-ac5a-4804-8d5e-84812ad7686b&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/625464a945b6a200079257d1/solidLogoPNG.png" group-title="Canais | ANIMES & GEEK",CAV Pluto Death Note
@@ -579,7 +579,7 @@ https://tv02.zas.media:1936/wordingtv/wordingtv/chunklist_w1264551258.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NMMtJ8F.jpeg" group-title="Canais | ANIMES & GEEK",CAV Geekdot​
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/K4IrU99.png" group-title="Canais | ANIMES & GEEK",CAV Animes TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgqZ-vySEcXjnE0qdWp6WxLiflKtj53_qTLg&s" group-title="Canais | ANIMES & GEEK",CAV Animes TV
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8?ManoTV
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2HaiovZ.png" group-title="Canais | ANIMES & GEEK",CAV Hallo Anime [HD]
