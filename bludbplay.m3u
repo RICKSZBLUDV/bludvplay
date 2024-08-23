@@ -44,32 +44,52 @@ https://casaplay5g.win:443/marcelo/102030/1361184
 #EXTINF:-1 tvg-id="CANCAOH" tvg-name="CANÇÃO NOVA SD" tvg-logo="https://i.scdn.co/image/ab6761610000e5eb2e7db1910d91aa54f828910f" group-title="RELIGIOSO",CA CANÇÃO NOVA 2 [HD]
 https://casaplay5g.win:443/marcelo/102030/1361185
 
-#EXTINF:-1 tvg-name="RECORDSP" tvg-id="RECORDSP" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/Fu29jsvxR56M6LbqVJiogZsKmENyo9shulnIPwqe.jpg",CA Record Tv
-https://abc.embedmax.site/recordSP/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" group-title="Brazil" tvg-logo="https://www.bastidoresdatv.com.br/wp-content/uploads/2015/12/Logotipo_do_SBT_SC.png",CA SBT
+#EXTINF:-1 tvg-id="REDESECULO21" tvg-name="REDESECULO21" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/tuedRBvPQry0gAIJEZCuejW8Vnpy5Qyke6IbLAzr.png",CA REDE Século 21
+https://casaplay5g.win:443/marcelo/102030/1361192
+
+#EXTINF:-1 tvg-id="recordtv.sao.paulo.br" tvg-name="RECORDTV SP HD" tvg-logo="https://sv2.casaplay5g.win:443/images/708ca28ff4ee43890bc92a74380065fe.png" group-title="RECORD",RECORDTV SP HD
+https://casaplay5g.win:443/marcelo/102030/1361178
+#EXTINF:-1 tvg-id="recordtv.sao.paulo.br" tvg-name="RECORDTV SP SD" tvg-logo="https://sv2.casaplay5g.win:443/images/708ca28ff4ee43890bc92a74380065fe.png" group-title="RECORD",RECORDTV SP SD
+https://casaplay5g.win:443/marcelo/102030/1361179
+#EXTINF:-1 tvg-id="record.rio.br" tvg-name="RECORDTV RJ HD" tvg-logo="https://sv2.casaplay5g.win:443/images/708ca28ff4ee43890bc92a74380065fe.png" group-title="RECORD",RECORDTV RJ HD
+https://casaplay5g.win:443/marcelo/102030/1361171
+#EXTINF:-1 tvg-id="record.rio.br" tvg-name="RECORDTV RJ SD" tvg-logo="https://sv2.casaplay5g.win:443/images/708ca28ff4ee43890bc92a74380065fe.png" group-title="RECORD",RECORDTV RJ SD
+https://casaplay5g.win:443/marcelo/102030/1361157
+
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" group-title="Brazil" tvg-logo="https://www.bastidoresdatv.com.br/wp-content/uploads/2015/12/Logotipo_do_SBT_SC.png",CA SBT [HD]
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
-#EXTINF:-1 tvg-id="GAZETA" tvg-name="GAZETA" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/WMaqcEWnSG531S6cXAb4N9VU52kvn3aA16vhlRs5.png",CA TV Gazeta
-https://video08.logicahost.com.br/tvc21/tvc21/chunklist_w1241834151.m3u8
 #EXTINF:-1 tvg-id="REDETV" tvg-name="REDETV" group-title="Brazil" tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2017/09/redetv-logo.png",CA RedeTV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4555
-#EXTINF:-1 tvg-id="TVBRASIL" tvg-name="TVBRASIL" group-title="Brazil" tvg-logo="https://cdn.bs9.com.br/upload/dn_arquivo/2024/06/whatsapp-image-2024-06-25-at-160017.jpeg",CA TV Brasil
-rtmp://wowza.softhost.com.br/ufg/tvufgweb
-#EXTINF:-1 tvg-name="CULTURA" tvg-id="CULTURA" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/O3ZfDTZag7EgZHmklnGStrYyxc4WlgE3NvDmGuxW.gif",CA TV Cultura
-https://video02.logicahost.com.br/tvguara23/tvguara23/chunklist_w1014630644.m3u8
-#EXTINF:-1 tvg-id="FUTURA" tvg-name="FUTURA" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/nUAaqJAEnnfuZi8PlToGqzrl228SE5b7Ht6vxp88.png",CA Futura
+#EXTINF:-1 tvg-id="FUTURA" tvg-name="FUTURA" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/nUAaqJAEnnfuZi8PlToGqzrl228SE5b7Ht6vxp88.png",CA Futura [FHD]
 https://5a57bda70564a.streamlock.net/opovo/opovo.sdp/chunklist_w157550291.m3u8
-#EXTINF:-1 tvg-id="TVCAMERA" tvg-name="TVCAMERA" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/a41CQSK0ykAH6hZK0AJyBmfQaY7xtoBJ37idr9u7.png",CA TV Câmara
-https://stream3.camara.gov.br/tv1/manifest.m3u8
-#EXTINF:-1 tvg-id="TVSENADO" tvg-name="TVSENADO" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/H4naH9diPMzwKJ89f1OolK3lhvaQngOQlkqlhHdn.png",CA TV Senado [SD]
-http://pfsv.io:80/pu1411/HP5729/72.m3u8
-#EXTINF:-1 tvg-id="TVAPARECIDA" tvg-name="TVAPARECIDA" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/AHxSamEHuHH1ub6rMgzx1WtwgK7CjZcDgHq7xHNm.png",CA TV Aparecida
-https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8?ManoTV
-#EXTINF:-1 tvg-id="REDEFAMÍLIA" tvg-name="REDEFAMÍLIA" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/m9qPdp8hy63ZXfIsbPicLdlCeTkmlkShAJDfWV6H.png",CA REDE Família
+#EXTINF:-1 tvg-id="REDEFAMÍLIA" tvg-name="REDEFAMÍLIA" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/m9qPdp8hy63ZXfIsbPicLdlCeTkmlkShAJDfWV6H.png",CA REDE Família [FHD]
 https://tv01.zas.media:1936/rftv/rftv/chunklist_w307092379.m3u8
 #EXTINF:-1 tvg-id="REDEGOSPEL" tvg-name="REDEGOSPEL" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/iiiLlwQr7gMKT9sBLQ3fzIO1tmIwveR9RArDAQyC.png",CA REDE Gospel
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
-#EXTINF:-1 tvg-id="REDESECULO21" tvg-name="REDESECULO21" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/tuedRBvPQry0gAIJEZCuejW8Vnpy5Qyke6IbLAzr.png",CA REDE Século 21
-https://cdn.live.br1.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/chunklist_b5795840.m3u8
+#EXTINF:-1 tvg-id="TVCAMERA" tvg-name="TVCAMERA" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/a41CQSK0ykAH6hZK0AJyBmfQaY7xtoBJ37idr9u7.png",CA TV Câmara [FHD]
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+#EXTINF:-1 tvg-id="TVSENADO" tvg-name="TVSENADO" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/H4naH9diPMzwKJ89f1OolK3lhvaQngOQlkqlhHdn.png",CA TV Senado [SD]
+http://pfsv.io:80/pu1411/HP5729/72.m3u8
+#EXTINF:-1 tvg-name="CULTURA" tvg-id="CULTURA" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/O3ZfDTZag7EgZHmklnGStrYyxc4WlgE3NvDmGuxW.gif",CA TV Cultura [HD]
+https://video02.logicahost.com.br/tvguara23/tvguara23/chunklist_w1014630644.m3u8
+
+#EXTINF:-1 tvg-id="GAZETA" tvg-name="GAZETA" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/WMaqcEWnSG531S6cXAb4N9VU52kvn3aA16vhlRs5.png",CA TV Gazeta
+https://casaplay5g.win:443/marcelo/102030/1536137
+
+#EXTINF:-1 tvg-id="tv.brasil.br" tvg-name="TV BRASIL FHD ( ALTERNATIVO )" tvg-logo="https://sv2.casaplay5g.win:443/images/8a864cf8ffcd447dfc07a586bf2bbcbd.png" group-title="ABERTOS",TV BRASIL FHD ( ALTERNATIVO )
+https://casaplay5g.win:443/marcelo/102030/1536130
+#EXTINF:-1 tvg-id="tv.brasil.br" tvg-name="TV BRASIL HD" tvg-logo="https://sv2.casaplay5g.win:443/images/8a864cf8ffcd447dfc07a586bf2bbcbd.png" group-title="ABERTOS",TV BRASIL HD
+https://casaplay5g.win:443/marcelo/102030/1361407
+#EXTINF:-1 tvg-id="tv.brasil.br" tvg-name="TV BRASIL HD ( ALTERNATIVO )" tvg-logo="https://sv2.casaplay5g.win:443/images/8a864cf8ffcd447dfc07a586bf2bbcbd.png" group-title="ABERTOS",TV BRASIL HD ( ALTERNATIVO )
+https://casaplay5g.win:443/marcelo/102030/1536131
+
+#EXTINF:-1 tvg-id="" tvg-name="TV APARECIDA HD" tvg-logo="https://static.guiadetv.com/channel/AHxSamEHuHH1ub6rMgzx1WtwgK7CjZcDgHq7xHNm.png" group-title="RELIGIOSO",CA TV APARECIDA HD
+https://casaplay5g.win:443/marcelo/102030/1361201
+#EXTINF:-1 tvg-id="" tvg-name="TV APARECIDA HD ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/AHxSamEHuHH1ub6rMgzx1WtwgK7CjZcDgHq7xHNm.png" group-title="RELIGIOSO",CA TV APARECIDA HD ( ALTERNATIVO )
+https://casaplay5g.win:443/marcelo/102030/1536129
+#EXTINF:-1 tvg-id="" tvg-name="TV APARECIDA SD" tvg-logo="https://static.guiadetv.com/channel/AHxSamEHuHH1ub6rMgzx1WtwgK7CjZcDgHq7xHNm.png" group-title="RELIGIOSO",CA TV APARECIDA SD
+https://casaplay5g.win:443/marcelo/102030/1361202
+
 #EXTINF:-1 tvg-id="BR - Rede Vida" tvg-name="REDE VIDA [FHD]" tvg-logo="https://static.guiadetv.com/channel/fWx398FZCOcj7C2YpuOb2KRWgfdpa4h1yFPSXrAv.gif" group-title="Canais | Religiosos",CA REDE VIDA [FHD]
 http://pfsv.io:80/pu1411/HP5729/545.m3u8
 #EXTINF:-1 tvg-id="BR - Rede Vida" tvg-name="REDE VIDA [HD]" tvg-logo="https://static.guiadetv.com/channel/fWx398FZCOcj7C2YpuOb2KRWgfdpa4h1yFPSXrAv.gif" group-title="Canais | Religiosos",CA REDE VIDA [HD]
