@@ -87,18 +87,76 @@ https://casaplay5g.win:443/marcelo/102030/1361406
 🔰  DOCUMENTARIOS  🔰
  
 
-#EXTINF:-1 tvg-name="ANIMALPLANET" tvg-id="ANIMALPLANET" group-title="Documentario" tvg-logo="https://static.guiadetv.com/channel/QrnHAPvDoIBNihzZrxo6yCPr63I4voO2zga4q14l.png",CD Animal Planet Discovery
-https://cdn-3.nxplay.com.br/ANIMAL_PLANET_NX/index.m3u8
-#EXTINF:-1 tvg-name="DISCOVERY" tvg-id="DISCOVERY" group-title="Documentario" tvg-logo="https://static.guiadetv.com/channel/XOPt3bhwlhbPKO6PJ7RyJxZZkUV9j8UgWqfBbGik.png",CD Discovery Channel
-https://abc.embedmax.site/discoverychannel/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="HISTORY" tvg-name="HISTORY" group-title="Documentario" tvg-logo="https://static.guiadetv.com/channel/7rVhnUDohbye1yx2ES2XxuFgAyMAXNOyV50fLvLL.png",CD History
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="Animal Planet (H265) ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/QrnHAPvDoIBNihzZrxo6yCPr63I4voO2zga4q14l.png" group-title="DOCUMENTARIOS",Animal Planet (H265) ( ALTERNATIVO )
+https://casaplay5g.win:443/marcelo/102030/1535361
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET 4K" tvg-logo="https://static.guiadetv.com/channel/QrnHAPvDoIBNihzZrxo6yCPr63I4voO2zga4q14l.png" group-title="DOCUMENTARIOS",ANIMAL PLANET 4K
+https://casaplay5g.win:443/marcelo/102030/1361413
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="Animal Planet 4K ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/QrnHAPvDoIBNihzZrxo6yCPr63I4voO2zga4q14l.png" group-title="DOCUMENTARIOS",Animal Planet 4K ( ALTERNATIVO )
+https://casaplay5g.win:443/marcelo/102030/1535362
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET FHD ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/QrnHAPvDoIBNihzZrxo6yCPr63I4voO2zga4q14l.png" group-title="DOCUMENTARIOS",ANIMAL PLANET FHD ( ALTERNATIVO )
+https://casaplay5g.win:443/marcelo/102030/1535363
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="https://static.guiadetv.com/channel/QrnHAPvDoIBNihzZrxo6yCPr63I4voO2zga4q14l.png" group-title="DOCUMENTARIOS",ANIMAL PLANET HD
+https://casaplay5g.win:443/marcelo/102030/1361416
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET HD ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/QrnHAPvDoIBNihzZrxo6yCPr63I4voO2zga4q14l.png" group-title="DOCUMENTARIOS",ANIMAL PLANET HD ( ALTERNATIVO )
+https://casaplay5g.win:443/marcelo/102030/1535364
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET SD" tvg-logo="https://static.guiadetv.com/channel/QrnHAPvDoIBNihzZrxo6yCPr63I4voO2zga4q14l.png" group-title="DOCUMENTARIOS",ANIMAL PLANET SD
+https://casaplay5g.win:443/marcelo/102030/1361415
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET SD ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/QrnHAPvDoIBNihzZrxo6yCPr63I4voO2zga4q14l.png" group-title="DOCUMENTARIOS",ANIMAL PLANET SD ( ALTERNATIVO )
+https://casaplay5g.win:443/marcelo/102030/1535365
+
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="Discovery Channel (H265) ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/XOPt3bhwlhbPKO6PJ7RyJxZZkUV9j8UgWqfBbGik.png" group-title="DOCUMENTARIOS",Discovery Channel (H265) ( ALTERNATIVO )
+https://casaplay5g.win:443/marcelo/102030/1535504
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY CHANNEL 4K" tvg-logo="https://static.guiadetv.com/channel/XOPt3bhwlhbPKO6PJ7RyJxZZkUV9j8UgWqfBbGik.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL 4K
+https://casaplay5g.win:443/marcelo/102030/1361420
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="Discovery Channel 4K ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/XOPt3bhwlhbPKO6PJ7RyJxZZkUV9j8UgWqfBbGik.png" group-title="DOCUMENTARIOS",Discovery Channel 4K ( ALTERNATIVO )
+https://casaplay5g.win:443/marcelo/102030/1535505
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY CHANNEL FHD ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/XOPt3bhwlhbPKO6PJ7RyJxZZkUV9j8UgWqfBbGik.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL FHD ( ALTERNATIVO )
+https://casaplay5g.win:443/marcelo/102030/1535506
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://static.guiadetv.com/channel/XOPt3bhwlhbPKO6PJ7RyJxZZkUV9j8UgWqfBbGik.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL HD
+https://casaplay5g.win:443/marcelo/102030/1361422
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY CHANNEL HD ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/XOPt3bhwlhbPKO6PJ7RyJxZZkUV9j8UgWqfBbGik.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL HD ( ALTERNATIVO )
+https://casaplay5g.win:443/marcelo/102030/1535507
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY CHANNEL SD" tvg-logo="https://static.guiadetv.com/channel/XOPt3bhwlhbPKO6PJ7RyJxZZkUV9j8UgWqfBbGik.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL SD
+https://casaplay5g.win:443/marcelo/102030/1361421
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY CHANNEL SD ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/XOPt3bhwlhbPKO6PJ7RyJxZZkUV9j8UgWqfBbGik.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL SD ( ALTERNATIVO )
+https://casaplay5g.win:443/marcelo/102030/1535508
+#EXTINF:-1 tvg-id="IDBHD" tvg-name="DISCOVERY ID 4K" tvg-logo="https://static.guiadetv.com/channel/XOPt3bhwlhbPKO6PJ7RyJxZZkUV9j8UgWqfBbGik.png" group-title="DOCUMENTARIOS",DISCOVERY ID 4K
+https://casaplay5g.win:443/marcelo/102030/1361423
+#EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="DISCOVERY ID HD" tvg-logo="https://static.guiadetv.com/channel/XOPt3bhwlhbPKO6PJ7RyJxZZkUV9j8UgWqfBbGik.png" group-title="DOCUMENTARIOS",DISCOVERY ID HD
+https://casaplay5g.win:443/marcelo/102030/1361425
+
+#EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="ID - INVESTIGACAO DISCOVERY (H265) ( ALTERNATIVO )" tvg-logo="https://cdn.mitvstatic.com/channels/br_investigac-o-discovery_m.png" group-title="DOCUMENTARIOS",ID - INVESTIGACAO DISCOVERY (H265) ( ALTERNATIVO )
+https://casaplay5g.win:443/marcelo/102030/1535817
+#EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="ID - INVESTIGACAO DISCOVERY FHD ( ALTERNATIVO )" tvg-logo="https://cdn.mitvstatic.com/channels/br_investigac-o-discovery_m.png" group-title="DOCUMENTARIOS",ID - INVESTIGACAO DISCOVERY FHD ( ALTERNATIVO )
+https://casaplay5g.win:443/marcelo/102030/1535818
+#EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="ID - INVESTIGACAO DISCOVERY HD ( ALTERNATIVO )" tvg-logo="https://cdn.mitvstatic.com/channels/br_investigac-o-discovery_m.png" group-title="DOCUMENTARIOS",ID - INVESTIGACAO DISCOVERY HD ( ALTERNATIVO )
+https://casaplay5g.win:443/marcelo/102030/1535819
+#EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="ID - INVESTIGACAO DISCOVERY SD ( ALTERNATIVO )" tvg-logo="https://cdn.mitvstatic.com/channels/br_investigac-o-discovery_m.png" group-title="DOCUMENTARIOS",ID - INVESTIGACAO DISCOVERY SD ( ALTERNATIVO )
+https://casaplay5g.win:443/marcelo/102030/1535820
+
+#EXTINF:-1 tvg-id="national.geographic.br" tvg-name="NatGeo (H265) ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/pG68jPTCJ8tcHpdUNo3186FX6sbwM9moxsTH8SH2.png" group-title="DOCUMENTARIOS",NATGEO (H265) ( ALTERNATIVO )
+https://casaplay5g.win:443/marcelo/102030/1535864
+#EXTINF:-1 tvg-id="national.geographic.br" tvg-name="NATGEO HD ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/pG68jPTCJ8tcHpdUNo3186FX6sbwM9moxsTH8SH2.png" group-title="DOCUMENTARIOS",NATGEO HD ( ALTERNATIVO )
+https://casaplay5g.win:443/marcelo/102030/1535865
+#EXTINF:-1 tvg-id="national.geographic.wild.pt" tvg-name="NatGeo Wild (H265) ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/pG68jPTCJ8tcHpdUNo3186FX6sbwM9moxsTH8SH2.png" group-title="DOCUMENTARIOS",NatGeo Wild (H265) ( ALTERNATIVO )
+https://casaplay5g.win:443/marcelo/102030/1535866
+#EXTINF:-1 tvg-id="national.geographic.br" tvg-name="NATIONAL GEOGRAPHIC 4K" tvg-logo="https://static.guiadetv.com/channel/pG68jPTCJ8tcHpdUNo3186FX6sbwM9moxsTH8SH2.png" group-title="DOCUMENTARIOS",NATGEO 4K
+https://casaplay5g.win:443/marcelo/102030/1361447
+#EXTINF:-1 tvg-id="national.geographic.br" tvg-name="NATIONAL GEOGRAPHIC FHD ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/pG68jPTCJ8tcHpdUNo3186FX6sbwM9moxsTH8SH2.png" group-title="DOCUMENTARIOS",NATGEO FHD ( ALTERNATIVO )
+https://casaplay5g.win:443/marcelo/102030/1535867
+#EXTINF:-1 tvg-id="national.geographic.br" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="https://static.guiadetv.com/channel/pG68jPTCJ8tcHpdUNo3186FX6sbwM9moxsTH8SH2.png" group-title="DOCUMENTARIOS",NATGEO HD
+https://casaplay5g.win:443/marcelo/102030/1361449
+#EXTINF:-1 tvg-id="national.geographic.br" tvg-name="NATIONAL GEOGRAPHIC HD ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/pG68jPTCJ8tcHpdUNo3186FX6sbwM9moxsTH8SH2.png" group-title="DOCUMENTARIOS",NATGEO HD ( ALTERNATIVO )
+https://casaplay5g.win:443/marcelo/102030/1535868
+#EXTINF:-1 tvg-id="national.geographic.br" tvg-name="NATIONAL GEOGRAPHIC SD ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/pG68jPTCJ8tcHpdUNo3186FX6sbwM9moxsTH8SH2.png" group-title="DOCUMENTARIOS",NATGEO SD ( ALTERNATIVO )
+https://casaplay5g.win:443/marcelo/102030/1535869
+#EXTINF:-1 tvg-id="national.geographic.br" tvg-name="National Geographics 4K ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/pG68jPTCJ8tcHpdUNo3186FX6sbwM9moxsTH8SH2.png" group-title="DOCUMENTARIOS",NATGEO 4K ( ALTERNATIVO )
+https://casaplay5g.win:443/marcelo/102030/1535870
+
+#EXTINF:-1 tvg-id="HISTORY" tvg-name="HISTORY" group-title="Documentario" tvg-logo="https://static.guiadetv.com/channel/7rVhnUDohbye1yx2ES2XxuFgAyMAXNOyV50fLvLL.png",CD History [HD]
 https://cdn-4.nxplay.com.br/HISTORY_TK/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-id="HISTORY2" tvg-name="HISTORY2" group-title="Documentario" tvg-logo="https://static.guiadetv.com/channel/RNH7bzJtUCJIwIVbwD7d6TAPclK6GGQb3yzCfEcs.png",CD History 2
+#EXTINF:-1 tvg-id="HISTORY2" tvg-name="HISTORY2" group-title="Documentario" tvg-logo="https://static.guiadetv.com/channel/RNH7bzJtUCJIwIVbwD7d6TAPclK6GGQb3yzCfEcs.png",CD History 2 [HD]
 https://cdn-4.nxplay.com.br/HISTORY_2_TK/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-id="NATGEO" tvg-name="NATGEO" group-title="Documentario" tvg-logo="https://static.guiadetv.com/channel/pG68jPTCJ8tcHpdUNo3186FX6sbwM9moxsTH8SH2.png",CD National Geo
-https://abc.embedmax.site/nationalgeographic/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ID" tvg-name="ID" group-title="Documentario" tvg-logo="https://cdn.mitvstatic.com/channels/br_investigac-o-discovery_m.png",CD Investigação Discovery
-https://abc.embedmax.site/discoveryid/tracks-v1a1/mono.m3u8
 
 
  🔰  ESPORTES  🔰
@@ -430,7 +488,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60f5fabf0721880007c
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f12141b146d760007934ea7/colorLogoPNG.png" group-title="Canais | INFANTIL",CIV Pluto TV Junior
 https://jmp2.uk/PlutoTV/5f12141b146d760007934ea7-alt.m3u8
 
-#EXTINF:-1 tvg-id="O Reino Infantil" tvg-logo="https://imgur.com/ElG7z3z.png" group-title="Canais | INFANTIL",CIV Pluto O Reino Infantil
+#EXTINF:-1 tvg-id="O Reino Infantil" tvg-logo="https://yt3.googleusercontent.com/4zTHjIIPOA3BNb1i20HH3_v6cYcyqHex3G4p5rcJ3iO5_B8b0mL34Kuk-mXyo-gE2ZzffWCO=s900-c-k-c0x00ffffff-no-rj" group-title="Canais | INFANTIL",CIV Pluto O Reino Infantil
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5c216df68f920007888315/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a5765170-77db-11eb-bfcd-e755c619a901&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b976462f-c9ea-4e8b-bbf6-df21635438ff&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1214a637c6fd00079c652f/colorLogoPNG.png" group-title="Canais | INFANTIL",CIV Pluto TV Kids
@@ -549,7 +607,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/646663b01593940008990a
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/633dc392e0282400071b0d39/colorLogoPNG.png" group-title="Canais | ANIMES & GEEK",CAV Pluto Beyblade
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/633dc392e0282400071b0d39/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ff609de50ab210008025c1b/featuredImage.jpg?auto=&q=70&fit=fill&fill=blur&ixlib=react-9.1.5" group-title="Canais | ANIMES & GEEK",CAV Pluto Tokusatsu
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/MikCH3Bbeg53H3tITLI-e_MPx4XY5LBJfesliYdeFFvLS4NJRmClZUHEr0RYN0GluINmer1yaA=s900-c-k-c0x00ffffff-no-rj" group-title="Canais | ANIMES & GEEK",CAV Pluto Tokusatsu
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff609de50ab210008025c1b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=967d46f0-96bd-11eb-b493-ab25b5b88dc0&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e8619d5a-ac5a-4804-8d5e-84812ad7686b&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/625464a945b6a200079257d1/solidLogoPNG.png" group-title="Canais | ANIMES & GEEK",CAV Pluto Death Note
