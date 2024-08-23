@@ -46,24 +46,12 @@ https://casaplay5g.win:443/marcelo/102030/1361179
 https://casaplay5g.win:443/marcelo/102030/1361171
 #EXTINF:-1 tvg-id="record.rio.br" tvg-name="RECORDTV RJ SD" tvg-logo="https://static.guiadetv.com/channel/Fu29jsvxR56M6LbqVJiogZsKmENyo9shulnIPwqe.jpg" group-title="RECORD",CA RECORDTV RJ [SD]
 https://casaplay5g.win:443/marcelo/102030/
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" group-title="Brazil" tvg-logo="https://www.bastidoresdatv.com.br/wp-content/uploads/2015/12/Logotipo_do_SBT_SC.png",CA SBT [HD]
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/DTO0AQqFh9EsUSPjPUuvdm2JnvbI7WLy0800AvoH.jpg",CA SBT [HD]
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
-
-#EXTINF:-1 tvg-id="REDETV" tvg-name="REDETV" group-title="Brazil" tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2017/09/redetv-logo.png",CA RedeTV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4555
-#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV FHD ( ALTERNATIVO )" tvg-logo="https://sv2.casaplay5g.win:443/images/2089552bf3d81605a3f73fb08bf9718c.png" group-title="ABERTOS",REDE TV FHD ( ALTERNATIVO )
-https://casaplay5g.win:443/marcelo/102030/1535977
-#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV HD ( ALTERNATIVO )" tvg-logo="https://sv2.casaplay5g.win:443/images/2089552bf3d81605a3f73fb08bf9718c.png" group-title="ABERTOS",REDE TV HD ( ALTERNATIVO )
-https://casaplay5g.win:443/marcelo/102030/1535978
-#EXTINF:-1 tvg-id="redetv.br" tvg-name="Rede TV! 4K ( ALTERNATIVO )" tvg-logo="https://sv2.casaplay5g.win:443/images/2089552bf3d81605a3f73fb08bf9718c.png" group-title="ABERTOS",Rede TV! 4K ( ALTERNATIVO )
-https://casaplay5g.win:443/marcelo/102030/1535979
-#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV! FHD" tvg-logo="https://sv2.casaplay5g.win:443/images/2089552bf3d81605a3f73fb08bf9718c.png" group-title="ABERTOS",REDE TV! FHD
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV! FHD" tvg-logo="https://static.guiadetv.com/channel/sUyLBwfomYbm9MLwc7eIAznjkRSBuxOoHwdOm5ea.gif" group-title="ABERTOS",REDE TV! [SD]
 https://casaplay5g.win:443/marcelo/102030/1361402
-#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV! HD" tvg-logo="https://sv2.casaplay5g.win:443/images/2089552bf3d81605a3f73fb08bf9718c.png" group-title="ABERTOS",REDE TV! HD
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV! HD" tvg-logo="https://static.guiadetv.com/channel/sUyLBwfomYbm9MLwc7eIAznjkRSBuxOoHwdOm5ea.gif" group-title="ABERTOS",REDE TV! 2 [SD]
 https://casaplay5g.win:443/marcelo/102030/1361404
-#EXTINF:-1 tvg-id="" tvg-name="RedeTV SD ( ALTERNATIVO )" tvg-logo="" group-title="RELIGIOSO",RedeTV SD ( ALTERNATIVO )
-https://casaplay5g.win:443/marcelo/102030/1535981
-
 #EXTINF:-1 tvg-id="FUTURA" tvg-name="FUTURA" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/nUAaqJAEnnfuZi8PlToGqzrl228SE5b7Ht6vxp88.png",CA Futura [FHD]
 https://5a57bda70564a.streamlock.net/opovo/opovo.sdp/chunklist_w157550291.m3u8
 #EXTINF:-1 tvg-id="REDEFAMÍLIA" tvg-name="REDEFAMÍLIA" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/m9qPdp8hy63ZXfIsbPicLdlCeTkmlkShAJDfWV6H.png",CA REDE Família [FHD]
@@ -88,7 +76,7 @@ http://pfsv.io:80/pu1411/HP5729/545.m3u8
 http://pfsv.io:80/pu1411/HP5729/547.m3u8
 #EXTINF:-1 tvg-id="BR - Rede Vida" tvg-name="REDE VIDA [SD]" tvg-logo="https://static.guiadetv.com/channel/fWx398FZCOcj7C2YpuOb2KRWgfdpa4h1yFPSXrAv.gif" group-title="Canais | Religiosos",CA REDE VIDA [SD]
 http://pfsv.io:80/pu1411/HP5729/551.m3u8
-#EXTINF:-1 tvg-id="tv.brasil.br" tvg-name="TV BRASIL HD" tvg-logo="https://sv2.casaplay5g.win:443/images/8a864cf8ffcd447dfc07a586bf2bbcbd.png" group-title="ABERTOS",TV BRASIL [HD]
+#EXTINF:-1 tvg-id="tv.brasil.br" tvg-name="TV BRASIL HD" tvg-logo="https://cdn.bs9.com.br/upload/dn_arquivo/2024/06/whatsapp-image-2024-06-25-at-160017.jpeg" group-title="ABERTOS",TV BRASIL [HD]
 https://casaplay5g.win:443/marcelo/102030/1361407
 #EXTINF:-1 tvg-id="REDEBRASIL" tvg-name="REDEBRASIL" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/FckwNZIeOh4xLda5G2wKHu4SPN1E3JdKfSJKFGKt.png",CA REDE BRASIL [SD]
 http://pfsv.io:80/pu1411/HP5729/87.m3u8
