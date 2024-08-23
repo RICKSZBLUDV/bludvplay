@@ -120,11 +120,11 @@ https://casaplay5g.win:443/marcelo/102030/1535507
 https://casaplay5g.win:443/marcelo/102030/1361421
 #EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY CHANNEL SD ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/XOPt3bhwlhbPKO6PJ7RyJxZZkUV9j8UgWqfBbGik.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL SD ( ALTERNATIVO )
 https://casaplay5g.win:443/marcelo/102030/1535508
-#EXTINF:-1 tvg-id="IDBHD" tvg-name="DISCOVERY ID 4K" tvg-logo="https://static.guiadetv.com/channel/XOPt3bhwlhbPKO6PJ7RyJxZZkUV9j8UgWqfBbGik.png" group-title="DOCUMENTARIOS",DISCOVERY ID 4K
-https://casaplay5g.win:443/marcelo/102030/1361423
-#EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="DISCOVERY ID HD" tvg-logo="https://static.guiadetv.com/channel/XOPt3bhwlhbPKO6PJ7RyJxZZkUV9j8UgWqfBbGik.png" group-title="DOCUMENTARIOS",DISCOVERY ID HD
-https://casaplay5g.win:443/marcelo/102030/1361425
 
+#EXTINF:-1 tvg-id="IDBHD" tvg-name="DISCOVERY ID 4K" tvg-logo="https://cdn.mitvstatic.com/channels/br_investigac-o-discovery_m.png" group-title="DOCUMENTARIOS",DISCOVERY ID 4K
+https://casaplay5g.win:443/marcelo/102030/1361423
+#EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="DISCOVERY ID HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_investigac-o-discovery_m.png" group-title="DOCUMENTARIOS",DISCOVERY ID HD
+https://casaplay5g.win:443/marcelo/102030/1361425
 #EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="ID - INVESTIGACAO DISCOVERY (H265) ( ALTERNATIVO )" tvg-logo="https://cdn.mitvstatic.com/channels/br_investigac-o-discovery_m.png" group-title="DOCUMENTARIOS",ID - INVESTIGACAO DISCOVERY (H265) ( ALTERNATIVO )
 https://casaplay5g.win:443/marcelo/102030/1535817
 #EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="ID - INVESTIGACAO DISCOVERY FHD ( ALTERNATIVO )" tvg-logo="https://cdn.mitvstatic.com/channels/br_investigac-o-discovery_m.png" group-title="DOCUMENTARIOS",ID - INVESTIGACAO DISCOVERY FHD ( ALTERNATIVO )
