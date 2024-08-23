@@ -31,43 +31,17 @@ http://pfsv.io:80/pu1411/HP5729/403.m3u8
 #EXTINF:-1 tvg-id="MIRSLHD" tvg-name="GLOBO TV MIRANTE SAO LUIS [SD]" tvg-logo="http://p6.vc/AUL" group-title="Canais | Globo",CA TV Mirante 2 [FHD][GLOBO][SAO LUIS]
 http://pfsv.io:80/pu1411/HP5729/440.m3u8
 
-#EXTINF:-1 tvg-id="globo.rj.br" tvg-name="GLOBO RJ FHD ( ALTERNATIVO )" tvg-logo="https://sv2.casaplay5g.win:443/images/70c773689a4a4c8e15cc3d66b1c43b3d.png" group-title="GLOBO",GLOBO RJ FHD ( ALTERNATIVO )
-https://casaplay5g.win:443/marcelo/102030/1535686
-#EXTINF:-1 tvg-id="globo.rj.br" tvg-name="GLOBO RJ FHD ( ALTERNATIVO ) (INTERIOR)" tvg-logo="https://sv2.casaplay5g.win:443/images/70c773689a4a4c8e15cc3d66b1c43b3d.png" group-title="GLOBO",GLOBO RJ FHD ( ALTERNATIVO ) (INTERIOR)
-https://casaplay5g.win:443/marcelo/102030/1535687
-#EXTINF:-1 tvg-id="globo.rj.br" tvg-name="GLOBO RJ HD" tvg-logo="https://sv2.casaplay5g.win:443/images/70c773689a4a4c8e15cc3d66b1c43b3d.png" group-title="GLOBO",GLOBO RJ HD
-https://casaplay5g.win:443/marcelo/102030/1360912
-#EXTINF:-1 tvg-id="globo.rj.br" tvg-name="GLOBO RJ HD ( ALTERNATIVO )" tvg-logo="https://sv2.casaplay5g.win:443/images/70c773689a4a4c8e15cc3d66b1c43b3d.png" group-title="GLOBO",GLOBO RJ HD ( ALTERNATIVO )
-https://casaplay5g.win:443/marcelo/102030/1535688
-#EXTINF:-1 tvg-id="globo.rj.br" tvg-name="GLOBO RJ HD ( ALTERNATIVO ) (INTERIOR)" tvg-logo="https://sv2.casaplay5g.win:443/images/70c773689a4a4c8e15cc3d66b1c43b3d.png" group-title="GLOBO",GLOBO RJ HD ( ALTERNATIVO ) (INTERIOR)
-https://casaplay5g.win:443/marcelo/102030/1535689
-#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO RJ PLANICE ( ALTERNATIVO )" tvg-logo="https://sv2.casaplay5g.win:443/images/70c773689a4a4c8e15cc3d66b1c43b3d.png" group-title="GLOBO",GLOBO RJ PLANICE ( ALTERNATIVO )
-https://casaplay5g.win:443/marcelo/102030/1535690
-#EXTINF:-1 tvg-id="globo.rj.br" tvg-name="GLOBO RJ SD" tvg-logo="https://sv2.casaplay5g.win:443/images/70c773689a4a4c8e15cc3d66b1c43b3d.png" group-title="GLOBO",GLOBO RJ SD
-https://casaplay5g.win:443/marcelo/102030/1360913
-#EXTINF:-1 tvg-id="globo.rj.br" tvg-name="GLOBO RJ SD ( ALTERNATIVO )" tvg-logo="https://sv2.casaplay5g.win:443/images/70c773689a4a4c8e15cc3d66b1c43b3d.png" group-title="GLOBO",GLOBO RJ SD ( ALTERNATIVO )
-https://casaplay5g.win:443/marcelo/102030/1535691
-#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="GLOBO SP FHD ( ALTERNATIVO )" tvg-logo="https://sv2.casaplay5g.win:443/images/70c773689a4a4c8e15cc3d66b1c43b3d.png" group-title="GLOBO",GLOBO SP FHD ( ALTERNATIVO )
-https://casaplay5g.win:443/marcelo/102030/1535710
-#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO SP HD" tvg-logo="https://sv2.casaplay5g.win:443/images/70c773689a4a4c8e15cc3d66b1c43b3d.png" group-title="GLOBO",GLOBO SP HD
+#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO SP HD" tvg-logo="https://pbs.twimg.com/profile_images/1781391680911884288/Xwxriw8e_400x400.jpg" group-title="GLOBO",CA GLOBO SP [HD]
 https://casaplay5g.win:443/marcelo/102030/1360923
-#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="GLOBO SP HD ( ALTERNATIVO )" tvg-logo="https://sv2.casaplay5g.win:443/images/70c773689a4a4c8e15cc3d66b1c43b3d.png" group-title="GLOBO",GLOBO SP HD ( ALTERNATIVO )
-https://casaplay5g.win:443/marcelo/102030/1535711
-#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="GLOBO SP SD" tvg-logo="https://sv2.casaplay5g.win:443/images/70c773689a4a4c8e15cc3d66b1c43b3d.png" group-title="GLOBO",GLOBO SP SD
+#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="GLOBO SP SD" tvg-logo="https://pbs.twimg.com/profile_images/1781391680911884288/Xwxriw8e_400x400.jpg" group-title="GLOBO",CA GLOBO SP [SD]
 https://casaplay5g.win:443/marcelo/102030/1360924
-#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="GLOBO SP SD ( ALTERNATIVO )" tvg-logo="https://sv2.casaplay5g.win:443/images/70c773689a4a4c8e15cc3d66b1c43b3d.png" group-title="GLOBO",GLOBO SP SD ( ALTERNATIVO )
-https://casaplay5g.win:443/marcelo/102030/1535712
-#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="GLOBO SP SD ( ALTERNATIVO )" tvg-logo="https://sv2.casaplay5g.win:443/images/70c773689a4a4c8e15cc3d66b1c43b3d.png" group-title="GLOBO",GLOBO SP SD ( ALTERNATIVO )
-https://casaplay5g.win:443/marcelo/102030/1535713
-#EXTINF:-1 tvg-id="band.br" tvg-name="BAND HD" tvg-logo="https://sv2.casaplay5g.win:443/images/2771db23cffce65bea337db4442125cb.png" group-title="BAND",BAND HD
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND HD" tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2017/02/Band-Logo.jpg" group-title="BAND",CA BAND [SD]
 https://casaplay5g.win:443/marcelo/102030/1361375
-#EXTINF:-1 tvg-id="band.br" tvg-name="Band HD" tvg-logo="https://sv2.casaplay5g.win:443/images/2771db23cffce65bea337db4442125cb.png" group-title="BAND",Band HD
+#EXTINF:-1 tvg-id="band.br" tvg-name="Band HD" tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2017/02/Band-Logo.jpg" group-title="BAND",CA BAND 2 [SD]
 https://casaplay5g.win:443/marcelo/102030/1527781
-#EXTINF:-1 tvg-id="CANCAOH" tvg-name="CANCAO NOVA 4K" tvg-logo="https://sv2.casaplay5g.win:443/images/78e7e54ce23448dbacfb3dba31e1eb9e.png" group-title="RELIGIOSO",CANCAO NOVA 4K
-https://casaplay5g.win:443/marcelo/102030/1361183
-#EXTINF:-1 tvg-id="CANCAOH" tvg-name="CANCAO NOVA HD" tvg-logo="https://sv2.casaplay5g.win:443/images/78e7e54ce23448dbacfb3dba31e1eb9e.png" group-title="RELIGIOSO",CANCAO NOVA HD
+#EXTINF:-1 tvg-id="CANCAOH" tvg-name="CANCAO NOVA HD" tvg-logo="https://i.scdn.co/image/ab6761610000e5eb2e7db1910d91aa54f828910f" group-title="RELIGIOSO",CA CANCAO NOVA [HD]
 https://casaplay5g.win:443/marcelo/102030/1361184
-#EXTINF:-1 tvg-id="CANCAOH" tvg-name="CANÇÃO NOVA SD" tvg-logo="https://sv2.casaplay5g.win:443/images/78e7e54ce23448dbacfb3dba31e1eb9e.png" group-title="RELIGIOSO",CANÇÃO NOVA SD
+#EXTINF:-1 tvg-id="CANCAOH" tvg-name="CANÇÃO NOVA SD" tvg-logo="https://i.scdn.co/image/ab6761610000e5eb2e7db1910d91aa54f828910f" group-title="RELIGIOSO",CA CANÇÃO NOVA 2 [HD]
 https://casaplay5g.win:443/marcelo/102030/1361185
 
 #EXTINF:-1 tvg-name="RECORDSP" tvg-id="RECORDSP" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/Fu29jsvxR56M6LbqVJiogZsKmENyo9shulnIPwqe.jpg",CA Record Tv
