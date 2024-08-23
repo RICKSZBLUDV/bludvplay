@@ -31,16 +31,49 @@ http://pfsv.io:80/pu1411/HP5729/403.m3u8
 #EXTINF:-1 tvg-id="MIRSLHD" tvg-name="GLOBO TV MIRANTE SAO LUIS [SD]" tvg-logo="http://p6.vc/AUL" group-title="Canais | Globo",CA TV Mirante 2 [FHD][GLOBO][SAO LUIS]
 http://pfsv.io:80/pu1411/HP5729/440.m3u8
 
-#EXTINF:-1 tvg-logo="https://telaviva.com.br/wp-content/uploads/2015/05/Globo-Internacional-HD-2015_lettering_vertical_azul.jpg" group-title="Canais | GLOBO",CA Globo RJ [FHD]
-https://abc.embedmax.site/globoRJ/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://telaviva.com.br/wp-content/uploads/2015/05/Globo-Internacional-HD-2015_lettering_vertical_azul.jpg" group-title="Canais | GLOBO",CA Globo SP [FHD]
-https://abc.embedmax.site/globoSP/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="globo.rj.br" tvg-name="GLOBO RJ FHD ( ALTERNATIVO )" tvg-logo="https://sv2.casaplay5g.win:443/images/70c773689a4a4c8e15cc3d66b1c43b3d.png" group-title="GLOBO",GLOBO RJ FHD ( ALTERNATIVO )
+https://casaplay5g.win:443/marcelo/102030/1535686
+#EXTINF:-1 tvg-id="globo.rj.br" tvg-name="GLOBO RJ FHD ( ALTERNATIVO ) (INTERIOR)" tvg-logo="https://sv2.casaplay5g.win:443/images/70c773689a4a4c8e15cc3d66b1c43b3d.png" group-title="GLOBO",GLOBO RJ FHD ( ALTERNATIVO ) (INTERIOR)
+https://casaplay5g.win:443/marcelo/102030/1535687
+#EXTINF:-1 tvg-id="globo.rj.br" tvg-name="GLOBO RJ HD" tvg-logo="https://sv2.casaplay5g.win:443/images/70c773689a4a4c8e15cc3d66b1c43b3d.png" group-title="GLOBO",GLOBO RJ HD
+https://casaplay5g.win:443/marcelo/102030/1360912
+#EXTINF:-1 tvg-id="globo.rj.br" tvg-name="GLOBO RJ HD ( ALTERNATIVO )" tvg-logo="https://sv2.casaplay5g.win:443/images/70c773689a4a4c8e15cc3d66b1c43b3d.png" group-title="GLOBO",GLOBO RJ HD ( ALTERNATIVO )
+https://casaplay5g.win:443/marcelo/102030/1535688
+#EXTINF:-1 tvg-id="globo.rj.br" tvg-name="GLOBO RJ HD ( ALTERNATIVO ) (INTERIOR)" tvg-logo="https://sv2.casaplay5g.win:443/images/70c773689a4a4c8e15cc3d66b1c43b3d.png" group-title="GLOBO",GLOBO RJ HD ( ALTERNATIVO ) (INTERIOR)
+https://casaplay5g.win:443/marcelo/102030/1535689
+#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO RJ PLANICE ( ALTERNATIVO )" tvg-logo="https://sv2.casaplay5g.win:443/images/70c773689a4a4c8e15cc3d66b1c43b3d.png" group-title="GLOBO",GLOBO RJ PLANICE ( ALTERNATIVO )
+https://casaplay5g.win:443/marcelo/102030/1535690
+#EXTINF:-1 tvg-id="globo.rj.br" tvg-name="GLOBO RJ SD" tvg-logo="https://sv2.casaplay5g.win:443/images/70c773689a4a4c8e15cc3d66b1c43b3d.png" group-title="GLOBO",GLOBO RJ SD
+https://casaplay5g.win:443/marcelo/102030/1360913
+#EXTINF:-1 tvg-id="globo.rj.br" tvg-name="GLOBO RJ SD ( ALTERNATIVO )" tvg-logo="https://sv2.casaplay5g.win:443/images/70c773689a4a4c8e15cc3d66b1c43b3d.png" group-title="GLOBO",GLOBO RJ SD ( ALTERNATIVO )
+https://casaplay5g.win:443/marcelo/102030/1535691
+#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="GLOBO SP FHD ( ALTERNATIVO )" tvg-logo="https://sv2.casaplay5g.win:443/images/70c773689a4a4c8e15cc3d66b1c43b3d.png" group-title="GLOBO",GLOBO SP FHD ( ALTERNATIVO )
+https://casaplay5g.win:443/marcelo/102030/1535710
+#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO SP HD" tvg-logo="https://sv2.casaplay5g.win:443/images/70c773689a4a4c8e15cc3d66b1c43b3d.png" group-title="GLOBO",GLOBO SP HD
+https://casaplay5g.win:443/marcelo/102030/1360923
+#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="GLOBO SP HD ( ALTERNATIVO )" tvg-logo="https://sv2.casaplay5g.win:443/images/70c773689a4a4c8e15cc3d66b1c43b3d.png" group-title="GLOBO",GLOBO SP HD ( ALTERNATIVO )
+https://casaplay5g.win:443/marcelo/102030/1535711
+#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="GLOBO SP SD" tvg-logo="https://sv2.casaplay5g.win:443/images/70c773689a4a4c8e15cc3d66b1c43b3d.png" group-title="GLOBO",GLOBO SP SD
+https://casaplay5g.win:443/marcelo/102030/1360924
+#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="GLOBO SP SD ( ALTERNATIVO )" tvg-logo="https://sv2.casaplay5g.win:443/images/70c773689a4a4c8e15cc3d66b1c43b3d.png" group-title="GLOBO",GLOBO SP SD ( ALTERNATIVO )
+https://casaplay5g.win:443/marcelo/102030/1535712
+#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="GLOBO SP SD ( ALTERNATIVO )" tvg-logo="https://sv2.casaplay5g.win:443/images/70c773689a4a4c8e15cc3d66b1c43b3d.png" group-title="GLOBO",GLOBO SP SD ( ALTERNATIVO )
+https://casaplay5g.win:443/marcelo/102030/1535713
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND HD" tvg-logo="https://sv2.casaplay5g.win:443/images/2771db23cffce65bea337db4442125cb.png" group-title="BAND",BAND HD
+https://casaplay5g.win:443/marcelo/102030/1361375
+#EXTINF:-1 tvg-id="band.br" tvg-name="Band HD" tvg-logo="https://sv2.casaplay5g.win:443/images/2771db23cffce65bea337db4442125cb.png" group-title="BAND",Band HD
+https://casaplay5g.win:443/marcelo/102030/1527781
+#EXTINF:-1 tvg-id="CANCAOH" tvg-name="CANCAO NOVA 4K" tvg-logo="https://sv2.casaplay5g.win:443/images/78e7e54ce23448dbacfb3dba31e1eb9e.png" group-title="RELIGIOSO",CANCAO NOVA 4K
+https://casaplay5g.win:443/marcelo/102030/1361183
+#EXTINF:-1 tvg-id="CANCAOH" tvg-name="CANCAO NOVA HD" tvg-logo="https://sv2.casaplay5g.win:443/images/78e7e54ce23448dbacfb3dba31e1eb9e.png" group-title="RELIGIOSO",CANCAO NOVA HD
+https://casaplay5g.win:443/marcelo/102030/1361184
+#EXTINF:-1 tvg-id="CANCAOH" tvg-name="CANÇÃO NOVA SD" tvg-logo="https://sv2.casaplay5g.win:443/images/78e7e54ce23448dbacfb3dba31e1eb9e.png" group-title="RELIGIOSO",CANÇÃO NOVA SD
+https://casaplay5g.win:443/marcelo/102030/1361185
+
 #EXTINF:-1 tvg-name="RECORDSP" tvg-id="RECORDSP" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/Fu29jsvxR56M6LbqVJiogZsKmENyo9shulnIPwqe.jpg",CA Record Tv
 https://abc.embedmax.site/recordSP/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" group-title="Brazil" tvg-logo="https://www.bastidoresdatv.com.br/wp-content/uploads/2015/12/Logotipo_do_SBT_SC.png",CA SBT
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
-#EXTINF:-1 tvg-id="BAND" tvg-name="BAND" group-title="Brazil" tvg-logo="https://olhonaband.wordpress.com/wp-content/uploads/2014/05/b25ce-e5yc.png",CA Band
-https://abc.embedmax.site/band/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="GAZETA" tvg-name="GAZETA" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/WMaqcEWnSG531S6cXAb4N9VU52kvn3aA16vhlRs5.png",CA TV Gazeta
 https://video08.logicahost.com.br/tvc21/tvc21/chunklist_w1241834151.m3u8
 #EXTINF:-1 tvg-id="REDETV" tvg-name="REDETV" group-title="Brazil" tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2017/09/redetv-logo.png",CA RedeTV
@@ -57,8 +90,6 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8
 http://pfsv.io:80/pu1411/HP5729/72.m3u8
 #EXTINF:-1 tvg-id="TVAPARECIDA" tvg-name="TVAPARECIDA" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/AHxSamEHuHH1ub6rMgzx1WtwgK7CjZcDgHq7xHNm.png",CA TV Aparecida
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8?ManoTV
-#EXTINF:-1 tvg-id="CANCAONOVA" tvg-name="CANCAONOVA" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/69wN9OzRr3yuxkhbZfqMPWOtmiiLof2tDeSU3D1P.png",CA Canção Nova
-https://cdn-3.nxplay.com.br/CANCAO_NOVA_TK/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="REDEFAMÍLIA" tvg-name="REDEFAMÍLIA" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/m9qPdp8hy63ZXfIsbPicLdlCeTkmlkShAJDfWV6H.png",CA REDE Família
 https://tv01.zas.media:1936/rftv/rftv/chunklist_w307092379.m3u8
 #EXTINF:-1 tvg-id="REDEGOSPEL" tvg-name="REDEGOSPEL" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/iiiLlwQr7gMKT9sBLQ3fzIO1tmIwveR9RArDAQyC.png",CA REDE Gospel
@@ -589,35 +620,6 @@ https://stream.ichibantv.com:3547/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/EPCg7HOyu0j7pnW6qhuBRYrlTFZsT94LEEShCBcqmQQl0HiQPZNI4__EySuIVPwG1A=w526-h296-rw" group-title="Canais | INFANTIL",CAV Anime TV
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8?ManoTV
-
-
-xxx
-
-
-#EXTINF:-1 tvg-name="XXX Brasileirinhas A Campea Do Anal" tvg-logo="https://www.themoviedb.org/assets/2/v4/glyphicons/basic/glyphicons-basic-38-picture-grey-c2ebdbb057f2a7614185931650f8cee23fa137b93812ccb132b9df511df1cfac.svg" group-title="Filmes | XXX Adultos",XXX Brasileirinhas A Campea Do Anal
-https://casaplay5g.win:443/movie/marcelo/102030/1355747.mp4
-#EXTINF:-1 tvg-name="XXX Brasileirinhas Carnafunk" tvg-logo="https://www.themoviedb.org/assets/2/v4/glyphicons/basic/glyphicons-basic-38-picture-grey-c2ebdbb057f2a7614185931650f8cee23fa137b93812ccb132b9df511df1cfac.svg" group-title="Filmes | XXX Adultos",XXX Brasileirinhas Carnafunk
-https://casaplay5g.win:443/movie/marcelo/102030/1355748.mp4
-#EXTINF:-1 tvg-name="XXX Brasileirinhas Copa Do Sexo 02 Angel Lima" tvg-logo="https://www.themoviedb.org/assets/2/v4/glyphicons/basic/glyphicons-basic-38-picture-grey-c2ebdbb057f2a7614185931650f8cee23fa137b93812ccb132b9df511df1cfac.svg" group-title="Filmes | XXX Adultos",XXX Brasileirinhas Copa Do Sexo 02 Angel Lima
-https://casaplay5g.win:443/movie/marcelo/102030/1355749.mp4
-#EXTINF:-1 tvg-name="XXX Brasileirinhas Copa Do Sexo 02 Barbie Soares" tvg-logo="https://www.themoviedb.org/assets/2/v4/glyphicons/basic/glyphicons-basic-38-picture-grey-c2ebdbb057f2a7614185931650f8cee23fa137b93812ccb132b9df511df1cfac.svg" group-title="Filmes | XXX Adultos",XXX Brasileirinhas Copa Do Sexo 02 Barbie Soares
-https://casaplay5g.win:443/movie/marcelo/102030/1355750.mp4
-#EXTINF:-1 tvg-name="XXX Brasileirinhas Copa Do Sexo 02 Carol Castro" tvg-logo="https://www.themoviedb.org/assets/2/v4/glyphicons/basic/glyphicons-basic-38-picture-grey-c2ebdbb057f2a7614185931650f8cee23fa137b93812ccb132b9df511df1cfac.svg" group-title="Filmes | XXX Adultos",XXX Brasileirinhas Copa Do Sexo 02 Carol Castro
-https://casaplay5g.win:443/movie/marcelo/102030/1355751.mp4
-#EXTINF:-1 tvg-name="XXX Brasileirinhas Dando Na Van  Anne Portilha" tvg-logo="https://www.themoviedb.org/assets/2/v4/glyphicons/basic/glyphicons-basic-38-picture-grey-c2ebdbb057f2a7614185931650f8cee23fa137b93812ccb132b9df511df1cfac.svg" group-title="Filmes | XXX Adultos",XXX Brasileirinhas Dando Na Van  Anne Portilha
-https://casaplay5g.win:443/movie/marcelo/102030/1355752.mp4
-#EXTINF:-1 tvg-name="XXX Brasileirinhas Dando Na Van Leticia Clioker" tvg-logo="https://www.themoviedb.org/assets/2/v4/glyphicons/basic/glyphicons-basic-38-picture-grey-c2ebdbb057f2a7614185931650f8cee23fa137b93812ccb132b9df511df1cfac.svg" group-title="Filmes | XXX Adultos",XXX Brasileirinhas Dando Na Van Leticia Clioker
-https://casaplay5g.win:443/movie/marcelo/102030/1355753.mp4
-#EXTINF:-1 tvg-name="XXX Brasileirinhas Dando Na Van Suzana Rhios" tvg-logo="https://www.themoviedb.org/assets/2/v4/glyphicons/basic/glyphicons-basic-38-picture-grey-c2ebdbb057f2a7614185931650f8cee23fa137b93812ccb132b9df511df1cfac.svg" group-title="Filmes | XXX Adultos",XXX Brasileirinhas Dando Na Van Suzana Rhios
-https://casaplay5g.win:443/movie/marcelo/102030/1355754.mp4
-#EXTINF:-1 tvg-name="XXX Brasileirinhas Show De Bola 02 Any Maverick" tvg-logo="https://www.themoviedb.org/assets/2/v4/glyphicons/basic/glyphicons-basic-38-picture-grey-c2ebdbb057f2a7614185931650f8cee23fa137b93812ccb132b9df511df1cfac.svg" group-title="Filmes | XXX Adultos",XXX Brasileirinhas Show De Bola 02 Any Maverick
-https://casaplay5g.win:443/movie/marcelo/102030/1355755.mp4
-#EXTINF:-1 tvg-name="XXX Brasileirinhas Show De Bola 02 Lola" tvg-logo="https://www.themoviedb.org/assets/2/v4/glyphicons/basic/glyphicons-basic-38-picture-grey-c2ebdbb057f2a7614185931650f8cee23fa137b93812ccb132b9df511df1cfac.svg" group-title="Filmes | XXX Adultos",XXX Brasileirinhas Show De Bola 02 Lola
-https://casaplay5g.win:443/movie/marcelo/102030/1355756.mp4
-#EXTINF:-1 tvg-name="XXX Brasileirinhas Show De Bola 2 Alana Freitas" tvg-logo="https://www.themoviedb.org/assets/2/v4/glyphicons/basic/glyphicons-basic-38-picture-grey-c2ebdbb057f2a7614185931650f8cee23fa137b93812ccb132b9df511df1cfac.svg" group-title="Filmes | XXX Adultos",XXX Brasileirinhas Show De Bola 2 Alana Freitas
-https://casaplay5g.win:443/movie/marcelo/102030/1355757.mp4
-#EXTINF:-1 tvg-name="XXX Brasileirinhas Show De Bola 2 Alessandra Fadyla" tvg-logo="https://www.themoviedb.org/assets/2/v4/glyphicons/basic/glyphicons-basic-38-picture-grey-c2ebdbb057f2a7614185931650f8cee23fa137b93812ccb132b9df511df1cfac.svg" group-title="Filmes | XXX Adultos",XXX Brasileirinhas Show De Bola 2 Alessandra Fadyla
-https://casaplay5g.win:443/movie/marcelo/102030/1355758.mp4
 
 
  BLUDVPLAY © 2024 All rights reserved
