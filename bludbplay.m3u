@@ -104,17 +104,6 @@ https://abc.embedmax.site/discoveryid/tracks-v1a1/mono.m3u8
  🔰  ESPORTES  🔰
  
 
-#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass [BR] [FHD]" tvg-logo="https://i.ytimg.com/vi/cLCsLTjnFuA/hqdefault.jpg" group-title="Canais | Esportes",CE UFC Fight Pass [FHD]
-http://pfsv.io:80/pu1411/HP5729/131818.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass [BR] [FHD]" tvg-logo="https://i.ytimg.com/vi/cLCsLTjnFuA/hqdefault.jpg" group-title="Canais | Esportes",CE UFC Fight Pass
-https://abc.embedmax.site/ufcfightpass/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass 1 (reprises)" tvg-logo="https://i.ytimg.com/vi/cLCsLTjnFuA/hqdefault.jpg" group-title="ESPORTES ESPECIAIS & PPV",CE UFC Fight Pass 1 (reprises)
-https://casaplay5g.win:443/marcelo/102030/1535343
-#EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT PASS HD ( ALTERNATIVO )" tvg-logo="https://i.ytimg.com/vi/cLCsLTjnFuA/hqdefault.jpg" group-title="ESPORTES",CE UFC FIGHT PASS HD ( ALTERNATIVO )
-https://casaplay5g.win:443/marcelo/102030/1536150
-#EXTINF:-1 tvg-id="" tvg-name="UFC PASS FIGHT 02 HD" tvg-logo="https://i.ytimg.com/vi/cLCsLTjnFuA/hqdefault.jpg" group-title="ESPORTES ESPECIAIS & PPV",CE UFC PASS FIGHT 02 HD
-https://casaplay5g.win:443/marcelo/102030/1361563
-
 #EXTINF:-1 tvg-id="COMBATE" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/LCW2HM2AF9Uahx8poBHbRKEyHKjg9hxu885aLTNx.png",CE Combate
 https://abc.embedmax.site/combate/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ESPN" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/TjGpU2fe85zIbjNbJU92iR7Uup7BnpXtKVvuAALV.png",CE ESPN
@@ -198,7 +187,7 @@ http://pfsv.io:80/pu1411/HP5729/130189.m3u8
 https://cdn-4.nxplay.com.br/TNT_TK/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-name="TNTSERIES" tvg-id="TNT Séries.br" group-title="FilmesSeries" tvg-logo="https://static.guiadetv.com/channel/daYbztWnSmemgmYOIB9v2iXxY4QJVbtSgDgF7d3P.png",CFS TNT Series
 https://cdn-3.nxplay.com.br/TNT_SERIES_TK/index.m3u8
-#EXTINF:-1 tvg-name="TNTNOVELAS" tvg-id="TNTNOVELAS" group-title="FilmesSeries" tvg-logo="http://i.imgur.com/wBvHWB7.png",CFS TNT Novelas
+#EXTINF:-1 tvg-name="TNTNOVELAS" tvg-id="TNTNOVELAS" group-title="FilmesSeries" tvg-logo="hhttps://pbs.twimg.com/profile_images/1673379255953117184/C7ouLzGO_400x400.jpg",CFS TNT Novelas
 https://cdn-3.nxplay.com.br/TNT_NOVELAS_TK/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="HBO" group-title="FilmesSeries" tvg-logo="https://static.guiadetv.com/channel/6DdJgo0uF7lDCk3XmpZUuryTCin6PER9EU1WUXBT.png",CFS HBO
 https://abc.embedmax.site/hbo/tracks-v1a1/mono.m3u8
@@ -412,7 +401,7 @@ http://pfsv.io:80/pu1411/HP5729/199849.m3u8
 https://abc.embedmax.site/gloobinho/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Infantil" tvg-logo="https://static.guiadetv.com/channel/ylKX0PaiVCulcY5Bduc6LSgWdFFL1uobbnsvNhz8.png",CI Gloob
 https://abc.embedmax.site/gloob/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Infantil" tvg-logo="https://telaviva.com.br/wp-content/uploads/2021/01/loading.jpeg",CI Loading tv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Infantil" tvg-logo="https://yt3.googleusercontent.com/vdDFfJe5eqSexdZEBBf9NvOCkwGhPUdN4b23NayhuZlC_KGWyo5f-oyMRU166MV8bJWB7IbUWw=s900-c-k-c0x00ffffff-no-rj",CI Loading tv
 https://stmv1.srvif.com/loadingtv/loadingtv/chunklist_w561413353.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Infantil" tvg-logo="https://static.guiadetv.com/channel/wz4ilnyWZTom5hYdKtZCpkYVNrLEidLy1YaOVBfD.png",CI Nick Jr.
 https://abc.embedmax.site/nickjr/tracks-v1a1/mono.m3u8
@@ -581,7 +570,7 @@ https://tv02.zas.media:1936/wordingtv/wordingtv/chunklist_w1264551258.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NMMtJ8F.jpeg" group-title="Canais | ANIMES & GEEK",CAV Geekdot​
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgqZ-vySEcXjnE0qdWp6WxLiflKtj53_qTLg&s" group-title="Canais | ANIMES & GEEK",CAV Animes TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/0j9vcotVx9hs0zlLFgnR6eVL1LxKJJtn-e_-MJKwIuA2RQrtGp4MLAop45ROwPbOZQ" group-title="Canais | ANIMES & GEEK",CAV Anime TV
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8?ManoTV
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2HaiovZ.png" group-title="Canais | ANIMES & GEEK",CAV Hallo Anime [HD]
