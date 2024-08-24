@@ -156,61 +156,131 @@ https://casaplay5g.win:443/marcelo/102030/1535644
 https://casaplay5g.win:443/marcelo/102030/1535645
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS HD ( ALTERNATIVO )" tvg-logo="https://gkpb.com.br/wp-content/uploads/2022/08/novo-logo-globonews-2022jpg.jpg" group-title="NOTÍCIAS",CN GLOBO News [HD]
 https://casaplay5g.win:443/marcelo/102030/1535646
-#EXTINF:-1 tvg-id="RECNEW" tvg-name="RECORD NEWS 4K" tvg-logo="https://static.guiadetv.com/channel/fWKQ5LEAdazLVIDIQdLokT6IBRoPxF2GehQonaNI.png" group-title="NOTÍCIAS",RECORD News [HD][3]
+#EXTINF:-1 tvg-id="RECNEW" tvg-name="RECORD NEWS 4K" tvg-logo="https://static.guiadetv.com/channel/fWKQ5LEAdazLVIDIQdLokT6IBRoPxF2GehQonaNI.png" group-title="NOTÍCIAS",CN RECORD News [HD][3]
 https://casaplay5g.win:443/marcelo/102030/1361118
-#EXTINF:-1 tvg-id="RECNEW" tvg-name="RECORD NEWS HD" tvg-logo="https://static.guiadetv.com/channel/fWKQ5LEAdazLVIDIQdLokT6IBRoPxF2GehQonaNI.png" group-title="NOTÍCIAS",RECORD News [SD][3]
+#EXTINF:-1 tvg-id="RECNEW" tvg-name="RECORD NEWS HD" tvg-logo="https://static.guiadetv.com/channel/fWKQ5LEAdazLVIDIQdLokT6IBRoPxF2GehQonaNI.png" group-title="NOTÍCIAS",CN RECORD News [SD][3]
 https://casaplay5g.win:443/marcelo/102030/1361119
-#EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS FHD ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/fWKQ5LEAdazLVIDIQdLokT6IBRoPxF2GehQonaNI.png" group-title="NOTÍCIAS",RECORD News [HD][2]
+#EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS FHD ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/fWKQ5LEAdazLVIDIQdLokT6IBRoPxF2GehQonaNI.png" group-title="NOTÍCIAS",CN RECORD News [HD][2]
 https://casaplay5g.win:443/marcelo/102030/1535951
-#EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS HD ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/fWKQ5LEAdazLVIDIQdLokT6IBRoPxF2GehQonaNI.png" group-title="NOTÍCIAS",RECORD News [HD]
+#EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS HD ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/fWKQ5LEAdazLVIDIQdLokT6IBRoPxF2GehQonaNI.png" group-title="NOTÍCIAS",CN RECORD News [HD]
 https://casaplay5g.win:443/marcelo/102030/1535952
-#EXTINF:-1 tvg-id="RECNEW" tvg-name="RECORD NEWS SD" tvg-logo="https://static.guiadetv.com/channel/fWKQ5LEAdazLVIDIQdLokT6IBRoPxF2GehQonaNI.png" group-title="NOTÍCIAS",RECORD News [SD][2]
+#EXTINF:-1 tvg-id="RECNEW" tvg-name="RECORD NEWS SD" tvg-logo="https://static.guiadetv.com/channel/fWKQ5LEAdazLVIDIQdLokT6IBRoPxF2GehQonaNI.png" group-title="NOTÍCIAS",CN RECORD News [SD][2]
 https://casaplay5g.win:443/marcelo/102030/1361120
-#EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS SD ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/fWKQ5LEAdazLVIDIQdLokT6IBRoPxF2GehQonaNI.png" group-title="NOTÍCIAS",RECORD News [SD]
+#EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS SD ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/fWKQ5LEAdazLVIDIQdLokT6IBRoPxF2GehQonaNI.png" group-title="CN NOTÍCIAS",CN RECORD News [SD]
 https://casaplay5g.win:443/marcelo/102030/1535953
 
 
  🔰  ESPORTES  🔰
  
 
-#EXTINF:-1 tvg-id="COMBATE" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/LCW2HM2AF9Uahx8poBHbRKEyHKjg9hxu885aLTNx.png",CE Combate
-https://abc.embedmax.site/combate/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="São Paulo/SP  Canal do Boi" tvg-name="BAND SPORTS [HD]" tvg-logo="https://static.guiadetv.com/channel/b5rLv8XUFPm6zzun6rmU8hSsqtsx18xueBIqQLaT.png" group-title="Canais | Esportes",CE BAND Sports [HD]
+http://pfsv.io:80/pu1411/HP5729/256.m3u8
+#EXTINF:-1 tvg-id="São Paulo/SP  Canal do Boi" tvg-name="BAND SPORTS [SD]" tvg-logo="https://static.guiadetv.com/channel/b5rLv8XUFPm6zzun6rmU8hSsqtsx18xueBIqQLaT.png" group-title="Canais | Esportes",CE BAND Sports [SD]
+http://pfsv.io:80/pu1411/HP5729/265.m3u8
+#EXTINF:-1 tvg-id="Bandsports HD" tvg-name="BAND SPORTS [FHD][HDR]" tvg-logo="https://static.guiadetv.com/channel/b5rLv8XUFPm6zzun6rmU8hSsqtsx18xueBIqQLaT.png" group-title="Canais | Esportes",CE BAND Sports [FHD][HDR]
+http://pfsv.io:80/pu1411/HP5729/130175.m3u8
+#EXTINF:-1 tvg-id="Bandsports HD" tvg-name="BAND SPORTS [FHD][H265]" tvg-logo="https://static.guiadetv.com/channel/b5rLv8XUFPm6zzun6rmU8hSsqtsx18xueBIqQLaT.png" group-title="Canais | Esportes",CE BAND Sports [FHD][H265]
+http://pfsv.io:80/pu1411/HP5729/30275.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="OFF (H265) ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/dVZbqIzcwz04Kd1lUc8Npm9MPPM2a7xa5RCS79fq.png" group-title="Esportes",OFF (H265) ( ALTERNATIVO )
+https://casaplay5g.win:443/marcelo/102030/1535888
+#EXTINF:-1 tvg-id="OFFHD" tvg-name="OFF 4K" tvg-logo="https://static.guiadetv.com/channel/dVZbqIzcwz04Kd1lUc8Npm9MPPM2a7xa5RCS79fq.png" group-title="Esportes",OFF 4K
+https://casaplay5g.win:443/marcelo/102030/1361269
+#EXTINF:-1 tvg-id="" tvg-name="OFF FHD ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/dVZbqIzcwz04Kd1lUc8Npm9MPPM2a7xa5RCS79fq.png" group-title="Esportes",OFF FHD ( ALTERNATIVO )
+https://casaplay5g.win:443/marcelo/102030/1535889
+#EXTINF:-1 tvg-id="OFF" tvg-name="OFF HD" tvg-logo="https://static.guiadetv.com/channel/dVZbqIzcwz04Kd1lUc8Npm9MPPM2a7xa5RCS79fq.png" group-title="Esportes",OFF HD
+https://casaplay5g.win:443/marcelo/102030/1361270
+#EXTINF:-1 tvg-id="" tvg-name="OFF HD ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/dVZbqIzcwz04Kd1lUc8Npm9MPPM2a7xa5RCS79fq.png" group-title="Esportes",OFF HD ( ALTERNATIVO )
+https://casaplay5g.win:443/marcelo/102030/1535890
+#EXTINF:-1 tvg-id="" tvg-name="OFF SD ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/dVZbqIzcwz04Kd1lUc8Npm9MPPM2a7xa5RCS79fq.png" group-title="Esportes",OFF SD ( ALTERNATIVO )
+https://casaplay5g.win:443/marcelo/102030/1535891
+
+#EXTINF:-1 tvg-id="" tvg-name="Combate (H265) ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/LCW2HM2AF9Uahx8poBHbRKEyHKjg9hxu885aLTNx.png" group-title="ESPORTES",Combate (H265) ( ALTERNATIVO )
+https://casaplay5g.win:443/marcelo/102030/1535469
+#EXTINF:-1 tvg-id="COMBATC" tvg-name="COMBATE 4K" tvg-logo="https://static.guiadetv.com/channel/LCW2HM2AF9Uahx8poBHbRKEyHKjg9hxu885aLTNx.png" group-title="ESPORTES",COMBATE 4K
+https://casaplay5g.win:443/marcelo/102030/1361453
+#EXTINF:-1 tvg-id="" tvg-name="Combate 4K ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/LCW2HM2AF9Uahx8poBHbRKEyHKjg9hxu885aLTNx.png" group-title="ESPORTES",Combate 4K ( ALTERNATIVO )
+https://casaplay5g.win:443/marcelo/102030/1535470
+#EXTINF:-1 tvg-id="" tvg-name="COMBATE FHD ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/LCW2HM2AF9Uahx8poBHbRKEyHKjg9hxu885aLTNx.png" group-title="ESPORTES",COMBATE FHD ( ALTERNATIVO )
+https://casaplay5g.win:443/marcelo/102030/1535471
+#EXTINF:-1 tvg-id="COMBATC" tvg-name="COMBATE HD" tvg-logo="https://static.guiadetv.com/channel/LCW2HM2AF9Uahx8poBHbRKEyHKjg9hxu885aLTNx.png" group-title="ESPORTES",COMBATE HD
+https://casaplay5g.win:443/marcelo/102030/1361455
+#EXTINF:-1 tvg-id="" tvg-name="COMBATE HD ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/LCW2HM2AF9Uahx8poBHbRKEyHKjg9hxu885aLTNx.png" group-title="ESPORTES",COMBATE HD ( ALTERNATIVO )
+https://casaplay5g.win:443/marcelo/102030/1535472
+#EXTINF:-1 tvg-id="COMBATC" tvg-name="COMBATE SD" tvg-logo="https://static.guiadetv.com/channel/LCW2HM2AF9Uahx8poBHbRKEyHKjg9hxu885aLTNx.png" group-title="ESPORTES",COMBATE SD
+https://casaplay5g.win:443/marcelo/102030/1361454
+#EXTINF:-1 tvg-id="" tvg-name="COMBATE SD ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/LCW2HM2AF9Uahx8poBHbRKEyHKjg9hxu885aLTNx.png" group-title="ESPORTES",COMBATE SD ( ALTERNATIVO )
+https://casaplay5g.win:443/marcelo/102030/1535473
+
+#EXTINF:-1 tvg-id="" tvg-name="SporTV (H265) ( ALTERNATIVO )" tvg-logo="https://tv-online.vercel.app/logo-sportv.png" group-title="ESPORTES",SporTV (H265) ( ALTERNATIVO )
+https://casaplay5g.win:443/marcelo/102030/1536042
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV FHD ( ALTERNATIVO )" tvg-logo="https://tv-online.vercel.app/logo-sportv.png" group-title="ESPORTES",SPORTV FHD ( ALTERNATIVO )
+https://casaplay5g.win:443/marcelo/102030/1536056
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV HD ( ALTERNATIVO )" tvg-logo="https://tv-online.vercel.app/logo-sportv.png" group-title="ESPORTES",SPORTV HD ( ALTERNATIVO )
+https://casaplay5g.win:443/marcelo/102030/1536057
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV PLUS ( ALTERNATIVO )" tvg-logo="https://tv-online.vercel.app/logo-sportv.png" group-title="ESPORTES",SPORTV PLUS ( ALTERNATIVO )
+https://casaplay5g.win:443/marcelo/102030/1536058
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV SD ( ALTERNATIVO )" tvg-logo="https://tv-online.vercel.app/logo-sportv.png" group-title="ESPORTES",SPORTV SD ( ALTERNATIVO )
+https://casaplay5g.win:443/marcelo/102030/1536059
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 4K ( ALTERNATIVO )" tvg-logo="https://tv-online.vercel.app/logo-sportv.png" group-title="ESPORTES",SporTV 4K ( ALTERNATIVO )
+https://casaplay5g.win:443/marcelo/102030/1536055
+#EXTINF:-1 tvg-id="SPORVHD" tvg-name="SPORTV 1 4K" tvg-logo="https://tv-online.vercel.app/logo-sportv.png" group-title="ESPORTES",SPORTV 1 4K
+https://casaplay5g.win:443/marcelo/102030/1361478
+#EXTINF:-1 tvg-id="SPORVHD" tvg-name="SPORTV 1 HD" tvg-logo="https://tv-online.vercel.app/logo-sportv.png" group-title="ESPORTES",SPORTV 1 HD
+https://casaplay5g.win:443/marcelo/102030/1361480
+#EXTINF:-1 tvg-id="SPORVHD" tvg-name="SPORTV 1 SD" tvg-logo="https://tv-online.vercel.app/logo-sportv.png" group-title="ESPORTES",SPORTV 1 SD
+https://casaplay5g.win:443/marcelo/102030/1361479
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 2 (H265) ( ALTERNATIVO )" tvg-logo="https://tv-online.vercel.app/logo-sportv2.png" group-title="ESPORTES",SporTV 2 (H265) ( ALTERNATIVO )
+https://casaplay5g.win:443/marcelo/102030/1536043
+#EXTINF:-1 tvg-id="SP2HDOI" tvg-name="SPORTV 2 4K" tvg-logo="https://tv-online.vercel.app/logo-sportv2.png" group-title="ESPORTES",SPORTV 2 4K
+https://casaplay5g.win:443/marcelo/102030/1361481
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 2 FHD ( ALTERNATIVO )" tvg-logo="" group-title="ESPORTES",SPORTV 2 FHD ( ALTERNATIVO )
+https://casaplay5g.win:443/marcelo/102030/1536044
+#EXTINF:-1 tvg-id="SP2HDOI" tvg-name="SPORTV 2 HD" tvg-logo="https://tv-online.vercel.app/logo-sportv2.png" group-title="ESPORTES",SPORTV 2 HD
+https://casaplay5g.win:443/marcelo/102030/1361483
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 2 HD ( ALTERNATIVO )" tvg-logo="" group-title="ESPORTES",SPORTV 2 HD ( ALTERNATIVO )
+https://casaplay5g.win:443/marcelo/102030/1536045
+#EXTINF:-1 tvg-id="SP2HDOI" tvg-name="SPORTV 2 SD" tvg-logo="https://tv-online.vercel.app/logo-sportv2.png" group-title="ESPORTES",SPORTV 2 SD
+https://casaplay5g.win:443/marcelo/102030/1361484
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 2 SD ( ALTERNATIVO )" tvg-logo="https://tv-online.vercel.app/logo-sportv2.png" group-title="ESPORTES",SPORTV 2 SD ( ALTERNATIVO )
+https://casaplay5g.win:443/marcelo/102030/1536046
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 3 (H265) ( ALTERNATIVO )" tvg-logo="https://tv-online.vercel.app/sportv3.png" group-title="ESPORTES",SporTV 3 (H265) ( ALTERNATIVO )
+https://casaplay5g.win:443/marcelo/102030/1536047
+#EXTINF:-1 tvg-id="SP3HDOI" tvg-name="SPORTV 3 4K" tvg-logo="https://tv-online.vercel.app/sportv3.png" group-title="ESPORTES",SPORTV 3 4K
+https://casaplay5g.win:443/marcelo/102030/1361485
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 3 FHD ( ALTERNATIVO )" tvg-logo="" group-title="ESPORTES",SPORTV 3 FHD ( ALTERNATIVO )
+https://casaplay5g.win:443/marcelo/102030/1536048
+#EXTINF:-1 tvg-id="SP3HDOI" tvg-name="SPORTV 3 HD" tvg-logo="https://tv-online.vercel.app/sportv3.png" group-title="ESPORTES",SPORTV 3 HD
+https://casaplay5g.win:443/marcelo/102030/1361487
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 3 HD ( ALTERNATIVO )" tvg-logo="" group-title="ESPORTES",SPORTV 3 HD ( ALTERNATIVO )
+https://casaplay5g.win:443/marcelo/102030/1536049
+#EXTINF:-1 tvg-id="SP3HDOI" tvg-name="SPORTV 3 SD" tvg-logo="https://tv-online.vercel.app/sportv3.png" group-title="ESPORTES",SPORTV 3 SD
+https://casaplay5g.win:443/marcelo/102030/1361486
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 3 SD ( ALTERNATIVO )" tvg-logo="https://tv-online.vercel.app/sportv3.png" group-title="ESPORTES",SPORTV 3 SD ( ALTERNATIVO )
+https://casaplay5g.win:443/marcelo/102030/1536050
+#EXTINF:-1 tvg-id="" tvg-name="SporTv 4 (H.265) ( ALTERNATIVO )" tvg-logo="" group-title="ESPORTES",SporTv 4 (H.265) ( ALTERNATIVO )
+https://casaplay5g.win:443/marcelo/102030/1536051
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 4 FHD ( ALTERNATIVO )" tvg-logo="" group-title="ESPORTES",SPORTV 4 FHD ( ALTERNATIVO )
+https://casaplay5g.win:443/marcelo/102030/1536052
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 4 HD ( ALTERNATIVO )" tvg-logo="" group-title="ESPORTES",SPORTV 4 HD ( ALTERNATIVO )
+https://casaplay5g.win:443/marcelo/102030/1536053
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 4 SD ( ALTERNATIVO )" tvg-logo="" group-title="ESPORTES",SPORTV 4 SD ( ALTERNATIVO )
+https://casaplay5g.win:443/marcelo/102030/1536054
+
+
 #EXTINF:-1 tvg-id="ESPN" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/TjGpU2fe85zIbjNbJU92iR7Uup7BnpXtKVvuAALV.png",CE ESPN
 https://abc.embedmax.site/espn1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ESPN2" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/55279R9yfRKnzN4XUeuZ9hdd0WM61fD8rKAPD4oI.png",CE ESPN 2
 https://abc.embedmax.site/espn2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ESPN3" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/uuZJDw4RNEtG2KZLe7kNNTyxX6jKpNPJDg3yYYis.png",CE ESPN 3
+#EXTINF:-1 tvg-id="ESPN3" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/uuZJDw4RNEtG2KZLe7kNNTyxX6jKpNPJDg3yYYis.png",CE ESPN 3 [SD]
 https://cdn-4.nxplay.com.br/ESPN_3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ESPN4" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/NbCozvwgOONEXubbDHqcoBPkbBTrFcg5gA1aMA3o.png",CE ESPN 4
 https://abc.embedmax.site/espn4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://static.guiadetv.com/channel/a0k3Ik9vT9eMBoIc5ufsHvbHAdqilE3qmk3rOuvS.png" group-title="Canais | ESPN",CE ESPN 5 [HD]
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/139
-#EXTINF:-1 tvg-logo="https://static.guiadetv.com/channel/a0k3Ik9vT9eMBoIc5ufsHvbHAdqilE3qmk3rOuvS.png" group-title="Canais | ESPN",CE ESPN 5 [FHD]
+#EXTINF:-1 tvg-logo="https://static.guiadetv.com/channel/a0k3Ik9vT9eMBoIc5ufsHvbHAdqilE3qmk3rOuvS.png" group-title="Canais | ESPN",CE ESPN 5 [4K]
 http://cdnexpress.homelinux.net/live/27.m3u8
-#EXTINF:-1 tvg-logo="https://static.guiadetv.com/channel/nquFTL8kN4zEvZvNrn0frqh8KjAwN2jw4qb64Hzm.png" group-title="Canais | ESPN",CE ESPN 6 [HD]
+#EXTINF:-1 tvg-logo="https://static.guiadetv.com/channel/nquFTL8kN4zEvZvNrn0frqh8KjAwN2jw4qb64Hzm.png" group-title="Canais | ESPN",CE ESPN 6
 http://main.xplus2-main.xyz:2082/Tourobox1-HnVFocKipK/43bP6W1SNg/1005
-#EXTINF:-1 tvg-id="OFF" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/dVZbqIzcwz04Kd1lUc8Npm9MPPM2a7xa5RCS79fq.png",CE Off
-https://abc.embedmax.site/canaloff/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS" tvg-logo="https://static.guiadetv.com/channel/b5rLv8XUFPm6zzun6rmU8hSsqtsx18xueBIqQLaT.png" group-title="Canais | ESPORTES",CE Band Sports [FHD]
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/121
-#EXTINF:-1 tvg-id="São Paulo/SP  Canal do Boi" tvg-name="BAND SPORTS [HD]" tvg-logo="https://static.guiadetv.com/channel/b5rLv8XUFPm6zzun6rmU8hSsqtsx18xueBIqQLaT.png" group-title="Canais | Esportes",CE Band Sports [HD]
-http://pfsv.io:80/pu1411/HP5729/256.m3u8
-#EXTINF:-1 tvg-id="São Paulo/SP  Canal do Boi" tvg-name="BAND SPORTS [SD]" tvg-logo="https://static.guiadetv.com/channel/b5rLv8XUFPm6zzun6rmU8hSsqtsx18xueBIqQLaT.png" group-title="Canais | Esportes",CE Band Sports [SD]
-http://pfsv.io:80/pu1411/HP5729/265.m3u8
-#EXTINF:-1 tvg-id="Bandsports HD" tvg-name="BAND SPORTS [FHD][HDR]" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/band_sports.png" group-title="Canais | Esportes",CE Band Sports [FHD][HDR]
-http://pfsv.io:80/pu1411/HP5729/130175.m3u8
-#EXTINF:-1 tvg-id="BANDSP" tvg-name="BR: BAND SPORTS FHD" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/band_sports.png" group-title="Brazil",CE Band Sports [HD]
-http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/17024.ts
-#EXTINF:-1 tvg-id="Bandsports HD" tvg-name="BAND SPORTS [FHD][H265]" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/band_sports.png" group-title="Canais | Esportes",CE Band Sports [FHD][H265]
-http://pfsv.io:80/pu1411/HP5729/30275.m3u8
-#EXTINF:-1 tvg-id="BANDSP" tvg-name="BR: BAND SPORTS" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/band_sports.png" group-title="Brazil",CE Band Sports [SD]
-http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/71177.ts
-#EXTINF:-1 tvg-id="SporTV" tvg-name="" group-title="MultiSports" tvg-logo="https://tv-online.vercel.app/logo-sportv.png",CE SporTV
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/178
-#EXTINF:-1 tvg-id="SporTV2" tvg-name="" group-title="MultiSports" tvg-logo="https://tv-online.vercel.app/logo-sportv2.png",CE SporTV 2
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/172
-#EXTINF:-1 tvg-id="SporTV3" group-title="MultiSports" tvg-logo="https://tv-online.vercel.app/sportv3.png",CE SporTV 3
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/175
+
 #EXTINF:-1 tvg-id="PREMIEREFC" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/MEO9lxSgmC5CAwsKhTHPzZCZX9ZFE7lRFqA48ElS.png",CE Premiere Clubes
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/164
 #EXTINF:-1 tvg-id="PREMIERE2" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/ZaLxlvm4ijaSAtTwfhJTrvYjmiaFi8SciyiHwh9l.png",CE Premiere 2
