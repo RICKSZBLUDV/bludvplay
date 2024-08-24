@@ -132,20 +132,51 @@ https://cdn-4.nxplay.com.br/HISTORY_2_TK/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MGNoiZW.png" group-title="Canais | NOTÍCIAS",CN 011 News [HD]
 https://011news.akamaized.net/011news/011news/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/B1KhZs2.png" group-title="Canais | NOTÍCIAS",CN 4 POR 4 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B1KhZs2.png" group-title="Canais | NOTÍCIAS",CN 4 POR 4 [HD]
 https://video01.soultv.com.br/programa4por4/programa4por4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://live.staticflickr.com/2053/2308291877_4e9d0bd251_c.jpg" group-title="Canais | NOTÍCIAS",CN AVANÇA BRASIL
+#EXTINF:-1 tvg-logo="https://live.staticflickr.com/2053/2308291877_4e9d0bd251_c.jpg" group-title="Canais | NOTÍCIAS",CN AVANÇA BRASIL [HD]
 https://video01.soultv.com.br/avancabrasil/avancabrasil/playlist.m3u8
-#EXTINF:-1 tvg-id="BANDNEWS" tvg-name="BANDNEWS" group-title="Noticias" tvg-logo="https://static.guiadetv.com/channel/LTyY9kIRCaLD7WsNzFzjz4mCEBgIbOwsrlN0L0WW.png",CN Band News
-https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/276/276-3-main.m3u8
-#EXTINF:-1 tvg-name="CNNBRASIL" tvg-id="CNNBRASIL" group-title="Noticias" tvg-logo="https://static.guiadetv.com/channel/yvn5yE3HZJJsx3vxT5g4eGlvo9ofpLuOu9o9cFmF.png",CN CNN Brasil
+#EXTINF:-1 tvg-name="CNNBRASIL" tvg-id="CNNBRASIL" group-title="Noticias" tvg-logo="https://static.guiadetv.com/channel/yvn5yE3HZJJsx3vxT5g4eGlvo9ofpLuOu9o9cFmF.png",CN CNN Brasil [FHD]
 https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
-#EXTINF:-1 tvg-id="GLOBONEWS" tvg-name="GLOBONEWS" group-title="Noticias" tvg-logo="https://gkpb.com.br/wp-content/uploads/2022/08/novo-logo-globonews-2022jpg.jpg",CN Globo News
-https://abc.embedmax.site/globonews/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="JOVEMPANNEWS" tvg-name="JOVEMPANNEWS" group-title="Noticias" tvg-logo="https://static.guiadetv.com/channel/mUg3QjceZ1q2vtKIQlh6j0y8Pqs9udn4F0qGfqAs.png",CN Jobem Pan News
+#EXTINF:-1 tvg-id="JOVEMPANNEWS" tvg-name="JOVEMPANNEWS" group-title="Noticias" tvg-logo="https://static.guiadetv.com/channel/mUg3QjceZ1q2vtKIQlh6j0y8Pqs9udn4F0qGfqAs.png",CN JOVEM PAN News [HD]
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8
-#EXTINF:-1 tvg-name="RECORDNEWS" tvg-id="RECORDNEWS" group-title="Noticias" tvg-logo="https://static.guiadetv.com/channel/fWKQ5LEAdazLVIDIQdLokT6IBRoPxF2GehQonaNI.png",CN Record News
-https://cdn-1.nxplay.com.br/BAND_NEWS_TK/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Band News (H265) ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/LTyY9kIRCaLD7WsNzFzjz4mCEBgIbOwsrlN0L0WW.png" group-title="NOTÍCIAS",Band News (H265) ( ALTERNATIVO )
+https://casaplay5g.win:443/marcelo/102030/1535394
+#EXTINF:-1 tvg-id="BANDN" tvg-name="BAND NEWS 4K" tvg-logo="https://static.guiadetv.com/channel/LTyY9kIRCaLD7WsNzFzjz4mCEBgIbOwsrlN0L0WW.png" group-title="NOTÍCIAS",BAND NEWS 4K
+https://casaplay5g.win:443/marcelo/102030/1361106
+#EXTINF:-1 tvg-id="" tvg-name="BAND NEWS FHD ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/LTyY9kIRCaLD7WsNzFzjz4mCEBgIbOwsrlN0L0WW.png" group-title="NOTÍCIAS",BAND NEWS FHD ( ALTERNATIVO )
+https://casaplay5g.win:443/marcelo/102030/1535395
+#EXTINF:-1 tvg-id="BANDN" tvg-name="BAND NEWS HD" tvg-logo="https://static.guiadetv.com/channel/LTyY9kIRCaLD7WsNzFzjz4mCEBgIbOwsrlN0L0WW.png" group-title="NOTÍCIAS",BAND NEWS HD
+https://casaplay5g.win:443/marcelo/102030/1361108
+#EXTINF:-1 tvg-id="" tvg-name="BAND NEWS HD ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/LTyY9kIRCaLD7WsNzFzjz4mCEBgIbOwsrlN0L0WW.png" group-title="NOTÍCIAS",BAND NEWS HD ( ALTERNATIVO )
+https://casaplay5g.win:443/marcelo/102030/1535396
+#EXTINF:-1 tvg-id="BNDNWHD" tvg-name="BAND NEWS SD" tvg-logo="https://static.guiadetv.com/channel/LTyY9kIRCaLD7WsNzFzjz4mCEBgIbOwsrlN0L0WW.png" group-title="NOTÍCIAS",BAND NEWS SD
+https://casaplay5g.win:443/marcelo/102030/1361107
+#EXTINF:-1 tvg-id="" tvg-name="BAND NEWS SD ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/LTyY9kIRCaLD7WsNzFzjz4mCEBgIbOwsrlN0L0WW.png" group-title="NOTÍCIAS",BAND NEWS SD ( ALTERNATIVO )
+https://casaplay5g.win:443/marcelo/102030/1535397
+
+#EXTINF:-1 tvg-id="" tvg-name="Globo News 4K ( ALTERNATIVO )" tvg-logo="https://gkpb.com.br/wp-content/uploads/2022/08/novo-logo-globonews-2022jpg.jpg" group-title="NOTÍCIAS",Globo News 4K ( ALTERNATIVO )
+https://casaplay5g.win:443/marcelo/102030/1535644
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS FHD ( ALTERNATIVO )" tvg-logo="https://gkpb.com.br/wp-content/uploads/2022/08/novo-logo-globonews-2022jpg.jpg" group-title="NOTÍCIAS",GLOBO NEWS FHD ( ALTERNATIVO )
+https://casaplay5g.win:443/marcelo/102030/1535645
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS HD ( ALTERNATIVO )" tvg-logo="https://gkpb.com.br/wp-content/uploads/2022/08/novo-logo-globonews-2022jpg.jpg" group-title="NOTÍCIAS",GLOBO NEWS HD ( ALTERNATIVO )
+https://casaplay5g.win:443/marcelo/102030/1535646
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS SD ( ALTERNATIVO )" tvg-logo="https://gkpb.com.br/wp-content/uploads/2022/08/novo-logo-globonews-2022jpg.jpg" group-title="NOTÍCIAS",GLOBO NEWS SD ( ALTERNATIVO )
+https://casaplay5g.win:443/marcelo/102030/1535647
+
+#EXTINF:-1 tvg-id="RECNEW" tvg-name="RECORD NEWS 4K" tvg-logo="https://static.guiadetv.com/channel/fWKQ5LEAdazLVIDIQdLokT6IBRoPxF2GehQonaNI.png" group-title="NOTÍCIAS",RECORD NEWS 4K
+https://casaplay5g.win:443/marcelo/102030/1361118
+#EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS FHD ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/fWKQ5LEAdazLVIDIQdLokT6IBRoPxF2GehQonaNI.png" group-title="NOTÍCIAS",RECORD NEWS FHD ( ALTERNATIVO )
+https://casaplay5g.win:443/marcelo/102030/1535951
+#EXTINF:-1 tvg-id="RECNEW" tvg-name="RECORD NEWS HD" tvg-logo="https://static.guiadetv.com/channel/fWKQ5LEAdazLVIDIQdLokT6IBRoPxF2GehQonaNI.png" group-title="NOTÍCIAS",RECORD NEWS HD
+https://casaplay5g.win:443/marcelo/102030/1361119
+#EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS HD ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/fWKQ5LEAdazLVIDIQdLokT6IBRoPxF2GehQonaNI.png" group-title="NOTÍCIAS",RECORD NEWS HD ( ALTERNATIVO )
+https://casaplay5g.win:443/marcelo/102030/1535952
+#EXTINF:-1 tvg-id="RECNEW" tvg-name="RECORD NEWS SD" tvg-logo="https://static.guiadetv.com/channel/fWKQ5LEAdazLVIDIQdLokT6IBRoPxF2GehQonaNI.png" group-title="NOTÍCIAS",RECORD NEWS SD
+https://casaplay5g.win:443/marcelo/102030/1361120
+#EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS SD ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/fWKQ5LEAdazLVIDIQdLokT6IBRoPxF2GehQonaNI.png" group-title="NOTÍCIAS",RECORD NEWS SD ( ALTERNATIVO )
+https://casaplay5g.win:443/marcelo/102030/1535953
 
 
  🔰  ESPORTES  🔰
