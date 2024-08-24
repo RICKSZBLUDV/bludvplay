@@ -181,92 +181,44 @@ http://pfsv.io:80/pu1411/HP5729/265.m3u8
 http://pfsv.io:80/pu1411/HP5729/130175.m3u8
 #EXTINF:-1 tvg-id="Bandsports HD" tvg-name="BAND SPORTS [FHD][H265]" tvg-logo="https://static.guiadetv.com/channel/b5rLv8XUFPm6zzun6rmU8hSsqtsx18xueBIqQLaT.png" group-title="Canais | Esportes",CE BAND Sports [FHD][H265]
 http://pfsv.io:80/pu1411/HP5729/30275.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="OFF (H265) ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/dVZbqIzcwz04Kd1lUc8Npm9MPPM2a7xa5RCS79fq.png" group-title="Esportes",OFF (H265) ( ALTERNATIVO )
+#EXTINF:-1 tvg-id="" tvg-name="OFF (H265) ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/dVZbqIzcwz04Kd1lUc8Npm9MPPM2a7xa5RCS79fq.png" group-title="Esportes",CE OFF [FHD][H265]
 https://casaplay5g.win:443/marcelo/102030/1535888
-#EXTINF:-1 tvg-id="OFFHD" tvg-name="OFF 4K" tvg-logo="https://static.guiadetv.com/channel/dVZbqIzcwz04Kd1lUc8Npm9MPPM2a7xa5RCS79fq.png" group-title="Esportes",OFF 4K
-https://casaplay5g.win:443/marcelo/102030/1361269
-#EXTINF:-1 tvg-id="" tvg-name="OFF FHD ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/dVZbqIzcwz04Kd1lUc8Npm9MPPM2a7xa5RCS79fq.png" group-title="Esportes",OFF FHD ( ALTERNATIVO )
+#EXTINF:-1 tvg-id="" tvg-name="OFF FHD ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/dVZbqIzcwz04Kd1lUc8Npm9MPPM2a7xa5RCS79fq.png" group-title="Esportes",CE OFF [HD]
 https://casaplay5g.win:443/marcelo/102030/1535889
-#EXTINF:-1 tvg-id="OFF" tvg-name="OFF HD" tvg-logo="https://static.guiadetv.com/channel/dVZbqIzcwz04Kd1lUc8Npm9MPPM2a7xa5RCS79fq.png" group-title="Esportes",OFF HD
+#EXTINF:-1 tvg-id="OFF" tvg-name="OFF HD" tvg-logo="https://static.guiadetv.com/channel/dVZbqIzcwz04Kd1lUc8Npm9MPPM2a7xa5RCS79fq.png" group-title="Esportes",CE OFF [HD]
 https://casaplay5g.win:443/marcelo/102030/1361270
-#EXTINF:-1 tvg-id="" tvg-name="OFF HD ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/dVZbqIzcwz04Kd1lUc8Npm9MPPM2a7xa5RCS79fq.png" group-title="Esportes",OFF HD ( ALTERNATIVO )
-https://casaplay5g.win:443/marcelo/102030/1535890
-#EXTINF:-1 tvg-id="" tvg-name="OFF SD ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/dVZbqIzcwz04Kd1lUc8Npm9MPPM2a7xa5RCS79fq.png" group-title="Esportes",OFF SD ( ALTERNATIVO )
+#EXTINF:-1 tvg-id="" tvg-name="OFF SD ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/dVZbqIzcwz04Kd1lUc8Npm9MPPM2a7xa5RCS79fq.png" group-title="Esportes",CE OFF [4K]
 https://casaplay5g.win:443/marcelo/102030/1535891
-
-#EXTINF:-1 tvg-id="" tvg-name="Combate (H265) ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/LCW2HM2AF9Uahx8poBHbRKEyHKjg9hxu885aLTNx.png" group-title="ESPORTES",Combate (H265) ( ALTERNATIVO )
+#EXTINF:-1 tvg-id="" tvg-name="Combate (H265) ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/LCW2HM2AF9Uahx8poBHbRKEyHKjg9hxu885aLTNx.png" group-title="ESPORTES",Combate [FHD][H265]
 https://casaplay5g.win:443/marcelo/102030/1535469
-#EXTINF:-1 tvg-id="COMBATC" tvg-name="COMBATE 4K" tvg-logo="https://static.guiadetv.com/channel/LCW2HM2AF9Uahx8poBHbRKEyHKjg9hxu885aLTNx.png" group-title="ESPORTES",COMBATE 4K
-https://casaplay5g.win:443/marcelo/102030/1361453
-#EXTINF:-1 tvg-id="" tvg-name="Combate 4K ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/LCW2HM2AF9Uahx8poBHbRKEyHKjg9hxu885aLTNx.png" group-title="ESPORTES",Combate 4K ( ALTERNATIVO )
-https://casaplay5g.win:443/marcelo/102030/1535470
-#EXTINF:-1 tvg-id="" tvg-name="COMBATE FHD ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/LCW2HM2AF9Uahx8poBHbRKEyHKjg9hxu885aLTNx.png" group-title="ESPORTES",COMBATE FHD ( ALTERNATIVO )
+#EXTINF:-1 tvg-id="" tvg-name="COMBATE FHD ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/LCW2HM2AF9Uahx8poBHbRKEyHKjg9hxu885aLTNx.png" group-title="ESPORTES",COMBATE [FHD]
 https://casaplay5g.win:443/marcelo/102030/1535471
-#EXTINF:-1 tvg-id="COMBATC" tvg-name="COMBATE HD" tvg-logo="https://static.guiadetv.com/channel/LCW2HM2AF9Uahx8poBHbRKEyHKjg9hxu885aLTNx.png" group-title="ESPORTES",COMBATE HD
-https://casaplay5g.win:443/marcelo/102030/1361455
-#EXTINF:-1 tvg-id="" tvg-name="COMBATE HD ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/LCW2HM2AF9Uahx8poBHbRKEyHKjg9hxu885aLTNx.png" group-title="ESPORTES",COMBATE HD ( ALTERNATIVO )
+#EXTINF:-1 tvg-id="" tvg-name="COMBATE HD ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/LCW2HM2AF9Uahx8poBHbRKEyHKjg9hxu885aLTNx.png" group-title="ESPORTES",COMBATE [HD]
 https://casaplay5g.win:443/marcelo/102030/1535472
-#EXTINF:-1 tvg-id="COMBATC" tvg-name="COMBATE SD" tvg-logo="https://static.guiadetv.com/channel/LCW2HM2AF9Uahx8poBHbRKEyHKjg9hxu885aLTNx.png" group-title="ESPORTES",COMBATE SD
+#EXTINF:-1 tvg-id="COMBATC" tvg-name="COMBATE 4K" tvg-logo="https://static.guiadetv.com/channel/LCW2HM2AF9Uahx8poBHbRKEyHKjg9hxu885aLTNx.png" group-title="ESPORTES",COMBATE [HD][3]
+https://casaplay5g.win:443/marcelo/102030/1361453
+#EXTINF:-1 tvg-id="COMBATC" tvg-name="COMBATE HD" tvg-logo="https://static.guiadetv.com/channel/LCW2HM2AF9Uahx8poBHbRKEyHKjg9hxu885aLTNx.png" group-title="ESPORTES",COMBATE [HD][2]
+https://casaplay5g.win:443/marcelo/102030/1361455
+#EXTINF:-1 tvg-id="COMBATC" tvg-name="COMBATE SD" tvg-logo="https://static.guiadetv.com/channel/LCW2HM2AF9Uahx8poBHbRKEyHKjg9hxu885aLTNx.png" group-title="ESPORTES",COMBATE [SD]
 https://casaplay5g.win:443/marcelo/102030/1361454
-#EXTINF:-1 tvg-id="" tvg-name="COMBATE SD ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/LCW2HM2AF9Uahx8poBHbRKEyHKjg9hxu885aLTNx.png" group-title="ESPORTES",COMBATE SD ( ALTERNATIVO )
-https://casaplay5g.win:443/marcelo/102030/1535473
-
-#EXTINF:-1 tvg-id="" tvg-name="SporTV (H265) ( ALTERNATIVO )" tvg-logo="https://tv-online.vercel.app/logo-sportv.png" group-title="ESPORTES",SporTV (H265) ( ALTERNATIVO )
-https://casaplay5g.win:443/marcelo/102030/1536042
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV FHD ( ALTERNATIVO )" tvg-logo="https://tv-online.vercel.app/logo-sportv.png" group-title="ESPORTES",SPORTV FHD ( ALTERNATIVO )
-https://casaplay5g.win:443/marcelo/102030/1536056
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV HD ( ALTERNATIVO )" tvg-logo="https://tv-online.vercel.app/logo-sportv.png" group-title="ESPORTES",SPORTV HD ( ALTERNATIVO )
-https://casaplay5g.win:443/marcelo/102030/1536057
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV PLUS ( ALTERNATIVO )" tvg-logo="https://tv-online.vercel.app/logo-sportv.png" group-title="ESPORTES",SPORTV PLUS ( ALTERNATIVO )
-https://casaplay5g.win:443/marcelo/102030/1536058
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV SD ( ALTERNATIVO )" tvg-logo="https://tv-online.vercel.app/logo-sportv.png" group-title="ESPORTES",SPORTV SD ( ALTERNATIVO )
-https://casaplay5g.win:443/marcelo/102030/1536059
-#EXTINF:-1 tvg-id="" tvg-name="SporTV 4K ( ALTERNATIVO )" tvg-logo="https://tv-online.vercel.app/logo-sportv.png" group-title="ESPORTES",SporTV 4K ( ALTERNATIVO )
-https://casaplay5g.win:443/marcelo/102030/1536055
-#EXTINF:-1 tvg-id="SPORVHD" tvg-name="SPORTV 1 4K" tvg-logo="https://tv-online.vercel.app/logo-sportv.png" group-title="ESPORTES",SPORTV 1 4K
+#EXTINF:-1 tvg-id="SPORVHD" tvg-name="SPORTV 1 4K" tvg-logo="https://tv-online.vercel.app/logo-sportv.png" group-title="ESPORTES",SPORTV [FHD]
 https://casaplay5g.win:443/marcelo/102030/1361478
-#EXTINF:-1 tvg-id="SPORVHD" tvg-name="SPORTV 1 HD" tvg-logo="https://tv-online.vercel.app/logo-sportv.png" group-title="ESPORTES",SPORTV 1 HD
+#EXTINF:-1 tvg-id="SPORVHD" tvg-name="SPORTV 1 HD" tvg-logo="https://tv-online.vercel.app/logo-sportv.png" group-title="ESPORTES",SPORTV [HD]
 https://casaplay5g.win:443/marcelo/102030/1361480
-#EXTINF:-1 tvg-id="SPORVHD" tvg-name="SPORTV 1 SD" tvg-logo="https://tv-online.vercel.app/logo-sportv.png" group-title="ESPORTES",SPORTV 1 SD
+#EXTINF:-1 tvg-id="SPORVHD" tvg-name="SPORTV 1 SD" tvg-logo="https://tv-online.vercel.app/logo-sportv.png" group-title="ESPORTES",SPORTV [SD]
 https://casaplay5g.win:443/marcelo/102030/1361479
-#EXTINF:-1 tvg-id="" tvg-name="SporTV 2 (H265) ( ALTERNATIVO )" tvg-logo="https://tv-online.vercel.app/logo-sportv2.png" group-title="ESPORTES",SporTV 2 (H265) ( ALTERNATIVO )
-https://casaplay5g.win:443/marcelo/102030/1536043
-#EXTINF:-1 tvg-id="SP2HDOI" tvg-name="SPORTV 2 4K" tvg-logo="https://tv-online.vercel.app/logo-sportv2.png" group-title="ESPORTES",SPORTV 2 4K
+#EXTINF:-1 tvg-id="SP2HDOI" tvg-name="SPORTV 2 4K" tvg-logo="https://tv-online.vercel.app/logo-sportv2.png" group-title="ESPORTES",SPORTV 2 [4K]
 https://casaplay5g.win:443/marcelo/102030/1361481
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV 2 FHD ( ALTERNATIVO )" tvg-logo="" group-title="ESPORTES",SPORTV 2 FHD ( ALTERNATIVO )
-https://casaplay5g.win:443/marcelo/102030/1536044
-#EXTINF:-1 tvg-id="SP2HDOI" tvg-name="SPORTV 2 HD" tvg-logo="https://tv-online.vercel.app/logo-sportv2.png" group-title="ESPORTES",SPORTV 2 HD
+#EXTINF:-1 tvg-id="SP2HDOI" tvg-name="SPORTV 2 HD" tvg-logo="https://tv-online.vercel.app/logo-sportv2.png" group-title="ESPORTES",SPORTV 2 [HD]
 https://casaplay5g.win:443/marcelo/102030/1361483
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV 2 HD ( ALTERNATIVO )" tvg-logo="" group-title="ESPORTES",SPORTV 2 HD ( ALTERNATIVO )
-https://casaplay5g.win:443/marcelo/102030/1536045
-#EXTINF:-1 tvg-id="SP2HDOI" tvg-name="SPORTV 2 SD" tvg-logo="https://tv-online.vercel.app/logo-sportv2.png" group-title="ESPORTES",SPORTV 2 SD
+#EXTINF:-1 tvg-id="SP2HDOI" tvg-name="SPORTV 2 SD" tvg-logo="https://tv-online.vercel.app/logo-sportv2.png" group-title="ESPORTES",SPORTV 2 [SD]
 https://casaplay5g.win:443/marcelo/102030/1361484
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV 2 SD ( ALTERNATIVO )" tvg-logo="https://tv-online.vercel.app/logo-sportv2.png" group-title="ESPORTES",SPORTV 2 SD ( ALTERNATIVO )
-https://casaplay5g.win:443/marcelo/102030/1536046
-#EXTINF:-1 tvg-id="" tvg-name="SporTV 3 (H265) ( ALTERNATIVO )" tvg-logo="https://tv-online.vercel.app/sportv3.png" group-title="ESPORTES",SporTV 3 (H265) ( ALTERNATIVO )
-https://casaplay5g.win:443/marcelo/102030/1536047
-#EXTINF:-1 tvg-id="SP3HDOI" tvg-name="SPORTV 3 4K" tvg-logo="https://tv-online.vercel.app/sportv3.png" group-title="ESPORTES",SPORTV 3 4K
+#EXTINF:-1 tvg-id="SP3HDOI" tvg-name="SPORTV 3 4K" tvg-logo="https://tv-online.vercel.app/sportv3.png" group-title="ESPORTES",SPORTV 3 [FHD]
 https://casaplay5g.win:443/marcelo/102030/1361485
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV 3 FHD ( ALTERNATIVO )" tvg-logo="" group-title="ESPORTES",SPORTV 3 FHD ( ALTERNATIVO )
-https://casaplay5g.win:443/marcelo/102030/1536048
-#EXTINF:-1 tvg-id="SP3HDOI" tvg-name="SPORTV 3 HD" tvg-logo="https://tv-online.vercel.app/sportv3.png" group-title="ESPORTES",SPORTV 3 HD
+#EXTINF:-1 tvg-id="SP3HDOI" tvg-name="SPORTV 3 HD" tvg-logo="https://tv-online.vercel.app/sportv3.png" group-title="ESPORTES",SPORTV 3 [HD]
 https://casaplay5g.win:443/marcelo/102030/1361487
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV 3 HD ( ALTERNATIVO )" tvg-logo="" group-title="ESPORTES",SPORTV 3 HD ( ALTERNATIVO )
-https://casaplay5g.win:443/marcelo/102030/1536049
-#EXTINF:-1 tvg-id="SP3HDOI" tvg-name="SPORTV 3 SD" tvg-logo="https://tv-online.vercel.app/sportv3.png" group-title="ESPORTES",SPORTV 3 SD
+#EXTINF:-1 tvg-id="SP3HDOI" tvg-name="SPORTV 3 SD" tvg-logo="https://tv-online.vercel.app/sportv3.png" group-title="ESPORTES",SPORTV 3 [SD]
 https://casaplay5g.win:443/marcelo/102030/1361486
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV 3 SD ( ALTERNATIVO )" tvg-logo="https://tv-online.vercel.app/sportv3.png" group-title="ESPORTES",SPORTV 3 SD ( ALTERNATIVO )
-https://casaplay5g.win:443/marcelo/102030/1536050
-#EXTINF:-1 tvg-id="" tvg-name="SporTv 4 (H.265) ( ALTERNATIVO )" tvg-logo="" group-title="ESPORTES",SporTv 4 (H.265) ( ALTERNATIVO )
-https://casaplay5g.win:443/marcelo/102030/1536051
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV 4 FHD ( ALTERNATIVO )" tvg-logo="" group-title="ESPORTES",SPORTV 4 FHD ( ALTERNATIVO )
-https://casaplay5g.win:443/marcelo/102030/1536052
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV 4 HD ( ALTERNATIVO )" tvg-logo="" group-title="ESPORTES",SPORTV 4 HD ( ALTERNATIVO )
-https://casaplay5g.win:443/marcelo/102030/1536053
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV 4 SD ( ALTERNATIVO )" tvg-logo="" group-title="ESPORTES",SPORTV 4 SD ( ALTERNATIVO )
-https://casaplay5g.win:443/marcelo/102030/1536054
-
 
 #EXTINF:-1 tvg-id="ESPN" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/TjGpU2fe85zIbjNbJU92iR7Uup7BnpXtKVvuAALV.png",CE ESPN
 https://abc.embedmax.site/espn1/tracks-v1a1/mono.m3u8
