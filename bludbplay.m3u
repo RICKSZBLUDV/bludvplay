@@ -220,6 +220,9 @@ https://casaplay5g.win:443/marcelo/102030/1361487
 #EXTINF:-1 tvg-id="SP3HDOI" tvg-name="SPORTV 3 SD" tvg-logo="https://tv-online.vercel.app/sportv3.png" group-title="ESPORTES",SPORTV 3 [SD]
 https://casaplay5g.win:443/marcelo/102030/1361486
 
+#EXTINF:-1 tvg-id="SP4HDOI" tvg-name="SPORTV4" tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/8/85/Stv24.jpg/revision/latest?cb=20240815025423&path-prefix=pt-br" group-title="ESPORTES",SPORTV 4
+https://new.embedflix.co/p2p/spn4/chunks.m3u8
+
 #EXTINF:-1 tvg-id="ESPN" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/TjGpU2fe85zIbjNbJU92iR7Uup7BnpXtKVvuAALV.png",CE ESPN
 https://abc.embedmax.site/espn1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ESPN2" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/55279R9yfRKnzN4XUeuZ9hdd0WM61fD8rKAPD4oI.png",CE ESPN 2
@@ -233,6 +236,20 @@ http://cdnexpress.homelinux.net/live/27.m3u8
 #EXTINF:-1 tvg-logo="https://static.guiadetv.com/channel/nquFTL8kN4zEvZvNrn0frqh8KjAwN2jw4qb64Hzm.png" group-title="Canais | ESPN",CE ESPN 6
 http://main.xplus2-main.xyz:2082/Tourobox1-HnVFocKipK/43bP6W1SNg/1005
 
+#EXTINF:-0,Premiere
+https://new.embedflix.co/p2p/prfc1/chunks.m3u8
+#EXTINF:-0,Premiere2
+https://new.embedflix.co/p2p/premier2/chunks.m3u8
+#EXTINF:-0,Premiere3
+https://new.embedflix.co/p2p/premier3/chunks.m3u8
+#EXTINF:-0,Premiere4
+https://new.embedflix.co/p2p/premier4/chunks.m3u8
+#EXTINF:-0,Premiere5
+https://new.embedflix.co/p2p/premier5/chunks.m3u8
+#EXTINF:-0,Premiere6
+https://new.embedflix.co/p2p/premier6/chunks.m3u8
+#EXTINF:-0,Premiere7
+https://new.embedflix.co/p2p/premier7/chunks.m3u8
 #EXTINF:-1 tvg-id="PREMIEREFC" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/MEO9lxSgmC5CAwsKhTHPzZCZX9ZFE7lRFqA48ElS.png",CE Premiere Clubes
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/164
 #EXTINF:-1 tvg-id="PREMIERE2" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/ZaLxlvm4ijaSAtTwfhJTrvYjmiaFi8SciyiHwh9l.png",CE Premiere 2
