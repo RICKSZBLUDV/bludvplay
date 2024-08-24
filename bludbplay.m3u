@@ -181,26 +181,26 @@ http://pfsv.io:80/pu1411/HP5729/265.m3u8
 http://pfsv.io:80/pu1411/HP5729/130175.m3u8
 #EXTINF:-1 tvg-id="Bandsports HD" tvg-name="BAND SPORTS [FHD][H265]" tvg-logo="https://static.guiadetv.com/channel/b5rLv8XUFPm6zzun6rmU8hSsqtsx18xueBIqQLaT.png" group-title="Canais | Esportes",CE BAND Sports [FHD][H265]
 http://pfsv.io:80/pu1411/HP5729/30275.m3u8
+#EXTINF:-1 tvg-id="OFF" tvg-name="OFF HD" tvg-logo="https://static.guiadetv.com/channel/dVZbqIzcwz04Kd1lUc8Npm9MPPM2a7xa5RCS79fq.png" group-title="Esportes",CE OFF [HD]
+https://casaplay5g.win:443/marcelo/102030/1361270
 #EXTINF:-1 tvg-id="" tvg-name="OFF (H265) ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/dVZbqIzcwz04Kd1lUc8Npm9MPPM2a7xa5RCS79fq.png" group-title="Esportes",CE OFF [FHD][H265]
 https://casaplay5g.win:443/marcelo/102030/1535888
 #EXTINF:-1 tvg-id="" tvg-name="OFF FHD ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/dVZbqIzcwz04Kd1lUc8Npm9MPPM2a7xa5RCS79fq.png" group-title="Esportes",CE OFF [HD]
 https://casaplay5g.win:443/marcelo/102030/1535889
-#EXTINF:-1 tvg-id="OFF" tvg-name="OFF HD" tvg-logo="https://static.guiadetv.com/channel/dVZbqIzcwz04Kd1lUc8Npm9MPPM2a7xa5RCS79fq.png" group-title="Esportes",CE OFF [HD]
-https://casaplay5g.win:443/marcelo/102030/1361270
 #EXTINF:-1 tvg-id="" tvg-name="OFF SD ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/dVZbqIzcwz04Kd1lUc8Npm9MPPM2a7xa5RCS79fq.png" group-title="Esportes",CE OFF [4K]
 https://casaplay5g.win:443/marcelo/102030/1535891
+#EXTINF:-1 tvg-id="COMBATC" tvg-name="COMBATE 4K" tvg-logo="https://static.guiadetv.com/channel/LCW2HM2AF9Uahx8poBHbRKEyHKjg9hxu885aLTNx.png" group-title="ESPORTES",CE COMBATE [HD][3]
+https://casaplay5g.win:443/marcelo/102030/1361453
+#EXTINF:-1 tvg-id="COMBATC" tvg-name="COMBATE SD" tvg-logo="https://static.guiadetv.com/channel/LCW2HM2AF9Uahx8poBHbRKEyHKjg9hxu885aLTNx.png" group-title="ESPORTES",CE COMBATE [SD]
+https://casaplay5g.win:443/marcelo/102030/1361454
+#EXTINF:-1 tvg-id="COMBATC" tvg-name="COMBATE HD" tvg-logo="https://static.guiadetv.com/channel/LCW2HM2AF9Uahx8poBHbRKEyHKjg9hxu885aLTNx.png" group-title="ESPORTES",CE COMBATE [HD][2]
+https://casaplay5g.win:443/marcelo/102030/1361455
 #EXTINF:-1 tvg-id="" tvg-name="Combate (H265) ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/LCW2HM2AF9Uahx8poBHbRKEyHKjg9hxu885aLTNx.png" group-title="ESPORTES",CE COMBATE [FHD][H265]
 https://casaplay5g.win:443/marcelo/102030/1535469
 #EXTINF:-1 tvg-id="" tvg-name="COMBATE FHD ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/LCW2HM2AF9Uahx8poBHbRKEyHKjg9hxu885aLTNx.png" group-title="ESPORTES",CE COMBATE [FHD]
 https://casaplay5g.win:443/marcelo/102030/1535471
 #EXTINF:-1 tvg-id="" tvg-name="COMBATE HD ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/LCW2HM2AF9Uahx8poBHbRKEyHKjg9hxu885aLTNx.png" group-title="ESPORTES",CE COMBATE [HD]
 https://casaplay5g.win:443/marcelo/102030/1535472
-#EXTINF:-1 tvg-id="COMBATC" tvg-name="COMBATE 4K" tvg-logo="https://static.guiadetv.com/channel/LCW2HM2AF9Uahx8poBHbRKEyHKjg9hxu885aLTNx.png" group-title="ESPORTES",CE COMBATE [HD][3]
-https://casaplay5g.win:443/marcelo/102030/1361453
-#EXTINF:-1 tvg-id="COMBATC" tvg-name="COMBATE HD" tvg-logo="https://static.guiadetv.com/channel/LCW2HM2AF9Uahx8poBHbRKEyHKjg9hxu885aLTNx.png" group-title="ESPORTES",CE COMBATE [HD][2]
-https://casaplay5g.win:443/marcelo/102030/1361455
-#EXTINF:-1 tvg-id="COMBATC" tvg-name="COMBATE SD" tvg-logo="https://static.guiadetv.com/channel/LCW2HM2AF9Uahx8poBHbRKEyHKjg9hxu885aLTNx.png" group-title="ESPORTES",CE COMBATE [SD]
-https://casaplay5g.win:443/marcelo/102030/1361454
 #EXTINF:-1 tvg-id="SPORVHD" tvg-name="SPORTV 1 4K" tvg-logo="https://tv-online.vercel.app/logo-sportv.png" group-title="ESPORTES",CE SPORTV [FHD]
 https://casaplay5g.win:443/marcelo/102030/1361478
 #EXTINF:-1 tvg-id="SPORVHD" tvg-name="SPORTV 1 HD" tvg-logo="https://tv-online.vercel.app/logo-sportv.png" group-title="ESPORTES",CE SPORTV [HD]
@@ -235,10 +235,9 @@ https://new.embedflix.co/p2p/premier6/chunks.m3u8
 https://casaplay5g.win:443/marcelo/102030/1361147
 #EXTINF:-1 tvg-id="BR - Premiere 8" tvg-name="PREMIERE 8 [FHD][HDR]" tvg-logo="https://futebolplayhd.stream/imagens-futebol/6028586b4e78a338b514316a9cf746ed.jpg" group-title="Canais | Premiere",CE Premiere 8
 http://pfsv.io:80/pu1411/HP5729/130240.m3u8
-
 #EXTINF:-1 tvg-id="ESPN" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/TjGpU2fe85zIbjNbJU92iR7Uup7BnpXtKVvuAALV.png",CE ESPN [FHD]
 http://pfsv.io:80/pu1411/HP5729/130180.m3u8
-#EXTINF:-1 tvg-id="ESPN2" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/55279R9yfRKnzN4XUeuZ9hdd0WM61fD8rKAPD4oI.png",CE ESPN 2 [FHD
+#EXTINF:-1 tvg-id="ESPN2" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/55279R9yfRKnzN4XUeuZ9hdd0WM61fD8rKAPD4oI.png",CE ESPN 2 [FHD]
 http://pfsv.io:80/pu1411/HP5729/130177.m3u8
 #EXTINF:-1 tvg-id="ESPN3" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/uuZJDw4RNEtG2KZLe7kNNTyxX6jKpNPJDg3yYYis.png",CE ESPN 3 [SD]
 https://cdn-4.nxplay.com.br/ESPN_3/tracks-v1a1/mono.m3u8
@@ -248,7 +247,7 @@ http://pfsv.io:80/pu1411/HP5729/130178.m3u8
 https://new.embedflix.co/p2p/spn4/chunks.m3u8
 #EXTINF:-1 tvg-id="ESPN4" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/NbCozvwgOONEXubbDHqcoBPkbBTrFcg5gA1aMA3o.png",CE ESPN 4 [FHD]
 http://pfsv.io:80/pu1411/HP5729/130179.m3u8
-#EXTINF:-1 tvg-logo="https://static.guiadetv.com/channel/a0k3Ik9vT9eMBoIc5ufsHvbHAdqilE3qmk3rOuvS.png" group-title="Canais | ESPN",CE ESPN 5 [4K]
+#EXTINF:-1 tvg-logo="https://static.guiadetv.com/channel/a0k3Ik9vT9eMBoIc5ufsHvbHAdqilE3qmk3rOuvS.png" group-title="Canais | ESPN",CE ESPN 5 [FHD]
 http://cdnexpress.homelinux.net/live/27.m3u8
 
 
@@ -257,14 +256,24 @@ http://cdnexpress.homelinux.net/live/27.m3u8
 
 #EXTINF:-1 tvg-id="BR - FishTV" tvg-name="FISH TV [FHD]" tvg-logo="http://p6.vc/AIR" group-title="Canais | Variedades",CV FISH TV [FHD]
 http://pfsv.io:80/pu1411/HP5729/100.m3u8
-#EXTINF:-1 tvg-id="BR - FishTV" tvg-name="FISH TV [FHD][H265]" tvg-logo="http://p6.vc/VMW" group-title="Canais | Variedades",CV FISH TV [FHD][H265]
-http://pfsv.io:80/pu1411/HP5729/30185.m3u8
 #EXTINF:-1 tvg-id="BR - FishTV" tvg-name="FISH TV [HD]" tvg-logo="http://p6.vc/AIY" group-title="Canais | Variedades",CV FISH TV [HD]
 http://pfsv.io:80/pu1411/HP5729/109.m3u8
 #EXTINF:-1 tvg-id="BR - FishTV" tvg-name="FISH TV [SD]" tvg-logo="http://p6.vc/AJH" group-title="Canais | Variedades",CV FISH TV [SD]
 http://pfsv.io:80/pu1411/HP5729/118.m3u8
 #EXTINF:-1 tvg-id="BR - FishTV" tvg-name="FISH TV [FHD][HDR]" tvg-logo="http://p6.vc/AIR" group-title="Canais | Variedades",CV FISH TV [FHD][HDR]
 http://pfsv.io:80/pu1411/HP5729/130258.m3u8
+#EXTINF:-1 tvg-id="BR - FishTV" tvg-name="FISH TV [FHD][H265]" tvg-logo="http://p6.vc/VMW" group-title="Canais | Variedades",CV FISH TV [FHD][H265]
+http://pfsv.io:80/pu1411/HP5729/30185.m3u8
+#EXTINF:-1 group-title="Variedade" tvg-logo="https://www.campsoft.com.br/wp-content/uploads/2023/09/Woohoo_300x300.png",CV WOOHOO [SD]
+http://pfsv.io:80/pu1411/HP5729/7.m3u8
+#EXTINF:-1 group-title="Variedade" tvg-logo="https://www.campsoft.com.br/wp-content/uploads/2023/09/Woohoo_300x300.png",CV WOOHOO [HD]
+http://pfsv.io:80/pu1411/HP5729/14.m3u8
+#EXTINF:-1 group-title="Variedade" tvg-logo="https://www.campsoft.com.br/wp-content/uploads/2023/09/Woohoo_300x300.png",CV WOOHOO [FHD]
+http://pfsv.io:80/pu1411/HP5729/133.m3u8
+#EXTINF:-1 group-title="Variedade" tvg-logo="https://www.campsoft.com.br/wp-content/uploads/2023/09/Woohoo_300x300.png",CV WOOHOO [FHD][HDR]
+http://pfsv.io:80/pu1411/HP5729/130227.m3u8
+#EXTINF:-1 group-title="Variedade" tvg-logo="https://www.campsoft.com.br/wp-content/uploads/2023/09/Woohoo_300x300.png",CV WOOHOO [FHD][H265]
+http://pfsv.io:80/pu1411/HP5729/30174.m3u8
 #EXTINF:-1 tvg-id="BR - DOGTV" tvg-name="DOG TV [FHD][HDR]" tvg-logo="http://p6.vc/VRD" group-title="Canais | Variedades",CV DOG TV [FHD][HDR]
 http://pfsv.io:80/pu1411/HP5729/130256.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CANAL DO BOI [FHD]" tvg-logo="http://p6.vc/AIA" group-title="Canais | Abertos",CV CANAL DO BOI [FHD]
@@ -273,39 +282,26 @@ http://pfsv.io:80/pu1411/HP5729/199614.m3u8
 http://pfsv.io:80/pu1411/HP5729/130225.m3u8
 #EXTINF:-1 tvg-id="BR - Travel Box Brazil" tvg-name="TRAVEL BOX BRAZIL [FHD][HDR]" tvg-logo="https://static.guiadetv.com/channel/GB1G3QsUrnE6wCXirIUhDug4S9LTKV2QXi6Xsjpm.png" group-title="Canais | Variedades",CV TRAVEL BOX BRAZIL [FHD][HDR]
 http://pfsv.io:80/pu1411/HP5729/130262.m3u8
-#EXTINF:-1 group-title="Variedade" tvg-logo="https://www.campsoft.com.br/wp-content/uploads/2023/09/Woohoo_300x300.png",CV WOOHOO [FHD]
-http://pfsv.io:80/pu1411/HP5729/133.m3u8
-#EXTINF:-1 group-title="Variedade" tvg-logo="https://www.campsoft.com.br/wp-content/uploads/2023/09/Woohoo_300x300.png",CV WOOHOO [FHD][H265]
-http://pfsv.io:80/pu1411/HP5729/30174.m3u8
-#EXTINF:-1 group-title="Variedade" tvg-logo="https://www.campsoft.com.br/wp-content/uploads/2023/09/Woohoo_300x300.png",CV WOOHOO [HD]
-http://pfsv.io:80/pu1411/HP5729/14.m3u8
-#EXTINF:-1 group-title="Variedade" tvg-logo="https://www.campsoft.com.br/wp-content/uploads/2023/09/Woohoo_300x300.png",CV WOOHOO [SD]
-http://pfsv.io:80/pu1411/HP5729/7.m3u8
-#EXTINF:-1 group-title="Variedade" tvg-logo="https://www.campsoft.com.br/wp-content/uploads/2023/09/Woohoo_300x300.png",CV WOOHOO [FHD][HDR]
-http://pfsv.io:80/pu1411/HP5729/130227.m3u8
-#EXTINF:-1 tvg-id="TVZYN" tvg-name="TVZYN" group-title="Variedade" tvg-logo="https://static.sbt.com.br/noticias/images/175757.jpg",CV TV Zyn
+#EXTINF:-1 tvg-id="TVZYN" tvg-name="TVZYN" group-title="Variedade" tvg-logo="https://static.sbt.com.br/noticias/images/175757.jpg",CV TV Zyn [FHD]
 https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5w3mfvzg9saoi/playlist.m3u8
-#EXTINF:-1 tvg-name="TVZOOM" tvg-id="TVZOOM" group-title="Variedade" tvg-logo="https://yt3.googleusercontent.com/QAsNFT9W4PEh_R4c2RTmWjcd9C0DvCh9HUvhZUBvA4tfNHRRRJ4zlC9IaQbdoUXCUPmagIl4Rg=s900-c-k-c0x00ffffff-no-rj",CV TV Zoom
+#EXTINF:-1 tvg-name="TVZOOM" tvg-id="TVZOOM" group-title="Variedade" tvg-logo="https://yt3.googleusercontent.com/QAsNFT9W4PEh_R4c2RTmWjcd9C0DvCh9HUvhZUBvA4tfNHRRRJ4zlC9IaQbdoUXCUPmagIl4Rg=s900-c-k-c0x00ffffff-no-rj",CV TV Zoom [FHD]
 https://cdn.live.br1.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/chunklist.m3u8
-#EXTINF:-1 tvg-name="AGROMAIS" tvg-id="AGROMAIS" group-title="Variedade" tvg-logo="https://static.guiadetv.com/channel/v1N45NIcp9raY5mUXmlZwrbMTFaQoWxJ7QAWLLB9.png",CV Agro Mais
+#EXTINF:-1 tvg-name="AGROMAIS" tvg-id="AGROMAIS" group-title="Variedade" tvg-logo="https://static.guiadetv.com/channel/v1N45NIcp9raY5mUXmlZwrbMTFaQoWxJ7QAWLLB9.png",CV Agro Mais [SD]
 https://cdn-2.nxplay.com.br/AGROMAIS_HD_TK/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="DISCOVERYHH" tvg-id="DISCOVERYHH" group-title="Variedade" tvg-logo="https://static.guiadetv.com/channel/YwjlkUM37rwLUZBW5IG5LRavDOay7OFlmEkQYAbp.png",CV Discovery Home & Health
-https://abc.embedmax.site/discoveryheh/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="DISCOVERYT" tvg-id="DISCOVERYT" group-title="Variedade" tvg-logo="https://static.guiadetv.com/channel/OD1oq9UJgFT8bXwzoRJYiAJgAIcIkYYhzVNBHjBb.png",CV Discovery Theater
-https://abc.embedmax.site/discoverytheater/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="DISCOVERYS" tvg-id="DISCOVERYS" group-title="Variedade" tvg-logo="https://static.guiadetv.com/channel/voE7ShnXsiXnXGjJU1KB9XDF9OQMMeASJTQGxS06.png",CV Discovery Science
-https://abc.embedmax.site/discoveryscience/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="DISCOVERYTURBO" tvg-name="DISCOVERYTURBO" group-title="Variedade" tvg-logo="https://static.guiadetv.com/channel/U7PvZKtT0CUYi65Pg6XO9OJtRF4uicRUYBamKKvC.png",CV Discovery Turbo
-https://abc.embedmax.site/discoveryturbo/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="DISCOVERYW" tvg-name="DISCOVERYW" group-title="Variedade" tvg-logo="https://static.guiadetv.com/channel/J70KAPNFRKbNGZtJjSwczFFR3IyGhHTOfTDSzzFC.png",CV Discovery World
-https://abc.embedmax.site/discoveryworld/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" group-title="Variedade" tvg-logo="https://static.guiadetv.com/channel/HFZVROE1EnvRz1mjFAShu3hyOGn8jO4HBwaDGy4I.png",CV HGTV
-https://cdn-3.nxplay.com.br/HGTV_BR_NX/index.m3u8
+
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV 4K" tvg-logo="https://static.guiadetv.com/channel/HFZVROE1EnvRz1mjFAShu3hyOGn8jO4HBwaDGy4I.png" group-title="DOCUMENTARIOS",HGTV 4K
+https://casaplay5g.win:443/marcelo/102030/1361437
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV HD" tvg-logo="https://static.guiadetv.com/channel/HFZVROE1EnvRz1mjFAShu3hyOGn8jO4HBwaDGy4I.png" group-title="DOCUMENTARIOS",HGTV HD
+https://casaplay5g.win:443/marcelo/102030/1361438
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV SD" tvg-logo="https://static.guiadetv.com/channel/HFZVROE1EnvRz1mjFAShu3hyOGn8jO4HBwaDGy4I.png" group-title="DOCUMENTARIOS",HGTV SD
+https://casaplay5g.win:443/marcelo/102030/1361439
+
 #EXTINF:-1 tvg-id="E" tvg-name="E" group-title="Variedade" tvg-logo="https://static.guiadetv.com/channel/BMbi62AeyptbwojO0GZ7oOslkk34bqOnjumAtCaj.png",CV E! EntertainmentTV
 https://abc.embedmax.site/e/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ARTE1" tvg-name="ARTE1" group-title="Variedade" tvg-logo="https://static.guiadetv.com/channel/mFiw0mlFv4slckFtJHWOt0Mbso3odjRlZf0mveIa.png",CV Arte 1
-https://d1r94zrwa3gnlo.cloudfront.net/livestore104/stream/hls/292/292-3-main.m3u8
-#EXTINF:-1 tvg-id="CURTA" tvg-name="CURTA" group-title="Variedade" tvg-logo="https://static.guiadetv.com/channel/TgeB1J0TdsUmCORHpMjBq6z39iaIrVbYM5x3uOIR.png",CV Curta
+
+#EXTINF:-1 tvg-id="ARTE1" tvg-name="ARTE1" group-title="Variedade" tvg-logo="https://static.guiadetv.com/channel/mFiw0mlFv4slckFtJHWOt0Mbso3odjRlZf0mveIa.png",CV Arte 1 [FHD] 
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/71175.ts
+#EXTINF:-1 tvg-id="CURTA" tvg-name="CURTA" group-title="Variedade" tvg-logo="https://static.guiadetv.com/channel/TgeB1J0TdsUmCORHpMjBq6z39iaIrVbYM5x3uOIR.png",CV Curta [FHD] 
 https://video01.logicahost.com.br/canalcurta/canalcurta/chunklist_w1922194739.m3u8
 #EXTINF:-1 tvg-id="LIFETIME" group-title="Variedade" tvg-logo="https://static.guiadetv.com/channel/MkRSS4MYNBkUh8IqsfMWBLp5F7ukI7JqOVN42Eio.png",CV Lifetime
 http://cdn.connectbr.com.br:80/Lifetime/tracks-v1a1/mono.m3u8
@@ -327,8 +323,20 @@ https://abc.embedmax.site/tlc/tracks-v1a1/mono.m3u8
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/291
 #EXTINF:-1 tvg-name="FOODNET" tvg-id="FOODNET" group-title="Variedade" tvg-logo="https://static.guiadetv.com/channel/Y5HBVprcGipBH83U4qhV1thOSJ9IxbqP52Ag7iu2.png",CV Food Network
 https://cdn-3.nxplay.com.br/FOOD_NETWORK_NX/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/47oBUBM.png" group-title="Canais | MÚSICA",CV Gospel Music TV [SD]
 https://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8
+
+#EXTINF:-1 tvg-name="DISCOVERYHH" tvg-id="DISCOVERYHH" group-title="Variedade" tvg-logo="https://static.guiadetv.com/channel/YwjlkUM37rwLUZBW5IG5LRavDOay7OFlmEkQYAbp.png",CV Discovery Home & Health
+https://abc.embedmax.site/discoveryheh/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="DISCOVERYT" tvg-id="DISCOVERYT" group-title="Variedade" tvg-logo="https://static.guiadetv.com/channel/OD1oq9UJgFT8bXwzoRJYiAJgAIcIkYYhzVNBHjBb.png",CV Discovery Theater
+https://abc.embedmax.site/discoverytheater/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="DISCOVERYS" tvg-id="DISCOVERYS" group-title="Variedade" tvg-logo="https://static.guiadetv.com/channel/voE7ShnXsiXnXGjJU1KB9XDF9OQMMeASJTQGxS06.png",CV Discovery Science
+https://abc.embedmax.site/discoveryscience/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="DISCOVERYTURBO" tvg-name="DISCOVERYTURBO" group-title="Variedade" tvg-logo="https://static.guiadetv.com/channel/U7PvZKtT0CUYi65Pg6XO9OJtRF4uicRUYBamKKvC.png",CV Discovery Turbo
+https://abc.embedmax.site/discoveryturbo/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="DISCOVERYW" tvg-name="DISCOVERYW" group-title="Variedade" tvg-logo="https://static.guiadetv.com/channel/J70KAPNFRKbNGZtJjSwczFFR3IyGhHTOfTDSzzFC.png",CV Discovery World
+https://abc.embedmax.site/discoveryworld/tracks-v1a1/mono.m3u8
 
 
  🔰  FILMES e SERIES  🔰
