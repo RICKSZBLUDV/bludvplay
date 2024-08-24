@@ -24,20 +24,24 @@
 https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="TVDifusoraSaoLuis.br" tvg-logo="https://stream.amsolution.net.br/videos/userPhoto/Live/user_6_bg_0.jpg?1671998268" group-title="CANAL ABERTO",CA TV Difusora [SD][SBT][SAO LUIS][2]
 https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8
+
 #EXTINF:-1 tvg-id="MIRSLHD" tvg-name="GLOBO TV MIRANTE SAO LUIS [FHD]" tvg-logo="http://p6.vc/ASF" group-title="Canais | Globo",CA TV Mirante [FHD][GLOBO][SAO LUIS]
 http://pfsv.io:80/pu1411/HP5729/368.m3u8
 #EXTINF:-1 tvg-id="MIRSLHD" tvg-name="GLOBO TV MIRANTE SAO LUIS [HD]" tvg-logo="http://p6.vc/ATJ" group-title="Canais | Globo",CA TV Mirante [HD][GLOBO][SAO LUIS]
 http://pfsv.io:80/pu1411/HP5729/403.m3u8
 #EXTINF:-1 tvg-id="MIRSLHD" tvg-name="GLOBO TV MIRANTE SAO LUIS [SD]" tvg-logo="http://p6.vc/AUL" group-title="Canais | Globo",CA TV Mirante [FHD][GLOBO][SAO LUIS][2]
 http://pfsv.io:80/pu1411/HP5729/440.m3u8
+
 #EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO SP HD" tvg-logo="https://pbs.twimg.com/profile_images/1781391680911884288/Xwxriw8e_400x400.jpg" group-title="GLOBO",CA GLOBO SP [HD]
 https://casaplay5g.win:443/marcelo/102030/1360923
 #EXTINF:-1 tvg-id="globo.sp.br" tvg-name="GLOBO SP SD" tvg-logo="https://pbs.twimg.com/profile_images/1781391680911884288/Xwxriw8e_400x400.jpg" group-title="GLOBO",CA GLOBO SP [SD]
 https://casaplay5g.win:443/marcelo/102030/1360924
+
 #EXTINF:-1 tvg-id="band.br" tvg-name="BAND HD" tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2017/02/Band-Logo.jpg" group-title="BAND",CA BAND [SD]
 https://casaplay5g.win:443/marcelo/102030/1361375
 #EXTINF:-1 tvg-id="band.br" tvg-name="Band HD" tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2017/02/Band-Logo.jpg" group-title="BAND",CA BAND [SD][2]
 https://casaplay5g.win:443/marcelo/102030/1527781
+
 #EXTINF:-1 tvg-id="recordtv.sao.paulo.br" tvg-name="RECORDTV SP HD" tvg-logo="https://static.guiadetv.com/channel/Fu29jsvxR56M6LbqVJiogZsKmENyo9shulnIPwqe.jpg" group-title="RECORD",CA RECORDTV SP [SD][2]
 https://casaplay5g.win:443/marcelo/102030/1361178
 #EXTINF:-1 tvg-id="recordtv.sao.paulo.br" tvg-name="RECORDTV SP SD" tvg-logo="https://static.guiadetv.com/channel/Fu29jsvxR56M6LbqVJiogZsKmENyo9shulnIPwqe.jpg" group-title="RECORD",CA RECORDTV SP [SD]
@@ -46,40 +50,53 @@ https://casaplay5g.win:443/marcelo/102030/1361179
 https://casaplay5g.win:443/marcelo/102030/1361171
 #EXTINF:-1 tvg-id="record.rio.br" tvg-name="RECORDTV RJ SD" tvg-logo="https://static.guiadetv.com/channel/Fu29jsvxR56M6LbqVJiogZsKmENyo9shulnIPwqe.jpg" group-title="RECORD",CA RECORDTV RJ [SD]
 https://casaplay5g.win:443/marcelo/102030/
+
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/DTO0AQqFh9EsUSPjPUuvdm2JnvbI7WLy0800AvoH.jpg",CA SBT [HD]
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+
 #EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV! FHD" tvg-logo="https://static.guiadetv.com/channel/sUyLBwfomYbm9MLwc7eIAznjkRSBuxOoHwdOm5ea.gif" group-title="ABERTOS",REDE TV! [SD]
 https://casaplay5g.win:443/marcelo/102030/1361402
 #EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV! HD" tvg-logo="https://static.guiadetv.com/channel/sUyLBwfomYbm9MLwc7eIAznjkRSBuxOoHwdOm5ea.gif" group-title="ABERTOS",REDE TV! [SD][2]
 https://casaplay5g.win:443/marcelo/102030/1361404
+
 #EXTINF:-1 tvg-id="FUTURA" tvg-name="FUTURA" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/nUAaqJAEnnfuZi8PlToGqzrl228SE5b7Ht6vxp88.png",CA Futura [FHD]
 https://5a57bda70564a.streamlock.net/opovo/opovo.sdp/chunklist_w157550291.m3u8
+
 #EXTINF:-1 tvg-id="REDEFAMÍLIA" tvg-name="REDEFAMÍLIA" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/m9qPdp8hy63ZXfIsbPicLdlCeTkmlkShAJDfWV6H.png",CA REDE Família [FHD]
 https://tv01.zas.media:1936/rftv/rftv/chunklist_w307092379.m3u8
+
 #EXTINF:-1 tvg-id="TVCAMERA" tvg-name="TVCAMERA" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/a41CQSK0ykAH6hZK0AJyBmfQaY7xtoBJ37idr9u7.png",CA TV Câmara [FHD]
 https://stream3.camara.gov.br/tv1/manifest.m3u8
+
 #EXTINF:-1 tvg-id="TVSENADO" tvg-name="TVSENADO" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/H4naH9diPMzwKJ89f1OolK3lhvaQngOQlkqlhHdn.png",CA TV Senado [SD]
 http://pfsv.io:80/pu1411/HP5729/72.m3u8
+
 #EXTINF:-1 tvg-name="CULTURA" tvg-id="CULTURA" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/O3ZfDTZag7EgZHmklnGStrYyxc4WlgE3NvDmGuxW.gif",CA TV Cultura [HD]
 https://video02.logicahost.com.br/tvguara23/tvguara23/chunklist_w1014630644.m3u8
+
 #EXTINF:-1 tvg-id="CANCAOH" tvg-name="CANCAO NOVA HD" tvg-logo="https://i.scdn.co/image/ab6761610000e5eb2e7db1910d91aa54f828910f" group-title="RELIGIOSO",CA CANCAO NOVA [HD]
 https://casaplay5g.win:443/marcelo/102030/1361184
 #EXTINF:-1 tvg-id="CANCAOH" tvg-name="CANÇÃO NOVA SD" tvg-logo="https://i.scdn.co/image/ab6761610000e5eb2e7db1910d91aa54f828910f" group-title="RELIGIOSO",CA CANÇÃO NOVA [HD][2]
 https://casaplay5g.win:443/marcelo/102030/1361185
+
 #EXTINF:-1 tvg-id="" tvg-name="TV APARECIDA HD" tvg-logo="https://static.guiadetv.com/channel/AHxSamEHuHH1ub6rMgzx1WtwgK7CjZcDgHq7xHNm.png" group-title="RELIGIOSO",CA TV APARECIDA [HD]
 https://casaplay5g.win:443/marcelo/102030/1361201
 #EXTINF:-1 tvg-id="" tvg-name="TV APARECIDA SD" tvg-logo="https://static.guiadetv.com/channel/AHxSamEHuHH1ub6rMgzx1WtwgK7CjZcDgHq7xHNm.png" group-title="RELIGIOSO",CA TV APARECIDA [HD][2]
 https://casaplay5g.win:443/marcelo/102030/1361202
+
 #EXTINF:-1 tvg-id="BR - Rede Vida" tvg-name="REDE VIDA [FHD]" tvg-logo="https://static.guiadetv.com/channel/fWx398FZCOcj7C2YpuOb2KRWgfdpa4h1yFPSXrAv.gif" group-title="Canais | Religiosos",CA REDE VIDA [FHD]
 http://pfsv.io:80/pu1411/HP5729/545.m3u8
 #EXTINF:-1 tvg-id="BR - Rede Vida" tvg-name="REDE VIDA [HD]" tvg-logo="https://static.guiadetv.com/channel/fWx398FZCOcj7C2YpuOb2KRWgfdpa4h1yFPSXrAv.gif" group-title="Canais | Religiosos",CA REDE VIDA [HD]
 http://pfsv.io:80/pu1411/HP5729/547.m3u8
 #EXTINF:-1 tvg-id="BR - Rede Vida" tvg-name="REDE VIDA [SD]" tvg-logo="https://static.guiadetv.com/channel/fWx398FZCOcj7C2YpuOb2KRWgfdpa4h1yFPSXrAv.gif" group-title="Canais | Religiosos",CA REDE VIDA [SD]
 http://pfsv.io:80/pu1411/HP5729/551.m3u8
+
 #EXTINF:-1 tvg-id="tv.brasil.br" tvg-name="TV BRASIL HD" tvg-logo="https://cdn.bs9.com.br/upload/dn_arquivo/2024/06/whatsapp-image-2024-06-25-at-160017.jpeg" group-title="ABERTOS",TV BRASIL [HD]
 https://casaplay5g.win:443/marcelo/102030/1361407
+
 #EXTINF:-1 tvg-id="REDEBRASIL" tvg-name="REDEBRASIL" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/FckwNZIeOh4xLda5G2wKHu4SPN1E3JdKfSJKFGKt.png",CA REDE BRASIL [SD]
 http://pfsv.io:80/pu1411/HP5729/87.m3u8
+
 #EXTINF:-1 tvg-id="terra.viva.br" tvg-name="TERRA VIVA 4K" tvg-logo="https://static.guiadetv.com/channel/l6zoKfkppjFVEOK7oFMAKUAGrcHbYmDBZMtcgLAN.png" group-title="ABERTOS",CA TERRA VIVA [HD]
 https://casaplay5g.win:443/marcelo/102030/1361406
 
@@ -87,7 +104,7 @@ https://casaplay5g.win:443/marcelo/102030/1361406
 🔰  DOCUMENTARIOS  🔰
  
 
-#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="Animal Planet (H265) ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/QrnHAPvDoIBNihzZrxo6yCPr63I4voO2zga4q14l.png" group-title="DOCUMENTARIOS",CD Animal Planet [4k][H265]
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="Animal Planet (H265) ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/QrnHAPvDoIBNihzZrxo6yCPr63I4voO2zga4q14l.png" group-title="DOCUMENTARIOS",CD ANIMAL PLANET [4k][H265]
 https://casaplay5g.win:443/marcelo/102030/1535361
 #EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET 4K" tvg-logo="https://static.guiadetv.com/channel/QrnHAPvDoIBNihzZrxo6yCPr63I4voO2zga4q14l.png" group-title="DOCUMENTARIOS",CD ANIMAL PLANET [HD]
 https://casaplay5g.win:443/marcelo/102030/1361413
@@ -95,6 +112,7 @@ https://casaplay5g.win:443/marcelo/102030/1361413
 https://casaplay5g.win:443/marcelo/102030/1361416
 #EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET SD" tvg-logo="https://static.guiadetv.com/channel/QrnHAPvDoIBNihzZrxo6yCPr63I4voO2zga4q14l.png" group-title="DOCUMENTARIOS",CD ANIMAL PLANET [SD]
 https://casaplay5g.win:443/marcelo/102030/1361415
+
 #EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY CHANNEL 4K" tvg-logo="https://static.guiadetv.com/channel/XOPt3bhwlhbPKO6PJ7RyJxZZkUV9j8UgWqfBbGik.png" group-title="DOCUMENTARIOS",CD DISCOVERY CHANNEL [HD][2]
 https://casaplay5g.win:443/marcelo/102030/1361420
 #EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://static.guiadetv.com/channel/XOPt3bhwlhbPKO6PJ7RyJxZZkUV9j8UgWqfBbGik.png" group-title="DOCUMENTARIOS",CD DISCOVERY CHANNEL [SD][2]
@@ -103,6 +121,7 @@ https://casaplay5g.win:443/marcelo/102030/1361422
 https://casaplay5g.win:443/marcelo/102030/1535507
 #EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY CHANNEL SD" tvg-logo="https://static.guiadetv.com/channel/XOPt3bhwlhbPKO6PJ7RyJxZZkUV9j8UgWqfBbGik.png" group-title="DOCUMENTARIOS",CD DISCOVERY CHANNEL [SD]
 https://casaplay5g.win:443/marcelo/102030/1361421
+
 #EXTINF:-1 tvg-id="IDBHD" tvg-name="DISCOVERY ID 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Investiga%C3%A7%C3%A3o_Discovery_1.png" group-title="DOCUMENTARIOS",CD INVESTIGACAO DISCOVERY [HD]
 https://casaplay5g.win:443/marcelo/102030/1361423
 #EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="DISCOVERY ID HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Investiga%C3%A7%C3%A3o_Discovery_1.png" group-title="DOCUMENTARIOS",CD INVESTIGACAO DISCOVERY [SD]
@@ -111,6 +130,7 @@ https://casaplay5g.win:443/marcelo/102030/1361425
 https://casaplay5g.win:443/marcelo/102030/1535817
 #EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="ID - INVESTIGACAO DISCOVERY FHD ( ALTERNATIVO )" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Investiga%C3%A7%C3%A3o_Discovery_1.png" group-title="DOCUMENTARIOS",CD INVESTIGACAO DISCOVERY [4K]
 https://casaplay5g.win:443/marcelo/102030/1535818
+
 #EXTINF:-1 tvg-id="national.geographic.br" tvg-name="NatGeo (H265) ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/pG68jPTCJ8tcHpdUNo3186FX6sbwM9moxsTH8SH2.png" group-title="DOCUMENTARIOS",CD NATGEO [FHD][H265]
 https://casaplay5g.win:443/marcelo/102030/1535864
 #EXTINF:-1 tvg-id="national.geographic.br" tvg-name="NATGEO HD ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/pG68jPTCJ8tcHpdUNo3186FX6sbwM9moxsTH8SH2.png" group-title="DOCUMENTARIOS",CD NATGEO [HD]
@@ -121,8 +141,10 @@ https://casaplay5g.win:443/marcelo/102030/1361447
 https://casaplay5g.win:443/marcelo/102030/1535867
 #EXTINF:-1 tvg-id="national.geographic.br" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="https://static.guiadetv.com/channel/pG68jPTCJ8tcHpdUNo3186FX6sbwM9moxsTH8SH2.png" group-title="DOCUMENTARIOS",CD NATGEO [SD][2]
 https://casaplay5g.win:443/marcelo/102030/1361449
+
 #EXTINF:-1 tvg-id="HISTORY" tvg-name="HISTORY" group-title="Documentario" tvg-logo="https://static.guiadetv.com/channel/7rVhnUDohbye1yx2ES2XxuFgAyMAXNOyV50fLvLL.png",CD History [HD]
 https://cdn-4.nxplay.com.br/HISTORY_TK/tracks-v2a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="HISTORY2" tvg-name="HISTORY2" group-title="Documentario" tvg-logo="https://static.guiadetv.com/channel/RNH7bzJtUCJIwIVbwD7d6TAPclK6GGQb3yzCfEcs.png",CD History 2 [HD]
 https://cdn-4.nxplay.com.br/HISTORY_2_TK/tracks-v2a1/mono.m3u8
 
@@ -132,14 +154,19 @@ https://cdn-4.nxplay.com.br/HISTORY_2_TK/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MGNoiZW.png" group-title="Canais | NOTÍCIAS",CN 011 News [HD]
 https://011news.akamaized.net/011news/011news/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B1KhZs2.png" group-title="Canais | NOTÍCIAS",CN 4 POR 4 [HD]
 https://video01.soultv.com.br/programa4por4/programa4por4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://live.staticflickr.com/2053/2308291877_4e9d0bd251_c.jpg" group-title="Canais | NOTÍCIAS",CN AVANÇA BRASIL [HD]
 https://video01.soultv.com.br/avancabrasil/avancabrasil/playlist.m3u8
+
 #EXTINF:-1 tvg-name="CNNBRASIL" tvg-id="CNNBRASIL" group-title="Noticias" tvg-logo="https://static.guiadetv.com/channel/yvn5yE3HZJJsx3vxT5g4eGlvo9ofpLuOu9o9cFmF.png",CN CNN Brasil [FHD]
 https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
+
 #EXTINF:-1 tvg-id="JOVEMPANNEWS" tvg-name="JOVEMPANNEWS" group-title="Noticias" tvg-logo="https://static.guiadetv.com/channel/mUg3QjceZ1q2vtKIQlh6j0y8Pqs9udn4F0qGfqAs.png",CN JOVEM PAN News [HD]
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8
+
 #EXTINF:-1 tvg-id="BANDN" tvg-name="BAND NEWS 4K" tvg-logo="https://static.guiadetv.com/channel/LTyY9kIRCaLD7WsNzFzjz4mCEBgIbOwsrlN0L0WW.png" group-title="NOTÍCIAS",CN BAND News [HD]
 https://casaplay5g.win:443/marcelo/102030/1361106
 #EXTINF:-1 tvg-id="" tvg-name="BAND NEWS HD ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/LTyY9kIRCaLD7WsNzFzjz4mCEBgIbOwsrlN0L0WW.png" group-title="NOTÍCIAS",CN BAND News [SD][3]
@@ -150,12 +177,16 @@ https://casaplay5g.win:443/marcelo/102030/1361108
 https://casaplay5g.win:443/marcelo/102030/1361107
 #EXTINF:-1 tvg-id="" tvg-name="BAND NEWS FHD ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/LTyY9kIRCaLD7WsNzFzjz4mCEBgIbOwsrlN0L0WW.png" group-title="NOTÍCIAS",CN BAND News [HD][2]
 https://casaplay5g.win:443/marcelo/102030/1535395
-#EXTINF:-1 tvg-id="" tvg-name="Globo News 4K ( ALTERNATIVO )" tvg-logo="https://gkpb.com.br/wp-content/uploads/2022/08/novo-logo-globonews-2022jpg.jpg" group-title="NOTÍCIAS",CN GLOBO News [4K]
-https://casaplay5g.win:443/marcelo/102030/1535644
+
+#EXTINF:-1 tvg-id="" tvg-name="Globo News 4K ( ALTERNATIVO )" tvg-logo="https://gkpb.com.br/wp-content/uploads/2022/08/novo-logo-globonews-2022jpg.jpg" group-title="NOTÍCIAS",CN GLOBO News [SD]
+http://pfsv.io:80/pu1411/HP5729/522.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS FHD ( ALTERNATIVO )" tvg-logo="https://gkpb.com.br/wp-content/uploads/2022/08/novo-logo-globonews-2022jpg.jpg" group-title="NOTÍCIAS",CN GLOBO News [FHD]
-https://casaplay5g.win:443/marcelo/102030/1535645
+http://pfsv.io:80/pu1411/HP5729/512.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS HD ( ALTERNATIVO )" tvg-logo="https://gkpb.com.br/wp-content/uploads/2022/08/novo-logo-globonews-2022jpg.jpg" group-title="NOTÍCIAS",CN GLOBO News [HD]
-https://casaplay5g.win:443/marcelo/102030/1535646
+http://pfsv.io:80/pu1411/HP5729/516.m3u8
+#EXTINF:-1 tvg-id="BR - Globo News" tvg-name="GLOBO NEWS [FHD][H265]" tvg-logo="https://gkpb.com.br/wp-content/uploads/2022/08/novo-logo-globonews-2022jpg.jpg" group-title="Canais | Notícias",CN GLOBO News [FHD][H265]
+http://pfsv.io:80/pu1411/HP5729/30196.m3u8
+
 #EXTINF:-1 tvg-id="RECNEW" tvg-name="RECORD NEWS 4K" tvg-logo="https://static.guiadetv.com/channel/fWKQ5LEAdazLVIDIQdLokT6IBRoPxF2GehQonaNI.png" group-title="NOTÍCIAS",CN RECORD News [HD][3]
 https://casaplay5g.win:443/marcelo/102030/1361118
 #EXTINF:-1 tvg-id="RECNEW" tvg-name="RECORD NEWS HD" tvg-logo="https://static.guiadetv.com/channel/fWKQ5LEAdazLVIDIQdLokT6IBRoPxF2GehQonaNI.png" group-title="NOTÍCIAS",CN RECORD News [SD][3]
