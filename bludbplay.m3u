@@ -220,8 +220,22 @@ https://casaplay5g.win:443/marcelo/102030/1361487
 #EXTINF:-1 tvg-id="SP3HDOI" tvg-name="SPORTV 3 SD" tvg-logo="https://tv-online.vercel.app/sportv3.png" group-title="ESPORTES",SPORTV 3 [SD]
 https://casaplay5g.win:443/marcelo/102030/1361486
 
-#EXTINF:-1 tvg-id="SP4HDOI" tvg-name="SPORTV4" tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/8/85/Stv24.jpg/revision/latest?cb=20240815025423&path-prefix=pt-br" group-title="ESPORTES",SPORTV 4
-https://new.embedflix.co/p2p/spn4/chunks.m3u8
+#EXTINF:-1 tvg-id="PREMIEREFC" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/MEO9lxSgmC5CAwsKhTHPzZCZX9ZFE7lRFqA48ElS.png",CE Premiere Clubes
+https://new.embedflix.co/p2p/prfc1/chunks.m3u8
+#EXTINF:-1 tvg-id="PREMIERE2" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/ZaLxlvm4ijaSAtTwfhJTrvYjmiaFi8SciyiHwh9l.png",CE Premiere 2
+https://new.embedflix.co/p2p/premier2/chunks.m3u8
+#EXTINF:-1 tvg-id="PREMIERE3" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/FDXXZa0cRf9ZkXwruyrL8YJCwiJW8k2wEwMmiEeI.png",CE Premiere 3
+https://new.embedflix.co/p2p/premier3/chunks.m3u8
+#EXTINF:-1 tvg-id="PREMIERE4" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/76M6sIBSXfOQ1gs8huZq9blVihxjUYBk38SH5G1S.png",CE Premiere 4
+https://new.embedflix.co/p2p/premier4/chunks.m3u8
+#EXTINF:-1 tvg-id="PREMIERE5" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/RR5YcaXv67v9AKcLHXOyY9YuRBmNOPgC028PU8vV.png",CE Premiere 5
+https://new.embedflix.co/p2p/premier5/chunks.m3u8
+#EXTINF:-1 tvg-id="PREMIERE6" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/mHFMJM5sGQnKorD0HnFXLO2JcUlHvEObjSZiHknP.png",CE Premiere 6
+https://new.embedflix.co/p2p/premier6/chunks.m3u8
+#EXTINF:-1 tvg-id="PREMIERE7" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/IIxu6NiXwlVLL7Fs1cxm7VFLOeAu4TXu86wefVrG.png",CE Premiere 7
+https://casaplay5g.win:443/marcelo/102030/1361147
+#EXTINF:-1 tvg-id="BR - Premiere 8" tvg-name="PREMIERE 8 [FHD][HDR]" tvg-logo="https://futebolplayhd.stream/imagens-futebol/6028586b4e78a338b514316a9cf746ed.jpg" group-title="Canais | Premiere",CE Premiere 8 [FHD][HDR]
+http://pfsv.io:80/pu1411/HP5729/130240.m3u8
 
 #EXTINF:-1 tvg-id="ESPN" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/TjGpU2fe85zIbjNbJU92iR7Uup7BnpXtKVvuAALV.png",CE ESPN
 https://abc.embedmax.site/espn1/tracks-v1a1/mono.m3u8
@@ -229,43 +243,13 @@ https://abc.embedmax.site/espn1/tracks-v1a1/mono.m3u8
 https://abc.embedmax.site/espn2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ESPN3" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/uuZJDw4RNEtG2KZLe7kNNTyxX6jKpNPJDg3yYYis.png",CE ESPN 3 [SD]
 https://cdn-4.nxplay.com.br/ESPN_3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ESPN4" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/NbCozvwgOONEXubbDHqcoBPkbBTrFcg5gA1aMA3o.png",CE ESPN 4
-https://abc.embedmax.site/espn4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ESPN4" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/NbCozvwgOONEXubbDHqcoBPkbBTrFcg5gA1aMA3o.png",CE ESPN 4 [HD]
+https://new.embedflix.co/p2p/spn4/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.guiadetv.com/channel/a0k3Ik9vT9eMBoIc5ufsHvbHAdqilE3qmk3rOuvS.png" group-title="Canais | ESPN",CE ESPN 5 [4K]
 http://cdnexpress.homelinux.net/live/27.m3u8
 #EXTINF:-1 tvg-logo="https://static.guiadetv.com/channel/nquFTL8kN4zEvZvNrn0frqh8KjAwN2jw4qb64Hzm.png" group-title="Canais | ESPN",CE ESPN 6
 http://main.xplus2-main.xyz:2082/Tourobox1-HnVFocKipK/43bP6W1SNg/1005
 
-#EXTINF:-0,Premiere
-https://new.embedflix.co/p2p/prfc1/chunks.m3u8
-#EXTINF:-0,Premiere2
-https://new.embedflix.co/p2p/premier2/chunks.m3u8
-#EXTINF:-0,Premiere3
-https://new.embedflix.co/p2p/premier3/chunks.m3u8
-#EXTINF:-0,Premiere4
-https://new.embedflix.co/p2p/premier4/chunks.m3u8
-#EXTINF:-0,Premiere5
-https://new.embedflix.co/p2p/premier5/chunks.m3u8
-#EXTINF:-0,Premiere6
-https://new.embedflix.co/p2p/premier6/chunks.m3u8
-#EXTINF:-0,Premiere7
-https://new.embedflix.co/p2p/premier7/chunks.m3u8
-#EXTINF:-1 tvg-id="PREMIEREFC" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/MEO9lxSgmC5CAwsKhTHPzZCZX9ZFE7lRFqA48ElS.png",CE Premiere Clubes
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/164
-#EXTINF:-1 tvg-id="PREMIERE2" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/ZaLxlvm4ijaSAtTwfhJTrvYjmiaFi8SciyiHwh9l.png",CE Premiere 2
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/150
-#EXTINF:-1 tvg-id="PREMIERE3" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/FDXXZa0cRf9ZkXwruyrL8YJCwiJW8k2wEwMmiEeI.png",CE Premiere 3
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/152
-#EXTINF:-1 tvg-id="PREMIERE4" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/76M6sIBSXfOQ1gs8huZq9blVihxjUYBk38SH5G1S.png",CE Premiere 4
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/154
-#EXTINF:-1 tvg-id="PREMIERE5" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/RR5YcaXv67v9AKcLHXOyY9YuRBmNOPgC028PU8vV.png",CE Premiere 5
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/156
-#EXTINF:-1 tvg-id="PREMIERE6" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/mHFMJM5sGQnKorD0HnFXLO2JcUlHvEObjSZiHknP.png",CE Premiere 6
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/158
-#EXTINF:-1 tvg-id="PREMIERE7" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/IIxu6NiXwlVLL7Fs1cxm7VFLOeAu4TXu86wefVrG.png",CE Premiere 7
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/160
-#EXTINF:-1 tvg-id="BR - Premiere 8" tvg-name="PREMIERE 8 [FHD][HDR]" tvg-logo="https://futebolplayhd.stream/imagens-futebol/6028586b4e78a338b514316a9cf746ed.jpg" group-title="Canais | Premiere",CE Premiere 8 [FHD][HDR]
-http://pfsv.io:80/pu1411/HP5729/130240.m3u8
 
 
 🔰  VARIEDADES  🔰
