@@ -299,8 +299,30 @@ https://video01.logicahost.com.br/canalcurta/canalcurta/chunklist_w1922194739.m3
 #EXTINF:-1 tvg-id="LIFETIME" group-title="Variedade" tvg-logo="https://static.guiadetv.com/channel/MkRSS4MYNBkUh8IqsfMWBLp5F7ukI7JqOVN42Eio.png",CV Lifetime [FHD]
 http://cdn.connectbr.com.br:80/Lifetime/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="E" tvg-name="E" group-title="Variedade" tvg-logo="https://static.guiadetv.com/channel/BMbi62AeyptbwojO0GZ7oOslkk34bqOnjumAtCaj.png",CV E! EntertainmentTV
-https://abc.embedmax.site/e/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.guiadetv.com/channel/BMbi62AeyptbwojO0GZ7oOslkk34bqOnjumAtCaj.png" group-title="Canais | VARIEDADES",E! HD
+http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/31605
+#EXTINF:-1 tvg-logo="https://static.guiadetv.com/channel/BMbi62AeyptbwojO0GZ7oOslkk34bqOnjumAtCaj.png" group-title="Canais | VARIEDADES",E! FHD
+http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/31604
+#EXTINF:-1 tvg-logo="https://static.guiadetv.com/channel/BMbi62AeyptbwojO0GZ7oOslkk34bqOnjumAtCaj.png" group-title="Canais | VARIEDADES",E! FHD Fonte 2
+http://cdnexpress.homelinux.net/live/48.m3u8
+#EXTINF:-1 tvg-logo="https://static.guiadetv.com/channel/BMbi62AeyptbwojO0GZ7oOslkk34bqOnjumAtCaj.png" group-title="Canais | VARIEDADES",E! UHD
+http://xciptv.aplicativos.top:80/gabi4834/Bfh92928beb/21313
+#EXTINF:-1 tvg-id="ETVBHD" tvg-name="E! HD" tvg-logo="https://sv2.casaplay5g.win:443/images/8f1e08a3235f391fa98953a147843bb3.png" group-title="VARIEDADE",E! HD
+https://casaplay5g.win:443/marcelo/102030/1361260
+#EXTINF:-1 tvg-id="" tvg-name="E! HD ( ALTERNATIVO )" tvg-logo="" group-title="VARIEDADE",E! HD ( ALTERNATIVO )
+https://casaplay5g.win:443/marcelo/102030/1535545
+#EXTINF:-1 tvg-id="BR - E!" tvg-name="E! [FHD]" tvg-logo="http://p6.vc/AIQ" group-title="Canais | Variedades",E! [FHD]
+http://pfsv.io:80/pu1411/HP5729/99.m3u8
+#EXTINF:-1 tvg-id="BR - E!" tvg-name="E! [FHD][H265]" tvg-logo="http://p6.vc/VQZ" group-title="Canais | Variedades",E! [FHD][H265]
+http://pfsv.io:80/pu1411/HP5729/30186.m3u8
+#EXTINF:-1 tvg-id="BR - E!" tvg-name="E! [HD]" tvg-logo="http://p6.vc/AIX" group-title="Canais | Variedades",E! [HD]
+http://pfsv.io:80/pu1411/HP5729/108.m3u8
+#EXTINF:-1 tvg-id="BR - E!" tvg-name="E! [SD]" tvg-logo="http://p6.vc/AJG" group-title="Canais | Variedades",E! [SD]
+http://pfsv.io:80/pu1411/HP5729/117.m3u8
+#EXTINF:-1 tvg-id="ETVBHD" tvg-name="BR: E! FHD" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/e_global_us.png" group-title="Brazil",BR: E! FHD
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/56995.ts
+#EXTINF:-1 tvg-id="ETVBHD" tvg-name="BR: E!" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/e_global_us.png" group-title="Brazil",BR: E!
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/17002.ts
 
 #EXTINF:-1 tvg-id="BIS" group-title="Variedade" tvg-logo="https://static.guiadetv.com/channel/M6ILRcYzRp37QsBjxLAqi61T2oTHUvS20uCYUmXS.png",CV Bis
 https://abc.embedmax.site/bis/tracks-v1a1/mono.m3u8
