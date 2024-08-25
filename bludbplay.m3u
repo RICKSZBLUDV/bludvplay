@@ -51,8 +51,14 @@ http://pfsv.io:80/pu1411/HP5729/57.m3u8
 #EXTINF:-1 tvg-id="record.rio.br" tvg-name="RECORDTV RJ SD" tvg-logo="https://static.guiadetv.com/channel/Fu29jsvxR56M6LbqVJiogZsKmENyo9shulnIPwqe.jpg" group-title="RECORD",CA RECORDTV RJ [SD]
 http://pfsv.io:80/pu1411/HP5729/76.m3u8
 
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/DTO0AQqFh9EsUSPjPUuvdm2JnvbI7WLy0800AvoH.jpg",CA SBT [HD]
-https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+#EXTINF:-1 tvg-id="BR - SBT" tvg-name="SBT SP [HD]" tvg-logo="https://static.guiadetv.com/channel/DTO0AQqFh9EsUSPjPUuvdm2JnvbI7WLy0800AvoH.jpg" group-title="Canais | Abertos",CA SBT SP [HD]
+http://pfsv.io:80/pu1411/HP5729/55.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT SP [SD]" tvg-logo="https://static.guiadetv.com/channel/DTO0AQqFh9EsUSPjPUuvdm2JnvbI7WLy0800AvoH.jpg" group-title="Canais | Abertos",CA SBT SP [SD]
+http://pfsv.io:80/pu1411/HP5729/174142.m3u8
+#EXTINF:-1 tvg-id="BR - SBT Rio" tvg-name="SBT RJ [HD]" tvg-logo="https://static.guiadetv.com/channel/DTO0AQqFh9EsUSPjPUuvdm2JnvbI7WLy0800AvoH.jpg" group-title="Canais | Abertos",CA SBT RJ [HD]
+http://pfsv.io:80/pu1411/HP5729/50874.m3u8
+#EXTINF:-1 tvg-id="BR - SBT Rio" tvg-name="SBT RJ [SD]" tvg-logo="https://static.guiadetv.com/channel/DTO0AQqFh9EsUSPjPUuvdm2JnvbI7WLy0800AvoH.jpg" group-title="Canais | Abertos",CA SBT RJ [SD]
+http://pfsv.io:80/pu1411/HP5729/134565.m3u8
 
 #EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV! FHD" tvg-logo="https://static.guiadetv.com/channel/sUyLBwfomYbm9MLwc7eIAznjkRSBuxOoHwdOm5ea.gif" group-title="ABERTOS",REDE TV! [HD]
 http://pfsv.io:80/pu1411/HP5729/54.m3u8
