@@ -33,31 +33,31 @@ http://pfsv.io:80/pu1411/HP5729/403.m3u8
 http://pfsv.io:80/pu1411/HP5729/440.m3u8
 
 #EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO SP HD" tvg-logo="https://pbs.twimg.com/profile_images/1781391680911884288/Xwxriw8e_400x400.jpg" group-title="GLOBO",CA GLOBO SP [HD]
-https://casaplay5g.win:443/marcelo/102030/1360923
+http://pfsv.io:80/pu1411/HP5729/394.m3u8
 #EXTINF:-1 tvg-id="globo.sp.br" tvg-name="GLOBO SP SD" tvg-logo="https://pbs.twimg.com/profile_images/1781391680911884288/Xwxriw8e_400x400.jpg" group-title="GLOBO",CA GLOBO SP [SD]
-https://casaplay5g.win:443/marcelo/102030/1360924
+http://pfsv.io:80/pu1411/HP5729/429.m3u8
 
-#EXTINF:-1 tvg-id="band.br" tvg-name="BAND HD" tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2017/02/Band-Logo.jpg" group-title="BAND",CA BAND [SD]
-https://casaplay5g.win:443/marcelo/102030/1361375
-#EXTINF:-1 tvg-id="band.br" tvg-name="Band HD" tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2017/02/Band-Logo.jpg" group-title="BAND",CA BAND [SD][2]
-https://casaplay5g.win:443/marcelo/102030/1527781
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND HD" tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2017/02/Band-Logo.jpg" group-title="BAND",CA BAND [HD]
+http://pfsv.io:80/pu1411/HP5729/113584.m3u8
+#EXTINF:-1 tvg-id="band.br" tvg-name="Band HD" tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2017/02/Band-Logo.jpg" group-title="BAND",CA BAND [SD]
+http://pfsv.io:80/pu1411/HP5729/113583.m3u8
 
-#EXTINF:-1 tvg-id="recordtv.sao.paulo.br" tvg-name="RECORDTV SP HD" tvg-logo="https://static.guiadetv.com/channel/Fu29jsvxR56M6LbqVJiogZsKmENyo9shulnIPwqe.jpg" group-title="RECORD",CA RECORDTV SP [SD][2]
-https://casaplay5g.win:443/marcelo/102030/1361178
+#EXTINF:-1 tvg-id="recordtv.sao.paulo.br" tvg-name="RECORDTV SP HD" tvg-logo="https://static.guiadetv.com/channel/Fu29jsvxR56M6LbqVJiogZsKmENyo9shulnIPwqe.jpg" group-title="RECORD",CA RECORDTV SP [HD]
+http://pfsv.io:80/pu1411/HP5729/52.m3u8
 #EXTINF:-1 tvg-id="recordtv.sao.paulo.br" tvg-name="RECORDTV SP SD" tvg-logo="https://static.guiadetv.com/channel/Fu29jsvxR56M6LbqVJiogZsKmENyo9shulnIPwqe.jpg" group-title="RECORD",CA RECORDTV SP [SD]
-https://casaplay5g.win:443/marcelo/102030/1361179
-#EXTINF:-1 tvg-id="record.rio.br" tvg-name="RECORDTV RJ HD" tvg-logo="https://static.guiadetv.com/channel/Fu29jsvxR56M6LbqVJiogZsKmENyo9shulnIPwqe.jpg" group-title="RECORD",CA RECORDTV RJ [SD][2]
-https://casaplay5g.win:443/marcelo/102030/1361171
+http://pfsv.io:80/pu1411/HP5729/67.m3u8
+#EXTINF:-1 tvg-id="record.rio.br" tvg-name="RECORDTV RJ HD" tvg-logo="https://static.guiadetv.com/channel/Fu29jsvxR56M6LbqVJiogZsKmENyo9shulnIPwqe.jpg" group-title="RECORD",CA RECORDTV RJ [HD]
+http://pfsv.io:80/pu1411/HP5729/57.m3u8
 #EXTINF:-1 tvg-id="record.rio.br" tvg-name="RECORDTV RJ SD" tvg-logo="https://static.guiadetv.com/channel/Fu29jsvxR56M6LbqVJiogZsKmENyo9shulnIPwqe.jpg" group-title="RECORD",CA RECORDTV RJ [SD]
-https://casaplay5g.win:443/marcelo/102030/
+http://pfsv.io:80/pu1411/HP5729/76.m3u8
 
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/DTO0AQqFh9EsUSPjPUuvdm2JnvbI7WLy0800AvoH.jpg",CA SBT [HD]
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 
-#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV! FHD" tvg-logo="https://static.guiadetv.com/channel/sUyLBwfomYbm9MLwc7eIAznjkRSBuxOoHwdOm5ea.gif" group-title="ABERTOS",REDE TV! [SD]
-https://casaplay5g.win:443/marcelo/102030/1361402
-#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV! HD" tvg-logo="https://static.guiadetv.com/channel/sUyLBwfomYbm9MLwc7eIAznjkRSBuxOoHwdOm5ea.gif" group-title="ABERTOS",REDE TV! [SD][2]
-https://casaplay5g.win:443/marcelo/102030/1361404
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV! FHD" tvg-logo="https://static.guiadetv.com/channel/sUyLBwfomYbm9MLwc7eIAznjkRSBuxOoHwdOm5ea.gif" group-title="ABERTOS",REDE TV! [HD]
+http://pfsv.io:80/pu1411/HP5729/54.m3u8
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV! HD" tvg-logo="https://static.guiadetv.com/channel/sUyLBwfomYbm9MLwc7eIAznjkRSBuxOoHwdOm5ea.gif" group-title="ABERTOS",REDE TV! [SD]
+http://pfsv.io:80/pu1411/HP5729/69.m3u8
 
 #EXTINF:-1 tvg-id="FUTURA" tvg-name="FUTURA" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/nUAaqJAEnnfuZi8PlToGqzrl228SE5b7Ht6vxp88.png",CA Futura [FHD]
 https://5a57bda70564a.streamlock.net/opovo/opovo.sdp/chunklist_w157550291.m3u8
@@ -75,14 +75,12 @@ http://pfsv.io:80/pu1411/HP5729/72.m3u8
 https://video02.logicahost.com.br/tvguara23/tvguara23/chunklist_w1014630644.m3u8
 
 #EXTINF:-1 tvg-id="CANCAOH" tvg-name="CANCAO NOVA HD" tvg-logo="https://i.scdn.co/image/ab6761610000e5eb2e7db1910d91aa54f828910f" group-title="RELIGIOSO",CA CANCAO NOVA [HD]
-https://casaplay5g.win:443/marcelo/102030/1361184
-#EXTINF:-1 tvg-id="CANCAOH" tvg-name="CANÇÃO NOVA SD" tvg-logo="https://i.scdn.co/image/ab6761610000e5eb2e7db1910d91aa54f828910f" group-title="RELIGIOSO",CA CANÇÃO NOVA [HD][2]
-https://casaplay5g.win:443/marcelo/102030/1361185
+http://pfsv.io:80/pu1411/HP5729/33379.m3u8
+#EXTINF:-1 tvg-id="CANCAOH" tvg-name="CANÇÃO NOVA SD" tvg-logo="https://i.scdn.co/image/ab6761610000e5eb2e7db1910d91aa54f828910f" group-title="RELIGIOSO",CA CANÇÃO NOVA [SD]
+http://pfsv.io:80/pu1411/HP5729/552.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TV APARECIDA HD" tvg-logo="https://static.guiadetv.com/channel/AHxSamEHuHH1ub6rMgzx1WtwgK7CjZcDgHq7xHNm.png" group-title="RELIGIOSO",CA TV APARECIDA [HD]
-https://casaplay5g.win:443/marcelo/102030/1361201
-#EXTINF:-1 tvg-id="" tvg-name="TV APARECIDA SD" tvg-logo="https://static.guiadetv.com/channel/AHxSamEHuHH1ub6rMgzx1WtwgK7CjZcDgHq7xHNm.png" group-title="RELIGIOSO",CA TV APARECIDA [HD][2]
-https://casaplay5g.win:443/marcelo/102030/1361202
+#EXTINF:-1 tvg-id="" tvg-name="TV APARECIDA SD" tvg-logo="https://static.guiadetv.com/channel/AHxSamEHuHH1ub6rMgzx1WtwgK7CjZcDgHq7xHNm.png" group-title="RELIGIOSO",CA TV APARECIDA [SD]
+http://pfsv.io:80/pu1411/HP5729/548.m3u8
 
 #EXTINF:-1 tvg-id="BR - Rede Vida" tvg-name="REDE VIDA [FHD]" tvg-logo="https://static.guiadetv.com/channel/fWx398FZCOcj7C2YpuOb2KRWgfdpa4h1yFPSXrAv.gif" group-title="Canais | Religiosos",CA REDE VIDA [FHD]
 http://pfsv.io:80/pu1411/HP5729/545.m3u8
@@ -91,14 +89,11 @@ http://pfsv.io:80/pu1411/HP5729/547.m3u8
 #EXTINF:-1 tvg-id="BR - Rede Vida" tvg-name="REDE VIDA [SD]" tvg-logo="https://static.guiadetv.com/channel/fWx398FZCOcj7C2YpuOb2KRWgfdpa4h1yFPSXrAv.gif" group-title="Canais | Religiosos",CA REDE VIDA [SD]
 http://pfsv.io:80/pu1411/HP5729/551.m3u8
 
-#EXTINF:-1 tvg-id="tv.brasil.br" tvg-name="TV BRASIL HD" tvg-logo="https://cdn.bs9.com.br/upload/dn_arquivo/2024/06/whatsapp-image-2024-06-25-at-160017.jpeg" group-title="ABERTOS",TV BRASIL [HD]
-https://casaplay5g.win:443/marcelo/102030/1361407
+#EXTINF:-1 tvg-id="tv.brasil.br" tvg-name="TV BRASIL HD" tvg-logo="https://cdn.bs9.com.br/upload/dn_arquivo/2024/06/whatsapp-image-2024-06-25-at-160017.jpeg" group-title="ABERTOS",TV BRASIL [SD]
+http://pfsv.io:80/pu1411/HP5729/89.m3u8
 
 #EXTINF:-1 tvg-id="REDEBRASIL" tvg-name="REDEBRASIL" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/FckwNZIeOh4xLda5G2wKHu4SPN1E3JdKfSJKFGKt.png",CA REDE BRASIL [SD]
 http://pfsv.io:80/pu1411/HP5729/87.m3u8
-
-#EXTINF:-1 tvg-id="terra.viva.br" tvg-name="TERRA VIVA 4K" tvg-logo="https://static.guiadetv.com/channel/l6zoKfkppjFVEOK7oFMAKUAGrcHbYmDBZMtcgLAN.png" group-title="ABERTOS",CA TERRA VIVA [HD]
-https://casaplay5g.win:443/marcelo/102030/1361406
 
 
 🔰  DOCUMENTARIOS  🔰
@@ -212,6 +207,7 @@ http://pfsv.io:80/pu1411/HP5729/265.m3u8
 http://pfsv.io:80/pu1411/HP5729/130175.m3u8
 #EXTINF:-1 tvg-id="Bandsports HD" tvg-name="BAND SPORTS [FHD][H265]" tvg-logo="https://static.guiadetv.com/channel/b5rLv8XUFPm6zzun6rmU8hSsqtsx18xueBIqQLaT.png" group-title="Canais | Esportes",CE BAND Sports [FHD][H265]
 http://pfsv.io:80/pu1411/HP5729/30275.m3u8
+
 #EXTINF:-1 tvg-id="OFF" tvg-name="OFF HD" tvg-logo="https://static.guiadetv.com/channel/dVZbqIzcwz04Kd1lUc8Npm9MPPM2a7xa5RCS79fq.png" group-title="Esportes",CE OFF [HD]
 https://casaplay5g.win:443/marcelo/102030/1361270
 #EXTINF:-1 tvg-id="" tvg-name="OFF (H265) ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/dVZbqIzcwz04Kd1lUc8Npm9MPPM2a7xa5RCS79fq.png" group-title="Esportes",CE OFF [FHD][H265]
@@ -220,6 +216,7 @@ https://casaplay5g.win:443/marcelo/102030/1535888
 https://casaplay5g.win:443/marcelo/102030/1535889
 #EXTINF:-1 tvg-id="" tvg-name="OFF SD ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/dVZbqIzcwz04Kd1lUc8Npm9MPPM2a7xa5RCS79fq.png" group-title="Esportes",CE OFF [4K]
 https://casaplay5g.win:443/marcelo/102030/1535891
+
 #EXTINF:-1 tvg-id="COMBATC" tvg-name="COMBATE 4K" tvg-logo="https://static.guiadetv.com/channel/LCW2HM2AF9Uahx8poBHbRKEyHKjg9hxu885aLTNx.png" group-title="ESPORTES",CE COMBATE [HD][3]
 https://casaplay5g.win:443/marcelo/102030/1361453
 #EXTINF:-1 tvg-id="COMBATC" tvg-name="COMBATE SD" tvg-logo="https://static.guiadetv.com/channel/LCW2HM2AF9Uahx8poBHbRKEyHKjg9hxu885aLTNx.png" group-title="ESPORTES",CE COMBATE [SD]
@@ -232,6 +229,7 @@ https://casaplay5g.win:443/marcelo/102030/1535469
 https://casaplay5g.win:443/marcelo/102030/1535471
 #EXTINF:-1 tvg-id="" tvg-name="COMBATE HD ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/LCW2HM2AF9Uahx8poBHbRKEyHKjg9hxu885aLTNx.png" group-title="ESPORTES",CE COMBATE [HD]
 https://casaplay5g.win:443/marcelo/102030/1535472
+
 #EXTINF:-1 tvg-id="SPORVHD" tvg-name="SPORTV 1 4K" tvg-logo="https://tv-online.vercel.app/logo-sportv.png" group-title="ESPORTES",CE SPORTV [FHD]
 https://casaplay5g.win:443/marcelo/102030/1361478
 #EXTINF:-1 tvg-id="SPORVHD" tvg-name="SPORTV 1 HD" tvg-logo="https://tv-online.vercel.app/logo-sportv.png" group-title="ESPORTES",CE SPORTV [HD]
@@ -250,6 +248,7 @@ https://casaplay5g.win:443/marcelo/102030/1361485
 https://casaplay5g.win:443/marcelo/102030/1361487
 #EXTINF:-1 tvg-id="SP3HDOI" tvg-name="SPORTV 3 SD" tvg-logo="https://tv-online.vercel.app/sportv3.png" group-title="ESPORTES",CE SPORTV 3 [SD]
 https://casaplay5g.win:443/marcelo/102030/1361486
+
 #EXTINF:-1 tvg-id="PREMIEREFC" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/MEO9lxSgmC5CAwsKhTHPzZCZX9ZFE7lRFqA48ElS.png",CE Premiere Clubes
 https://new.embedflix.co/p2p/prfc1/chunks.m3u8
 #EXTINF:-1 tvg-id="PREMIERE2" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/ZaLxlvm4ijaSAtTwfhJTrvYjmiaFi8SciyiHwh9l.png",CE Premiere 2
@@ -266,6 +265,7 @@ https://new.embedflix.co/p2p/premier6/chunks.m3u8
 https://casaplay5g.win:443/marcelo/102030/1361147
 #EXTINF:-1 tvg-id="BR - Premiere 8" tvg-name="PREMIERE 8 [FHD][HDR]" tvg-logo="https://futebolplayhd.stream/imagens-futebol/6028586b4e78a338b514316a9cf746ed.jpg" group-title="Canais | Premiere",CE Premiere 8
 http://pfsv.io:80/pu1411/HP5729/130240.m3u8
+
 #EXTINF:-1 tvg-id="ESPN" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/TjGpU2fe85zIbjNbJU92iR7Uup7BnpXtKVvuAALV.png",CE ESPN [FHD]
 http://pfsv.io:80/pu1411/HP5729/130180.m3u8
 #EXTINF:-1 tvg-id="ESPN2" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/55279R9yfRKnzN4XUeuZ9hdd0WM61fD8rKAPD4oI.png",CE ESPN 2 [FHD]
@@ -338,21 +338,17 @@ http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/31604
 http://cdnexpress.homelinux.net/live/48.m3u8
 #EXTINF:-1 tvg-logo="https://static.guiadetv.com/channel/BMbi62AeyptbwojO0GZ7oOslkk34bqOnjumAtCaj.png" group-title="Canais | VARIEDADES",E! UHD
 http://xciptv.aplicativos.top:80/gabi4834/Bfh92928beb/21313
-#EXTINF:-1 tvg-id="ETVBHD" tvg-name="E! HD" tvg-logo="https://sv2.casaplay5g.win:443/images/8f1e08a3235f391fa98953a147843bb3.png" group-title="VARIEDADE",E! HD
-https://casaplay5g.win:443/marcelo/102030/1361260
-#EXTINF:-1 tvg-id="" tvg-name="E! HD ( ALTERNATIVO )" tvg-logo="" group-title="VARIEDADE",E! HD ( ALTERNATIVO )
-https://casaplay5g.win:443/marcelo/102030/1535545
-#EXTINF:-1 tvg-id="BR - E!" tvg-name="E! [FHD]" tvg-logo="http://p6.vc/AIQ" group-title="Canais | Variedades",E! [FHD]
+#EXTINF:-1 tvg-id="BR - E!" tvg-name="E! [FHD]" tvg-logo="https://static.guiadetv.com/channel/BMbi62AeyptbwojO0GZ7oOslkk34bqOnjumAtCaj.png" group-title="Canais | Variedades",E! [FHD]
 http://pfsv.io:80/pu1411/HP5729/99.m3u8
-#EXTINF:-1 tvg-id="BR - E!" tvg-name="E! [FHD][H265]" tvg-logo="http://p6.vc/VQZ" group-title="Canais | Variedades",E! [FHD][H265]
+#EXTINF:-1 tvg-id="BR - E!" tvg-name="E! [FHD][H265]" tvg-logo="https://static.guiadetv.com/channel/BMbi62AeyptbwojO0GZ7oOslkk34bqOnjumAtCaj.png" group-title="Canais | Variedades",E! [FHD][H265]
 http://pfsv.io:80/pu1411/HP5729/30186.m3u8
-#EXTINF:-1 tvg-id="BR - E!" tvg-name="E! [HD]" tvg-logo="http://p6.vc/AIX" group-title="Canais | Variedades",E! [HD]
+#EXTINF:-1 tvg-id="BR - E!" tvg-name="E! [HD]" tvg-logo="https://static.guiadetv.com/channel/BMbi62AeyptbwojO0GZ7oOslkk34bqOnjumAtCaj.png" group-title="Canais | Variedades",E! [HD]
 http://pfsv.io:80/pu1411/HP5729/108.m3u8
-#EXTINF:-1 tvg-id="BR - E!" tvg-name="E! [SD]" tvg-logo="http://p6.vc/AJG" group-title="Canais | Variedades",E! [SD]
+#EXTINF:-1 tvg-id="BR - E!" tvg-name="E! [SD]" tvg-logo="https://static.guiadetv.com/channel/BMbi62AeyptbwojO0GZ7oOslkk34bqOnjumAtCaj.png" group-title="Canais | Variedades",E! [SD]
 http://pfsv.io:80/pu1411/HP5729/117.m3u8
-#EXTINF:-1 tvg-id="ETVBHD" tvg-name="BR: E! FHD" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/e_global_us.png" group-title="Brazil",BR: E! FHD
+#EXTINF:-1 tvg-id="ETVBHD" tvg-name="BR: E! FHD" tvg-logo="https://static.guiadetv.com/channel/BMbi62AeyptbwojO0GZ7oOslkk34bqOnjumAtCaj.png" group-title="Brazil",BR: E! FHD
 http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/56995.ts
-#EXTINF:-1 tvg-id="ETVBHD" tvg-name="BR: E!" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/e_global_us.png" group-title="Brazil",BR: E!
+#EXTINF:-1 tvg-id="ETVBHD" tvg-name="BR: E!" tvg-logo="https://static.guiadetv.com/channel/BMbi62AeyptbwojO0GZ7oOslkk34bqOnjumAtCaj.png" group-title="Brazil",BR: E!
 http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/17002.ts
 
 #EXTINF:-1 tvg-id="BIS" group-title="Variedade" tvg-logo="https://static.guiadetv.com/channel/M6ILRcYzRp37QsBjxLAqi61T2oTHUvS20uCYUmXS.png",CV Bis
