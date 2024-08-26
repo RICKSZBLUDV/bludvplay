@@ -336,6 +336,51 @@ http://cdnexpress.homelinux.net/live/27.m3u8
 🔰  VARIEDADES  🔰
 
 
+#EXTINF:-1 tvg-id="BR - Discovery Science" tvg-name="DISCOVERY SCIENCE [FHD]" tvg-logo="https://static.guiadetv.com/channel/voE7ShnXsiXnXGjJU1KB9XDF9OQMMeASJTQGxS06.png" group-title="Canais | Documentários",DISCOVERY SCIENCE [FHD]
+http://pfsv.io:80/pu1411/HP5729/169.m3u8
+#EXTINF:-1 tvg-id="BR - Discovery Science" tvg-name="DISCOVERY SCIENCE [FHD][H265]" tvg-logo="https://static.guiadetv.com/channel/voE7ShnXsiXnXGjJU1KB9XDF9OQMMeASJTQGxS06.png" group-title="Canais | Documentários",DISCOVERY SCIENCE [FHD][H265]
+http://pfsv.io:80/pu1411/HP5729/30255.m3u8
+#EXTINF:-1 tvg-id="BR - Discovery Science" tvg-name="DISCOVERY SCIENCE [HD]" tvg-logo="https://static.guiadetv.com/channel/voE7ShnXsiXnXGjJU1KB9XDF9OQMMeASJTQGxS06.png" group-title="Canais | Documentários",DISCOVERY SCIENCE [HD]
+http://pfsv.io:80/pu1411/HP5729/184.m3u8
+#EXTINF:-1 tvg-id="BR - Discovery Science" tvg-name="DISCOVERY SCIENCE [SD]" tvg-logo="https://static.guiadetv.com/channel/voE7ShnXsiXnXGjJU1KB9XDF9OQMMeASJTQGxS06.png" group-title="Canais | Documentários",DISCOVERY SCIENCE [SD]
+http://pfsv.io:80/pu1411/HP5729/199.m3u8
+
+#EXTINF:-1 tvg-id="São Paulo/SP  Canal do Boi" tvg-name="DISCOVERY THEATER [FHD]" tvg-logo="https://static.guiadetv.com/channel/OD1oq9UJgFT8bXwzoRJYiAJgAIcIkYYhzVNBHjBb.png" group-title="Canais | Documentários",DISCOVERY THEATER [FHD]
+http://pfsv.io:80/pu1411/HP5729/170.m3u8
+#EXTINF:-1 tvg-id="BR - Discovery HD Theater" tvg-name="DISCOVERY THEATER [FHD][H265]" tvg-logo="https://static.guiadetv.com/channel/OD1oq9UJgFT8bXwzoRJYiAJgAIcIkYYhzVNBHjBb.png" group-title="Canais | Documentários",DISCOVERY THEATER [FHD][H265]
+http://pfsv.io:80/pu1411/HP5729/30256.m3u8
+#EXTINF:-1 tvg-id="São Paulo/SP  Canal do Boi" tvg-name="DISCOVERY THEATER [HD]" tvg-logo="https://static.guiadetv.com/channel/OD1oq9UJgFT8bXwzoRJYiAJgAIcIkYYhzVNBHjBb.png" group-title="Canais | Documentários",DISCOVERY THEATER [HD]
+http://pfsv.io:80/pu1411/HP5729/185.m3u8
+#EXTINF:-1 tvg-id="São Paulo/SP  Canal do Boi" tvg-name="DISCOVERY THEATER [SD]" tvg-logo="hhttps://static.guiadetv.com/channel/OD1oq9UJgFT8bXwzoRJYiAJgAIcIkYYhzVNBHjBb.png" group-title="Canais | Documentários",DISCOVERY THEATER [SD]
+http://pfsv.io:80/pu1411/HP5729/200.m3u8
+
+#EXTINF:-1 tvg-id="BR - Discovery Turbo" tvg-name="DISCOVERY TURBO [FHD]" tvg-logo="https://static.guiadetv.com/channel/U7PvZKtT0CUYi65Pg6XO9OJtRF4uicRUYBamKKvC.png" group-title="Canais | Documentários",DISCOVERY TURBO [FHD]
+http://pfsv.io:80/pu1411/HP5729/171.m3u8
+#EXTINF:-1 tvg-id="BR - Discovery Turbo" tvg-name="DISCOVERY TURBO [FHD][H265]" tvg-logo="https://static.guiadetv.com/channel/U7PvZKtT0CUYi65Pg6XO9OJtRF4uicRUYBamKKvC.png" group-title="Canais | Documentários",DISCOVERY TURBO [FHD][H265]
+http://pfsv.io:80/pu1411/HP5729/30257.m3u8
+#EXTINF:-1 tvg-id="BR - Discovery Turbo" tvg-name="DISCOVERY TURBO [HD]" tvg-logo="https://static.guiadetv.com/channel/U7PvZKtT0CUYi65Pg6XO9OJtRF4uicRUYBamKKvC.png" group-title="Canais | Documentários",DISCOVERY TURBO [HD]
+http://pfsv.io:80/pu1411/HP5729/186.m3u8
+#EXTINF:-1 tvg-id="BR - Discovery Turbo" tvg-name="DISCOVERY TURBO [SD]" tvg-logo="https://static.guiadetv.com/channel/U7PvZKtT0CUYi65Pg6XO9OJtRF4uicRUYBamKKvC.png" group-title="Canais | Documentários",DISCOVERY TURBO [SD]
+http://pfsv.io:80/pu1411/HP5729/201.m3u8
+
+#EXTINF:-1 tvg-id="São Paulo/SP  Canal do Boi" tvg-name="DISCOVERY WORLD [FHD]" tvg-logo="https://static.guiadetv.com/channel/J70KAPNFRKbNGZtJjSwczFFR3IyGhHTOfTDSzzFC.png" group-title="Canais | Documentários",DISCOVERY WORLD [FHD]
+http://pfsv.io:80/pu1411/HP5729/172.m3u8
+#EXTINF:-1 tvg-id="São Paulo/SP  Canal do Boi" tvg-name="DISCOVERY WORLD [FHD][H265]" tvg-logo="https://static.guiadetv.com/channel/J70KAPNFRKbNGZtJjSwczFFR3IyGhHTOfTDSzzFC.png" group-title="Canais | Documentários",DISCOVERY WORLD [FHD][H265]
+http://pfsv.io:80/pu1411/HP5729/30258.m3u8
+#EXTINF:-1 tvg-id="São Paulo/SP  Canal do Boi" tvg-name="DISCOVERY WORLD [HD]" tvg-logo="https://static.guiadetv.com/channel/J70KAPNFRKbNGZtJjSwczFFR3IyGhHTOfTDSzzFC.png" group-title="Canais | Documentários",DISCOVERY WORLD [HD]
+http://pfsv.io:80/pu1411/HP5729/187.m3u8
+#EXTINF:-1 tvg-id="São Paulo/SP  Canal do Boi" tvg-name="DISCOVERY WORLD [SD]" tvg-logo="https://static.guiadetv.com/channel/J70KAPNFRKbNGZtJjSwczFFR3IyGhHTOfTDSzzFC.png" group-title="Canais | Documentários",DISCOVERY WORLD [SD]
+http://pfsv.io:80/pu1411/HP5729/202.m3u8
+
+#EXTINF:-1 tvg-id="BR - Discovery Home & Health" tvg-name="DISCOVERY HOME & HEALTH [FHD]" tvg-logo="https://static.guiadetv.com/channel/YwjlkUM37rwLUZBW5IG5LRavDOay7OFlmEkQYAbp.png" group-title="Canais | Documentários",DISCOVERY HOME & HEALTH [FHD]
+http://pfsv.io:80/pu1411/HP5729/168.m3u8
+#EXTINF:-1 tvg-id="BR - Discovery Home & Health" tvg-name="DISCOVERY HOME & HEALTH [HD]" tvg-logo="https://static.guiadetv.com/channel/YwjlkUM37rwLUZBW5IG5LRavDOay7OFlmEkQYAbp.png" group-title="Canais | Documentários",DISCOVERY HOME & HEALTH [HD]
+http://pfsv.io:80/pu1411/HP5729/183.m3u8
+#EXTINF:-1 tvg-id="BR - Discovery Home & Health" tvg-name="DISCOVERY HOME & HEALTH [SD]" tvg-logo="https://static.guiadetv.com/channel/YwjlkUM37rwLUZBW5IG5LRavDOay7OFlmEkQYAbp.png" group-title="Canais | Documentários",DISCOVERY HOME & HEALTH [SD]
+http://pfsv.io:80/pu1411/HP5729/198.m3u8
+#EXTINF:-1 tvg-id="BR - Discovery Home & Health" tvg-name="DISCOVERY HOME&HEALTH [FHD][H265]" tvg-logo="https://static.guiadetv.com/channel/YwjlkUM37rwLUZBW5IG5LRavDOay7OFlmEkQYAbp.png" group-title="Canais | Documentários",DISCOVERY HOME&HEALTH [FHD][H265]
+http://pfsv.io:80/pu1411/HP5729/30254.m3u8
+
 #EXTINF:-1 tvg-id="BR - FishTV" tvg-name="FISH TV [FHD]" tvg-logo="http://p6.vc/AIR" group-title="Canais | Variedades",CV FISH TV [FHD]
 http://pfsv.io:80/pu1411/HP5729/100.m3u8
 #EXTINF:-1 tvg-id="BR - FishTV" tvg-name="FISH TV [HD]" tvg-logo="http://p6.vc/AIY" group-title="Canais | Variedades",CV FISH TV [HD]
@@ -346,6 +391,7 @@ http://pfsv.io:80/pu1411/HP5729/118.m3u8
 http://pfsv.io:80/pu1411/HP5729/130258.m3u8
 #EXTINF:-1 tvg-id="BR - FishTV" tvg-name="FISH TV [FHD][H265]" tvg-logo="http://p6.vc/VMW" group-title="Canais | Variedades",CV FISH TV [FHD][H265]
 http://pfsv.io:80/pu1411/HP5729/30185.m3u8
+
 #EXTINF:-1 group-title="Variedade" tvg-logo="https://www.campsoft.com.br/wp-content/uploads/2023/09/Woohoo_300x300.png",CV WOOHOO [SD]
 http://pfsv.io:80/pu1411/HP5729/7.m3u8
 #EXTINF:-1 group-title="Variedade" tvg-logo="https://www.campsoft.com.br/wp-content/uploads/2023/09/Woohoo_300x300.png",CV WOOHOO [HD]
@@ -356,6 +402,31 @@ http://pfsv.io:80/pu1411/HP5729/133.m3u8
 http://pfsv.io:80/pu1411/HP5729/130227.m3u8
 #EXTINF:-1 group-title="Variedade" tvg-logo="https://www.campsoft.com.br/wp-content/uploads/2023/09/Woohoo_300x300.png",CV WOOHOO [FHD][H265]
 http://pfsv.io:80/pu1411/HP5729/30174.m3u8
+
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV HD" tvg-logo="https://static.guiadetv.com/channel/HFZVROE1EnvRz1mjFAShu3hyOGn8jO4HBwaDGy4I.png" group-title="DOCUMENTARIOS",CV HGTV [FHD][HDR]
+http://pfsv.io:80/pu1411/HP5729/130168.m3u8
+#EXTINF:-1 tvg-id="HGTV HD" tvg-name="HGTV [FHD]" tvg-logo="https://static.guiadetv.com/channel/HFZVROE1EnvRz1mjFAShu3hyOGn8jO4HBwaDGy4I.png" group-title="Canais | Documentários",CV HGTV [FHD]
+http://pfsv.io:80/pu1411/HP5729/167.m3u8
+#EXTINF:-1 tvg-id="HGTV HD" tvg-name="HGTV [FHD][H265]" tvg-logo="https://static.guiadetv.com/channel/HFZVROE1EnvRz1mjFAShu3hyOGn8jO4HBwaDGy4I.png" group-title="Canais | Documentários",CV HGTV [FHD][H265]
+http://pfsv.io:80/pu1411/HP5729/30253.m3u8
+#EXTINF:-1 tvg-id="HGTV HD" tvg-name="HGTV [HD]" tvg-logo="https://static.guiadetv.com/channel/HFZVROE1EnvRz1mjFAShu3hyOGn8jO4HBwaDGy4I.png" group-title="Canais | Documentários",CV HGTV [HD]
+http://pfsv.io:80/pu1411/HP5729/182.m3u8
+#EXTINF:-1 tvg-id="HGTV HD" tvg-name="HGTV [SD]" tvg-logo="https://static.guiadetv.com/channel/HFZVROE1EnvRz1mjFAShu3hyOGn8jO4HBwaDGy4I.png" group-title="Canais | Documentários",CV HGTV [SD]
+http://pfsv.io:80/pu1411/HP5729/197.m3u8
+
+#EXTINF:-1 tvg-id="BR - E!" tvg-name="E! [FHD]" tvg-logo="https://static.guiadetv.com/channel/BMbi62AeyptbwojO0GZ7oOslkk34bqOnjumAtCaj.png" group-title="Canais | Variedades",E! [FHD]
+http://pfsv.io:80/pu1411/HP5729/99.m3u8
+#EXTINF:-1 tvg-id="BR - E!" tvg-name="E! [HD]" tvg-logo="https://static.guiadetv.com/channel/BMbi62AeyptbwojO0GZ7oOslkk34bqOnjumAtCaj.png" group-title="Canais | Variedades",E! [HD]
+http://pfsv.io:80/pu1411/HP5729/108.m3u8
+#EXTINF:-1 tvg-id="BR - E!" tvg-name="E! [SD]" tvg-logo="https://static.guiadetv.com/channel/BMbi62AeyptbwojO0GZ7oOslkk34bqOnjumAtCaj.png" group-title="Canais | Variedades",E! [SD]
+http://pfsv.io:80/pu1411/HP5729/117.m3u8
+#EXTINF:-1 tvg-id="BR - E!" tvg-name="E! [FHD][H265]" tvg-logo="https://static.guiadetv.com/channel/BMbi62AeyptbwojO0GZ7oOslkk34bqOnjumAtCaj.png" group-title="Canais | Variedades",E! [FHD][H265]
+http://pfsv.io:80/pu1411/HP5729/30186.m3u8
+#EXTINF:-1 tvg-logo="https://static.guiadetv.com/channel/BMbi62AeyptbwojO0GZ7oOslkk34bqOnjumAtCaj.png" group-title="Canais | VARIEDADES",E! [4k]
+http://cdnexpress.homelinux.net/live/48.m3u8
+#EXTINF:-1 tvg-logo="https://static.guiadetv.com/channel/BMbi62AeyptbwojO0GZ7oOslkk34bqOnjumAtCaj.png" group-title="Canais | VARIEDADES",E! [HD][2]
+http://xciptv.aplicativos.top:80/gabi4834/Bfh92928beb/21313
+
 #EXTINF:-1 tvg-id="BR - DOGTV" tvg-name="DOG TV [FHD][HDR]" tvg-logo="http://p6.vc/VRD" group-title="Canais | Variedades",CV DOG TV [FHD][HDR]
 http://pfsv.io:80/pu1411/HP5729/130256.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CANAL DO BOI [FHD]" tvg-logo="http://p6.vc/AIA" group-title="Canais | Abertos",CV CANAL DO BOI [FHD]
@@ -372,26 +443,12 @@ https://cdn.live.br1.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/chunklist.m3u8
 https://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8
 #EXTINF:-1 tvg-name="AGROMAIS" tvg-id="AGROMAIS" group-title="Variedade" tvg-logo="https://static.guiadetv.com/channel/v1N45NIcp9raY5mUXmlZwrbMTFaQoWxJ7QAWLLB9.png",CV Agro Mais [SD]
 https://cdn-2.nxplay.com.br/AGROMAIS_HD_TK/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV HD" tvg-logo="https://static.guiadetv.com/channel/HFZVROE1EnvRz1mjFAShu3hyOGn8jO4HBwaDGy4I.png" group-title="DOCUMENTARIOS",CV HGTV [SD]
-https://casaplay5g.win:443/marcelo/102030/1361438
 #EXTINF:-1 tvg-id="ARTE1" tvg-name="ARTE1" group-title="Variedade" tvg-logo="https://static.guiadetv.com/channel/mFiw0mlFv4slckFtJHWOt0Mbso3odjRlZf0mveIa.png",CV Arte 1 [FHD] 
 http://pfsv.io:80/pu1411/HP5729/165.m3u8
 #EXTINF:-1 tvg-id="CURTA" tvg-name="CURTA" group-title="Variedade" tvg-logo="https://static.guiadetv.com/channel/TgeB1J0TdsUmCORHpMjBq6z39iaIrVbYM5x3uOIR.png",CV Curta [FHD] 
 https://video01.logicahost.com.br/canalcurta/canalcurta/chunklist_w1922194739.m3u8
 #EXTINF:-1 tvg-id="LIFETIME" group-title="Variedade" tvg-logo="https://static.guiadetv.com/channel/MkRSS4MYNBkUh8IqsfMWBLp5F7ukI7JqOVN42Eio.png",CV Lifetime [FHD]
 http://cdn.connectbr.com.br:80/Lifetime/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://static.guiadetv.com/channel/BMbi62AeyptbwojO0GZ7oOslkk34bqOnjumAtCaj.png" group-title="Canais | VARIEDADES",E! [4k]
-http://cdnexpress.homelinux.net/live/48.m3u8
-#EXTINF:-1 tvg-id="BR - E!" tvg-name="E! [FHD]" tvg-logo="https://static.guiadetv.com/channel/BMbi62AeyptbwojO0GZ7oOslkk34bqOnjumAtCaj.png" group-title="Canais | Variedades",E! [FHD]
-http://pfsv.io:80/pu1411/HP5729/99.m3u8
-#EXTINF:-1 tvg-id="BR - E!" tvg-name="E! [HD]" tvg-logo="https://static.guiadetv.com/channel/BMbi62AeyptbwojO0GZ7oOslkk34bqOnjumAtCaj.png" group-title="Canais | Variedades",E! [HD]
-http://pfsv.io:80/pu1411/HP5729/108.m3u8
-#EXTINF:-1 tvg-id="BR - E!" tvg-name="E! [SD]" tvg-logo="https://static.guiadetv.com/channel/BMbi62AeyptbwojO0GZ7oOslkk34bqOnjumAtCaj.png" group-title="Canais | Variedades",E! [SD]
-http://pfsv.io:80/pu1411/HP5729/117.m3u8
-#EXTINF:-1 tvg-logo="https://static.guiadetv.com/channel/BMbi62AeyptbwojO0GZ7oOslkk34bqOnjumAtCaj.png" group-title="Canais | VARIEDADES",E! [HD][2]
-http://xciptv.aplicativos.top:80/gabi4834/Bfh92928beb/21313
-#EXTINF:-1 tvg-id="BR - E!" tvg-name="E! [FHD][H265]" tvg-logo="https://static.guiadetv.com/channel/BMbi62AeyptbwojO0GZ7oOslkk34bqOnjumAtCaj.png" group-title="Canais | Variedades",E! [FHD][H265]
-http://pfsv.io:80/pu1411/HP5729/30186.m3u8
 
 #EXTINF:-1 tvg-id="BIS" group-title="Variedade" tvg-logo="https://static.guiadetv.com/channel/M6ILRcYzRp37QsBjxLAqi61T2oTHUvS20uCYUmXS.png",CV Bis
 https://abc.embedmax.site/bis/tracks-v1a1/mono.m3u8
@@ -420,17 +477,6 @@ http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/291
 #EXTINF:-1 tvg-name="FOODNET" tvg-id="FOODNET" group-title="Variedade" tvg-logo="https://static.guiadetv.com/channel/Y5HBVprcGipBH83U4qhV1thOSJ9IxbqP52Ag7iu2.png",CV Food Network
 https://cdn-3.nxplay.com.br/FOOD_NETWORK_NX/index.m3u8
 
-#EXTINF:-1 tvg-name="DISCOVERYHH" tvg-id="DISCOVERYHH" group-title="Variedade" tvg-logo="https://static.guiadetv.com/channel/YwjlkUM37rwLUZBW5IG5LRavDOay7OFlmEkQYAbp.png",CV Discovery Home & Health
-https://abc.embedmax.site/discoveryheh/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="DISCOVERYT" tvg-id="DISCOVERYT" group-title="Variedade" tvg-logo="https://static.guiadetv.com/channel/OD1oq9UJgFT8bXwzoRJYiAJgAIcIkYYhzVNBHjBb.png",CV Discovery Theater
-https://abc.embedmax.site/discoverytheater/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="DISCOVERYS" tvg-id="DISCOVERYS" group-title="Variedade" tvg-logo="https://static.guiadetv.com/channel/voE7ShnXsiXnXGjJU1KB9XDF9OQMMeASJTQGxS06.png",CV Discovery Science
-https://abc.embedmax.site/discoveryscience/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="DISCOVERYTURBO" tvg-name="DISCOVERYTURBO" group-title="Variedade" tvg-logo="https://static.guiadetv.com/channel/U7PvZKtT0CUYi65Pg6XO9OJtRF4uicRUYBamKKvC.png",CV Discovery Turbo
-https://abc.embedmax.site/discoveryturbo/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="DISCOVERYW" tvg-name="DISCOVERYW" group-title="Variedade" tvg-logo="https://static.guiadetv.com/channel/J70KAPNFRKbNGZtJjSwczFFR3IyGhHTOfTDSzzFC.png",CV Discovery World
-https://abc.embedmax.site/discoveryworld/tracks-v1a1/mono.m3u8
-
 
  🔰  FILMES e SERIES  🔰
 
@@ -445,6 +491,7 @@ http://pfsv.io:80/pu1411/HP5729/337.m3u8
 http://pfsv.io:80/pu1411/HP5729/130197.m3u8
 #EXTINF:-1 group-title="FilmesSeries" tvg-logo="https://static.guiadetv.com/channel/WEf9IEYZNSmEynYxDW9YzSfYMJbYEjFzShcfsQxa.png",CFS SYFY [FHD][H265]
 http://pfsv.io:80/pu1411/HP5729/30222.m3u8
+
 #EXTINF:-1 tvg-name="FILM&ARTS [SD]" tvg-id="" group-title="FilmesSeries" tvg-logo="https://static.guiadetv.com/channel/fiUIa3E6ZmxBMqxMjafkkZKkqzoZX83NOgeEZ9BR.png",CFS Film & Arts [SD]
 http://pfsv.io:80/pu1411/HP5729/348.m3u8
 #EXTINF:-1 tvg-name="FILM&ARTS [FHD]" tvg-id="" group-title="FilmesSeries" tvg-logo="https://static.guiadetv.com/channel/fiUIa3E6ZmxBMqxMjafkkZKkqzoZX83NOgeEZ9BR.png",CFS Film & Arts [FHD]
@@ -453,6 +500,7 @@ http://pfsv.io:80/pu1411/HP5729/134867.m3u8
 http://pfsv.io:80/pu1411/HP5729/130189.m3u8
 #EXTINF:-1 tvg-name="FILM&ARTS [HD]" tvg-id="" group-title="FilmesSeries" tvg-logo="https://static.guiadetv.com/channel/fiUIa3E6ZmxBMqxMjafkkZKkqzoZX83NOgeEZ9BR.png",CFS Film & Arts [HD]
 http://pfsv.io:80/pu1411/HP5729/92668.m3u8
+
 #EXTINF:-1 group-title="FilmesSeries" tvg-logo="https://static.guiadetv.com/channel/DNY6eszG7Vh4Bw6wgaCXFpwM9QM10YLtlYGLmgYU.png",CFS TCM [HD]
 http://pfsv.io:80/pu1411/HP5729/339.m3u8
 
@@ -524,6 +572,7 @@ http://pfsv.io:80/pu1411/HP5729/132947.m3u8
 http://pfsv.io:80/pu1411/HP5729/132945.m3u8
 #EXTINF:-1 tvg-id="PARAMOUNT" tvg-name="" group-title="FilmesSeries" tvg-logo="https://static.guiadetv.com/channel/Cuc7QYzI4WnetlVk6lG4pdWHBJtklypGGgwfRFKD.png",CFS Paramount Network
 https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/289/289-3-main.m3u8
+
 #EXTINF:-1 tvg-id="SONYONEEMOCOES" tvg-name="" group-title="FilmesSeries" tvg-logo="https://images.samsung.com/is/image/samsung/assets/br/tvs/smart-tv/channel-list/SONYEMOCOESType-B_-1x1-Circles-476x476AngelaSuarez.png?$ORIGIN_PNG$",CFS SONY One Emoções
 https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SonyOneEmocoes/playlist.m3u8?ManoTV
 #EXTINF:-1 tvg-id="SONYONECLASSICS" tvg-name="" group-title="FilmesSeries" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/77d108724ea49c113b434b912bc66da1.webp",CFS SONY One Classics
@@ -541,18 +590,20 @@ https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/
 https://casaplay5g.win:443/marcelo/102030/1361072
 #EXTINF:-1 tvg-id="TOONCB" tvg-name="TOONCAST SD" tvg-logo="https://static.guiadetv.com/channel/R51ScLaG4Ou2vCXyuBOQoeDUWD5l83pNshs3UVux.png" group-title="INFANTIL",CI TOONCAST [SD]
 https://casaplay5g.win:443/marcelo/102030/1528079
-#EXTINF:-1 tvg-id="" tvg-name="TOONCAST SD ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/R51ScLaG4Ou2vCXyuBOQoeDUWD5l83pNshs3UVux.png" group-title="INFANTIL",CI TOONCAST 2 [SD]
+#EXTINF:-1 tvg-id="" tvg-name="TOONCAST SD ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/R51ScLaG4Ou2vCXyuBOQoeDUWD5l83pNshs3UVux.png" group-title="INFANTIL",CI TOONCAST [SD][2]
 https://casaplay5g.win:443/marcelo/102030/1536123
-#EXTINF:-1 tvg-id="" tvg-name="Cartoonito SD ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/FsH0Wf1zAeziNfzXFWZK4BqTjjOEhaT6R0k5CHT4.png" group-title="INFANTIL",CI Cartoonito 2 [HD]
+
+#EXTINF:-1 tvg-id="" tvg-name="Cartoonito SD ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/FsH0Wf1zAeziNfzXFWZK4BqTjjOEhaT6R0k5CHT4.png" group-title="INFANTIL",CI Cartoonito [HD][2]
 https://casaplay5g.win:443/marcelo/102030/1535448
 #EXTINF:-1 tvg-id="" tvg-name="Cartoonito (H265) ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/FsH0Wf1zAeziNfzXFWZK4BqTjjOEhaT6R0k5CHT4.png" group-title="INFANTIL",CI Cartoonito [FHD][H265]
 https://casaplay5g.win:443/marcelo/102030/1535445
-#EXTINF:-1 tvg-id="" tvg-name="CARTOONITO 4K" tvg-logo="https://static.guiadetv.com/channel/FsH0Wf1zAeziNfzXFWZK4BqTjjOEhaT6R0k5CHT4.png" group-title="INFANTIL",CI Cartoonito 3 [HD]
+#EXTINF:-1 tvg-id="" tvg-name="CARTOONITO 4K" tvg-logo="https://static.guiadetv.com/channel/FsH0Wf1zAeziNfzXFWZK4BqTjjOEhaT6R0k5CHT4.png" group-title="INFANTIL",CI Cartoonito [HD][3]
 https://casaplay5g.win:443/marcelo/102030/1361052
 #EXTINF:-1 tvg-id="" tvg-name="Cartoonito FHD ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/FsH0Wf1zAeziNfzXFWZK4BqTjjOEhaT6R0k5CHT4.png" group-title="INFANTIL",CI Cartoonito [HD]
 https://casaplay5g.win:443/marcelo/102030/1535446
 #EXTINF:-1 tvg-id="" tvg-name="CARTOONITO HD" tvg-logo="https://static.guiadetv.com/channel/FsH0Wf1zAeziNfzXFWZK4BqTjjOEhaT6R0k5CHT4.png" group-title="INFANTIL",CI Cartoonito [SD]
 https://casaplay5g.win:443/marcelo/102030/1361054
+
 #EXTINF:-1 tvg-id="" tvg-name="ADULT SWIM [FHD][H265]" tvg-logo="https://ih1.redbubble.net/image.333612268.2321/st,small,507x507-pad,600x600,f8f8f8.u4.jpg" group-title="Canais | Filmes e Séries",CI ADULT SWIM [FHD][H265]
 http://pfsv.io:80/pu1411/HP5729/199847.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ADULT SWIM [FHD][HDR]" tvg-logo="https://ih1.redbubble.net/image.333612268.2321/st,small,507x507-pad,600x600,f8f8f8.u4.jpg" group-title="Canais | Filmes e Séries",CI ADULT SWIM [FHD][HDR]
@@ -563,6 +614,7 @@ http://pfsv.io:80/pu1411/HP5729/199851.m3u8
 http://pfsv.io:80/pu1411/HP5729/199850.m3u8
 #EXTINF:-1 tvg-id="ADSM" tvg-name="ADULT SWIM [SD]" tvg-logo=https://ih1.redbubble.net/image.333612268.2321/st,small,507x507-pad,600x600,f8f8f8.u4.jpg" group-title="Canais | Filmes e Séries",CI ADULT SWIM [SD]
 http://pfsv.io:80/pu1411/HP5729/199849.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Infantil" tvg-logo="https://static.guiadetv.com/channel/5VuVTewKuYSntAm4HPYwzHmxTLXjTXE3uCH3o4qi.png",CI Gloobinho
 https://abc.embedmax.site/gloobinho/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Infantil" tvg-logo="https://static.guiadetv.com/channel/ylKX0PaiVCulcY5Bduc6LSgWdFFL1uobbnsvNhz8.png",CI Gloob
@@ -573,8 +625,16 @@ https://stmv1.srvif.com/loadingtv/loadingtv/chunklist_w561413353.m3u8
 https://abc.embedmax.site/nickjr/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Infantil" tvg-logo="https://static.guiadetv.com/channel/sYrYlWk30Ye1GGS8Kg4umWmOvJBbpbnsA3svGIS9.png",CI Nickelodeon
 https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/284/284-3-main.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Infantil" tvg-logo="https://static.guiadetv.com/channel/Cbk8pFoFK5dsdBzVgF1nY0wbNEJ1iyNk5u43KvaS.png",CI Discovery Kids
-https://abc.embedmax.site/discoverykids/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="BR - Discovery Kids" tvg-name="DISCOVERY KIDS [FHD]" tvg-logo="https://static.guiadetv.com/channel/Cbk8pFoFK5dsdBzVgF1nY0wbNEJ1iyNk5u43KvaS.png" group-title="Canais | Infantis",CI DISCOVERY KIDS [FHD]
+http://pfsv.io:80/pu1411/HP5729/127.m3u8
+#EXTINF:-1 tvg-id="BR - Discovery Kids" tvg-name="Discovery Kids [H265]" tvg-logo="https://static.guiadetv.com/channel/Cbk8pFoFK5dsdBzVgF1nY0wbNEJ1iyNk5u43KvaS.png" group-title="Canais | Infantis",CI Discovery Kids [H265]
+http://pfsv.io:80/pu1411/HP5729/30269.m3u8
+#EXTINF:-1 tvg-id="BR - Discovery Kids" tvg-name="DISCOVERY KIDS [HD]" tvg-logo="https://static.guiadetv.com/channel/Cbk8pFoFK5dsdBzVgF1nY0wbNEJ1iyNk5u43KvaS.png" group-title="Canais | Infantis",CI DISCOVERY KIDS [HD]
+http://pfsv.io:80/pu1411/HP5729/140.m3u8
+#EXTINF:-1 tvg-id="BR - Discovery Kids" tvg-name="DISCOVERY KIDS [SD]" tvg-logo="https://static.guiadetv.com/channel/Cbk8pFoFK5dsdBzVgF1nY0wbNEJ1iyNk5u43KvaS.png" group-title="Canais | Infantis",CI DISCOVERY KIDS [SD]
+http://pfsv.io:80/pu1411/HP5729/152.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Infantil" tvg-logo="https://static.guiadetv.com/channel/CphBlM0nsTb0DZIeOV3DO24bnBWqHAALdtZARIDZ.png",CI DisneyChannel
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/351
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Infantil" tvg-logo="https://static.guiadetv.com/channel/x7mB9zIiX2qT0SWwDFrcy8pMKZqfuiwXxUMD44Q6.png",CI Cartoon Network 
