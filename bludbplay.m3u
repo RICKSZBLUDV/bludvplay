@@ -105,43 +105,41 @@ http://pfsv.io:80/pu1411/HP5729/87.m3u8
 🔰  DOCUMENTARIOS  🔰
  
 
-#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="Animal Planet (H265) ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/QrnHAPvDoIBNihzZrxo6yCPr63I4voO2zga4q14l.png" group-title="DOCUMENTARIOS",CD ANIMAL PLANET [4k][H265]
-https://casaplay5g.win:443/marcelo/102030/1535361
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="Animal Planet (H265) ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/QrnHAPvDoIBNihzZrxo6yCPr63I4voO2zga4q14l.png" group-title="DOCUMENTARIOS",CD ANIMAL PLANET [FHD][H265]
+http://pfsv.io:80/pu1411/HP5729/30248.m3u8
 #EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET 4K" tvg-logo="https://static.guiadetv.com/channel/QrnHAPvDoIBNihzZrxo6yCPr63I4voO2zga4q14l.png" group-title="DOCUMENTARIOS",CD ANIMAL PLANET [HD]
-https://casaplay5g.win:443/marcelo/102030/1361413
-#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="https://static.guiadetv.com/channel/QrnHAPvDoIBNihzZrxo6yCPr63I4voO2zga4q14l.png" group-title="DOCUMENTARIOS",CD ANIMAL PLANET [SD][2]
-https://casaplay5g.win:443/marcelo/102030/1361416
+http://pfsv.io:80/pu1411/HP5729/179.m3u8
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="https://static.guiadetv.com/channel/QrnHAPvDoIBNihzZrxo6yCPr63I4voO2zga4q14l.png" group-title="DOCUMENTARIOS",CD ANIMAL PLANET [FHD]
+http://pfsv.io:80/pu1411/HP5729/164.m3u8
 #EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET SD" tvg-logo="https://static.guiadetv.com/channel/QrnHAPvDoIBNihzZrxo6yCPr63I4voO2zga4q14l.png" group-title="DOCUMENTARIOS",CD ANIMAL PLANET [SD]
-https://casaplay5g.win:443/marcelo/102030/1361415
+http://pfsv.io:80/pu1411/HP5729/194.m3u8
 
 #EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY CHANNEL 4K" tvg-logo="https://static.guiadetv.com/channel/XOPt3bhwlhbPKO6PJ7RyJxZZkUV9j8UgWqfBbGik.png" group-title="DOCUMENTARIOS",CD DISCOVERY CHANNEL [HD][2]
-https://casaplay5g.win:443/marcelo/102030/1361420
-#EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://static.guiadetv.com/channel/XOPt3bhwlhbPKO6PJ7RyJxZZkUV9j8UgWqfBbGik.png" group-title="DOCUMENTARIOS",CD DISCOVERY CHANNEL [SD][2]
-https://casaplay5g.win:443/marcelo/102030/1361422
+http://pfsv.io:80/pu1411/HP5729/166.m3u8
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://static.guiadetv.com/channel/XOPt3bhwlhbPKO6PJ7RyJxZZkUV9j8UgWqfBbGik.png" group-title="DOCUMENTARIOS",CD DISCOVERY CHANNEL [FHD][H265]
+http://pfsv.io:80/pu1411/HP5729/30260.m3u8
 #EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY CHANNEL HD ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/XOPt3bhwlhbPKO6PJ7RyJxZZkUV9j8UgWqfBbGik.png" group-title="DOCUMENTARIOS",CD DISCOVERY CHANNEL [HD]
-https://casaplay5g.win:443/marcelo/102030/1535507
+http://pfsv.io:80/pu1411/HP5729/181.m3u8
 #EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY CHANNEL SD" tvg-logo="https://static.guiadetv.com/channel/XOPt3bhwlhbPKO6PJ7RyJxZZkUV9j8UgWqfBbGik.png" group-title="DOCUMENTARIOS",CD DISCOVERY CHANNEL [SD]
-https://casaplay5g.win:443/marcelo/102030/1361421
+http://pfsv.io:80/pu1411/HP5729/196.m3u8
 
 #EXTINF:-1 tvg-id="IDBHD" tvg-name="DISCOVERY ID 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Investiga%C3%A7%C3%A3o_Discovery_1.png" group-title="DOCUMENTARIOS",CD INVESTIGACAO DISCOVERY [HD]
-https://casaplay5g.win:443/marcelo/102030/1361423
+http://pfsv.io:80/pu1411/HP5729/190.m3u8
 #EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="DISCOVERY ID HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Investiga%C3%A7%C3%A3o_Discovery_1.png" group-title="DOCUMENTARIOS",CD INVESTIGACAO DISCOVERY [SD]
-https://casaplay5g.win:443/marcelo/102030/1361425
-#EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="ID - INVESTIGACAO DISCOVERY (H265) ( ALTERNATIVO )" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Investiga%C3%A7%C3%A3o_Discovery_1.png" group-title="DOCUMENTARIOS",CD INVESTIGACAO DISCOVERY [HD][2]
-https://casaplay5g.win:443/marcelo/102030/1535817
-#EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="ID - INVESTIGACAO DISCOVERY FHD ( ALTERNATIVO )" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Investiga%C3%A7%C3%A3o_Discovery_1.png" group-title="DOCUMENTARIOS",CD INVESTIGACAO DISCOVERY [4K]
-https://casaplay5g.win:443/marcelo/102030/1535818
+http://pfsv.io:80/pu1411/HP5729/205.m3u8
+#EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="ID - INVESTIGACAO DISCOVERY (H265) ( ALTERNATIVO )" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Investiga%C3%A7%C3%A3o_Discovery_1.png" group-title="DOCUMENTARIOS",CD INVESTIGACAO DISCOVERY [FHD][H265]
+http://pfsv.io:80/pu1411/HP5729/30259.m3u8
+#EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="ID - INVESTIGACAO DISCOVERY FHD ( ALTERNATIVO )" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Investiga%C3%A7%C3%A3o_Discovery_1.png" group-title="DOCUMENTARIOS",CD INVESTIGACAO DISCOVERY [FHD]
+http://pfsv.io:80/pu1411/HP5729/175.m3u8
 
 #EXTINF:-1 tvg-id="national.geographic.br" tvg-name="NatGeo (H265) ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/pG68jPTCJ8tcHpdUNo3186FX6sbwM9moxsTH8SH2.png" group-title="DOCUMENTARIOS",CD NATGEO [FHD][H265]
-https://casaplay5g.win:443/marcelo/102030/1535864
+http://pfsv.io:80/pu1411/HP5729/30251.m3u8
 #EXTINF:-1 tvg-id="national.geographic.br" tvg-name="NATGEO HD ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/pG68jPTCJ8tcHpdUNo3186FX6sbwM9moxsTH8SH2.png" group-title="DOCUMENTARIOS",CD NATGEO [HD]
-https://casaplay5g.win:443/marcelo/102030/1535865
+http://pfsv.io:80/pu1411/HP5729/191.m3u8
 #EXTINF:-1 tvg-id="national.geographic.br" tvg-name="NATIONAL GEOGRAPHIC 4K" tvg-logo="https://static.guiadetv.com/channel/pG68jPTCJ8tcHpdUNo3186FX6sbwM9moxsTH8SH2.png" group-title="DOCUMENTARIOS",CD NATGEO [SD]
-https://casaplay5g.win:443/marcelo/102030/1361447
+http://pfsv.io:80/pu1411/HP5729/206.m3u8
 #EXTINF:-1 tvg-id="national.geographic.br" tvg-name="NATIONAL GEOGRAPHIC FHD ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/pG68jPTCJ8tcHpdUNo3186FX6sbwM9moxsTH8SH2.png" group-title="DOCUMENTARIOS",CD NATGEO [FHD]
-https://casaplay5g.win:443/marcelo/102030/1535867
-#EXTINF:-1 tvg-id="national.geographic.br" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="https://static.guiadetv.com/channel/pG68jPTCJ8tcHpdUNo3186FX6sbwM9moxsTH8SH2.png" group-title="DOCUMENTARIOS",CD NATGEO [SD][2]
-https://casaplay5g.win:443/marcelo/102030/1361449
+http://pfsv.io:80/pu1411/HP5729/176.m3u8
 
 #EXTINF:-1 tvg-id="HISTORY" tvg-name="HISTORY" group-title="Documentario" tvg-logo="https://static.guiadetv.com/channel/7rVhnUDohbye1yx2ES2XxuFgAyMAXNOyV50fLvLL.png",CD History [HD]
 https://cdn-4.nxplay.com.br/HISTORY_TK/tracks-v2a1/mono.m3u8
@@ -168,16 +166,16 @@ https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-id="JOVEMPANNEWS" tvg-name="JOVEMPANNEWS" group-title="Noticias" tvg-logo="https://static.guiadetv.com/channel/mUg3QjceZ1q2vtKIQlh6j0y8Pqs9udn4F0qGfqAs.png",CN JOVEM PAN News [HD]
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8
 
-#EXTINF:-1 tvg-id="BANDN" tvg-name="BAND NEWS 4K" tvg-logo="https://static.guiadetv.com/channel/LTyY9kIRCaLD7WsNzFzjz4mCEBgIbOwsrlN0L0WW.png" group-title="NOTÍCIAS",CN BAND News [HD]
-https://casaplay5g.win:443/marcelo/102030/1361106
-#EXTINF:-1 tvg-id="" tvg-name="BAND NEWS HD ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/LTyY9kIRCaLD7WsNzFzjz4mCEBgIbOwsrlN0L0WW.png" group-title="NOTÍCIAS",CN BAND News [SD][3]
-https://casaplay5g.win:443/marcelo/102030/1535396
-#EXTINF:-1 tvg-id="BANDN" tvg-name="BAND NEWS HD" tvg-logo="https://static.guiadetv.com/channel/LTyY9kIRCaLD7WsNzFzjz4mCEBgIbOwsrlN0L0WW.png" group-title="NOTÍCIAS",CN BAND News [SD][2]
-https://casaplay5g.win:443/marcelo/102030/1361108
+#EXTINF:-1 tvg-id="BANDN" tvg-name="BAND NEWS 4K" tvg-logo="https://static.guiadetv.com/channel/LTyY9kIRCaLD7WsNzFzjz4mCEBgIbOwsrlN0L0WW.png" group-title="NOTÍCIAS",CN BAND News [FHD][H265]
+http://pfsv.io:80/pu1411/HP5729/30195.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BAND NEWS HD ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/LTyY9kIRCaLD7WsNzFzjz4mCEBgIbOwsrlN0L0WW.png" group-title="NOTÍCIAS",CN BAND News [FHD]
+http://pfsv.io:80/pu1411/HP5729/510.m3u8
+#EXTINF:-1 tvg-id="BANDN" tvg-name="BAND NEWS HD" tvg-logo="https://static.guiadetv.com/channel/LTyY9kIRCaLD7WsNzFzjz4mCEBgIbOwsrlN0L0WW.png" group-title="NOTÍCIAS",CN BAND News [HD]
+http://pfsv.io:80/pu1411/HP5729/514.m3u8
 #EXTINF:-1 tvg-id="BNDNWHD" tvg-name="BAND NEWS SD" tvg-logo="https://static.guiadetv.com/channel/LTyY9kIRCaLD7WsNzFzjz4mCEBgIbOwsrlN0L0WW.png" group-title="NOTÍCIAS",CN BAND News [SD]
-https://casaplay5g.win:443/marcelo/102030/1361107
-#EXTINF:-1 tvg-id="" tvg-name="BAND NEWS FHD ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/LTyY9kIRCaLD7WsNzFzjz4mCEBgIbOwsrlN0L0WW.png" group-title="NOTÍCIAS",CN BAND News [HD][2]
-https://casaplay5g.win:443/marcelo/102030/1535395
+hhttp://pfsv.io:80/pu1411/HP5729/520.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BAND NEWS FHD ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/LTyY9kIRCaLD7WsNzFzjz4mCEBgIbOwsrlN0L0WW.png" group-title="NOTÍCIAS",CN BAND News [FHD][HDR]
+http://pfsv.io:80/pu1411/HP5729/130229.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Globo News 4K ( ALTERNATIVO )" tvg-logo="https://gkpb.com.br/wp-content/uploads/2022/08/novo-logo-globonews-2022jpg.jpg" group-title="NOTÍCIAS",CN GLOBO News [SD]
 http://pfsv.io:80/pu1411/HP5729/522.m3u8
@@ -188,18 +186,14 @@ http://pfsv.io:80/pu1411/HP5729/516.m3u8
 #EXTINF:-1 tvg-id="BR - Globo News" tvg-name="GLOBO NEWS [FHD][H265]" tvg-logo="https://gkpb.com.br/wp-content/uploads/2022/08/novo-logo-globonews-2022jpg.jpg" group-title="Canais | Notícias",CN GLOBO News [FHD][H265]
 http://pfsv.io:80/pu1411/HP5729/30196.m3u8
 
-#EXTINF:-1 tvg-id="RECNEW" tvg-name="RECORD NEWS 4K" tvg-logo="https://static.guiadetv.com/channel/fWKQ5LEAdazLVIDIQdLokT6IBRoPxF2GehQonaNI.png" group-title="NOTÍCIAS",CN RECORD News [HD][3]
-https://casaplay5g.win:443/marcelo/102030/1361118
-#EXTINF:-1 tvg-id="RECNEW" tvg-name="RECORD NEWS HD" tvg-logo="https://static.guiadetv.com/channel/fWKQ5LEAdazLVIDIQdLokT6IBRoPxF2GehQonaNI.png" group-title="NOTÍCIAS",CN RECORD News [SD][3]
-https://casaplay5g.win:443/marcelo/102030/1361119
-#EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS FHD ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/fWKQ5LEAdazLVIDIQdLokT6IBRoPxF2GehQonaNI.png" group-title="NOTÍCIAS",CN RECORD News [HD][2]
-https://casaplay5g.win:443/marcelo/102030/1535951
+#EXTINF:-1 tvg-id="RECNEW" tvg-name="RECORD NEWS 4K" tvg-logo="https://static.guiadetv.com/channel/fWKQ5LEAdazLVIDIQdLokT6IBRoPxF2GehQonaNI.png" group-title="NOTÍCIAS",CN RECORD News [FHD]
+http://pfsv.io:80/pu1411/HP5729/511.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS FHD ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/fWKQ5LEAdazLVIDIQdLokT6IBRoPxF2GehQonaNI.png" group-title="NOTÍCIAS",CN RECORD News [FHD][H265]
+http://pfsv.io:80/pu1411/HP5729/30197.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS HD ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/fWKQ5LEAdazLVIDIQdLokT6IBRoPxF2GehQonaNI.png" group-title="NOTÍCIAS",CN RECORD News [HD]
-https://casaplay5g.win:443/marcelo/102030/1535952
-#EXTINF:-1 tvg-id="RECNEW" tvg-name="RECORD NEWS SD" tvg-logo="https://static.guiadetv.com/channel/fWKQ5LEAdazLVIDIQdLokT6IBRoPxF2GehQonaNI.png" group-title="NOTÍCIAS",CN RECORD News [SD][2]
-https://casaplay5g.win:443/marcelo/102030/1361120
+http://pfsv.io:80/pu1411/HP5729/515.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS SD ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/fWKQ5LEAdazLVIDIQdLokT6IBRoPxF2GehQonaNI.png" group-title="CN NOTÍCIAS",CN RECORD News [SD]
-https://casaplay5g.win:443/marcelo/102030/1535953
+http://pfsv.io:80/pu1411/HP5729/521.m3u8
 
 
  🔰  ESPORTES  🔰
@@ -215,75 +209,126 @@ http://pfsv.io:80/pu1411/HP5729/130175.m3u8
 http://pfsv.io:80/pu1411/HP5729/30275.m3u8
 
 #EXTINF:-1 tvg-id="OFF" tvg-name="OFF HD" tvg-logo="https://static.guiadetv.com/channel/dVZbqIzcwz04Kd1lUc8Npm9MPPM2a7xa5RCS79fq.png" group-title="Esportes",CE OFF [HD]
-https://casaplay5g.win:443/marcelo/102030/1361270
+http://pfsv.io:80/pu1411/HP5729/264.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="OFF (H265) ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/dVZbqIzcwz04Kd1lUc8Npm9MPPM2a7xa5RCS79fq.png" group-title="Esportes",CE OFF [FHD][H265]
-https://casaplay5g.win:443/marcelo/102030/1535888
-#EXTINF:-1 tvg-id="" tvg-name="OFF FHD ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/dVZbqIzcwz04Kd1lUc8Npm9MPPM2a7xa5RCS79fq.png" group-title="Esportes",CE OFF [HD]
-https://casaplay5g.win:443/marcelo/102030/1535889
-#EXTINF:-1 tvg-id="" tvg-name="OFF SD ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/dVZbqIzcwz04Kd1lUc8Npm9MPPM2a7xa5RCS79fq.png" group-title="Esportes",CE OFF [4K]
-https://casaplay5g.win:443/marcelo/102030/1535891
+http://pfsv.io:80/pu1411/HP5729/30279.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OFF FHD ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/dVZbqIzcwz04Kd1lUc8Npm9MPPM2a7xa5RCS79fq.png" group-title="Esportes",CE OFF [FHD]
+http://pfsv.io:80/pu1411/HP5729/253.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OFF SD ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/dVZbqIzcwz04Kd1lUc8Npm9MPPM2a7xa5RCS79fq.png" group-title="Esportes",CE OFF [SD]
+http://pfsv.io:80/pu1411/HP5729/273.m3u8
 
-#EXTINF:-1 tvg-id="COMBATC" tvg-name="COMBATE 4K" tvg-logo="https://static.guiadetv.com/channel/LCW2HM2AF9Uahx8poBHbRKEyHKjg9hxu885aLTNx.png" group-title="ESPORTES",CE COMBATE [HD][3]
-https://casaplay5g.win:443/marcelo/102030/1361453
 #EXTINF:-1 tvg-id="COMBATC" tvg-name="COMBATE SD" tvg-logo="https://static.guiadetv.com/channel/LCW2HM2AF9Uahx8poBHbRKEyHKjg9hxu885aLTNx.png" group-title="ESPORTES",CE COMBATE [SD]
-https://casaplay5g.win:443/marcelo/102030/1361454
-#EXTINF:-1 tvg-id="COMBATC" tvg-name="COMBATE HD" tvg-logo="https://static.guiadetv.com/channel/LCW2HM2AF9Uahx8poBHbRKEyHKjg9hxu885aLTNx.png" group-title="ESPORTES",CE COMBATE [HD][2]
-https://casaplay5g.win:443/marcelo/102030/1361455
+http://pfsv.io:80/pu1411/HP5729/266.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Combate (H265) ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/LCW2HM2AF9Uahx8poBHbRKEyHKjg9hxu885aLTNx.png" group-title="ESPORTES",CE COMBATE [FHD][H265]
-https://casaplay5g.win:443/marcelo/102030/1535469
+http://pfsv.io:80/pu1411/HP5729/30276.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="COMBATE FHD ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/LCW2HM2AF9Uahx8poBHbRKEyHKjg9hxu885aLTNx.png" group-title="ESPORTES",CE COMBATE [FHD]
-https://casaplay5g.win:443/marcelo/102030/1535471
+http://pfsv.io:80/pu1411/HP5729/249.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="COMBATE HD ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/LCW2HM2AF9Uahx8poBHbRKEyHKjg9hxu885aLTNx.png" group-title="ESPORTES",CE COMBATE [HD]
-https://casaplay5g.win:443/marcelo/102030/1535472
+http://pfsv.io:80/pu1411/HP5729/257.m3u8
 
-#EXTINF:-1 tvg-id="SPORVHD" tvg-name="SPORTV 1 4K" tvg-logo="https://tv-online.vercel.app/logo-sportv.png" group-title="ESPORTES",CE SPORTV [FHD]
-https://casaplay5g.win:443/marcelo/102030/1361478
-#EXTINF:-1 tvg-id="SPORVHD" tvg-name="SPORTV 1 HD" tvg-logo="https://tv-online.vercel.app/logo-sportv.png" group-title="ESPORTES",CE SPORTV [HD]
-https://casaplay5g.win:443/marcelo/102030/1361480
-#EXTINF:-1 tvg-id="SPORVHD" tvg-name="SPORTV 1 SD" tvg-logo="https://tv-online.vercel.app/logo-sportv.png" group-title="ESPORTES",CE SPORTV [SD]
-https://casaplay5g.win:443/marcelo/102030/1361479
-#EXTINF:-1 tvg-id="SP2HDOI" tvg-name="SPORTV 2 4K" tvg-logo="https://tv-online.vercel.app/logo-sportv2.png" group-title="ESPORTES",CE SPORTV 2 [4K]
-https://casaplay5g.win:443/marcelo/102030/1361481
-#EXTINF:-1 tvg-id="SP2HDOI" tvg-name="SPORTV 2 HD" tvg-logo="https://tv-online.vercel.app/logo-sportv2.png" group-title="ESPORTES",CE SPORTV 2 [HD]
-https://casaplay5g.win:443/marcelo/102030/1361483
-#EXTINF:-1 tvg-id="SP2HDOI" tvg-name="SPORTV 2 SD" tvg-logo="https://tv-online.vercel.app/logo-sportv2.png" group-title="ESPORTES",CE SPORTV 2 [SD]
-https://casaplay5g.win:443/marcelo/102030/1361484
-#EXTINF:-1 tvg-id="SP3HDOI" tvg-name="SPORTV 3 4K" tvg-logo="https://tv-online.vercel.app/sportv3.png" group-title="ESPORTES",CE SPORTV 3 [FHD]
-https://casaplay5g.win:443/marcelo/102030/1361485
-#EXTINF:-1 tvg-id="SP3HDOI" tvg-name="SPORTV 3 HD" tvg-logo="https://tv-online.vercel.app/sportv3.png" group-title="ESPORTES",CE SPORTV 3 [HD]
-https://casaplay5g.win:443/marcelo/102030/1361487
-#EXTINF:-1 tvg-id="SP3HDOI" tvg-name="SPORTV 3 SD" tvg-logo="https://tv-online.vercel.app/sportv3.png" group-title="ESPORTES",CE SPORTV 3 [SD]
-https://casaplay5g.win:443/marcelo/102030/1361486
+#EXTINF:-1 tvg-id="BR - SporTV2" tvg-name="SPORTV 2 [FHD]" tvg-logo="https://tv-online.vercel.app/logo-sportv2.png" group-title="Canais | SporTV",CE SPORTV 2 [FHD]
+http://pfsv.io:80/pu1411/HP5729/553.m3u8
+#EXTINF:-1 tvg-id="BR - SporTV2" tvg-name="SPORTV 2 [FHD][H265]" tvg-logo="https://tv-online.vercel.app/logo-sportv2.png" group-title="Canais | SporTV",CE SPORTV 2 [FHD][H265]
+http://pfsv.io:80/pu1411/HP5729/30291.m3u8
+#EXTINF:-1 tvg-id="BR - SporTV2" tvg-name="SPORTV 2 [HD]" tvg-logo="https://tv-online.vercel.app/logo-sportv2.png" group-title="Canais | SporTV",CE SPORTV 2 [HD]
+http://pfsv.io:80/pu1411/HP5729/557.m3u8
+#EXTINF:-1 tvg-id="BR - SporTV2" tvg-name="SPORTV 2 [SD]" tvg-logo="https://tv-online.vercel.app/logo-sportv2.png" group-title="Canais | SporTV",CE SPORTV 2 [SD]
+http://pfsv.io:80/pu1411/HP5729/560.m3u8
+#EXTINF:-1 tvg-id="BR - SporTV3" tvg-name="SPORTV 3 [FHD]" tvg-logo="https://tv-online.vercel.app/sportv3.png" group-title="Canais | SporTV",CE SPORTV 3 [FHD]
+http://pfsv.io:80/pu1411/HP5729/554.m3u8
+#EXTINF:-1 tvg-id="BR - SporTV3" tvg-name="SPORTV 3 [FHD][H265]" tvg-logo="https://tv-online.vercel.app/sportv3.png" group-title="Canais | SporTV",CE SPORTV 3 [FHD][H265]
+http://pfsv.io:80/pu1411/HP5729/30292.m3u8
+#EXTINF:-1 tvg-id="BR - SporTV3" tvg-name="SPORTV 3 [HD]" tvg-logo="https://tv-online.vercel.app/sportv3.png" group-title="Canais | SporTV",CE SPORTV 3 [HD]
+http://pfsv.io:80/pu1411/HP5729/558.m3u8
+#EXTINF:-1 tvg-id="BR - SporTV3" tvg-name="SPORTV 3 [SD]" tvg-logo="https://tv-online.vercel.app/sportv3.png" group-title="Canais | SporTV",CE SPORTV 3 [SD]
+http://pfsv.io:80/pu1411/HP5729/561.m3u8
+#EXTINF:-1 tvg-id="BR - SporTV" tvg-name="SPORTV [FHD]" tvg-logo="https://tv-online.vercel.app/logo-sportv.png" group-title="Canais | SporTV",CE SPORTV [FHD]
+http://pfsv.io:80/pu1411/HP5729/555.m3u8
+#EXTINF:-1 tvg-id="BR - SporTV" tvg-name="SPORTV [FHD][H265]" tvg-logo="https://tv-online.vercel.app/logo-sportv.png" group-title="Canais | SporTV",CE SPORTV [FHD][H265]
+http://pfsv.io:80/pu1411/HP5729/30293.m3u8
+#EXTINF:-1 tvg-id="BR - SporTV" tvg-name="SPORTV [HD]" tvg-logo="https://tv-online.vercel.app/logo-sportv.png" group-title="Canais | SporTV",CE SPORTV [HD]
+http://pfsv.io:80/pu1411/HP5729/556.m3u8
+#EXTINF:-1 tvg-id="BR - SporTV" tvg-name="SPORTV [SD]" tvg-logo="https://tv-online.vercel.app/logo-sportv.png" group-title="Canais | SporTV",CE SPORTV [SD]
+http://pfsv.io:80/pu1411/HP5729/559.m3u8
 
-#EXTINF:-1 tvg-id="PREMIEREFC" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/MEO9lxSgmC5CAwsKhTHPzZCZX9ZFE7lRFqA48ElS.png",CE Premiere Clubes
-https://new.embedflix.co/p2p/prfc1/chunks.m3u8
-#EXTINF:-1 tvg-id="PREMIERE2" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/ZaLxlvm4ijaSAtTwfhJTrvYjmiaFi8SciyiHwh9l.png",CE Premiere 2
-https://new.embedflix.co/p2p/premier2/chunks.m3u8
-#EXTINF:-1 tvg-id="PREMIERE3" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/FDXXZa0cRf9ZkXwruyrL8YJCwiJW8k2wEwMmiEeI.png",CE Premiere 3
-https://new.embedflix.co/p2p/premier3/chunks.m3u8
-#EXTINF:-1 tvg-id="PREMIERE4" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/76M6sIBSXfOQ1gs8huZq9blVihxjUYBk38SH5G1S.png",CE Premiere 4
-https://new.embedflix.co/p2p/premier4/chunks.m3u8
-#EXTINF:-1 tvg-id="PREMIERE5" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/RR5YcaXv67v9AKcLHXOyY9YuRBmNOPgC028PU8vV.png",CE Premiere 5
-https://new.embedflix.co/p2p/premier5/chunks.m3u8
-#EXTINF:-1 tvg-id="PREMIERE6" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/mHFMJM5sGQnKorD0HnFXLO2JcUlHvEObjSZiHknP.png",CE Premiere 6
-https://new.embedflix.co/p2p/premier6/chunks.m3u8
-#EXTINF:-1 tvg-id="PREMIERE7" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/IIxu6NiXwlVLL7Fs1cxm7VFLOeAu4TXu86wefVrG.png",CE Premiere 7
-https://casaplay5g.win:443/marcelo/102030/1361147
-#EXTINF:-1 tvg-id="BR - Premiere 8" tvg-name="PREMIERE 8 [FHD][HDR]" tvg-logo="https://futebolplayhd.stream/imagens-futebol/6028586b4e78a338b514316a9cf746ed.jpg" group-title="Canais | Premiere",CE Premiere 8
+#EXTINF:-1 tvg-id="BR - Premiere 2" tvg-name="PREMIERE 2 [FHD][HDR]" tvg-logo="https://static.guiadetv.com/channel/ZaLxlvm4ijaSAtTwfhJTrvYjmiaFi8SciyiHwh9l.png" group-title="Canais | Premiere",CE PREMIERE 2 [FHD][HDR]
+http://pfsv.io:80/pu1411/HP5729/130234.m3u8
+#EXTINF:-1 tvg-id="BR - Premiere 3" tvg-name="PREMIERE 3 [FHD][HDR]" tvg-logo="https://static.guiadetv.com/channel/FDXXZa0cRf9ZkXwruyrL8YJCwiJW8k2wEwMmiEeI.png" group-title="Canais | Premiere",CE PREMIERE 3 [FHD][HDR]
+http://pfsv.io:80/pu1411/HP5729/130235.m3u8
+#EXTINF:-1 tvg-id="BR - Premiere 4" tvg-name="PREMIERE 4 [FHD][HDR]" tvg-logo="https://static.guiadetv.com/channel/76M6sIBSXfOQ1gs8huZq9blVihxjUYBk38SH5G1S.png" group-title="Canais | Premiere",CE PREMIERE 4 [FHD][HDR]
+http://pfsv.io:80/pu1411/HP5729/130236.m3u8
+#EXTINF:-1 tvg-id="BR - Premiere 5 Brazil" tvg-name="PREMIERE 5 [FHD][HDR]" tvg-logo="ttps://static.guiadetv.com/channel/RR5YcaXv67v9AKcLHXOyY9YuRBmNOPgC028PU8vV.png" group-title="Canais | Premiere",CE PREMIERE 5 [FHD][HDR]
+http://pfsv.io:80/pu1411/HP5729/130237.m3u8
+#EXTINF:-1 tvg-id="BR - Premiere 6" tvg-name="PREMIERE 6 [FHD][HDR]" tvg-logo="https://static.guiadetv.com/channel/mHFMJM5sGQnKorD0HnFXLO2JcUlHvEObjSZiHknP.png" group-title="Canais | Premiere",CE PREMIERE 6 [FHD][HDR]
+http://pfsv.io:80/pu1411/HP5729/130238.m3u8
+#EXTINF:-1 tvg-id="BR - Premiere 7" tvg-name="PREMIERE 7 [FHD][HDR]" tvg-logo="https://static.guiadetv.com/channel/IIxu6NiXwlVLL7Fs1cxm7VFLOeAu4TXu86wefVrG.png" group-title="Canais | Premiere",CE PREMIERE 7 [FHD][HDR]
+http://pfsv.io:80/pu1411/HP5729/130239.m3u8
+#EXTINF:-1 tvg-id="BR - Premiere 8" tvg-name="PREMIERE 8 [FHD][HDR]" tvg-logo="https://futebolplayhd.stream/imagens-futebol/6028586b4e78a338b514316a9cf746ed.jpg" group-title="Canais | Premiere",CE PREMIERE 8 [FHD][HDR]
 http://pfsv.io:80/pu1411/HP5729/130240.m3u8
+#EXTINF:-1 tvg-id="BR - Premiere Clubes" tvg-name="PREMIERE CLUBES [FHD][HDR]" tvg-logo="https://static.guiadetv.com/channel/MEO9lxSgmC5CAwsKhTHPzZCZX9ZFE7lRFqA48ElS.png" group-title="Canais | Premiere",CE PREMIERE CLUBES [FHD][HDR]
+http://pfsv.io:80/pu1411/HP5729/130233.m3u8
 
-#EXTINF:-1 tvg-id="ESPN" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/TjGpU2fe85zIbjNbJU92iR7Uup7BnpXtKVvuAALV.png",CE ESPN [FHD]
-http://pfsv.io:80/pu1411/HP5729/130180.m3u8
-#EXTINF:-1 tvg-id="ESPN2" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/55279R9yfRKnzN4XUeuZ9hdd0WM61fD8rKAPD4oI.png",CE ESPN 2 [FHD]
-http://pfsv.io:80/pu1411/HP5729/130177.m3u8
-#EXTINF:-1 tvg-id="ESPN3" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/uuZJDw4RNEtG2KZLe7kNNTyxX6jKpNPJDg3yYYis.png",CE ESPN 3 [SD]
+#EXTINF:-1 tvg-id="PREMIEREFC" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/MEO9lxSgmC5CAwsKhTHPzZCZX9ZFE7lRFqA48ElS.png",CE PREMIERE FC
+https://new.embedflix.co/p2p/prfc1/chunks.m3u8
+#EXTINF:-1 tvg-id="PREMIERE2" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/ZaLxlvm4ijaSAtTwfhJTrvYjmiaFi8SciyiHwh9l.png",CE PREMIERE 2
+https://new.embedflix.co/p2p/premier2/chunks.m3u8
+#EXTINF:-1 tvg-id="PREMIERE3" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/FDXXZa0cRf9ZkXwruyrL8YJCwiJW8k2wEwMmiEeI.png",CE PREMIERE 3
+https://new.embedflix.co/p2p/premier3/chunks.m3u8
+#EXTINF:-1 tvg-id="PREMIERE4" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/76M6sIBSXfOQ1gs8huZq9blVihxjUYBk38SH5G1S.png",CE PREMIERE 4
+https://new.embedflix.co/p2p/premier4/chunks.m3u8
+#EXTINF:-1 tvg-id="PREMIERE5" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/RR5YcaXv67v9AKcLHXOyY9YuRBmNOPgC028PU8vV.png",CE PREMIERE 5
+https://new.embedflix.co/p2p/premier5/chunks.m3u8
+#EXTINF:-1 tvg-id="PREMIERE6" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/mHFMJM5sGQnKorD0HnFXLO2JcUlHvEObjSZiHknP.png",CE PREMIERE 6
+https://new.embedflix.co/p2p/premier6/chunks.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.2.br" tvg-name="ESPN 2 [FHD]" tvg-logo="https://static.guiadetv.com/channel/55279R9yfRKnzN4XUeuZ9hdd0WM61fD8rKAPD4oI.png" group-title="Canais | Esportes",CE ESPN 2 [FHD]
+http://pfsv.io:80/pu1411/HP5729/251.m3u8
+#EXTINF:-1 tvg-id="ESPN.2.br" tvg-name="ESPN 2 [FHD][H265]" tvg-logo="https://static.guiadetv.com/channel/55279R9yfRKnzN4XUeuZ9hdd0WM61fD8rKAPD4oI.png" group-title="Canais | Esportes",CE ESPN 2 [FHD][H265]
+http://pfsv.io:80/pu1411/HP5729/30281.m3u8
+#EXTINF:-1 tvg-id="ESPN.2.br" tvg-name="ESPN 2 [HD]" tvg-logo="https://static.guiadetv.com/channel/55279R9yfRKnzN4XUeuZ9hdd0WM61fD8rKAPD4oI.png" group-title="Canais | Esportes",CE ESPN 2 [HD]
+http://pfsv.io:80/pu1411/HP5729/261.m3u8
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 [SD]" tvg-logo="https://static.guiadetv.com/channel/55279R9yfRKnzN4XUeuZ9hdd0WM61fD8rKAPD4oI.png" group-title="Canais | Esportes",CE ESPN 2 [SD]
+http://pfsv.io:80/pu1411/HP5729/267.m3u8
+#EXTINF:-1 tvg-id="ESPN.3.br" tvg-name="ESPN 3 [FHD]" tvg-logo="https://static.guiadetv.com/channel/uuZJDw4RNEtG2KZLe7kNNTyxX6jKpNPJDg3yYYis.png" group-title="Canais | Esportes",CE ESPN 3 [FHD]
+http://pfsv.io:80/pu1411/HP5729/254.m3u8
+#EXTINF:-1 tvg-id="ESPN.3.br" tvg-name="ESPN 3 [FHD][H265]" tvg-logo="https://static.guiadetv.com/channel/uuZJDw4RNEtG2KZLe7kNNTyxX6jKpNPJDg3yYYis.png" group-title="Canais | Esportes",CE ESPN 3 [FHD][H265]
+http://pfsv.io:80/pu1411/HP5729/30277.m3u8
+#EXTINF:-1 tvg-id="ESPN.3.br" tvg-name="ESPN 3 [HD]" tvg-logo="https://static.guiadetv.com/channel/uuZJDw4RNEtG2KZLe7kNNTyxX6jKpNPJDg3yYYis.png" group-title="Canais | Esportes",CE ESPN 3 [HD]
+http://pfsv.io:80/pu1411/HP5729/258.m3u8
+#EXTINF:-1 tvg-id="ESPN.3.br" tvg-name="ESPN 3 [SD]" tvg-logo="https://static.guiadetv.com/channel/uuZJDw4RNEtG2KZLe7kNNTyxX6jKpNPJDg3yYYis.png" group-title="Canais | Esportes",CE ESPN 3 [SD]
+http://pfsv.io:80/pu1411/HP5729/268.m3u8
+#EXTINF:-1 tvg-id="ESPN.4.br" tvg-name="ESPN 4 [FHD]" tvg-logo="https://static.guiadetv.com/channel/NbCozvwgOONEXubbDHqcoBPkbBTrFcg5gA1aMA3o.png" group-title="Canais | Esportes",CE ESPN 4 [FHD]
+http://pfsv.io:80/pu1411/HP5729/255.m3u8
+#EXTINF:-1 tvg-id="ESPN.4.br" tvg-name="ESPN 4 [FHD][H265]" tvg-logo="https://static.guiadetv.com/channel/NbCozvwgOONEXubbDHqcoBPkbBTrFcg5gA1aMA3o.png" group-title="Canais | Esportes",CE ESPN 4 [FHD][H265]
+http://pfsv.io:80/pu1411/HP5729/30283.m3u8
+#EXTINF:-1 tvg-id="ESPN.4.br" tvg-name="ESPN 4 [HD]" tvg-logo="https://static.guiadetv.com/channel/NbCozvwgOONEXubbDHqcoBPkbBTrFcg5gA1aMA3o.png" group-title="Canais | Esportes",CE ESPN 4 [HD]
+http://pfsv.io:80/pu1411/HP5729/262.m3u8
+#EXTINF:-1 tvg-id="ESPN.4.br" tvg-name="ESPN 4 [SD]" tvg-logo="https://static.guiadetv.com/channel/NbCozvwgOONEXubbDHqcoBPkbBTrFcg5gA1aMA3o.png" group-title="Canais | Esportes",CE ESPN 4 [SD]
+http://pfsv.io:80/pu1411/HP5729/271.m3u8
+#EXTINF:-1 tvg-id="ESPN.Extra.br" tvg-name="ESPN EXTRA [FHD]" tvg-logo="http://p6.vc/ANY" group-title="Canais | Esportes",CE ESPN EXTRA [FHD]
+http://pfsv.io:80/pu1411/HP5729/248.m3u8
+#EXTINF:-1 tvg-id="ESPN.Extra.br" tvg-name="ESPN EXTRA [FHD][H265]" tvg-logo="http://p6.vc/WKB" group-title="Canais | Esportes",CE ESPN EXTRA [FHD][H265]
+http://pfsv.io:80/pu1411/HP5729/30278.m3u8
+#EXTINF:-1 tvg-id="ESPN.Extra.br" tvg-name="ESPN EXTRA [HD]" tvg-logo="http://p6.vc/AOK" group-title="Canais | Esportes",CE ESPN EXTRA [HD]
+http://pfsv.io:80/pu1411/HP5729/260.m3u8
+#EXTINF:-1 tvg-id="ESPN.Extra.br" tvg-name="ESPN EXTRA [SD]" tvg-logo="http://p6.vc/AOT" group-title="Canais | Esportes",CE ESPN EXTRA [SD]
+http://pfsv.io:80/pu1411/HP5729/270.m3u8
+#EXTINF:-1 tvg-id="BR - ESPN Brasil" tvg-name="ESPN [FHD]" tvg-logo="https://static.guiadetv.com/channel/TjGpU2fe85zIbjNbJU92iR7Uup7BnpXtKVvuAALV.png" group-title="Canais | Esportes",CE ESPN [FHD]
+http://pfsv.io:80/pu1411/HP5729/250.m3u8
+#EXTINF:-1 tvg-id="BR - ESPN Brasil" tvg-name="ESPN [FHD][H265]" tvg-logo="https://static.guiadetv.com/channel/TjGpU2fe85zIbjNbJU92iR7Uup7BnpXtKVvuAALV.png" group-title="Canais | Esportes",CE ESPN [FHD][H265]
+http://pfsv.io:80/pu1411/HP5729/30280.m3u8
+#EXTINF:-1 tvg-id="BR - ESPN Brasil" tvg-name="ESPN [HD]" tvg-logo="https://static.guiadetv.com/channel/TjGpU2fe85zIbjNbJU92iR7Uup7BnpXtKVvuAALV.png" group-title="Canais | Esportes",CE ESPN [HD]
+http://pfsv.io:80/pu1411/HP5729/259.m3u8
+#EXTINF:-1 tvg-id="BR - ESPN Brasil" tvg-name="ESPN [SD]" tvg-logo="https://static.guiadetv.com/channel/TjGpU2fe85zIbjNbJU92iR7Uup7BnpXtKVvuAALV.png" group-title="Canais | Esportes",CE ESPN [SD]
+http://pfsv.io:80/pu1411/HP5729/269.m3u8
+
+#EXTINF:-1 tvg-id="ESPN3" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/uuZJDw4RNEtG2KZLe7kNNTyxX6jKpNPJDg3yYYis.png",CE ESPN 3
 https://cdn-4.nxplay.com.br/ESPN_3/tracks-v1a1/mono.m3u8
-EXTINF:-1 tvg-id="ESPN3" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/uuZJDw4RNEtG2KZLe7kNNTyxX6jKpNPJDg3yYYis.png",CE ESPN 3 [FHD]
+EXTINF:-1 tvg-id="ESPN3" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/uuZJDw4RNEtG2KZLe7kNNTyxX6jKpNPJDg3yYYis.png",CE ESPN 3
 http://pfsv.io:80/pu1411/HP5729/130178.m3u8
-#EXTINF:-1 tvg-id="ESPN4" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/NbCozvwgOONEXubbDHqcoBPkbBTrFcg5gA1aMA3o.png",CE ESPN 4 [HD]
+#EXTINF:-1 tvg-id="ESPN4" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/NbCozvwgOONEXubbDHqcoBPkbBTrFcg5gA1aMA3o.png",CE ESPN 4
 https://new.embedflix.co/p2p/spn4/chunks.m3u8
-#EXTINF:-1 tvg-id="ESPN4" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/NbCozvwgOONEXubbDHqcoBPkbBTrFcg5gA1aMA3o.png",CE ESPN 4 [FHD]
-http://pfsv.io:80/pu1411/HP5729/130179.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.guiadetv.com/channel/a0k3Ik9vT9eMBoIc5ufsHvbHAdqilE3qmk3rOuvS.png" group-title="Canais | ESPN",CE ESPN 5 [FHD]
 http://cdnexpress.homelinux.net/live/27.m3u8
 
@@ -335,7 +380,6 @@ http://pfsv.io:80/pu1411/HP5729/165.m3u8
 https://video01.logicahost.com.br/canalcurta/canalcurta/chunklist_w1922194739.m3u8
 #EXTINF:-1 tvg-id="LIFETIME" group-title="Variedade" tvg-logo="https://static.guiadetv.com/channel/MkRSS4MYNBkUh8IqsfMWBLp5F7ukI7JqOVN42Eio.png",CV Lifetime [FHD]
 http://cdn.connectbr.com.br:80/Lifetime/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.guiadetv.com/channel/BMbi62AeyptbwojO0GZ7oOslkk34bqOnjumAtCaj.png" group-title="Canais | VARIEDADES",E! [4k]
 http://cdnexpress.homelinux.net/live/48.m3u8
 #EXTINF:-1 tvg-id="BR - E!" tvg-name="E! [FHD]" tvg-logo="https://static.guiadetv.com/channel/BMbi62AeyptbwojO0GZ7oOslkk34bqOnjumAtCaj.png" group-title="Canais | Variedades",E! [FHD]
