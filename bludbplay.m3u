@@ -583,6 +583,24 @@ http://pfsv.io:80/pu1411/HP5729/132946.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.br" tvg-name="CINECANAL [SD]" tvg-logo="https://static.guiadetv.com/channel/53bideDJsyYmZCbagDWCumIRbmHTNxxezyPwgJ2a.png" group-title="Canais | Filmes e Séries",CFS CINECANAL [SD]
 http://pfsv.io:80/pu1411/HP5729/132948.m3u8
 
+#EXTINF:-1 tvg-id="BR - Paramount Channel" tvg-name="PARAMOUNT NETWORK [FHD]" tvg-logo="https://static.guiadetv.com/channel/Cuc7QYzI4WnetlVk6lG4pdWHBJtklypGGgwfRFKD.png" group-title="Canais | Filmes e Séries",PARAMOUNT NETWORK [FHD]
+http://pfsv.io:80/pu1411/HP5729/296.m3u8
+#EXTINF:-1 tvg-id="BR - Paramount Channel" tvg-name="PARAMOUNT NETWORK [FHD][H265]" tvg-logo="https://static.guiadetv.com/channel/Cuc7QYzI4WnetlVk6lG4pdWHBJtklypGGgwfRFKD.png" group-title="Canais | Filmes e Séries",PARAMOUNT NETWORK [FHD][H265]
+http://pfsv.io:80/pu1411/HP5729/30213.m3u8
+#EXTINF:-1 tvg-id="BR - Paramount Channel" tvg-name="PARAMOUNT NETWORK [HD]" tvg-logo="https://static.guiadetv.com/channel/Cuc7QYzI4WnetlVk6lG4pdWHBJtklypGGgwfRFKD.png" group-title="Canais | Filmes e Séries",PARAMOUNT NETWORK [HD]
+http://pfsv.io:80/pu1411/HP5729/311.m3u8
+#EXTINF:-1 tvg-id="BR - Paramount Channel" tvg-name="PARAMOUNT NETWORK [SD]" tvg-logo="https://static.guiadetv.com/channel/Cuc7QYzI4WnetlVk6lG4pdWHBJtklypGGgwfRFKD.png" group-title="Canais | Filmes e Séries",PARAMOUNT NETWORK [SD]
+http://pfsv.io:80/pu1411/HP5729/336.m3u8
+
+#EXTINF:-1 tvg-id="BR - Prime Box Brazil" tvg-name="PRIME BOX BRASIL [FHD]" tvg-logo="https://static.guiadetv.com/channel/fkVN5in7FYyvo2shIxmTLTieJLseha7QFAvIo83n.png" group-title="Canais | Variedades",PRIME BOX BRASIL [FHD]
+http://pfsv.io:80/pu1411/HP5729/104.m3u8
+#EXTINF:-1 tvg-id="BR - Prime Box Brazil" tvg-name="PRIME BOX BRASIL [FHD][H265]" tvg-logo="https://static.guiadetv.com/channel/fkVN5in7FYyvo2shIxmTLTieJLseha7QFAvIo83n.png" group-title="Canais | Variedades",PRIME BOX BRASIL [FHD][H265]
+http://pfsv.io:80/pu1411/HP5729/30190.m3u8
+#EXTINF:-1 tvg-id="BR - Prime Box Brazil" tvg-name="PRIME BOX BRASIL [HD]" tvg-logo="https://static.guiadetv.com/channel/fkVN5in7FYyvo2shIxmTLTieJLseha7QFAvIo83n.png" group-title="Canais | Variedades",PRIME BOX BRASIL [HD]
+http://pfsv.io:80/pu1411/HP5729/113.m3u8
+#EXTINF:-1 tvg-id="BR - Prime Box Brazil" tvg-name="PRIME BOX BRASIL [SD]" tvg-logo="https://static.guiadetv.com/channel/fkVN5in7FYyvo2shIxmTLTieJLseha7QFAvIo83n.png" group-title="Canais | Variedades",PRIME BOX BRASIL [SD]
+http://pfsv.io:80/pu1411/HP5729/122.m3u8
+
 #EXTINF:-1 tvg-id="TNT.HD.br" tvg-name="TNT [FHD][HDR]" tvg-logo="https://static.guiadetv.com/channel/Yoz5IOXmqF6iQhBqfD1SzIJ8s7jGHnMu3I1FgYkO.png" group-title="Canais | Filmes e Séries",CFS TNT [FHD][HDR]
 http://pfsv.io:80/pu1411/HP5729/130200.m3u8
 #EXTINF:-1 tvg-id="TNT.Séries.HD.br" tvg-name="TNT [SD]" tvg-logo="https://static.guiadetv.com/channel/Yoz5IOXmqF6iQhBqfD1SzIJ8s7jGHnMu3I1FgYkO.png" group-title="Canais | Filmes e Séries",CFS TNT [SD]
@@ -610,128 +628,128 @@ http://pfsv.io:80/pu1411/HP5729/148422.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TNT NOVELAS [SD]" tvg-logo="https://pbs.twimg.com/profile_images/1673379255953117184/C7ouLzGO_400x400.jpg" group-title="Canais | Filmes e Séries",CFS TNT NOVELAS [SD]
 http://pfsv.io:80/pu1411/HP5729/148423.m3u8
 
-#EXTINF:-1 tvg-id="BR - HBO 2" tvg-name="HBO 2 [FHD]" tvg-logo="https://static.guiadetv.com/channel/E1xG85ALepJmAPfGd6WJWS8204ICIMWlahV0dP5O.jpg" group-title="Canais | HBO",HBO 2 [FHD]
+#EXTINF:-1 tvg-id="BR - HBO 2" tvg-name="HBO 2 [FHD]" tvg-logo="https://static.guiadetv.com/channel/E1xG85ALepJmAPfGd6WJWS8204ICIMWlahV0dP5O.jpg" group-title="Canais | HBO",CFS HBO 2 [FHD]
 http://pfsv.io:80/pu1411/HP5729/470.m3u8
-#EXTINF:-1 tvg-id="BR - HBO 2" tvg-name="HBO 2 [FHD][H265]" tvg-logo="https://static.guiadetv.com/channel/E1xG85ALepJmAPfGd6WJWS8204ICIMWlahV0dP5O.jpg" group-title="Canais | HBO",HBO 2 [FHD][H265]
+#EXTINF:-1 tvg-id="BR - HBO 2" tvg-name="HBO 2 [FHD][H265]" tvg-logo="https://static.guiadetv.com/channel/E1xG85ALepJmAPfGd6WJWS8204ICIMWlahV0dP5O.jpg" group-title="Canais | HBO",CFS HBO 2 [FHD][H265]
 http://pfsv.io:80/pu1411/HP5729/30234.m3u8
-#EXTINF:-1 tvg-id="BR - HBO 2" tvg-name="HBO 2 [HD]" tvg-logo="https://static.guiadetv.com/channel/E1xG85ALepJmAPfGd6WJWS8204ICIMWlahV0dP5O.jpg" group-title="Canais | HBO",HBO 2 [HD]
+#EXTINF:-1 tvg-id="BR - HBO 2" tvg-name="HBO 2 [HD]" tvg-logo="https://static.guiadetv.com/channel/E1xG85ALepJmAPfGd6WJWS8204ICIMWlahV0dP5O.jpg" group-title="Canais | HBO",CFS HBO 2 [HD]
 http://pfsv.io:80/pu1411/HP5729/472.m3u8
-#EXTINF:-1 tvg-id="BR - HBO 2" tvg-name="HBO 2 [SD]" tvg-logo="https://static.guiadetv.com/channel/E1xG85ALepJmAPfGd6WJWS8204ICIMWlahV0dP5O.jpg" group-title="Canais | HBO",HBO 2 [SD]
+#EXTINF:-1 tvg-id="BR - HBO 2" tvg-name="HBO 2 [SD]" tvg-logo="https://static.guiadetv.com/channel/E1xG85ALepJmAPfGd6WJWS8204ICIMWlahV0dP5O.jpg" group-title="Canais | HBO",CFS HBO 2 [SD]
 http://pfsv.io:80/pu1411/HP5729/481.m3u8
 
-#EXTINF:-1 tvg-id="BR - HBO Family HD" tvg-name="HBO FAMILY [FHD]" tvg-logo="https://static.guiadetv.com/channel/6ZQbpSyzAvnS9SJqZWLDEa7kYsUBMDljKEwx49dL.png" group-title="Canais | HBO",HBO FAMILY [FHD]
+#EXTINF:-1 tvg-id="BR - HBO Family HD" tvg-name="HBO FAMILY [FHD]" tvg-logo="https://static.guiadetv.com/channel/6ZQbpSyzAvnS9SJqZWLDEa7kYsUBMDljKEwx49dL.png" group-title="Canais | HBO",CFS HBO FAMILY [FHD]
 http://pfsv.io:80/pu1411/HP5729/464.m3u8
-#EXTINF:-1 tvg-id="BR - HBO Family HD" tvg-name="HBO FAMILY [FHD][H265]" tvg-logo="https://static.guiadetv.com/channel/6ZQbpSyzAvnS9SJqZWLDEa7kYsUBMDljKEwx49dL.png" group-title="Canais | HBO",HBO FAMILY [FHD][H265]
+#EXTINF:-1 tvg-id="BR - HBO Family HD" tvg-name="HBO FAMILY [FHD][H265]" tvg-logo="https://static.guiadetv.com/channel/6ZQbpSyzAvnS9SJqZWLDEa7kYsUBMDljKEwx49dL.png" group-title="Canais | HBO",CFS HBO FAMILY [FHD][H265]
 http://pfsv.io:80/pu1411/HP5729/30235.m3u8
-#EXTINF:-1 tvg-id="BR - HBO Family HD" tvg-name="HBO FAMILY [HD]" tvg-logo="https://static.guiadetv.com/channel/6ZQbpSyzAvnS9SJqZWLDEa7kYsUBMDljKEwx49dL.png" group-title="Canais | HBO",HBO FAMILY [HD]
+#EXTINF:-1 tvg-id="BR - HBO Family HD" tvg-name="HBO FAMILY [HD]" tvg-logo="https://static.guiadetv.com/channel/6ZQbpSyzAvnS9SJqZWLDEa7kYsUBMDljKEwx49dL.png" group-title="Canais | HBO",CFS HBO FAMILY [HD]
 http://pfsv.io:80/pu1411/HP5729/473.m3u8
-#EXTINF:-1 tvg-id="BR - HBO Family HD" tvg-name="HBO FAMILY [SD]" tvg-logo="https://static.guiadetv.com/channel/6ZQbpSyzAvnS9SJqZWLDEa7kYsUBMDljKEwx49dL.png" group-title="Canais | HBO",HBO FAMILY [SD]
+#EXTINF:-1 tvg-id="BR - HBO Family HD" tvg-name="HBO FAMILY [SD]" tvg-logo="https://static.guiadetv.com/channel/6ZQbpSyzAvnS9SJqZWLDEa7kYsUBMDljKEwx49dL.png" group-title="Canais | HBO",CFS HBO FAMILY [SD]
 http://pfsv.io:80/pu1411/HP5729/483.m3u8
 
-#EXTINF:-1 tvg-id="HBO.Mundi.HD.br" tvg-name="HBO MUNDI [FHD]" tvg-logo="https://static.guiadetv.com/channel/UKgwxQEaBQkLAOn3ooCfqGQ78v3FUejB1do2zJU2.png" group-title="Canais | HBO",HBO MUNDI [FHD]
+#EXTINF:-1 tvg-id="HBO.Mundi.HD.br" tvg-name="HBO MUNDI [FHD]" tvg-logo="https://static.guiadetv.com/channel/UKgwxQEaBQkLAOn3ooCfqGQ78v3FUejB1do2zJU2.png" group-title="Canais | HBO",CFS HBO MUNDI [FHD]
 http://pfsv.io:80/pu1411/HP5729/467.m3u8
-#EXTINF:-1 tvg-id="HBO.Mundi.HD.br" tvg-name="HBO MUNDI [FHD][H265]" tvg-logo="https://static.guiadetv.com/channel/UKgwxQEaBQkLAOn3ooCfqGQ78v3FUejB1do2zJU2.png" group-title="Canais | HBO",HBO MUNDI [FHD][H265]
+#EXTINF:-1 tvg-id="HBO.Mundi.HD.br" tvg-name="HBO MUNDI [FHD][H265]" tvg-logo="https://static.guiadetv.com/channel/UKgwxQEaBQkLAOn3ooCfqGQ78v3FUejB1do2zJU2.png" group-title="Canais | HBO",CFS HBO MUNDI [FHD][H265]
 http://pfsv.io:80/pu1411/HP5729/30239.m3u8
-#EXTINF:-1 tvg-id="HBO.Mundi.HD.br" tvg-name="HBO MUNDI [HD]" tvg-logo="https://static.guiadetv.com/channel/UKgwxQEaBQkLAOn3ooCfqGQ78v3FUejB1do2zJU2.png" group-title="Canais | HBO",HBO MUNDI [HD]
+#EXTINF:-1 tvg-id="HBO.Mundi.HD.br" tvg-name="HBO MUNDI [HD]" tvg-logo="https://static.guiadetv.com/channel/UKgwxQEaBQkLAOn3ooCfqGQ78v3FUejB1do2zJU2.png" group-title="Canais | HBO",CFS HBO MUNDI [HD]
 http://pfsv.io:80/pu1411/HP5729/477.m3u8
-#EXTINF:-1 tvg-id="HBO.Mundi.HD.br" tvg-name="HBO MUNDI [SD]" tvg-logo="https://static.guiadetv.com/channel/UKgwxQEaBQkLAOn3ooCfqGQ78v3FUejB1do2zJU2.png" group-title="Canais | HBO",HBO MUNDI [SD]
+#EXTINF:-1 tvg-id="HBO.Mundi.HD.br" tvg-name="HBO MUNDI [SD]" tvg-logo="https://static.guiadetv.com/channel/UKgwxQEaBQkLAOn3ooCfqGQ78v3FUejB1do2zJU2.png" group-title="Canais | HBO",CFS HBO MUNDI [SD]
 http://pfsv.io:80/pu1411/HP5729/485.m3u8
 
-#EXTINF:-1 tvg-id="BR - HBO Plus" tvg-name="HBO PLUS [FHD]" tvg-logo="https://static.guiadetv.com/channel/WfHCiJwLA4UpaHdcG2GVlAKZ8PB69rrJqqJExN58.png" group-title="Canais | HBO",HBO PLUS [FHD]
+#EXTINF:-1 tvg-id="BR - HBO Plus" tvg-name="HBO PLUS [FHD]" tvg-logo="https://static.guiadetv.com/channel/WfHCiJwLA4UpaHdcG2GVlAKZ8PB69rrJqqJExN58.png" group-title="Canais | HBO",CFS HBO PLUS [FHD]
 http://pfsv.io:80/pu1411/HP5729/465.m3u8
-#EXTINF:-1 tvg-id="BR - HBO Plus" tvg-name="HBO PLUS [FHD][H265]" tvg-logo="https://static.guiadetv.com/channel/WfHCiJwLA4UpaHdcG2GVlAKZ8PB69rrJqqJExN58.png" group-title="Canais | HBO",HBO PLUS [FHD][H265]
+#EXTINF:-1 tvg-id="BR - HBO Plus" tvg-name="HBO PLUS [FHD][H265]" tvg-logo="https://static.guiadetv.com/channel/WfHCiJwLA4UpaHdcG2GVlAKZ8PB69rrJqqJExN58.png" group-title="Canais | HBO",CFS HBO PLUS [FHD][H265]
 http://pfsv.io:80/pu1411/HP5729/30237.m3u8
-#EXTINF:-1 tvg-id="BR - HBO Plus" tvg-name="HBO PLUS [HD]" tvg-logo="https://static.guiadetv.com/channel/WfHCiJwLA4UpaHdcG2GVlAKZ8PB69rrJqqJExN58.png" group-title="Canais | HBO",HBO PLUS [HD]
+#EXTINF:-1 tvg-id="BR - HBO Plus" tvg-name="HBO PLUS [HD]" tvg-logo="https://static.guiadetv.com/channel/WfHCiJwLA4UpaHdcG2GVlAKZ8PB69rrJqqJExN58.png" group-title="Canais | HBO",CFS HBO PLUS [HD]
 http://pfsv.io:80/pu1411/HP5729/475.m3u8
-#EXTINF:-1 tvg-id="BR - HBO Plus" tvg-name="HBO PLUS [SD]" tvg-logo="https://static.guiadetv.com/channel/WfHCiJwLA4UpaHdcG2GVlAKZ8PB69rrJqqJExN58.png" group-title="Canais | HBO",HBO PLUS [SD]
+#EXTINF:-1 tvg-id="BR - HBO Plus" tvg-name="HBO PLUS [SD]" tvg-logo="https://static.guiadetv.com/channel/WfHCiJwLA4UpaHdcG2GVlAKZ8PB69rrJqqJExN58.png" group-title="Canais | HBO",CFS HBO PLUS [SD]
 http://pfsv.io:80/pu1411/HP5729/482.m3u8
 
-#EXTINF:-1 tvg-id="HBO.Pop.HD.br" tvg-name="HBO POP [FHD]" tvg-logo="https://static.guiadetv.com/channel/SwWGDZRsqIiDM7CLJun8hLG0tYchmthkb9TzRvJ6.png" group-title="Canais | HBO",HBO POP [FHD]
+#EXTINF:-1 tvg-id="HBO.Pop.HD.br" tvg-name="HBO POP [FHD]" tvg-logo="https://static.guiadetv.com/channel/SwWGDZRsqIiDM7CLJun8hLG0tYchmthkb9TzRvJ6.png" group-title="Canais | HBO",CFS HBO POP [FHD]
 http://pfsv.io:80/pu1411/HP5729/469.m3u8
-#EXTINF:-1 tvg-id="HBO.Pop.HD.br" tvg-name="HBO POP [FHD][H265]" tvg-logo="https://static.guiadetv.com/channel/SwWGDZRsqIiDM7CLJun8hLG0tYchmthkb9TzRvJ6.png" group-title="Canais | HBO",HBO POP [FHD][H265]
+#EXTINF:-1 tvg-id="HBO.Pop.HD.br" tvg-name="HBO POP [FHD][H265]" tvg-logo="https://static.guiadetv.com/channel/SwWGDZRsqIiDM7CLJun8hLG0tYchmthkb9TzRvJ6.png" group-title="Canais | HBO",CFS HBO POP [FHD][H265]
 http://pfsv.io:80/pu1411/HP5729/30241.m3u8
-#EXTINF:-1 tvg-id="HBO.Pop.HD.br" tvg-name="HBO POP [HD]" tvg-logo="https://static.guiadetv.com/channel/SwWGDZRsqIiDM7CLJun8hLG0tYchmthkb9TzRvJ6.png" group-title="Canais | HBO",HBO POP [HD]
+#EXTINF:-1 tvg-id="HBO.Pop.HD.br" tvg-name="HBO POP [HD]" tvg-logo="https://static.guiadetv.com/channel/SwWGDZRsqIiDM7CLJun8hLG0tYchmthkb9TzRvJ6.png" group-title="Canais | HBO",CFS HBO POP [HD]
 http://pfsv.io:80/pu1411/HP5729/479.m3u8
-#EXTINF:-1 tvg-id="HBO.Pop.HD.br" tvg-name="HBO POP [SD]" tvg-logo="https://static.guiadetv.com/channel/SwWGDZRsqIiDM7CLJun8hLG0tYchmthkb9TzRvJ6.png" group-title="Canais | HBO",HBO POP [SD]
+#EXTINF:-1 tvg-id="HBO.Pop.HD.br" tvg-name="HBO POP [SD]" tvg-logo="https://static.guiadetv.com/channel/SwWGDZRsqIiDM7CLJun8hLG0tYchmthkb9TzRvJ6.png" group-title="Canais | HBO",CFS HBO POP [SD]
 http://pfsv.io:80/pu1411/HP5729/487.m3u8
 
-#EXTINF:-1 tvg-id="BR - HBO Signature" tvg-name="HBO SIGNATURE [FHD]" tvg-logo="https://static.guiadetv.com/channel/MKaZyqFk6V1bRiCnQPAsCeEvqPMunP88Nojgoj9e.png" group-title="Canais | HBO",HBO SIGNATURE [FHD]
+#EXTINF:-1 tvg-id="BR - HBO Signature" tvg-name="HBO SIGNATURE [FHD]" tvg-logo="https://static.guiadetv.com/channel/MKaZyqFk6V1bRiCnQPAsCeEvqPMunP88Nojgoj9e.png" group-title="Canais | HBO",CFS HBO SIGNATURE [FHD]
 http://pfsv.io:80/pu1411/HP5729/466.m3u8
-#EXTINF:-1 tvg-id="BR - HBO Signature" tvg-name="HBO SIGNATURE [FHD][H265]" tvg-logo="https://static.guiadetv.com/channel/MKaZyqFk6V1bRiCnQPAsCeEvqPMunP88Nojgoj9e.png" group-title="Canais | HBO",HBO SIGNATURE [FHD][H265]
+#EXTINF:-1 tvg-id="BR - HBO Signature" tvg-name="HBO SIGNATURE [FHD][H265]" tvg-logo="https://static.guiadetv.com/channel/MKaZyqFk6V1bRiCnQPAsCeEvqPMunP88Nojgoj9e.png" group-title="Canais | HBO",CFS HBO SIGNATURE [FHD][H265]
 http://pfsv.io:80/pu1411/HP5729/30238.m3u8
-#EXTINF:-1 tvg-id="BR - HBO Signature" tvg-name="HBO SIGNATURE [HD]" tvg-logo="https://static.guiadetv.com/channel/MKaZyqFk6V1bRiCnQPAsCeEvqPMunP88Nojgoj9e.png" group-title="Canais | HBO",HBO SIGNATURE [HD]
+#EXTINF:-1 tvg-id="BR - HBO Signature" tvg-name="HBO SIGNATURE [HD]" tvg-logo="https://static.guiadetv.com/channel/MKaZyqFk6V1bRiCnQPAsCeEvqPMunP88Nojgoj9e.png" group-title="Canais | HBO",CFS HBO SIGNATURE [HD]
 http://pfsv.io:80/pu1411/HP5729/476.m3u8
-#EXTINF:-1 tvg-id="BR - HBO Signature" tvg-name="HBO SIGNATURE [SD]" tvg-logo="https://static.guiadetv.com/channel/MKaZyqFk6V1bRiCnQPAsCeEvqPMunP88Nojgoj9e.png" group-title="Canais | HBO",HBO SIGNATURE [SD]
+#EXTINF:-1 tvg-id="BR - HBO Signature" tvg-name="HBO SIGNATURE [SD]" tvg-logo="https://static.guiadetv.com/channel/MKaZyqFk6V1bRiCnQPAsCeEvqPMunP88Nojgoj9e.png" group-title="Canais | HBO",CFS HBO SIGNATURE [SD]
 http://pfsv.io:80/pu1411/HP5729/484.m3u8
 
-#EXTINF:-1 tvg-id="HBO.Xtreme.HD.br" tvg-name="HBO XTREME [FHD]" tvg-logo="https://static.guiadetv.com/channel/qzb3fL6mKciPavmJlq7rLXmUYus0VFx4U1F5hyR0.png" group-title="Canais | HBO",HBO XTREME [FHD]
+#EXTINF:-1 tvg-id="HBO.Xtreme.HD.br" tvg-name="HBO XTREME [FHD]" tvg-logo="https://static.guiadetv.com/channel/qzb3fL6mKciPavmJlq7rLXmUYus0VFx4U1F5hyR0.png" group-title="Canais | HBO",CFS HBO XTREME [FHD]
 http://pfsv.io:80/pu1411/HP5729/468.m3u8
-#EXTINF:-1 tvg-id="HBO.Xtreme.HD.br" tvg-name="HBO XTREME [FHD][H265]" tvg-logo="https://static.guiadetv.com/channel/qzb3fL6mKciPavmJlq7rLXmUYus0VFx4U1F5hyR0.png" group-title="Canais | HBO",HBO XTREME [FHD][H265]
+#EXTINF:-1 tvg-id="HBO.Xtreme.HD.br" tvg-name="HBO XTREME [FHD][H265]" tvg-logo="https://static.guiadetv.com/channel/qzb3fL6mKciPavmJlq7rLXmUYus0VFx4U1F5hyR0.png" group-title="Canais | HBO",CFS HBO XTREME [FHD][H265]
 http://pfsv.io:80/pu1411/HP5729/30240.m3u8
-#EXTINF:-1 tvg-id="HBO.Xtreme.HD.br" tvg-name="HBO XTREME [HD]" tvg-logo="https://static.guiadetv.com/channel/qzb3fL6mKciPavmJlq7rLXmUYus0VFx4U1F5hyR0.png" group-title="Canais | HBO",HBO XTREME [HD]
+#EXTINF:-1 tvg-id="HBO.Xtreme.HD.br" tvg-name="HBO XTREME [HD]" tvg-logo="https://static.guiadetv.com/channel/qzb3fL6mKciPavmJlq7rLXmUYus0VFx4U1F5hyR0.png" group-title="Canais | HBO",CFS HBO XTREME [HD]
 http://pfsv.io:80/pu1411/HP5729/478.m3u8
 
-#EXTINF:-1 tvg-id="BR - HBO" tvg-name="HBO [FHD]" tvg-logo="https://static.guiadetv.com/channel/6DdJgo0uF7lDCk3XmpZUuryTCin6PER9EU1WUXBT.png" group-title="Canais | HBO",HBO [FHD]
+#EXTINF:-1 tvg-id="BR - HBO" tvg-name="HBO [FHD]" tvg-logo="https://static.guiadetv.com/channel/6DdJgo0uF7lDCk3XmpZUuryTCin6PER9EU1WUXBT.png" group-title="Canais | HBO",CFS HBO [FHD]
 http://pfsv.io:80/pu1411/HP5729/471.m3u8
-#EXTINF:-1 tvg-id="BR - HBO" tvg-name="HBO [FHD][H265]" tvg-logo="https://static.guiadetv.com/channel/6DdJgo0uF7lDCk3XmpZUuryTCin6PER9EU1WUXBT.png" group-title="Canais | HBO",HBO [FHD][H265]
+#EXTINF:-1 tvg-id="BR - HBO" tvg-name="HBO [FHD][H265]" tvg-logo="https://static.guiadetv.com/channel/6DdJgo0uF7lDCk3XmpZUuryTCin6PER9EU1WUXBT.png" group-title="Canais | HBO",CFS HBO [FHD][H265]
 http://pfsv.io:80/pu1411/HP5729/30236.m3u8
-#EXTINF:-1 tvg-id="BR - HBO" tvg-name="HBO [HD]" tvg-logo="https://static.guiadetv.com/channel/6DdJgo0uF7lDCk3XmpZUuryTCin6PER9EU1WUXBT.png" group-title="Canais | HBO",HBO [HD]
+#EXTINF:-1 tvg-id="BR - HBO" tvg-name="HBO [HD]" tvg-logo="https://static.guiadetv.com/channel/6DdJgo0uF7lDCk3XmpZUuryTCin6PER9EU1WUXBT.png" group-title="Canais | HBO",CFS HBO [HD]
 http://pfsv.io:80/pu1411/HP5729/474.m3u8
-#EXTINF:-1 tvg-id="BR - HBO" tvg-name="HBO [SD]" tvg-logo="https://static.guiadetv.com/channel/6DdJgo0uF7lDCk3XmpZUuryTCin6PER9EU1WUXBT.png" group-title="Canais | HBO",HBO [SD]
+#EXTINF:-1 tvg-id="BR - HBO" tvg-name="HBO [SD]" tvg-logo="https://static.guiadetv.com/channel/6DdJgo0uF7lDCk3XmpZUuryTCin6PER9EU1WUXBT.png" group-title="Canais | HBO",CFS HBO [SD]
 http://pfsv.io:80/pu1411/HP5729/480.m3u8
 
-#EXTINF:-1 tvg-id="BR - Telecine Action" tvg-name="TELECINE ACTION [FHD]" tvg-logo="https://static.guiadetv.com/channel/rNlXHhn1boB2AudY0WRzjSsxlSlWA7vYuGZK5KWL.png" group-title="Canais | Telecine",TELECINE ACTION [FHD]
+#EXTINF:-1 tvg-id="BR - Telecine Action" tvg-name="TELECINE ACTION [FHD]" tvg-logo="https://static.guiadetv.com/channel/rNlXHhn1boB2AudY0WRzjSsxlSlWA7vYuGZK5KWL.png" group-title="Canais | Telecine",CFS TELECINE ACTION [FHD]
 http://pfsv.io:80/pu1411/HP5729/562.m3u8
-#EXTINF:-1 tvg-id="Telecine.Action.HD.br" tvg-name="TELECINE ACTION [FHD][H265]" tvg-logo="https://static.guiadetv.com/channel/rNlXHhn1boB2AudY0WRzjSsxlSlWA7vYuGZK5KWL.png" group-title="Canais | Telecine",TELECINE ACTION [FHD][H265]
+#EXTINF:-1 tvg-id="Telecine.Action.HD.br" tvg-name="TELECINE ACTION [FHD][H265]" tvg-logo="https://static.guiadetv.com/channel/rNlXHhn1boB2AudY0WRzjSsxlSlWA7vYuGZK5KWL.png" group-title="Canais | Telecine",CFS TELECINE ACTION [FHD][H265]
 http://pfsv.io:80/pu1411/HP5729/30242.m3u8
-#EXTINF:-1 tvg-id="Telecine.Action.HD.br" tvg-name="TELECINE ACTION [HD]" tvg-logo="https://static.guiadetv.com/channel/rNlXHhn1boB2AudY0WRzjSsxlSlWA7vYuGZK5KWL.png" group-title="Canais | Telecine",TELECINE ACTION [HD]
+#EXTINF:-1 tvg-id="Telecine.Action.HD.br" tvg-name="TELECINE ACTION [HD]" tvg-logo="https://static.guiadetv.com/channel/rNlXHhn1boB2AudY0WRzjSsxlSlWA7vYuGZK5KWL.png" group-title="Canais | Telecine",CFS TELECINE ACTION [HD]
 http://pfsv.io:80/pu1411/HP5729/568.m3u8
-#EXTINF:-1 tvg-id="BR - Telecine Action" tvg-name="TELECINE ACTION [SD]" tvg-logo="https://static.guiadetv.com/channel/rNlXHhn1boB2AudY0WRzjSsxlSlWA7vYuGZK5KWL.png" group-title="Canais | Telecine",TELECINE ACTION [SD]
+#EXTINF:-1 tvg-id="BR - Telecine Action" tvg-name="TELECINE ACTION [SD]" tvg-logo="https://static.guiadetv.com/channel/rNlXHhn1boB2AudY0WRzjSsxlSlWA7vYuGZK5KWL.png" group-title="Canais | Telecine",CFS TELECINE ACTION [SD]
 http://pfsv.io:80/pu1411/HP5729/574.m3u8
 
-#EXTINF:-1 tvg-id="Telecine.Cult.HD.br" tvg-name="TELECINE CULT [FHD]" tvg-logo="https://static.guiadetv.com/channel/aaEDkMCWERioLFpezoMwpzdEXw0iRt7pnHkxTpe2.png" group-title="Canais | Telecine",TELECINE CULT [FHD]
+#EXTINF:-1 tvg-id="Telecine.Cult.HD.br" tvg-name="TELECINE CULT [FHD]" tvg-logo="https://static.guiadetv.com/channel/aaEDkMCWERioLFpezoMwpzdEXw0iRt7pnHkxTpe2.png" group-title="Canais | Telecine",CFS TELECINE CULT [FHD]
 http://pfsv.io:80/pu1411/HP5729/567.m3u8
-#EXTINF:-1 tvg-id="Cultura.HD.br" tvg-name="TELECINE CULT [FHD][H265]" tvg-logo="https://static.guiadetv.com/channel/aaEDkMCWERioLFpezoMwpzdEXw0iRt7pnHkxTpe2.png" group-title="Canais | Telecine",TELECINE CULT [FHD][H265]
+#EXTINF:-1 tvg-id="Cultura.HD.br" tvg-name="TELECINE CULT [FHD][H265]" tvg-logo="https://static.guiadetv.com/channel/aaEDkMCWERioLFpezoMwpzdEXw0iRt7pnHkxTpe2.png" group-title="Canais | Telecine",CFS TELECINE CULT [FHD][H265]
 http://pfsv.io:80/pu1411/HP5729/30243.m3u8
-#EXTINF:-1 tvg-id="Telecine.Cult.HD.br" tvg-name="TELECINE CULT [HD]" tvg-logo="https://static.guiadetv.com/channel/aaEDkMCWERioLFpezoMwpzdEXw0iRt7pnHkxTpe2.png" group-title="Canais | Telecine",TELECINE CULT [HD]
+#EXTINF:-1 tvg-id="Telecine.Cult.HD.br" tvg-name="TELECINE CULT [HD]" tvg-logo="https://static.guiadetv.com/channel/aaEDkMCWERioLFpezoMwpzdEXw0iRt7pnHkxTpe2.png" group-title="Canais | Telecine",CFS TELECINE CULT [HD]
 http://pfsv.io:80/pu1411/HP5729/569.m3u8
-#EXTINF:-1 tvg-id="Telecine.Cult.HD.br" tvg-name="TELECINE CULT [SD]" tvg-logo="https://static.guiadetv.com/channel/aaEDkMCWERioLFpezoMwpzdEXw0iRt7pnHkxTpe2.png" group-title="Canais | Telecine",TELECINE CULT [SD]
+#EXTINF:-1 tvg-id="Telecine.Cult.HD.br" tvg-name="TELECINE CULT [SD]" tvg-logo="https://static.guiadetv.com/channel/aaEDkMCWERioLFpezoMwpzdEXw0iRt7pnHkxTpe2.png" group-title="Canais | Telecine",CFS TELECINE CULT [SD]
 http://pfsv.io:80/pu1411/HP5729/575.m3u8
 
-#EXTINF:-1 tvg-id="BR - Telecine Fun" tvg-name="TELECINE FUN [FHD]" tvg-logo="https://static.guiadetv.com/channel/MbFadOpZRZAhxzDRFg0xn9bcEKq8O1p3AvV0J90j.png" group-title="Canais | Telecine",TELECINE FUN [FHD]
+#EXTINF:-1 tvg-id="BR - Telecine Fun" tvg-name="TELECINE FUN [FHD]" tvg-logo="https://static.guiadetv.com/channel/MbFadOpZRZAhxzDRFg0xn9bcEKq8O1p3AvV0J90j.png" group-title="Canais | Telecine",CFS TELECINE FUN [FHD]
 http://pfsv.io:80/pu1411/HP5729/563.m3u8
-#EXTINF:-1 tvg-id="BR - Telecine Fun" tvg-name="TELECINE FUN [FHD][H265]" tvg-logo="https://static.guiadetv.com/channel/MbFadOpZRZAhxzDRFg0xn9bcEKq8O1p3AvV0J90j.png" group-title="Canais | Telecine",TELECINE FUN [FHD][H265]
+#EXTINF:-1 tvg-id="BR - Telecine Fun" tvg-name="TELECINE FUN [FHD][H265]" tvg-logo="https://static.guiadetv.com/channel/MbFadOpZRZAhxzDRFg0xn9bcEKq8O1p3AvV0J90j.png" group-title="Canais | Telecine",CFS TELECINE FUN [FHD][H265]
 http://pfsv.io:80/pu1411/HP5729/30244.m3u8
-#EXTINF:-1 tvg-id="BR - Telecine Fun" tvg-name="TELECINE FUN [HD]" tvg-logo="https://static.guiadetv.com/channel/MbFadOpZRZAhxzDRFg0xn9bcEKq8O1p3AvV0J90j.png" group-title="Canais | Telecine",TELECINE FUN [HD]
+#EXTINF:-1 tvg-id="BR - Telecine Fun" tvg-name="TELECINE FUN [HD]" tvg-logo="https://static.guiadetv.com/channel/MbFadOpZRZAhxzDRFg0xn9bcEKq8O1p3AvV0J90j.png" group-title="Canais | Telecine",CFS TELECINE FUN [HD]
 http://pfsv.io:80/pu1411/HP5729/570.m3u8
-#EXTINF:-1 tvg-id="Telecine.Fun.HD.br" tvg-name="TELECINE FUN [SD]" tvg-logo="https://static.guiadetv.com/channel/MbFadOpZRZAhxzDRFg0xn9bcEKq8O1p3AvV0J90j.png" group-title="Canais | Telecine",TELECINE FUN [SD]
+#EXTINF:-1 tvg-id="Telecine.Fun.HD.br" tvg-name="TELECINE FUN [SD]" tvg-logo="https://static.guiadetv.com/channel/MbFadOpZRZAhxzDRFg0xn9bcEKq8O1p3AvV0J90j.png" group-title="Canais | Telecine",CFS TELECINE FUN [SD]
 http://pfsv.io:80/pu1411/HP5729/576.m3u8
 
-#EXTINF:-1 tvg-id="BR - Telecine Pipoca" tvg-name="TELECINE PIPOCA [FHD]" tvg-logo="https://static.guiadetv.com/channel/YwW09i21zNZBVj3mUVZrleSFGmcnsZm7BjVkbsRK.png" group-title="Canais | Telecine",TELECINE PIPOCA [FHD]
+#EXTINF:-1 tvg-id="BR - Telecine Pipoca" tvg-name="TELECINE PIPOCA [FHD]" tvg-logo="https://static.guiadetv.com/channel/YwW09i21zNZBVj3mUVZrleSFGmcnsZm7BjVkbsRK.png" group-title="Canais | Telecine",CFS TELECINE PIPOCA [FHD]
 http://pfsv.io:80/pu1411/HP5729/564.m3u8
-#EXTINF:-1 tvg-id="Telecine.Pipoca.HD.br" tvg-name="TELECINE PIPOCA [FHD][H265]" tvg-logo="https://static.guiadetv.com/channel/YwW09i21zNZBVj3mUVZrleSFGmcnsZm7BjVkbsRK.png" group-title="Canais | Telecine",TELECINE PIPOCA [FHD][H265]
+#EXTINF:-1 tvg-id="Telecine.Pipoca.HD.br" tvg-name="TELECINE PIPOCA [FHD][H265]" tvg-logo="https://static.guiadetv.com/channel/YwW09i21zNZBVj3mUVZrleSFGmcnsZm7BjVkbsRK.png" group-title="Canais | Telecine",CFS TELECINE PIPOCA [FHD][H265]
 http://pfsv.io:80/pu1411/HP5729/30245.m3u8
-#EXTINF:-1 tvg-id="BR - Telecine Pipoca" tvg-name="TELECINE PIPOCA [HD]" tvg-logo="https://static.guiadetv.com/channel/YwW09i21zNZBVj3mUVZrleSFGmcnsZm7BjVkbsRK.png" group-title="Canais | Telecine",TELECINE PIPOCA [HD]
+#EXTINF:-1 tvg-id="BR - Telecine Pipoca" tvg-name="TELECINE PIPOCA [HD]" tvg-logo="https://static.guiadetv.com/channel/YwW09i21zNZBVj3mUVZrleSFGmcnsZm7BjVkbsRK.png" group-title="Canais | Telecine",CFS TELECINE PIPOCA [HD]
 http://pfsv.io:80/pu1411/HP5729/572.m3u8
-#EXTINF:-1 tvg-id="BR - Telecine Pipoca" tvg-name="TELECINE PIPOCA [SD]" tvg-logo="https://static.guiadetv.com/channel/YwW09i21zNZBVj3mUVZrleSFGmcnsZm7BjVkbsRK.png" group-title="Canais | Telecine",TELECINE PIPOCA [SD]
+#EXTINF:-1 tvg-id="BR - Telecine Pipoca" tvg-name="TELECINE PIPOCA [SD]" tvg-logo="https://static.guiadetv.com/channel/YwW09i21zNZBVj3mUVZrleSFGmcnsZm7BjVkbsRK.png" group-title="Canais | Telecine",CFS TELECINE PIPOCA [SD]
 http://pfsv.io:80/pu1411/HP5729/578.m3u8
 
-#EXTINF:-1 tvg-id="BR - Telecine Premium" tvg-name="TELECINE PREMIUM [FHD]" tvg-logo="https://static.guiadetv.com/channel/CPYQ9Eb0eilZKmjhFrAktjEmsrlsWZLhbFiUucE3.png" group-title="Canais | Telecine",TELECINE PREMIUM [FHD]
+#EXTINF:-1 tvg-id="BR - Telecine Premium" tvg-name="TELECINE PREMIUM [FHD]" tvg-logo="https://static.guiadetv.com/channel/CPYQ9Eb0eilZKmjhFrAktjEmsrlsWZLhbFiUucE3.png" group-title="Canais | Telecine",CFS TELECINE PREMIUM [FHD]
 http://pfsv.io:80/pu1411/HP5729/565.m3u8
-#EXTINF:-1 tvg-id="BR - Telecine Premium" tvg-name="TELECINE PREMIUM [FHD][H265]" tvg-logo="https://static.guiadetv.com/channel/CPYQ9Eb0eilZKmjhFrAktjEmsrlsWZLhbFiUucE3.png" group-title="Canais | Telecine",TELECINE PREMIUM [FHD][H265]
+#EXTINF:-1 tvg-id="BR - Telecine Premium" tvg-name="TELECINE PREMIUM [FHD][H265]" tvg-logo="https://static.guiadetv.com/channel/CPYQ9Eb0eilZKmjhFrAktjEmsrlsWZLhbFiUucE3.png" group-title="Canais | Telecine",CFS TELECINE PREMIUM [FHD][H265]
 http://pfsv.io:80/pu1411/HP5729/30246.m3u8
-#EXTINF:-1 tvg-id="BR - Telecine Premium" tvg-name="TELECINE PREMIUM [HD]" tvg-logo="https://static.guiadetv.com/channel/CPYQ9Eb0eilZKmjhFrAktjEmsrlsWZLhbFiUucE3.png" group-title="Canais | Telecine",TELECINE PREMIUM [HD]
+#EXTINF:-1 tvg-id="BR - Telecine Premium" tvg-name="TELECINE PREMIUM [HD]" tvg-logo="https://static.guiadetv.com/channel/CPYQ9Eb0eilZKmjhFrAktjEmsrlsWZLhbFiUucE3.png" group-title="Canais | Telecine",CFS TELECINE PREMIUM [HD]
 http://pfsv.io:80/pu1411/HP5729/573.m3u8
-#EXTINF:-1 tvg-id="BR - Telecine Premium" tvg-name="TELECINE PREMIUM [SD]" tvg-logo="https://static.guiadetv.com/channel/CPYQ9Eb0eilZKmjhFrAktjEmsrlsWZLhbFiUucE3.png" group-title="Canais | Telecine",TELECINE PREMIUM [SD]
+#EXTINF:-1 tvg-id="BR - Telecine Premium" tvg-name="TELECINE PREMIUM [SD]" tvg-logo="https://static.guiadetv.com/channel/CPYQ9Eb0eilZKmjhFrAktjEmsrlsWZLhbFiUucE3.png" group-title="Canais | Telecine",CFS TELECINE PREMIUM [SD]
 http://pfsv.io:80/pu1411/HP5729/579.m3u8
 
-#EXTINF:-1 tvg-id="BR - Telecine Touch" tvg-name="TELECINE TOUCH [FHD]" tvg-logo="https://static.guiadetv.com/channel/mv1L2rhhbIePFmJrSWN6VpoldYGM92aADrmIeK1J.png" group-title="Canais | Telecine",TELECINE TOUCH [FHD]
+#EXTINF:-1 tvg-id="BR - Telecine Touch" tvg-name="TELECINE TOUCH [FHD]" tvg-logo="https://static.guiadetv.com/channel/mv1L2rhhbIePFmJrSWN6VpoldYGM92aADrmIeK1J.png" group-title="Canais | Telecine",CFS TELECINE TOUCH [FHD]
 http://pfsv.io:80/pu1411/HP5729/566.m3u8
-#EXTINF:-1 tvg-id="BR - Telecine Touch" tvg-name="TELECINE TOUCH [FHD][H265]" tvg-logo="https://static.guiadetv.com/channel/mv1L2rhhbIePFmJrSWN6VpoldYGM92aADrmIeK1J.png" group-title="Canais | Telecine",TELECINE TOUCH [FHD][H265]
+#EXTINF:-1 tvg-id="BR - Telecine Touch" tvg-name="TELECINE TOUCH [FHD][H265]" tvg-logo="https://static.guiadetv.com/channel/mv1L2rhhbIePFmJrSWN6VpoldYGM92aADrmIeK1J.png" group-title="Canais | Telecine",CFS TELECINE TOUCH [FHD][H265]
 http://pfsv.io:80/pu1411/HP5729/30247.m3u8
-#EXTINF:-1 tvg-id="BR - Telecine Touch" tvg-name="TELECINE TOUCH [HD]" tvg-logo="https://static.guiadetv.com/channel/mv1L2rhhbIePFmJrSWN6VpoldYGM92aADrmIeK1J.png" group-title="Canais | Telecine",TELECINE TOUCH [HD]
+#EXTINF:-1 tvg-id="BR - Telecine Touch" tvg-name="TELECINE TOUCH [HD]" tvg-logo="https://static.guiadetv.com/channel/mv1L2rhhbIePFmJrSWN6VpoldYGM92aADrmIeK1J.png" group-title="Canais | Telecine",CFS TELECINE TOUCH [HD]
 http://pfsv.io:80/pu1411/HP5729/571.m3u8
-#EXTINF:-1 tvg-id="BR - Telecine Touch" tvg-name="TELECINE TOUCH [SD]" tvg-logo="https://static.guiadetv.com/channel/mv1L2rhhbIePFmJrSWN6VpoldYGM92aADrmIeK1J.png" group-title="Canais | Telecine",TELECINE TOUCH [SD]
+#EXTINF:-1 tvg-id="BR - Telecine Touch" tvg-name="TELECINE TOUCH [SD]" tvg-logo="https://static.guiadetv.com/channel/mv1L2rhhbIePFmJrSWN6VpoldYGM92aADrmIeK1J.png" group-title="Canais | Telecine",CFS TELECINE TOUCH [SD]
 http://pfsv.io:80/pu1411/HP5729/577.m3u8
 
 #EXTINF:-1 group-title="FilmesSeries" tvg-logo="https://static.guiadetv.com/channel/DNY6eszG7Vh4Bw6wgaCXFpwM9QM10YLtlYGLmgYU.png",CFS TCM [HD]
@@ -764,23 +782,7 @@ https://abc.embedmax.site/universaltv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="STARCHANNEL" tvg-name="" group-title="FilmesSeries" tvg-logo="https://static.guiadetv.com/channel/0nYcX8Hb8tr7TEjuKY13mhI1tGQFUPcFfJmDOFS7.png",CFS Star Channel
 https://abc.embedmax.site/starchannel/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="BR - Paramount Channel" tvg-name="PARAMOUNT NETWORK [FHD]" tvg-logo="https://static.guiadetv.com/channel/Cuc7QYzI4WnetlVk6lG4pdWHBJtklypGGgwfRFKD.png" group-title="Canais | Filmes e Séries",PARAMOUNT NETWORK [FHD]
-http://pfsv.io:80/pu1411/HP5729/296.m3u8
-#EXTINF:-1 tvg-id="BR - Paramount Channel" tvg-name="PARAMOUNT NETWORK [FHD][H265]" tvg-logo="https://static.guiadetv.com/channel/Cuc7QYzI4WnetlVk6lG4pdWHBJtklypGGgwfRFKD.png" group-title="Canais | Filmes e Séries",PARAMOUNT NETWORK [FHD][H265]
-http://pfsv.io:80/pu1411/HP5729/30213.m3u8
-#EXTINF:-1 tvg-id="BR - Paramount Channel" tvg-name="PARAMOUNT NETWORK [HD]" tvg-logo="https://static.guiadetv.com/channel/Cuc7QYzI4WnetlVk6lG4pdWHBJtklypGGgwfRFKD.png" group-title="Canais | Filmes e Séries",PARAMOUNT NETWORK [HD]
-http://pfsv.io:80/pu1411/HP5729/311.m3u8
-#EXTINF:-1 tvg-id="BR - Paramount Channel" tvg-name="PARAMOUNT NETWORK [SD]" tvg-logo="https://static.guiadetv.com/channel/Cuc7QYzI4WnetlVk6lG4pdWHBJtklypGGgwfRFKD.png" group-title="Canais | Filmes e Séries",PARAMOUNT NETWORK [SD]
-http://pfsv.io:80/pu1411/HP5729/336.m3u8
 
-#EXTINF:-1 tvg-id="BR - Prime Box Brazil" tvg-name="PRIME BOX BRASIL [FHD]" tvg-logo="https://static.guiadetv.com/channel/fkVN5in7FYyvo2shIxmTLTieJLseha7QFAvIo83n.png" group-title="Canais | Variedades",PRIME BOX BRASIL [FHD]
-http://pfsv.io:80/pu1411/HP5729/104.m3u8
-#EXTINF:-1 tvg-id="BR - Prime Box Brazil" tvg-name="PRIME BOX BRASIL [FHD][H265]" tvg-logo="https://static.guiadetv.com/channel/fkVN5in7FYyvo2shIxmTLTieJLseha7QFAvIo83n.png" group-title="Canais | Variedades",PRIME BOX BRASIL [FHD][H265]
-http://pfsv.io:80/pu1411/HP5729/30190.m3u8
-#EXTINF:-1 tvg-id="BR - Prime Box Brazil" tvg-name="PRIME BOX BRASIL [HD]" tvg-logo="https://static.guiadetv.com/channel/fkVN5in7FYyvo2shIxmTLTieJLseha7QFAvIo83n.png" group-title="Canais | Variedades",PRIME BOX BRASIL [HD]
-http://pfsv.io:80/pu1411/HP5729/113.m3u8
-#EXTINF:-1 tvg-id="BR - Prime Box Brazil" tvg-name="PRIME BOX BRASIL [SD]" tvg-logo="https://static.guiadetv.com/channel/fkVN5in7FYyvo2shIxmTLTieJLseha7QFAvIo83n.png" group-title="Canais | Variedades",PRIME BOX BRASIL [SD]
-http://pfsv.io:80/pu1411/HP5729/122.m3u8
 
 #EXTINF:-1 tvg-id="SONYONECLASSICS" tvg-name="" group-title="FilmesSeries" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/77d108724ea49c113b434b912bc66da1.webp",CFS SONY One Classics
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
