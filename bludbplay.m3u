@@ -352,7 +352,7 @@ http://pfsv.io:80/pu1411/HP5729/170.m3u8
 http://pfsv.io:80/pu1411/HP5729/30256.m3u8
 #EXTINF:-1 tvg-id="São Paulo/SP  Canal do Boi" tvg-name="DISCOVERY THEATER [HD]" tvg-logo="https://static.guiadetv.com/channel/OD1oq9UJgFT8bXwzoRJYiAJgAIcIkYYhzVNBHjBb.png" group-title="Canais | Documentários",CV DISCOVERY THEATER [HD]
 http://pfsv.io:80/pu1411/HP5729/185.m3u8
-#EXTINF:-1 tvg-id="São Paulo/SP  Canal do Boi" tvg-name="DISCOVERY THEATER [SD]" tvg-logo="hhttps://static.guiadetv.com/channel/OD1oq9UJgFT8bXwzoRJYiAJgAIcIkYYhzVNBHjBb.png" group-title="Canais | Documentários",CV DISCOVERY THEATER [SD]
+#EXTINF:-1 tvg-id="São Paulo/SP  Canal do Boi" tvg-name="DISCOVERY THEATER [SD]" tvg-logo="https://static.guiadetv.com/channel/OD1oq9UJgFT8bXwzoRJYiAJgAIcIkYYhzVNBHjBb.png" group-title="Canais | Documentários",CV DISCOVERY THEATER [SD]
 http://pfsv.io:80/pu1411/HP5729/200.m3u8
 
 #EXTINF:-1 tvg-id="BR - Discovery Turbo" tvg-name="DISCOVERY TURBO [FHD]" tvg-logo="https://static.guiadetv.com/channel/U7PvZKtT0CUYi65Pg6XO9OJtRF4uicRUYBamKKvC.png" group-title="Canais | Documentários",CV DISCOVERY TURBO [FHD]
