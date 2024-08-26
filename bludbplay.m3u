@@ -851,8 +851,10 @@ http://pfsv.io:80/pu1411/HP5729/329.m3u8
 
 #EXTINF:-1 tvg-id="SONYONECLASSICS" tvg-name="" group-title="FilmesSeries" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/77d108724ea49c113b434b912bc66da1.webp",CFS SONY One Classics
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="SONYONEEMOCOES" tvg-name="" group-title="FilmesSeries" tvg-logo="https://images.samsung.com/is/image/samsung/assets/br/tvs/smart-tv/channel-list/SONYEMOCOESType-B_-1x1-Circles-476x476AngelaSuarez.png?$ORIGIN_PNG$",CFS SONY One Emoções
 https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SonyOneEmocoes/playlist.m3u8?ManoTV
+
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/d1ccb100fb163791ff314b91c0c3678f.webp" group-title="Canais | REALITY",CFS SONY One SHARK TANK
 https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SharkTank/playlist.m3u8
 
@@ -866,17 +868,31 @@ https://casaplay5g.win:443/marcelo/102030/1361072
 https://casaplay5g.win:443/marcelo/102030/1528079
 #EXTINF:-1 tvg-id="" tvg-name="TOONCAST SD ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/R51ScLaG4Ou2vCXyuBOQoeDUWD5l83pNshs3UVux.png" group-title="INFANTIL",CI TOONCAST [SD][2]
 https://casaplay5g.win:443/marcelo/102030/1536123
+#EXTINF:-1 tvg-id="BR - Tooncast" tvg-name="TOONCAST [FHD]" tvg-logo="https://static.guiadetv.com/channel/R51ScLaG4Ou2vCXyuBOQoeDUWD5l83pNshs3UVux.png" group-title="Canais | Infantis",TOONCAST [FHD]
+http://pfsv.io:80/pu1411/HP5729/48756.m3u8
+#EXTINF:-1 tvg-id="BR - Tooncast" tvg-name="TOONCAST [HD]" tvg-logo="https://static.guiadetv.com/channel/R51ScLaG4Ou2vCXyuBOQoeDUWD5l83pNshs3UVux.png" group-title="Canais | Infantis",TOONCAST [HD]
+http://pfsv.io:80/pu1411/HP5729/48755.m3u8
+#EXTINF:-1 tvg-id="BR - Tooncast" tvg-name="TOONCAST [SD]" tvg-logo="https://static.guiadetv.com/channel/R51ScLaG4Ou2vCXyuBOQoeDUWD5l83pNshs3UVux.png" group-title="Canais | Infantis",TOONCAST [SD]
+http://pfsv.io:80/pu1411/HP5729/160.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Cartoonito SD ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/FsH0Wf1zAeziNfzXFWZK4BqTjjOEhaT6R0k5CHT4.png" group-title="INFANTIL",CI Cartoonito [HD][2]
+#EXTINF:-1 tvg-id="" tvg-name="Cartoonito SD ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/FsH0Wf1zAeziNfzXFWZK4BqTjjOEhaT6R0k5CHT4.png" group-title="INFANTIL",CI CARTOONITO [HD][2]
 https://casaplay5g.win:443/marcelo/102030/1535448
-#EXTINF:-1 tvg-id="" tvg-name="Cartoonito (H265) ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/FsH0Wf1zAeziNfzXFWZK4BqTjjOEhaT6R0k5CHT4.png" group-title="INFANTIL",CI Cartoonito [FHD][H265]
+#EXTINF:-1 tvg-id="" tvg-name="Cartoonito (H265) ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/FsH0Wf1zAeziNfzXFWZK4BqTjjOEhaT6R0k5CHT4.png" group-title="INFANTIL",CI CARTOONITO [FHD][H265]
 https://casaplay5g.win:443/marcelo/102030/1535445
-#EXTINF:-1 tvg-id="" tvg-name="CARTOONITO 4K" tvg-logo="https://static.guiadetv.com/channel/FsH0Wf1zAeziNfzXFWZK4BqTjjOEhaT6R0k5CHT4.png" group-title="INFANTIL",CI Cartoonito [HD][3]
+#EXTINF:-1 tvg-id="" tvg-name="CARTOONITO 4K" tvg-logo="https://static.guiadetv.com/channel/FsH0Wf1zAeziNfzXFWZK4BqTjjOEhaT6R0k5CHT4.png" group-title="INFANTIL",CI CARTOONITO [HD][3]
 https://casaplay5g.win:443/marcelo/102030/1361052
-#EXTINF:-1 tvg-id="" tvg-name="Cartoonito FHD ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/FsH0Wf1zAeziNfzXFWZK4BqTjjOEhaT6R0k5CHT4.png" group-title="INFANTIL",CI Cartoonito [HD]
+#EXTINF:-1 tvg-id="" tvg-name="Cartoonito FHD ( ALTERNATIVO )" tvg-logo="https://static.guiadetv.com/channel/FsH0Wf1zAeziNfzXFWZK4BqTjjOEhaT6R0k5CHT4.png" group-title="INFANTIL",CI CARTOONITO [HD]
 https://casaplay5g.win:443/marcelo/102030/1535446
-#EXTINF:-1 tvg-id="" tvg-name="CARTOONITO HD" tvg-logo="https://static.guiadetv.com/channel/FsH0Wf1zAeziNfzXFWZK4BqTjjOEhaT6R0k5CHT4.png" group-title="INFANTIL",CI Cartoonito [SD]
+#EXTINF:-1 tvg-id="" tvg-name="CARTOONITO HD" tvg-logo="https://static.guiadetv.com/channel/FsH0Wf1zAeziNfzXFWZK4BqTjjOEhaT6R0k5CHT4.png" group-title="INFANTIL",CI CARTOONITO [SD]
 https://casaplay5g.win:443/marcelo/102030/1361054
+#EXTINF:-1 tvg-id="Cartoonito" tvg-name="CARTOONITO [FHD]" tvg-logo="https://static.guiadetv.com/channel/FsH0Wf1zAeziNfzXFWZK4BqTjjOEhaT6R0k5CHT4.png" group-title="Canais | Infantis",CARTOONITO [FHD]
+http://pfsv.io:80/pu1411/HP5729/125.m3u8
+#EXTINF:-1 tvg-id="Cartoonito" tvg-name="CARTOONITO [FHD][H265]" tvg-logo="https://static.guiadetv.com/channel/FsH0Wf1zAeziNfzXFWZK4BqTjjOEhaT6R0k5CHT4.png" group-title="Canais | Infantis",CARTOONITO [FHD][H265]
+http://pfsv.io:80/pu1411/HP5729/30267.m3u8
+#EXTINF:-1 tvg-id="Cartoonito" tvg-name="CARTOONITO [HD]" tvg-logo="https://static.guiadetv.com/channel/FsH0Wf1zAeziNfzXFWZK4BqTjjOEhaT6R0k5CHT4.png" group-title="Canais | Infantis",CARTOONITO [HD]
+http://pfsv.io:80/pu1411/HP5729/138.m3u8
+#EXTINF:-1 tvg-id="Cartoonito" tvg-name="CARTOONITO [SD]" tvg-logo="https://static.guiadetv.com/channel/FsH0Wf1zAeziNfzXFWZK4BqTjjOEhaT6R0k5CHT4.png" group-title="Canais | Infantis",CARTOONITO [SD]
+http://pfsv.io:80/pu1411/HP5729/150.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ADULT SWIM [FHD][H265]" tvg-logo="https://ih1.redbubble.net/image.333612268.2321/st,small,507x507-pad,600x600,f8f8f8.u4.jpg" group-title="Canais | Filmes e Séries",CI ADULT SWIM [FHD][H265]
 http://pfsv.io:80/pu1411/HP5729/199847.m3u8
@@ -898,29 +914,78 @@ http://pfsv.io:80/pu1411/HP5729/140.m3u8
 #EXTINF:-1 tvg-id="BR - Discovery Kids" tvg-name="DISCOVERY KIDS [SD]" tvg-logo="https://static.guiadetv.com/channel/Cbk8pFoFK5dsdBzVgF1nY0wbNEJ1iyNk5u43KvaS.png" group-title="Canais | Infantis",CI DISCOVERY KIDS [SD]
 http://pfsv.io:80/pu1411/HP5729/152.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Infantil" tvg-logo="https://static.guiadetv.com/channel/5VuVTewKuYSntAm4HPYwzHmxTLXjTXE3uCH3o4qi.png",CI Gloobinho
-https://abc.embedmax.site/gloobinho/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="BR - Gloobinho" tvg-name="GLOOBINHO [FHD]" tvg-logo="https://static.guiadetv.com/channel/5VuVTewKuYSntAm4HPYwzHmxTLXjTXE3uCH3o4qi.png" group-title="Canais | Infantis",CI GLOOBINHO [FHD]
+http://pfsv.io:80/pu1411/HP5729/128.m3u8
+#EXTINF:-1 tvg-id="BR - Gloobinho" tvg-name="GLOOBINHO [FHD][H265]" tvg-logo="https://static.guiadetv.com/channel/5VuVTewKuYSntAm4HPYwzHmxTLXjTXE3uCH3o4qi.png" group-title="Canais | Infantis",CI GLOOBINHO [FHD][H265]
+http://pfsv.io:80/pu1411/HP5729/30274.m3u8
+#EXTINF:-1 tvg-id="BR - Gloobinho" tvg-name="GLOOBINHO [HD]" tvg-logo="https://static.guiadetv.com/channel/5VuVTewKuYSntAm4HPYwzHmxTLXjTXE3uCH3o4qi.png" group-title="Canais | Infantis",CI GLOOBINHO [HD]
+http://pfsv.io:80/pu1411/HP5729/1068.m3u8
+#EXTINF:-1 tvg-id="BR - Gloobinho" tvg-name="GLOOBINHO [FHD][HDR]" tvg-logo="https://static.guiadetv.com/channel/5VuVTewKuYSntAm4HPYwzHmxTLXjTXE3uCH3o4qi.png" group-title="Canais | Infantis",CI GLOOBINHO [FHD][HDR]
+http://pfsv.io:80/pu1411/HP5729/130217.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Infantil" tvg-logo="https://static.guiadetv.com/channel/ylKX0PaiVCulcY5Bduc6LSgWdFFL1uobbnsvNhz8.png",CI Gloob
-https://abc.embedmax.site/gloob/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Infantil" tvg-logo="https://yt3.googleusercontent.com/vdDFfJe5eqSexdZEBBf9NvOCkwGhPUdN4b23NayhuZlC_KGWyo5f-oyMRU166MV8bJWB7IbUWw=s900-c-k-c0x00ffffff-no-rj",CI Loading tv
+#EXTINF:-1 tvg-id="BR - Gloob" tvg-name="GLOOB [FHD]" tvg-logo="https://static.guiadetv.com/channel/ylKX0PaiVCulcY5Bduc6LSgWdFFL1uobbnsvNhz8.png" group-title="Canais | Infantis",CI GLOOB [FHD]
+http://pfsv.io:80/pu1411/HP5729/136.m3u8
+#EXTINF:-1 tvg-id="BR - Gloob" tvg-name="GLOOB [FHD][H265]" tvg-logo="https://static.guiadetv.com/channel/ylKX0PaiVCulcY5Bduc6LSgWdFFL1uobbnsvNhz8.png" group-title="Canais | Infantis",CI GLOOB [FHD][H265]
+http://pfsv.io:80/pu1411/HP5729/30266.m3u8
+#EXTINF:-1 tvg-id="BR - Gloob" tvg-name="GLOOB [HD]" tvg-logo="https://static.guiadetv.com/channel/ylKX0PaiVCulcY5Bduc6LSgWdFFL1uobbnsvNhz8.png" group-title="Canais | Infantis",CI GLOOB [HD]
+http://pfsv.io:80/pu1411/HP5729/142.m3u8
+#EXTINF:-1 tvg-id="BR - Gloob" tvg-name="GLOOB [SD]" tvg-logo="https://static.guiadetv.com/channel/ylKX0PaiVCulcY5Bduc6LSgWdFFL1uobbnsvNhz8.png" group-title="Canais | Infantis",CI GLOOB [SD]
+http://pfsv.io:80/pu1411/HP5729/156.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Infantil" tvg-logo="https://yt3.googleusercontent.com/vdDFfJe5eqSexdZEBBf9NvOCkwGhPUdN4b23NayhuZlC_KGWyo5f-oyMRU166MV8bJWB7IbUWw=s900-c-k-c0x00ffffff-no-rj",CI LOADING [HD][2]
 https://stmv1.srvif.com/loadingtv/loadingtv/chunklist_w561413353.m3u8
+#EXTINF:-1 tvg-id="BR - Loading" tvg-name="LOADING [FHD]" tvg-logo="https://yt3.googleusercontent.com/vdDFfJe5eqSexdZEBBf9NvOCkwGhPUdN4b23NayhuZlC_KGWyo5f-oyMRU166MV8bJWB7IbUWw=s900-c-k-c0x00ffffff-no-rj" group-title="Canais | Variedades",CI LOADING [FHD]
+http://pfsv.io:80/pu1411/HP5729/58245.m3u8
+#EXTINF:-1 tvg-id="BR - Loading" tvg-name="LOADING [HD]" tvg-logo="https://yt3.googleusercontent.com/vdDFfJe5eqSexdZEBBf9NvOCkwGhPUdN4b23NayhuZlC_KGWyo5f-oyMRU166MV8bJWB7IbUWw=s900-c-k-c0x00ffffff-no-rj" group-title="Canais | Variedades",CI LOADING [HD]
+http://pfsv.io:80/pu1411/HP5729/58247.m3u8
+#EXTINF:-1 tvg-id="BR - Loading" tvg-name="LOADING [SD]" tvg-logo="https://yt3.googleusercontent.com/vdDFfJe5eqSexdZEBBf9NvOCkwGhPUdN4b23NayhuZlC_KGWyo5f-oyMRU166MV8bJWB7IbUWw=s900-c-k-c0x00ffffff-no-rj" group-title="Canais | Variedades",CI LOADING [SD]
+http://pfsv.io:80/pu1411/HP5729/58246.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Infantil" tvg-logo="https://static.guiadetv.com/channel/wz4ilnyWZTom5hYdKtZCpkYVNrLEidLy1YaOVBfD.png",CI Nick Jr.
-https://abc.embedmax.site/nickjr/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="BR - Nick Jr." tvg-name="NICK JR [FHD]" tvg-logo="https://static.guiadetv.com/channel/wz4ilnyWZTom5hYdKtZCpkYVNrLEidLy1YaOVBfD.png" group-title="Canais | Infantis",CI NICK JR [FHD]
+http://pfsv.io:80/pu1411/HP5729/130.m3u8
+#EXTINF:-1 tvg-id="BR - Nick Jr." tvg-name="NICK JR [FHD][H265]" tvg-logo="https://static.guiadetv.com/channel/wz4ilnyWZTom5hYdKtZCpkYVNrLEidLy1YaOVBfD.png" group-title="Canais | Infantis",CI NICK JR [FHD][H265]
+http://pfsv.io:80/pu1411/HP5729/30263.m3u8
+#EXTINF:-1 tvg-id="BR - Nick Jr." tvg-name="NICK JR [HD]" tvg-logo="https://static.guiadetv.com/channel/wz4ilnyWZTom5hYdKtZCpkYVNrLEidLy1YaOVBfD.png" group-title="Canais | Infantis",CI NICK JR [HD]
+http://pfsv.io:80/pu1411/HP5729/144.m3u8
+#EXTINF:-1 tvg-id="BR - Nick Jr." tvg-name="NICK JR [SD]" tvg-logo="https://static.guiadetv.com/channel/wz4ilnyWZTom5hYdKtZCpkYVNrLEidLy1YaOVBfD.png" group-title="Canais | Infantis",CI NICK JR [SD]
+http://pfsv.io:80/pu1411/HP5729/158.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Infantil" tvg-logo="https://static.guiadetv.com/channel/sYrYlWk30Ye1GGS8Kg4umWmOvJBbpbnsA3svGIS9.png",CI Nickelodeon
-https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/284/284-3-main.m3u8
+#EXTINF:-1 tvg-id="São Paulo/SP  Canal do Boi" tvg-name="NICKELODEON [FHD]" tvg-logo="https://static.guiadetv.com/channel/sYrYlWk30Ye1GGS8Kg4umWmOvJBbpbnsA3svGIS9.png" group-title="Canais | Infantis",CI NICKELODEON [FHD]
+http://pfsv.io:80/pu1411/HP5729/131.m3u8
+#EXTINF:-1 tvg-id="BR - Nickelodeon" tvg-name="NICKELODEON [FHD][H265]" tvg-logo="https://static.guiadetv.com/channel/sYrYlWk30Ye1GGS8Kg4umWmOvJBbpbnsA3svGIS9.png" group-title="Canais | Infantis",CI NICKELODEON [FHD][H265]
+http://pfsv.io:80/pu1411/HP5729/30264.m3u8
+#EXTINF:-1 tvg-id="São Paulo/SP  Canal do Boi" tvg-name="NICKELODEON [HD]" tvg-logo="https://static.guiadetv.com/channel/sYrYlWk30Ye1GGS8Kg4umWmOvJBbpbnsA3svGIS9.png" group-title="Canais | Infantis",CI NICKELODEON [HD]
+http://pfsv.io:80/pu1411/HP5729/145.m3u8
+#EXTINF:-1 tvg-id="São Paulo/SP  Canal do Boi" tvg-name="NICKELODEON [SD]" tvg-logo="https://static.guiadetv.com/channel/sYrYlWk30Ye1GGS8Kg4umWmOvJBbpbnsA3svGIS9.png" group-title="Canais | Infantis",CI NICKELODEON [SD]
+http://pfsv.io:80/pu1411/HP5729/159.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Infantil" tvg-logo="https://static.guiadetv.com/channel/CphBlM0nsTb0DZIeOV3DO24bnBWqHAALdtZARIDZ.png",CI DisneyChannel
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/351
+#EXTINF:-1 tvg-id="BR - Disney" tvg-name="DISNEY CHANNEL [FHD]" tvg-logo="https://static.guiadetv.com/channel/CphBlM0nsTb0DZIeOV3DO24bnBWqHAALdtZARIDZ.png" group-title="Canais | Infantis",CI DISNEY CHANNEL [FHD]
+http://pfsv.io:80/pu1411/HP5729/135.m3u8
+#EXTINF:-1 tvg-id="BR - Disney" tvg-name="DISNEY CHANNEL [FHD][H265]" tvg-logo="https://static.guiadetv.com/channel/CphBlM0nsTb0DZIeOV3DO24bnBWqHAALdtZARIDZ.png" group-title="Canais | Infantis",CI DISNEY CHANNEL [FHD][H265]
+http://pfsv.io:80/pu1411/HP5729/30270.m3u8
+#EXTINF:-1 tvg-id="BR - Disney" tvg-name="DISNEY CHANNEL [HD]" tvg-logo="https://static.guiadetv.com/channel/CphBlM0nsTb0DZIeOV3DO24bnBWqHAALdtZARIDZ.png" group-title="Canais | Infantis",CI DISNEY CHANNEL [HD]
+http://pfsv.io:80/pu1411/HP5729/141.m3u8
+#EXTINF:-1 tvg-id="BR - Disney" tvg-name="DISNEY CHANNEL [SD]" tvg-logo="https://static.guiadetv.com/channel/CphBlM0nsTb0DZIeOV3DO24bnBWqHAALdtZARIDZ.png" group-title="Canais | Infantis",CI DISNEY CHANNEL [SD]
+http://pfsv.io:80/pu1411/HP5729/153.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Infantil" tvg-logo="https://static.guiadetv.com/channel/x7mB9zIiX2qT0SWwDFrcy8pMKZqfuiwXxUMD44Q6.png",CI Cartoon Network 
-https://abc.embedmax.site/cartoonnetwork/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="BR - Cartoon Network" tvg-name="CARTOON NETWORK [FHD]" tvg-logo="https://static.guiadetv.com/channel/x7mB9zIiX2qT0SWwDFrcy8pMKZqfuiwXxUMD44Q6.png" group-title="Canais | Infantis",CI CARTOON NETWORK [FHD]
+http://pfsv.io:80/pu1411/HP5729/126.m3u8
+#EXTINF:-1 tvg-id="BR - Cartoon Network" tvg-name="CARTOON NETWORK [FHD][H265]" tvg-logo="https://static.guiadetv.com/channel/x7mB9zIiX2qT0SWwDFrcy8pMKZqfuiwXxUMD44Q6.png" group-title="Canais | Infantis",CI CARTOON NETWORK [FHD][H265]
+http://pfsv.io:80/pu1411/HP5729/30268.m3u8
+#EXTINF:-1 tvg-id="BR - Cartoon Network" tvg-name="CARTOON NETWORK [HD]" tvg-logo="https://static.guiadetv.com/channel/x7mB9zIiX2qT0SWwDFrcy8pMKZqfuiwXxUMD44Q6.png" group-title="Canais | Infantis",CI CARTOON NETWORK [HD]
+http://pfsv.io:80/pu1411/HP5729/139.m3u8
+#EXTINF:-1 tvg-id="BR - Cartoon Network" tvg-name="CARTOON NETWORK [SD]" tvg-logo="https://static.guiadetv.com/channel/x7mB9zIiX2qT0SWwDFrcy8pMKZqfuiwXxUMD44Q6.png" group-title="Canais | Infantis",CI CARTOON NETWORK [SD]
+http://pfsv.io:80/pu1411/HP5729/151.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Infantil" tvg-logo="https://static.guiadetv.com/channel/UajrKyt9c6WkSqBkeWBpaojsrp1qV8wwgeuXslDd.png",CI TV Rá Tim Bum
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/557
+#EXTINF:-1 tvg-id="BR - TV Rá Tim Bum! HD" tvg-name="TV RA-TIM-BUM [FHD]" tvg-logo="https://static.guiadetv.com/channel/UajrKyt9c6WkSqBkeWBpaojsrp1qV8wwgeuXslDd.png" group-title="Canais | Infantis",TV RA-TIM-BUM [FHD]
+http://pfsv.io:80/pu1411/HP5729/132.m3u8
+#EXTINF:-1 tvg-id="BR - TV Rá Tim Bum! HD" tvg-name="TV RA-TIM-BUM [HD]" tvg-logo="https://static.guiadetv.com/channel/UajrKyt9c6WkSqBkeWBpaojsrp1qV8wwgeuXslDd.png" group-title="Canais | Infantis",TV RA-TIM-BUM [HD]
+http://pfsv.io:80/pu1411/HP5729/148.m3u8
+#EXTINF:-1 tvg-id="BR - TV Rá Tim Bum! HD" tvg-name="TV RA-TIM-BUM [SD]" tvg-logo="https://static.guiadetv.com/channel/UajrKyt9c6WkSqBkeWBpaojsrp1qV8wwgeuXslDd.png" group-title="Canais | Infantis",TV RA-TIM-BUM [SD]
+http://pfsv.io:80/pu1411/HP5729/161.m3u8
+#EXTINF:-1 tvg-id="BR - TV Rá Tim Bum! HD" tvg-name="TV-RA-TIM-BUM [H265]" tvg-logo="https://static.guiadetv.com/channel/UajrKyt9c6WkSqBkeWBpaojsrp1qV8wwgeuXslDd.png" group-title="Canais | Infantis",TV-RA-TIM-BUM [H265]
+http://pfsv.io:80/pu1411/HP5729/30265.m3u8
 
 ############################################################################ Canais | INFANTIL
 
