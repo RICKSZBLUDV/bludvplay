@@ -782,9 +782,6 @@ http://pfsv.io:80/pu1411/HP5729/302.m3u8
 #EXTINF:-1 tvg-id="BR - Sony" tvg-name="SONY CHANNEL [SD]" tvg-logo="https://static.guiadetv.com/channel/hbjLKSEvxwlS6gRrFMaC76OHR8OXyiWke9LjAxtl.png" group-title="Canais | Filmes e Séries",CFS SONY CHANNEL [SD]
 http://pfsv.io:80/pu1411/HP5729/327.m3u8
 
-#EXTINF:-1 tvg-id="SONYMOVIES" tvg-name="" group-title="FilmesSeries" tvg-logo="https://static.guiadetv.com/channel/KafWZ1jqNM1V1dDq4e3jOfxubV8AD8ODHcp8HzzY.png",CFS SONY Movies
-https://cdn-3.nxplay.com.br/SONY_MOVIES/index.m3u8
-
 #EXTINF:-1 tvg-id="BR - FX" tvg-name="FX [FHD]" tvg-logo="https://static.guiadetv.com/channel/aiy1h3dQHskfT3cEVQp2Ikx1Mfw8OD6SHlPGhyQV.png" group-title="Canais | Filmes e Séries",CFS FX [FHD]
 http://pfsv.io:80/pu1411/HP5729/279.m3u8
 #EXTINF:-1 tvg-id="BR - FX" tvg-name="FX [FHD][H265]" tvg-logo="https://static.guiadetv.com/channel/aiy1h3dQHskfT3cEVQp2Ikx1Mfw8OD6SHlPGhyQV.png" group-title="Canais | Filmes e Séries",CFS FX [FHD][H265]
