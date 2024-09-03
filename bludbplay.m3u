@@ -269,19 +269,6 @@ http://pfsv.io:80/pu1411/HP5729/130240.m3u8
 #EXTINF:-1 tvg-id="BR - Premiere Clubes" tvg-name="PREMIERE CLUBES [FHD][HDR]" tvg-logo="https://static.guiadetv.com/channel/MEO9lxSgmC5CAwsKhTHPzZCZX9ZFE7lRFqA48ElS.png" group-title="Canais | Premiere",CE PREMIERE CLUBES [FHD][HDR]
 http://pfsv.io:80/pu1411/HP5729/130233.m3u8
 
-#EXTINF:-1 tvg-id="PREMIEREFC" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/MEO9lxSgmC5CAwsKhTHPzZCZX9ZFE7lRFqA48ElS.png",CE Premiere FC
-https://new.embedflix.co/p2p/prfc1/chunks.m3u8
-#EXTINF:-1 tvg-id="PREMIERE2" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/ZaLxlvm4ijaSAtTwfhJTrvYjmiaFi8SciyiHwh9l.png",CE Premiere 2
-https://new.embedflix.co/p2p/premier2/chunks.m3u8
-#EXTINF:-1 tvg-id="PREMIERE3" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/FDXXZa0cRf9ZkXwruyrL8YJCwiJW8k2wEwMmiEeI.png",CE Premiere 3
-https://new.embedflix.co/p2p/premier3/chunks.m3u8
-#EXTINF:-1 tvg-id="PREMIERE4" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/76M6sIBSXfOQ1gs8huZq9blVihxjUYBk38SH5G1S.png",CE Premiere 4
-https://new.embedflix.co/p2p/premier4/chunks.m3u8
-#EXTINF:-1 tvg-id="PREMIERE5" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/RR5YcaXv67v9AKcLHXOyY9YuRBmNOPgC028PU8vV.png",CE Premiere 5
-https://new.embedflix.co/p2p/premier5/chunks.m3u8
-#EXTINF:-1 tvg-id="PREMIERE6" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/mHFMJM5sGQnKorD0HnFXLO2JcUlHvEObjSZiHknP.png",CE Premiere 6
-https://new.embedflix.co/p2p/premier6/chunks.m3u8
-
 #EXTINF:-1 tvg-id="ESPN.2.br" tvg-name="ESPN 2 [FHD]" tvg-logo="https://static.guiadetv.com/channel/55279R9yfRKnzN4XUeuZ9hdd0WM61fD8rKAPD4oI.png" group-title="Canais | Esportes",CE ESPN 2 [FHD]
 http://pfsv.io:80/pu1411/HP5729/251.m3u8
 #EXTINF:-1 tvg-id="ESPN.2.br" tvg-name="ESPN 2 [FHD][H265]" tvg-logo="https://static.guiadetv.com/channel/55279R9yfRKnzN4XUeuZ9hdd0WM61fD8rKAPD4oI.png" group-title="Canais | Esportes",CE ESPN 2 [FHD][H265]
@@ -323,12 +310,8 @@ http://pfsv.io:80/pu1411/HP5729/259.m3u8
 #EXTINF:-1 tvg-id="BR - ESPN Brasil" tvg-name="ESPN [SD]" tvg-logo="https://static.guiadetv.com/channel/TjGpU2fe85zIbjNbJU92iR7Uup7BnpXtKVvuAALV.png" group-title="Canais | Esportes",CE ESPN [SD]
 http://pfsv.io:80/pu1411/HP5729/269.m3u8
 
-#EXTINF:-1 tvg-id="ESPN3" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/uuZJDw4RNEtG2KZLe7kNNTyxX6jKpNPJDg3yYYis.png",CE ESPN 3
-https://cdn-4.nxplay.com.br/ESPN_3/tracks-v1a1/mono.m3u8
 EXTINF:-1 tvg-id="ESPN3" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/uuZJDw4RNEtG2KZLe7kNNTyxX6jKpNPJDg3yYYis.png",CE ESPN 3
 http://pfsv.io:80/pu1411/HP5729/130178.m3u8
-#EXTINF:-1 tvg-id="ESPN4" group-title="MultiSports" tvg-logo="https://static.guiadetv.com/channel/NbCozvwgOONEXubbDHqcoBPkbBTrFcg5gA1aMA3o.png",CE ESPN 4
-https://new.embedflix.co/p2p/spn4/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.guiadetv.com/channel/a0k3Ik9vT9eMBoIc5ufsHvbHAdqilE3qmk3rOuvS.png" group-title="Canais | ESPN",CE ESPN 5 [FHD]
 http://cdnexpress.homelinux.net/live/27.m3u8
