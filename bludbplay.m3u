@@ -21,11 +21,6 @@
  🔰  CANAIS ABERTOS 🔰
  
 
-#EXTINF:-1 tvg-id="TVDifusoraSaoLuis.br" tvg-logo="https://stream.amsolution.net.br/videos/userPhoto/Live/user_6_bg_0.jpg?1671998268" group-title="CANAL ABERTO",CA TV Difusora [SD][SBT][SAO LUIS]
-https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="TVDifusoraSaoLuis.br" tvg-logo="https://stream.amsolution.net.br/videos/userPhoto/Live/user_6_bg_0.jpg?1671998268" group-title="CANAL ABERTO",CA TV Difusora [SD][SBT][SAO LUIS][2]
-https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8
-
 #EXTINF:-1 tvg-id="MIRSLHD" tvg-name="GLOBO TV MIRANTE SAO LUIS [FHD]" tvg-logo="http://p6.vc/ASF" group-title="Canais | Globo",CA TV Mirante [FHD][GLOBO][SAO LUIS]
 http://pfsv.io:80/pu1411/HP5729/368.m3u8
 #EXTINF:-1 tvg-id="MIRSLHD" tvg-name="GLOBO TV MIRANTE SAO LUIS [HD]" tvg-logo="http://p6.vc/ATJ" group-title="Canais | Globo",CA TV Mirante [HD][GLOBO][SAO LUIS]
@@ -79,7 +74,7 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8
 http://pfsv.io:80/pu1411/HP5729/72.m3u8
 
 #EXTINF:-1 tvg-name="CULTURA" tvg-id="CULTURA" group-title="Brazil" tvg-logo="https://static.guiadetv.com/channel/O3ZfDTZag7EgZHmklnGStrYyxc4WlgE3NvDmGuxW.gif",CA TV CULTURA [HD]
-https://video02.logicahost.com.br/tvguara23/tvguara23/chunklist_w1014630644.m3u8
+https://cdn-3.nxplay.com.br/TV_CULTURA/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="CANCAOH" tvg-name="CANCAO NOVA HD" tvg-logo="https://i.scdn.co/image/ab6761610000e5eb2e7db1910d91aa54f828910f" group-title="RELIGIOSO",CA CANCAO NOVA [HD]
 http://pfsv.io:80/pu1411/HP5729/33379.m3u8
